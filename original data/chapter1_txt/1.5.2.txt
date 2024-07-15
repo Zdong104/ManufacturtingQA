@@ -1,0 +1,69 @@
+MANUFACTURING COST MODELS
+In this section, the cycle time analysis is used to estimate the costs of production, 
+which include not only the cost of time but also material and overhead. The cost of 
+time consists of labor and equipment costs, which are applied to the average produc-
+tion time per piece as cost rates (e.g., $/hr). Thus, our cost model for production cost 
+per piece can be stated as follows:
+ Cpc /H11005 Cm /H11001 (CL /H11001 Ceq)Tp /H11001 Ct (1.6)
+where Cpc /H11005 cost per piece, $/pc; Cm /H11005 starting material cost, $/pc; CL /H11005 labor cost 
+rate, $/min; Ceq /H11005 equipment cost rate, $/min; Ct /H11005 cost of tooling that is used in the 
+unit operation, $/pc; and Tp /H11005 average production time per piece, min/pc. If appli-
+cable, the cost of tooling Ct must be determined by dividing the actual cost of the 
+tooling by the number of pieces between tool changes.
+C01.indd   23C01.indd   23 10/07/12   9:11 AM10/07/12   9:11 AM 24 Chapter 1/Introduction and Overview of Manufacturing
+Overhead Costs  The two cost rates, CL and Ceq, include overhead costs, which 
+consist of all of the expenses of operating the company other than material, labor, 
+and equipment. Overhead costs can be divided into two categories: (1) factory over-
+head and (2) corporate overhead. Factory overhead consists of the costs of running 
+the factory excluding materials, direct labor, and equipment. This overhead category 
+includes plant supervision, maintenance, insurance, heat and light, and so forth. A 
+worker who operates a piece of equipment may earn an hourly wage of $15/hr, but 
+when fringe beneﬁ  ts and other overhead costs are ﬁ  gured in, the worker may cost 
+the company $30/hr. Corporate overhead consists of company expenses not related 
+to the factory, such as sales, marketing, accounting, legal, engineering, research and 
+development, ofﬁ  ce space, utilities, and health beneﬁ  ts.3 These functions are required 
+in the company, but they are not directly related to the cost of manufacturing. On the 
+other hand, for pricing the product, they must be added in, or else the company will 
+lose money on every product it sells. 
+J Black [1] offers some estimates of the typical costs associated with manufac-
+turing a product, presented in Figure 1.12. Several observations are worth making 
+here. First, total manufacturing costs constitute only 40% of the product’s selling 
+price. Corporate overhead expenses (Engineering, Research and development, 
+Administration, sales, marketing, etc.) add up to almost as much as manufacturing 
+cost. Second, parts and materials are 50% of total manufacturing cost, so that is 
+about 20% of selling price. Third, direct labor is only about 12% of manufacturing 
+cost, so that is less than 5% of selling price. Factory overhead, which includes the 
+categories Plant and machinery, depreciation, energy at 26% and Indirect labor at 
+12%, adds up to more than three times Direct labor cost.
+The issue of overhead costs can become quite complicated. A more complete 
+treatment can be found in [7] and most introductory accounting textbooks. Our 
+approach in this book is simply to include an appropriate overhead expense in our 
+labor and equipment cost rates. For example, the labor cost rate is 
+ CL /H11005   RH ___ 60   (1 /H11001 RLOH) (1.7)
+where CL /H11005 labor cost rate, $/min; RH /H11005 worker’s hourly wage rate, $/hr; and RLOH /H11005 
+labor overhead rate, %. 
+FIGURE 1.12 
+Typical break-
+down of costs for 
+a manufactured 
+product [1].Manufacturing cost Engineering ProfitAdministration,
+sales, marketing,
+etc.Research and
+development
+40% 15% 5% 25% 15%
+Direct
+laborIndirect
+labor Parts and materialsPlant and
+machinery,
+depreciation,
+energy, etc.
+12% 26% 12% 50%
+3Health beneﬁ  ts, if available from the company, are fringe beneﬁ  ts that apply to all regular employees, 
+and so they would be included in the direct labor overhead in the factory as well as the corporate ofﬁ  ces.
+C01.indd   24C01.indd   24 10/07/12   9:11 AM10/07/12   9:11 AM Section 1.5/Manufacturing Economics 25
+A production machine is purchased for an initial cost plus installation of 
+$500,000. Its anticipated life /H11005 7 years. The machine is planned for a two-shift 
+operation, eight hours per shift, and ﬁ  ve days per week. Assume 50 weeks per 
+year. The applicable overhead rate on this type of equipment /H11005 35%. Deter-
+mine the equipment cost rate.
+Solution: The number of hours of operation per year H /H11005 50(2)(5)(8) /H11005

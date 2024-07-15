@@ -1,0 +1,175 @@
+years ago, forge welding  and adhesive bond-
+ing had been developed. Widespread use of screws, 
+bolts, and nuts as fasteners—so common in today’s 
+assembly—required the development of machine 
+tools that could accurately cut the required helical 
+shapes (e.g., Maudsley’s screw cutting lathe, 1800). It 
+was not until around 1900 that fusion  welding  proc-
+esses started to be developed as assembly techniques 
+(Historical Note 28.1).
+Natural rubber was the ﬁ  rst polymer to be used in 
+manufacturing (if we exclude wood, which is a polymer 
+composite). The vulcanization  process, discovered by 
+Charles Goodyear in 1839, made rubber a useful engi-
+neering material (Historical Note 8.2). Subsequent de-
+velopments included plastics such as cellulose nitrate 
+in 1870, Bakelite in 1900, polyvinylchloride in 1927 , pol-
+yethylene in 1932, and nylon in the late 1930s (Histori-
+cal Note 8.1). Processing requirements for plastics led 
+to the development of injection molding  (based on 
+die casting, one of the metal casting processes) and 
+other polymer shaping techniques.
+Electronics products have imposed unusual de-
+mands on manufacturing in terms of miniaturization. 
+The evolution of the technology has been to package 
+more and more devices into a smaller area—in some 
+cases millions of transistors onto a ﬂ  at piece of semi-
+conductor material that is only 12 mm (0.50 in) on a 
+side. The history of electronics processing and pack-
+aging dates from around 1960 (Historical Notes 33.1, 
+34.1, and 34.2).
+C01.indd   13C01.indd   13 10/07/12   9:11 AM10/07/12   9:11 AM 14 Chapter 1/Introduction and Overview of Manufacturing
+Three categories of processing operations are distinguished: (1) shaping opera-
+tions, (2) property-enhancing operations, and (3) surface processing operations. 
+Shaping operations  alter the geometry of the starting work material by vari-
+ous methods. Common shaping processes include casting, forging, and machining. 
+Property-enhancing operations  add value to the material by improving its physical 
+properties without changing its shape. Heat treatment is the most common example. 
+Surface processing operations  are performed to clean, treat, coat, or deposit mate-
+rial onto the exterior surface of the work. Common examples of coating are plating 
+and painting. Shaping processes are covered in Parts III through VI, corresponding 
+to the four main categories of shaping processes in Figure 1.5. Property-enhancing 
+processes and surface processing operations are covered in Part VII.
+Shaping Processes  M o s t  s h a p e  p r o c e s s i n g  o p e r a t i o n s  a p p l y  h e a t ,  m e c h a n i c a l  
+force or a combination of these to effect a change in geometry of the work material. 
+There are various ways to classify the shaping processes. The classiﬁ  cation used in this 
+book is based on the state of the starting material, by which there are four categories: 
+(1) solidiﬁ  cation processes , in which the starting material is a heated liquid  or semif-
+luid that cools and solidiﬁ  es to form the part geometry; (2) particulate processing , in 
+which the starting material is a powder , and the powders are formed and heated into 
+the desired geometry; (3) deformation processes , in which the starting material is a 
+ductile solid  (commonly metal) that is deformed to shape the part; and (4) material 
+removal processes , in which the starting material is a solid  (ductile or brittle), from 
+which material is removed so that the resulting part has the desired geometry.
+In the ﬁ  rst category, the starting material is heated sufﬁ  ciently to transform it into 
+a liquid or highly plastic (semiﬂ  uid) state. Nearly all materials can be processed in 
+this way. Metals, ceramic glasses, and plastics can all be heated to sufﬁ  ciently high 
+temperatures to convert them into liquids. With the material in a liquid or semiﬂ  uid 
+form, it can be poured or otherwise forced to ﬂ  ow into a mold cavity and allowed to 
+solidify, thus taking a solid shape that is the same as the cavity. Most processes that 
+operate this way are called casting or molding. Casting  is the name used for metals, 
+and molding  is the common term used for plastics. This category of shaping process 
+is depicted in Figure 1.6. Figure 11.1 shows a cast iron casting, and a collection of 
+plastic molded parts is displayed in Figure 13.20.
+In particulate processing , the starting materials are powders of metals or 
+ceramics. Although these two materials are quite different, the processes to shape 
+them in particulate processing are quite similar. The common technique in powder 
+FIGURE 1.6 Casting 
+and molding processes 
+start with a work mate-
+rial heated to a ﬂ  uid 
+or semiﬂ  uid state. The 
+process consists of 
+(1) pouring the ﬂ  uid 
+into a mold cavity and 
+(2)  allowing the ﬂ  uid to 
+solidify, after which the 
+solid part is  removed 
+from the mold.
+C01.indd   14C01.indd   14 10/07/12   9:11 AM10/07/12   9:11 AM Section 1.3/Manufacturing Processes 15
+metallurgy involves pressing and sintering, illustrated in Figure 1.7, in which the 
+powders are ﬁ  rst squeezed into a die cavity under high pressure and then heated 
+to bond the individual particles together. Examples of parts produced by powder  
+metallurgy are shown in Figure 15.1.
+In the deformation processes , the starting work part is shaped by the application 
+of forces that exceed the yield strength of the material. For the material to be formed 
+in this way, it must be sufﬁ  ciently ductile to avoid fracture during deformation. To 
+increase ductility (and for other reasons), the work material is often heated before 
+forming to a temperature below the melting point. Deformation processes are asso-
+ciated most closely with metalworking and include operations such as forging  and 
+extrusion , shown in Figure 1.8. Figure 18.19 shows a forging operation performed by 
+a drop hammer. 
+Also included within the deformation processes category is sheet metalworking , 
+which involves bending, forming, and shearing operations performed on starting 
+blanks and strips of sheet metal. Several sheet metal parts, called stampings because 
+they are made on a stamping press, are illustrated in Figure 19.35.
+Material removal processes  are operations that remove excess material from the 
+starting workpiece so that the resulting shape is the desired geometry. The most 
+important processes in this category are machining  operations such as turning , FIGURE 1.7 
+Particulate processing: 
+(1) the starting material 
+is powder; the usual 
+process consists of 
+(2) pressing and 
+(3) sintering.
+FIGURE 1.8 Some 
+common deformation 
+processes: (a) forging , 
+in which two halves 
+of a die squeeze the 
+work part, causing it to 
+assume the shape of 
+the die cavity; and 
+(b) extrusion , in which 
+a billet is forced to ﬂ  ow 
+through a die oriﬁ  ce, 
+thus taking the cross-
+sectional shape of the 
+oriﬁ  ce.
+C01.indd   15C01.indd   15 10/07/12   9:11 AM10/07/12   9:11 AM 16 Chapter 1/Introduction and Overview of Manufacturing
+ drilling , and milling , shown in Figure 1.9. These cutting operations are most com-
+monly applied to solid metals, performed using cutting tools that are harder and 
+stronger than the work metal. The front cover of this book shows a turning operation. 
+Grinding  is another common material removal process. Other processes in this 
+category are known as nontraditional processes  because they use lasers, electron 
+beams, chemical erosion, electric discharges, and electrochemical energy to remove 
+material rather than cutting or grinding tools.
+It is desirable to minimize waste and scrap in converting a starting work part into 
+its subsequent geometry. Certain shaping processes are more efﬁ  cient than others in 
+terms of material conservation. Material removal processes (e.g., machining) tend to 
+be wasteful of material, simply by the way they work. The material removed from the 
+starting shape is waste, at least in terms of the unit operation. Other processes, such 
+as certain casting and molding operations, often convert close to 100% of the start-
+ing material into ﬁ  nal product. Manufacturing processes that transform nearly all of 
+the starting material into product and require no subsequent machining to achieve 
+ﬁ nal part geometry are called net shape processes . Other processes require mini-
+mum machining to produce the ﬁ  nal shape and are called near net shape processes .
+Property-Enhancing Processes  The second major type of part processing 
+is performed to improve mechanical or physical properties of the work material. 
+These processes do not alter the shape of the part, except unintentionally in some 
+cases.  The most important property-enhancing processes involve heat treatments , 
+which include various annealing and strengthening processes for metals and glasses. 
+ Sintering  of powdered metals is also a heat treatment that strengthens a pressed 
+powder metal work part. Its counterpart in ceramics is called ﬁ  ring .
+Surface Processing  S u r f a c e  p r o c e s s i n g  o p e r a t i o n s  i n c l u d e  ( 1 )  c l e a n i n g ,  ( 2 )  s u r -
+face treatments, and (3) coating and thin ﬁ  lm deposition processes . Cleaning  includes 
+both chemical and mechanical processes to remove dirt, oil, and other contaminants 
+from the surface. Surface treatments  include mechanical working such as shot peen-
+ing and sand blasting, and physical processes such as diffusion and ion implanta-
+tion. Coating  and thin ﬁ  lm deposition  processes apply a coating of material to the 
+exterior surface of the work part. Common coating processes include electroplating , Single point
+cutting toolFeed toolRotation
+(work)WorkpieceStarting
+diameter ChipDiameter
+after turning
+(a) (b) (c)Drill bit
+Work part
+Work
+HoleFeed
+FeedRotation
+Rotation
+Material
+removedMilling
+cutter
+FIGURE 1.9 Common machining operations: (a) turning , in which a single-point cutting tool removes metal from 
+a rotating workpiece to reduce its diameter; (b) drilling , in which a rotating drill bit is fed into the work to create a 
+round hole; and (c) milling , in which a work part is fed past a rotating cutter with multiple edges.
+C01.indd   16C01.indd   16 10/07/12   9:11 AM10/07/12   9:11 AM Section 1.3/Manufacturing Processes 17
+anodizing  of aluminum, organic coating  (call it painting ), and porcelain enameling. 
+Thin ﬁ  lm deposition processes include physical vapor deposition  a n d  chemical 
+vapor deposition  to form extremely thin coatings of various substances.
+Several surface-processing operations have been adapted to fabricate semi-
+conductor materials into integrated circuits for microelectronics. These processes 
+include chemical vapor deposition, physical vapor deposition, and oxidation. They 
+are applied to very localized areas on the surface of a thin wafer of silicon (or other 
+semiconductor material) to create the microscopic circuit.

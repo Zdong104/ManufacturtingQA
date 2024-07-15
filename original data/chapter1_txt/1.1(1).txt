@@ -1,0 +1,174 @@
+What Is Manufacturing?
+The word manufacture  is derived from two Latin words, manus  (hand) and factus
+(make); the combination means made by hand. The English word manufacture is 
+several centuries old, and “made by hand” accurately described the manual methods 
+used when the word was ﬁ  rst coined.1 Most modern manufacturing is accomplished 
+by automated and computer-controlled machinery (Historical Note 1.1).1.1
+Athletic shoes
+Automatic teller machine
+Automatic dishwasher
+Ballpoint pen
+Camcorder
+Cell phone
+Compact disc (CD)
+Compact disc player
+Compact ﬂ  uorescent light bulb
+Contact lenses
+Digital camera
+Digital video disc (DVD)
+Digital video disc playerE-book reader
+Fax machine
+Hand-held electronic calculator
+High density PC diskette
+Home security system
+Hybrid gas-electric automobile
+Industrial robot
+Ink-jet color printer
+LCD and Plasma TVs
+Magnetic resonance imaging (MRI) 
+machine for medical diagnosis
+Medicines
+Microwave ovenOne-piece molded plastic patio chair
+Optical scanner
+Personal computer (PC)
+Photocopying machine
+Pull-tab beverage cans
+Quartz crystal wrist watch
+Self-propelled mulching lawnmower
+Smart phone
+Supersonic aircraft
+Tablet computer
+Tennis racket of composite materials
+Video games
+Washing machine and dryerTABLE  • 1.1 Products representing various technologies, most of which affect nearly all of us.
+Historical Note 1.1 History of manufacturing
+The history of manufacturing can be separated into 
+two subjects: (1) the discovery and invention of mate-
+rials and processes to make things, and (2) the devel-
+opment of the systems of production. The materials 
+and processes to make things predate the systems 
+by several millennia. Some of the processes—casting, 
+hammering (forging), and grinding—date back 6000 
+years or more. The early fabrication of implements and 
+weapons was accomplished more as crafts and trades 
+than manufacturing as it is known today. The ancient 
+Romans had what might be called factories to produce weapons, scrolls, pottery and glassware, and other 
+products of the time, but the procedures were largely 
+based on handicraft.
+The systems aspects of manufacturing are examined 
+here, and the materials and processes are discussed in 
+Historical Note 1 .2. Systems of manufacturing  refer 
+to the ways of organizing people and equipment so 
+that production can be performed more efﬁ  ciently. 
+Several historical events and discoveries stand out 
+as having had a major impact on the development of 
+modern manufacturing systems.
+1As a noun, the word manufacture  ﬁ rst appeared in English around 1567 A.D. As a verb, it ﬁ  rst appeared 
+around 1683 A.D.
+C01.indd   2C01.indd   2 10/07/12   9:11 AM10/07/12   9:11 AM Section 1.1/What Is Manufacturing? 3
+Certainly one signiﬁ  cant discovery was the principle 
+of division of labor —dividing the total work into tasks 
+and having individual workers each become a special-
+ist at performing only one task. This principle had been 
+practiced for centuries, but the economist Adam Smith 
+(1723–1790) is credited with ﬁ  rst explaining its eco-
+nomic signiﬁ  cance in The Wealth of Nations .
+The Industrial Revolution  (circa 1760–1830) had 
+a major impact on production in several ways. It 
+marked the change from an economy based on agri-
+culture and handicraft to one based on industry and 
+manufacturing. The change began in England, where 
+a series of machines were invented and steam power 
+replaced water, wind, and animal power. These ad-
+vances gave British industry signiﬁ  cant advantages 
+over other nations, and England attempted to restrict 
+export of the new technologies. H owever, the revo-
+lution eventually spread to other European countries 
+and the United States. Several inventions of the Indus-
+trial Revolution greatly contributed to the development 
+of manufacturing: (1) Watt’s steam engine —a new 
+power-generating technology for industry; (2) machine 
+tools , starting with John Wilkinson’s boring machine 
+around 1775 (Historical Note 21 .1); (3) the spinning 
+jenny,  power loom , and other machinery for the tex-
+tile industry that permitted signiﬁ  cant increases in 
+productivity; and (4) the factory system —a new way 
+of organizing large numbers of production workers 
+based on division of labor.
+While England was leading the industrial revolu-
+tion, an important concept was being introduced in the 
+United States: interchangeable parts  manufacture. 
+Much credit for this concept is given to Eli Whitney 
+(1765–1825), although its importance had been rec-
+ognized by others [10]. In 1797 , Whitney negotiated 
+a contract to produce 10,000 muskets for the U.S. 
+government. The traditional way of making guns at 
+the time was to custom-fabricate each part for a par-
+ticular gun and then hand-ﬁ  t the parts together by ﬁ  l-
+ing. Each musket was unique, and the time to make 
+it was considerable. Whitney believed that the com-
+ponents could be made accurately enough to permit 
+parts assembly without ﬁ  tting. After several years of 
+development in his Connecticut factory, he traveled to 
+Washington in 1801 to demonstrate the principle. 
+He laid out components for 10 muskets before gov-
+ernment ofﬁ  cials, including Thomas Jefferson, and 
+proceeded to select parts randomly to assemble 
+the guns. No special ﬁ  ling or ﬁ  tting was required, 
+and all of the guns worked perfectly. The secret be-
+hind his achievement was the collection of special 
+machines, ﬁ  xtures, and gages that he had developed 
+in his factory. Interchangeable parts manufacture required many years of development before becom-
+ing a practical reality, but it revolutionized methods of 
+manufacturing. It is a prerequisite for mass produc-
+tion. Because its origins were in the United States, 
+interchangeable parts production came to be known 
+as the American System  of manufacture.
+The mid- and late 1800s witnessed the expan-
+sion of railroads, steam-powered ships, and other 
+machines that created a growing need for iron and 
+steel. New steel production methods were devel-
+oped to meet this demand (Historical Note 6.1). Also 
+during this period, several consumer products were 
+developed, including the sewing machine, bicycle, 
+and automobile. To meet the mass demand for these 
+products, more efﬁ  cient production methods were 
+required. Some historians identify developments dur-
+ing this period as the Second Industrial Revolution , 
+characterized in terms of its effects on manufacturing 
+systems by (1) mass production, (2) scientiﬁ  c manage-
+ment movement, (3) assembly lines, and (4) electriﬁ  -
+cation of factories.
+In the late 1800s, the scientiﬁ  c management  
+movement was developing in the United States in 
+response to the need to plan and control the activi-
+ties of growing numbers of production workers. The 
+movement’s leaders included Frederick W. Taylor 
+(1856–1915), Frank Gilbreth (1868–1924), and his wife 
+Lillian (1878–1972). Scientiﬁ  c management included 
+several features [3]: (1) motion study , aimed at ﬁ  nd-
+ing the best method to perform a given task; (2) time 
+study , to establish work standards for a job; (3) exten-
+sive use of standards  in industry; (4) the piece rate 
+system  and similar labor incentive plans; and (5) use 
+of data collection, record keeping, and cost account-
+ing in factory operations.
+Henry Ford (1863–1947) introduced the assembly 
+line in 1913 at his Highland Park, Michigan plant. The 
+assembly line made possible the mass production of 
+complex consumer products. Use of assembly line 
+methods permitted Ford to sell a Model T automobile 
+for as little as $500, thus making ownership of cars 
+feasible for a large segment of the U.S. population.
+In 1881, the ﬁ  rst electric power generating station 
+had been built in Ne w York City , and soon electric mo-
+tors were being used as a power source to operate fac-
+tory machinery. This was a far more convenient power 
+delivery system than steam engines, which required 
+overhead belts to distribute power to the machines. By 
+1920, electricity had overtaken steam as the principal 
+power source in U.S. factories. The twentieth century 
+was a time of more technological advances than in all 
+other centuries combined. Many of these develop-
+ments resulted in the automation  of manufacturing.
+C01.indd   3C01.indd   3 10/07/12   9:11 AM10/07/12   9:11 AM 4 Chapter 1/Introduction and Overview of Manufacturing

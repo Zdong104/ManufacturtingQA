@@ -1,0 +1,9 @@
+Production Systems
+To operate effectively, a manufacturing ﬁ  rm must have systems that allow it to ef-
+ﬁ ciently accomplish its type of production. Production systems consist of people, 
+equipment, and procedures designed for the combination of materials and processes 
+that constitute a ﬁ  rm’s manufacturing operations. Production systems can be divided 
+into two categories: (1) production facilities and (2) manufacturing support systems, 
+as shown in Figure 1.10.2 Production facilities  refer to the physical equipment and 
+the arrangement of equipment in the factory. Manufacturing support  systems  are 1.4
+TABLE • 1.3 Production equipment and tooling used for various  manufacturing processes.Process EquipmentSpecial tooling (function)CastingaMold (cavity for molten metal)Molding Molding machineMold (cavity for hot polymer)Rolling Rolling millRoll (reduce work thickness)Forging Forge hammer or press Die (squeeze work to shape)Extrusion PressExtrusion die (reduce cross-section)Stamping PressDie (shearing, forming sheet metal)Machining Machine toolCutting tool (material removal)Fixture (hold work part)Jig (hold part and guide tool)Grinding Grinding machineGrinding wheel (material removal)Welding Welding machineElectrode (fusion of work metal)Fixture (hold parts during welding)aVarious types of casting setups and equipment (Chapter 11).

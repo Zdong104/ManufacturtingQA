@@ -1,0 +1,17 @@
+ASSEMBLY OPERATIONS
+The second basic type of manufacturing operation is assembly , in which two or more 
+separate parts are joined to form a new entity. Components of the new entity are 
+connected either permanently or semipermanently. Permanent joining processes 
+include welding , brazing , soldering , and adhesive bonding . They form a joint be-
+tween components that cannot be easily disconnected. Certain mechanical assem-
+bly methods are available to fasten two (or more) parts together in a joint that can 
+be conveniently disassembled. The use of screws, bolts, and other threaded fasten-
+ers are important traditional methods in this category. Other mechanical assembly 
+techniques form a more permanent connection; these include rivets , press ﬁ  tting , 
+and expansion ﬁ  ts. Special joining and fastening methods are used in the assembly 
+of electronic products. Some of the methods are identical to or are adaptations of 
+the preceding processes, for example, soldering. Electronics assembly is concerned 
+primarily with the assembly of components such as integrated circuit packages to 
+printed circuit boards to produce the complex circuits used in so many of today’s 
+products. Joining and assembly processes are discussed in Part VIII, and the special-
+ized assembly techniques for electronics are described in Chapter 34.

@@ -1,0 +1,47 @@
+METALS
+Metals used in manufacturing are usually alloys , which are composed of two or 
+more elements, with at least one being a metallic element. Metals and alloys can be 
+divided into two basic groups: (1) ferrous, and (2) nonferrous.1.2
+Ferrous Metals 
+Metals
+Nonferrous
+Metals
+Crystalline
+Ceramics 
+Ceramics
+Glasses 
+Engineering
+Materials
+Thermoplastics
+Polymers Thermosets
+Elastomers
+Metal Matrix
+Composites 
+CompositesCeramic Matrix
+Composites
+Polymer Matrix
+CompositesFIGURE 1.4 
+Classiﬁ  cation of the 
+four engineering 
+materials.
+C01.indd   9C01.indd   9 10/07/12   9:11 AM10/07/12   9:11 AM 10 Chapter 1/Introduction and Overview of Manufacturing
+Ferrous Metals  Ferrous metals are based on iron; the group includes steel and cast 
+iron. These metals constitute the most important group commercially,  more than 
+three-fourths of the metal tonnage throughout the world. Pure iron has limited com-
+mercial use, but when alloyed with carbon, iron has more uses and greater commer-
+cial value than any other metal. Alloys of iron and carbon form steel and cast iron.
+Steel  can be deﬁ  ned as an iron–carbon alloy containing 0.02% to 2.11% carbon. It 
+is the most important category within the ferrous metal group. Its composition often 
+includes other alloying elements as well, such as manganese, chromium, nickel, and 
+molybdenum, to enhance the properties of the metal. Applications of steel include 
+construction (bridges, I-beams, and nails), transportation (trucks, rails, and rolling 
+stock for railroads), and consumer products (automobiles and appliances).
+Cast iron  is an alloy of iron and carbon (2% to 4%) used in casting (primarily 
+sand casting). Silicon is also present in the alloy (in amounts from 0.5% to 3%), and 
+other elements are often added also, to obtain desirable properties in the cast part. 
+Cast iron is available in several different forms, of which gray cast iron is the most 
+common; its applications include blocks and heads for internal combustion engines.
+Nonferrous Metals  Nonferrous metals include the other metallic elements and 
+their alloys. In almost all cases, the alloys are more important commercially than the 
+pure metals . The nonferrous metals include the pure metals and alloys of aluminum, 
+copper, gold, magnesium, nickel, silver, tin, titanium, zinc, and other metals.

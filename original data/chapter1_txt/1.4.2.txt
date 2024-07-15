@@ -1,0 +1,23 @@
+MANUFACTURING SUPPORT SYSTEMS
+To operate its facilities efﬁ  ciently, a company must organize itself to design the proc-
+esses and equipment, plan and control the production orders, and satisfy product 
+quality requirements. These functions are accomplished by manufacturing sup-
+port systems—people and procedures by which a company manages its production 
+C01.indd   21C01.indd   21 10/07/12   9:11 AM10/07/12   9:11 AM 22 Chapter 1/Introduction and Overview of Manufacturing
+ operations. Most of these support systems do not directly contact the product, but 
+they plan and control its progress through the factory. Manufacturing support func-
+tions are often carried out in the ﬁ  rm by people organized into departments such as 
+the following:
+ /uni27A2Manufacturing engineering. The manufacturing engineering department is re-
+sponsible for planning the manufacturing processes—deciding what processes 
+should be used to make the parts and assemble the products. This department is 
+also involved in designing and ordering the machine tools and other equipment 
+used by the operating departments to accomplish processing and assembly.
+ /uni27A2Production planning and control. This department is responsible for solv-
+ing the logistics problem in manufacturing—ordering materials and purchased 
+parts, scheduling production, and making sure that the operating departments 
+have the necessary capacity to meet the production schedules.
+ /uni27A2Quality control. Producing high-quality products should be a top priority of any 
+manufacturing ﬁ  rm in today’s competitive environment. It means designing and 
+building products that conform to speciﬁ  cations and satisfy or exceed customer 
+expectations. Much of this effort is the responsibility of the QC department.

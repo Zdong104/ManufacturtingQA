@@ -1,0 +1,19 @@
+COMPOSITES
+Composites do not really constitute a separate category of materials; they are mix-
+tures of the other three types. A composite  is a material consisting of two or more 
+phases that are processed separately and then bonded together to achieve proper-
+ties superior to those of its constituents. The term phase  refers to a homogeneous 
+mass of material, such as an aggregation of grains of identical unit cell structure in a 
+solid metal. The usual structure of a composite consists of particles or ﬁ  bers of one 
+phase mixed in a second phase, called the matrix .
+Composites are found in nature (e.g., wood), and they can be produced synthetically. 
+The synthesized type is of greater interest here, and it includes glass ﬁ  bers in a polymer 
+matrix, such as ﬁ  ber-reinforced plastic; polymer ﬁ  bers of one type in a matrix of a sec-
+ond polymer, such as an epoxy-Kevlar composite; and ceramic in a metal matrix, such 
+as a tungsten carbide in a cobalt binder to form a cemented carbide cutting tool.
+Properties of a composite depend on its components, the physical shapes of the 
+components, and the way they are combined to form the ﬁ  nal material. Some com-
+posites combine high strength with light weight and are suited to applications such 
+as aircraft components, car bodies, boat hulls, tennis rackets, and ﬁ  shing rods. Other 
+composites are strong, hard, and capable of maintaining these properties at elevated 
+temperatures, for example, cemented carbide cutting tools.

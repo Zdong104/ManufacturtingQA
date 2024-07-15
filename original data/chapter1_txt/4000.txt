@@ -1,0 +1,68 @@
+hr/yr. Using Equation (1.8), we have
+Ceq /H11005   500,000 ___________  60(7)(4000)  (1 /H11001 0.35) /H11005 $0.402/min /H11549 $24.11/hrExample 1.1 
+Equipment 
+cost rateEquipment Cost Rate  The cost of production equipment used in the factory is a 
+ﬁ  xed cost , meaning that it remains constant for any level of production output. It is 
+a capital investment that is made in the hope that it will pay for itself by producing 
+a revenue stream that ultimately exceeds its cost.  The company puts up the money 
+to purchase the equipment as an initial cost, and then the equipment pays back over 
+a certain number of years until it is replaced or disposed of. This is different from 
+direct labor and material costs, which are variable costs , meaning they are paid for 
+as they are used. Direct labor cost is a cost per time ($/min), and Material cost is a 
+cost per piece ($/pc). 
+In order to determine an equipment cost rate, the initial cost plus installation cost 
+of the equipment must be amortized over the number of minutes it is used during its 
+lifetime. The equipment cost rate is deﬁ  ned by the following:
+ Ceq /H11005   IC ______ 60NH   (1 /H11001 ROH) (1.8)
+where Ceq /H11005 equipment cost rate, $/min; IC /H11005 initial cost of the equipment, $; N /H11005 
+anticipated number of years of service; H /H11005 annual number of hours of operation, 
+hr/yr; and ROH /H11005 applicable overhead rate for the equipment, %. 
+The production machine in Example 1.1 is used to produce a batch of parts 
+that each has a starting material cost /H11005 $2.35. Batch quantity /H11005 100. The actual 
+processing time in the operation /H11005 3.72 min. Time to load and unload each 
+workpiece /H11005 1.60 min. Tool cost /H11005 $4.40, and each tool can be used for 20 
+pieces before it is changed, which takes 2.0 min. Before production can begin, 
+the machine must be set up, which takes 2.5 hr. Hourly wage rate of the opera-
+tor /H11005 $16.50/hr, and the applicable labor overhead rate /H11005 40%. Determine (a) 
+the cycle time for the piece, (b) average production rate when setup time is 
+ﬁ  gured in, and (c) cost per piece.
+Solution: (a) For Equation (1.1), processing time To /H11005 3.72 min, part handling 
+time Th /H11005 1.50 min, and tool handling time Tt /H11005 2.00 min/20 /H11005 0.10 min.
+Tc /H11005 3.72 /H11001 1.60 /H11001 0.10 /H11005 5.42 min/pcExample 1.2 
+Cycle time and 
+cost per piece
+C01.indd   25C01.indd   25 10/07/12   9:11 AM10/07/12   9:11 AM 26 Chapter 1/Introduction and Overview of Manufacturing
+Equipment reliability and scrap rate of parts are sometimes issues in produc-
+tion. Equipment reliability is represented by the term availability  (denoted by the 
+symbol A), which is simply the proportion uptime of the equipment. For example, if 
+A /H11005 97%, then for every 100 hours of machine operation, we would expect on aver-
+age that the machine would be running for 97 hours and be down for maintenance 
+and repairs for 3 hours. Scrap rate refers to the proportion of parts produced that 
+are defective. Let q denote the scrap rate. In batch production, more than the speci-
+ﬁ ed batch quantity are often produced to compensate for the losses due to scrap. 
+Let Q /H11005 the required quantity of parts to be delivered and Qo /H11005 the starting quan-
+tity. The following equation can be used to determine how many starting parts are 
+needed on average to satisfy an order for Q ﬁ nished parts:
+Qo /H11005   Q _____ 1 /H11002 q   (1.9)
+(b) The average production time per piece including the effect of setup time is
+Tp /H11005   2.5(60) _______  100   /H11001 5.42 /H11005 6.92 min/pc
+Hourly production rate is the reciprocal of Tp, correcting for time units:
+Rp /H11005   60 ____ 6.92   /H11005 8.67 pc/hr
+(c) The equipment cost rate from Example 1.1 is Ceq /H11005 $0.402/min ($24.11/hr). 
+The labor rate is calculated as follows:
+CL /H11005   16.50 _____ 60   (1 /H11001 0.40) /H11005 $0.385/min ($23.10/hr)
+Cost of tooling Ct /H11005 4.40/20 /H11005 $0.22/pc
+Finally, cost per piece is calculated as
+Cpc /H11005 2.35 /H11001 (0.385 /H11001 0.402)(6.92) /H11001 0.22 /H11005 $8.02/pc
+A customer has ordered a batch of 1,000 parts to be produced by a machine 
+shop. Historical data indicates that the scrap rate on this type of part /H11005 4%. 
+How many parts should the machine shop plan to make in order to account 
+for this scrap rate?
+Solution : Given Q /H11005 1,000 parts and q /H11005 4% /H11005 0.04, then the starting quan-
+tity is determined as follows:
+Qo /H11005   1000 ________ 1 /H11002 0.04   /H11005   1000 _____ 0.96   /H11005 1041.7 rounded to 1042 starting partsExample 1.3 
+Scrap rate
+Of course, in modern manufacturing practice, every effort is made to minimize scrap 
+rate, with the goal being zero defects. Availability and scrap rate also ﬁ  gure into cal-
+culations of production rate and part cost, as demonstrated in Example 1.4.
+C01.indd   26C01.indd   26 10/07/12   9:11 AM10/07/12   9:11 AM Section 1.6/Recent Developments in Manufacturing 27

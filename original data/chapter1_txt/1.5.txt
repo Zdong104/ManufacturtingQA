@@ -1,0 +1,7 @@
+Manufacturing Economics
+In Section 1.1.1, manufacturing was deﬁ  ned as a transformation process that adds 
+value to a starting work material. In Section 1.1.2, we noted that manufacturing is 
+a commercial activity performed by companies that sell products to customers. It is 
+appropriate to consider some of the economic aspects of manufacturing, and that is 
+the purpose of this section. Our coverage consists of (1) production cycle time analy-
+sis and (2) manufacturing cost models.

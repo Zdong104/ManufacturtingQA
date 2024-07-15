@@ -1,0 +1,77 @@
+Manufacturing Processes
+A manufacturing process  is a designed procedure that results in physical and/or 
+chemical changes to a starting work material with the intention of increasing the 
+value of that material. A manufacturing process is usually carried out as a unit oper-
+ation , which means that it is a single step in the sequence of steps required to trans-
+form the starting material into a ﬁ  nal product. Manufacturing operations can be 
+divided into two basic types: (1) processing operations and (2) assembly operations. 
+A processing operation  transforms a work material from one state of completion 
+to a more advanced state that is closer to the ﬁ  nal desired product. It adds value by 
+changing the geometry, properties, or appearance of the starting material. In general, 
+processing operations are performed on discrete work parts, but certain processing 
+operations are also applicable to assembled items (e.g., painting a spot-welded car 
+body). An assembly operation  joins two or more components to create a new entity, 
+called an assembly, subassembly, or some other term that refers to the joining proc-
+ess (e.g., a welded assembly is called a weldment ). A classiﬁ  cation of manufacturing 
+processes is presented in Figure 1.5. Some of the basic processes used in modern 
+manufacturing date from antiquity (Historical Note 1.2).1.3
+C01.indd   11C01.indd   11 10/07/12   9:11 AM10/07/12   9:11 AM 12 Chapter 1/Introduction and Overview of Manufacturing
+Permanent
+fastening methodsThreaded
+fastenersBrazing and
+solderingCoating and
+deposition processesCleaning and
+surface treatmentsHeat
+treatmentMaterial
+removalDeformation
+processesShaping
+processes
+Property
+enhancing processesProcessing
+operations
+Assembly
+operationsManufacturing
+processesSurface processing
+operations
+Permanent
+joining processes
+Mechanical
+fasteningParticulate
+processingSolidification
+processes
+Welding
+Adhesive
+bonding
+FIGURE 1.5 
+Classiﬁ  cation of 
+manufacturing 
+processes.
+Historical Note 1.2 Manufacturing materials and processes
+Although most of the historical developments that form 
+the modern practice of manufacturing have occurred 
+only during the last few centuries (Historical Note 1 .1), 
+several of the basic fabrication processes date as far 
+back as the Neolithic period (circa 8000–3000 B.C.E.). It 
+was during this period that processes such as the fol-
+lowing were developed: carving and other woodwork-
+ing, hand forming and ﬁ ring  of clay pottery, grinding  
+and polishing  of stone, spinning  and weaving  of tex-
+tiles, and dyeing  of cloth.
+Metallurgy and metalworking also began during 
+the Neolithic period, in Mesopotamia and other areas 
+around the Mediterranean. It either spread to, or de-
+veloped independently in, regions of Europe and Asia. Gold was found by early humans in relatively pure form 
+in nature; it could be hammered  into shape. Copper 
+was probably the ﬁ  rst metal to be extracted from ores, 
+thus requiring smelting  as a processing technique. 
+Copper could not be hammered readily because it 
+strain hardened; instead, it was shaped by casting  
+(Historical Note 10.1). Other metals used during this 
+period were silver and tin. It was discovered that cop-
+per alloyed with tin produced a more workable metal 
+than copper alone (casting and hammering could both 
+be used). This heralded the important period known as 
+the Bronze Age  (circa 3500–1500 B.C.).
+Iron was also ﬁ  rst smelted during the Bronze Age. 
+Meteorites may have been one source of the metal, 
+C01.indd   12C01.indd   12 10/07/12   9:11 AM10/07/12   9:11 AM Section 1.3/Manufacturing Processes 13

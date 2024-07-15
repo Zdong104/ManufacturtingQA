@@ -1,0 +1,9 @@
+Materials in Manufacturing
+Most engineering materials can be classiﬁ  ed into one of three basic categories: 
+(1) metals, (2) ceramics, and (3) polymers. Their chemistries are different, their 
+mechanical and physical properties are different, and these differences affect the 
+manufacturing processes that can be used to produce products from them. In addi-
+tion to the three basic categories, there are (4) composites —nonhomogeneous mix-
+tures of the other three basic types rather than a unique category. The classiﬁ  cation 
+of the four groups is pictured in Figure 1.4. This section provides a survey of these 
+materials. Chapters 6 through 9 cover the four material types in more detail.

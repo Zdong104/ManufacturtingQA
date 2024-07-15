@@ -1,0 +1,116 @@
+PRODUCTION FACILITIES
+Production facilities consist of the factory and the production, material handling, 
+and other equipment in the factory. The equipment comes in direct physical contact 
+with the parts and/or assemblies as they are being made. The facilities “touch” the 
+product. Facilities also include the way the equipment is arranged in the factory—
+the plant layout . The equipment is usually organized into logical groupings. In this 
+book they are called manufacturing systems , such as an automated production line, 
+or a machine cell consisting of an industrial robot and two machine tools.
+A manufacturing company attempts to design its manufacturing systems and 
+organize its factories to serve the particular mission of each plant in the most efﬁ  -
+cient way. Over the years, certain types of production facilities have come to be 
+recognized as the most appropriate way to organize for a given combination of prod-
+uct variety and production quantity, as discussed in Section 1.1.2. Different types of 
+facilities are required for each of the three ranges of annual production quantities.
+Low-Quantity Production  In the low-quantity range (1–100 units/year), the term 
+job shop  is often used to describe the type of production facility. A job shop makes 
+low quantities of specialized and customized products.  The products are typically 
+complex, such as space capsules, prototype aircraft, and special machinery. The 
+equipment in a job shop is general purpose, and the labor force is highly skilled.
+A job shop must be designed for maximum ﬂ  exibility to deal with the wide prod-
+uct variations encountered (hard product variety). If the product is large and heavy, 
+and therefore difﬁ  cult to move, it typically remains in a single location during its fab-
+rication or assembly. Workers and processing equipment are brought to the product, 
+rather than moving the product to the equipment. This type of layout is referred to 
+as a ﬁ  xed-position layout , shown in Figure 1.11(a). In a pure situation, the product Manufacturing processes and assembly operationsFacilitiesManufacturing
+support
+Quality control
+systems
+Manufacturing
+systemsManufacturing
+support systemsProduction system
+Finished
+productsEngineering
+materialsFIGURE 1.10 Model of 
+the production system 
+and overview of major 
+topics in the book.
+C01.indd   19C01.indd   19 10/07/12   9:11 AM10/07/12   9:11 AM 20 Chapter 1/Introduction and Overview of Manufacturing
+remains in a single location during its entire production. Examples of such products 
+include ships, aircraft, locomotives, and heavy machinery. In actual practice, these 
+items are usually built in large modules at single locations, and then the completed 
+modules are brought together for ﬁ  nal assembly using large-capacity cranes.
+The individual components of these large products are often made in factories in 
+which the equipment is arranged according to function or type. This arrangement 
+is called a process layout . The lathes are in one department, the milling machines 
+are in another department, and so on, as in Figure 1.11(b). Different parts, each 
+requiring a different operation sequence, are routed through the departments in the 
+particular order needed for their processing, usually in batches. The process layout 
+is noted for its ﬂ  exibility; it can accommodate a great variety of operation sequences 
+for different part conﬁ  gurations. Its disadvantage is that the machinery and methods 
+to produce a part are not designed for high efﬁ  ciency.
+Medium Quantity Production  In the medium-quantity range (100–10,000 units 
+annually), two different types of facility are distinguished, depending on product 
+variety. When product variety is hard, the usual approach is batch production , in 
+which a batch of one product is made, after which the manufacturing equipment 
+is changed over to produce a batch of the next product, and so on. The production 
+rate of the equipment is greater than the demand rate for any single product type, 
+and so the same equipment can be shared among multiple products. The changeover 
+between production runs takes time—time to change tooling and set up the machin-
+ery. This setup time is lost production time, and this is a disadvantage of batch manu-
+facturing. Batch production is commonly used for make-to-stock situations, in which Departments
+Product
+Equipment
+(mobile)Work unitProduction
+machines
+(a)
+(c)(b)
+(d)Workers
+Worker
+Cell CellWorkstation Equipment Conveyor
+Workersv
+FIGURE 1.11 Various types of plant layout: (a) ﬁ  xed-position layout, (b) process layout, (c) cellular layout, and 
+(d) product layout.
+C01.indd   20C01.indd   20 10/07/12   9:11 AM10/07/12   9:11 AM Section 1.4/Production Systems 21
+items are manufactured to replenish inventory that has been gradually depleted by 
+demand. The equipment is usually arranged in a process layout, as in Figure 1.11(b).
+An alternative approach to medium-range production is possible if product vari-
+ety is soft. In this case, extensive changeovers between one product style and the 
+next may not be necessary. It is often possible to conﬁ  gure the manufacturing sys-
+tem so that groups of similar products can be made on the same equipment without 
+signiﬁ  cant lost time because of setup. The processing or assembly of different parts 
+or products is accomplished in cells consisting of several workstations or machines. 
+The term cellular manufacturing  is often associated with this type of production. 
+Each cell is designed to produce a limited variety of part conﬁ  gurations; that is, the 
+cell specializes in the production of a given set of similar parts, according to the 
+principles of group technology  (Section 39.5). The layout is called a cellular layout , 
+depicted in Figure 1.11(c).
+High Production  T h e  h i g h - q u a n t i t y  r a n g e  ( 1 0 , 0 0 0  t o  m i l l i o n s  o f  u n i t s  p e r  y e a r )  i s  
+referred to as mass production . The situation is characterized by a high demand rate 
+for the product, and the manufacturing system is dedicated to the production of that 
+single item.  Two categories of mass production can be distinguished: quantity produc-
+tion and ﬂ  ow line production. Quantity production  involves the mass production of 
+single parts on single pieces of equipment. It typically involves standard machines 
+(e.g., stamping presses) equipped with special tooling (e.g., dies and material handling 
+devices), in effect dedicating the equipment to the production of one part type. Typi-
+cal layouts used in quantity production are the process layout and cellular layout.
+Flow line production  involves multiple pieces of equipment or workstations 
+arranged in sequence, and the work units are physically moved through the sequence 
+to complete the product. The workstations and equipment are designed speciﬁ  cally 
+for the product to maximize efﬁ  ciency. The layout is called a product layout , and the 
+workstations are arranged into one long line, as in Figure 1.11(d), or into a series of 
+connected line segments. The work is usually moved between stations by mecha-
+nized conveyor. At each station, a small amount of the total work is completed on 
+each unit of product.
+The most familiar example of ﬂ  ow line production is the assembly line, associ-
+ated with products such as cars and household appliances. The pure case of ﬂ  ow line 
+production occurs when there is no variation in the products made on the line. Every 
+product is identical, and the line is referred to as a single model production line . To 
+successfully market a given product, it is often beneﬁ  cial to introduce feature and 
+model variations so that individual customers can choose the exact merchandise that 
+appeals to them. From a production viewpoint, the feature differences represent a 
+case of soft product variety. The term mixed-model production line  applies to these 
+situations in which there is soft variety in the products made on the line. Modern 
+automobile assembly is an example. Cars coming off the assembly line have varia-
+tions in options and trim representing different models and in many cases different 
+nameplates of the same basic car design.

@@ -1,0 +1,54 @@
+The largest contract manufacturer at the time of this writing is Hon Hai Precision Industries (a.k.a. 
+Foxconn, headquartered in Taiwan, but many of its factories are located in China). It ranked 60th in the 
+Fortune Global 500 with sales of $95 billion in 2010 ( Fortune , July 25, 2011).
+C01.indd   30C01.indd   30 10/07/12   9:11 AM10/07/12   9:11 AM Section 1.6/Recent Developments in Manufacturing 31
+reshoring . First, wage rates in China are increasing as the government attempts to 
+evolve from an export-driven economy to a consumer-oriented economy, similar to 
+the United States . Higher Chinese wage rates mean less advantage for U.S. compa-
+nies to offshore jobs to China. Second, logistics costs and delays involved in trans-
+porting products from China to North America are signiﬁ  cant, especially as oil prices 
+increase. Accordingly, some companies, in their analyses of costs and beneﬁ  ts, have 
+decided to produce in the United States, re-opening old factories or building new 
+ones. On the other hand, U.S. companies producing goods for the Chinese market still 
+have good reasons to keep their operations going in that country, just as Japanese and 
+German automobile makers have established plants in the United States.
+Environmentally Conscious Manufacturing  An inherent feature of virtually all 
+manufacturing processes is waste (Section 1.3.1). The most obvious examples are 
+material removal processes,  in which chips are removed from a starting workpiece 
+to create the desired part geometry. Waste in one form or another is a by-product 
+of nearly all production operations. Another unavoidable aspect of manufacturing 
+is that power is required to accomplish any given process. Generating that power 
+requires fossil fuels (at least in the United States and China), the burning of which 
+results in pollution of the environment. At the end of the manufacturing sequence, a 
+product is created that is sold to a customer. Ultimately, the product wears out and 
+is disposed of, perhaps in some landﬁ  ll, with the associated environmental degrada-
+tion. More and more attention is being paid by society to the environmental impact 
+of human activities throughout the world and how modern civilization is using our 
+natural resources at an unsustainable rate. Global warming is presently a major con-
+cern. The manufacturing industries contribute to these problems. 
+Environmentally conscious manufacturing  refers to programs that seek to deter-
+mine the most efﬁ  cient use of materials and natural resources in production and 
+minimize the negative consequences on the environment. Other terms for these pro-
+grams include green manufacturing  and sustainable manufacturing . They all boil 
+down to two basic approaches: (1) design products that minimize their environmen-
+tal impact and (2) design processes that are environmentally friendly. 
+Product design is the logical starting point in environmentally conscious manu-
+facturing. The term design for environment  (DFE) is used for the techniques that 
+attempt to consider environmental impact during product design prior to produc-
+tion. Considerations in DFE include (1) selecting materials that require minimum 
+energy to produce, (2) selecting processes that minimize waste of materials and 
+energy, (3) designing parts that can be recycled or reused, (4) designing products 
+that can be readily disassembled to recover the parts, (5) designing products that 
+minimize the use of hazardous and toxic materials, and (6) giving attention to how 
+the product will be disposed of at the end of its useful life. 
+To a great degree, decisions made during design dictate the materials and processes 
+that are used to make the product. These decisions limit the options available to the 
+manufacturing departments to achieve sustainability. However, various approaches 
+can be applied to make plant operations more environmentally friendly. They include 
+(1) adopting good housekeeping practices—keeping the factory clean, (2) preventing 
+pollutants from escaping into the environment (rivers and atmosphere), (3) minimiz-
+ing waste of materials in unit operations, (4) recycling rather than discarding waste 
+materials, (5) using net shape processes, (6) using renewable energy sources when 
+feasible, (7) maintaining production equipment so that it operates at maximum efﬁ  -
+ciency, and (8) investing in equipment that minimizes power requirements.
+C01.indd   31C01.indd   31 10/07/12   9:11 AM10/07/12   9:11 AM
