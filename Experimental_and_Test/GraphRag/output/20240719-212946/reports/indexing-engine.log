@@ -1,0 +1,432 @@
+21:29:46,475 graphrag.config.read_dotenv INFO Loading pipeline .env file
+21:29:46,479 graphrag.index.cli INFO using default configuration: {
+    "llm": {
+        "api_key": "REDACTED, length 56",
+        "type": "openai_chat",
+        "model": "gpt-4o",
+        "max_tokens": 4000,
+        "request_timeout": 180.0,
+        "api_base": null,
+        "api_version": null,
+        "proxy": null,
+        "cognitive_services_endpoint": null,
+        "deployment_name": null,
+        "model_supports_json": true,
+        "tokens_per_minute": 0,
+        "requests_per_minute": 0,
+        "max_retries": 10,
+        "max_retry_wait": 10.0,
+        "sleep_on_rate_limit_recommendation": true,
+        "concurrent_requests": 25
+    },
+    "parallelization": {
+        "stagger": 0.3,
+        "num_threads": 50
+    },
+    "async_mode": "threaded",
+    "root_dir": ".",
+    "reporting": {
+        "type": "file",
+        "base_dir": "output/${timestamp}/reports",
+        "storage_account_blob_url": null
+    },
+    "storage": {
+        "type": "file",
+        "base_dir": "output/${timestamp}/artifacts",
+        "storage_account_blob_url": null
+    },
+    "cache": {
+        "type": "file",
+        "base_dir": "cache",
+        "storage_account_blob_url": null
+    },
+    "input": {
+        "type": "file",
+        "file_type": "text",
+        "base_dir": "input",
+        "storage_account_blob_url": null,
+        "encoding": "utf-8",
+        "file_pattern": ".*\\.txt$",
+        "file_filter": null,
+        "source_column": null,
+        "timestamp_column": null,
+        "timestamp_format": null,
+        "text_column": "text",
+        "title_column": null,
+        "document_attribute_columns": []
+    },
+    "embed_graph": {
+        "enabled": false,
+        "num_walks": 10,
+        "walk_length": 40,
+        "window_size": 2,
+        "iterations": 3,
+        "random_seed": 597832,
+        "strategy": null
+    },
+    "embeddings": {
+        "llm": {
+            "api_key": "REDACTED, length 56",
+            "type": "openai_embedding",
+            "model": "text-embedding-3-small",
+            "max_tokens": 4000,
+            "request_timeout": 180.0,
+            "api_base": null,
+            "api_version": null,
+            "proxy": null,
+            "cognitive_services_endpoint": null,
+            "deployment_name": null,
+            "model_supports_json": null,
+            "tokens_per_minute": 0,
+            "requests_per_minute": 0,
+            "max_retries": 10,
+            "max_retry_wait": 10.0,
+            "sleep_on_rate_limit_recommendation": true,
+            "concurrent_requests": 25
+        },
+        "parallelization": {
+            "stagger": 0.3,
+            "num_threads": 50
+        },
+        "async_mode": "threaded",
+        "batch_size": 16,
+        "batch_max_tokens": 8191,
+        "target": "required",
+        "skip": [],
+        "vector_store": null,
+        "strategy": null
+    },
+    "chunks": {
+        "size": 300,
+        "overlap": 100,
+        "group_by_columns": [
+            "id"
+        ],
+        "strategy": null
+    },
+    "snapshots": {
+        "graphml": false,
+        "raw_entities": false,
+        "top_level_nodes": false
+    },
+    "entity_extraction": {
+        "llm": {
+            "api_key": "REDACTED, length 56",
+            "type": "openai_chat",
+            "model": "gpt-4o",
+            "max_tokens": 4000,
+            "request_timeout": 180.0,
+            "api_base": null,
+            "api_version": null,
+            "proxy": null,
+            "cognitive_services_endpoint": null,
+            "deployment_name": null,
+            "model_supports_json": true,
+            "tokens_per_minute": 0,
+            "requests_per_minute": 0,
+            "max_retries": 10,
+            "max_retry_wait": 10.0,
+            "sleep_on_rate_limit_recommendation": true,
+            "concurrent_requests": 25
+        },
+        "parallelization": {
+            "stagger": 0.3,
+            "num_threads": 50
+        },
+        "async_mode": "threaded",
+        "prompt": "prompts/entity_extraction.txt",
+        "entity_types": [
+            "organization",
+            "person",
+            "geo",
+            "event"
+        ],
+        "max_gleanings": 0,
+        "strategy": null
+    },
+    "summarize_descriptions": {
+        "llm": {
+            "api_key": "REDACTED, length 56",
+            "type": "openai_chat",
+            "model": "gpt-4o",
+            "max_tokens": 4000,
+            "request_timeout": 180.0,
+            "api_base": null,
+            "api_version": null,
+            "proxy": null,
+            "cognitive_services_endpoint": null,
+            "deployment_name": null,
+            "model_supports_json": true,
+            "tokens_per_minute": 0,
+            "requests_per_minute": 0,
+            "max_retries": 10,
+            "max_retry_wait": 10.0,
+            "sleep_on_rate_limit_recommendation": true,
+            "concurrent_requests": 25
+        },
+        "parallelization": {
+            "stagger": 0.3,
+            "num_threads": 50
+        },
+        "async_mode": "threaded",
+        "prompt": "prompts/summarize_descriptions.txt",
+        "max_length": 500,
+        "strategy": null
+    },
+    "community_reports": {
+        "llm": {
+            "api_key": "REDACTED, length 56",
+            "type": "openai_chat",
+            "model": "gpt-4o",
+            "max_tokens": 4000,
+            "request_timeout": 180.0,
+            "api_base": null,
+            "api_version": null,
+            "proxy": null,
+            "cognitive_services_endpoint": null,
+            "deployment_name": null,
+            "model_supports_json": true,
+            "tokens_per_minute": 0,
+            "requests_per_minute": 0,
+            "max_retries": 10,
+            "max_retry_wait": 10.0,
+            "sleep_on_rate_limit_recommendation": true,
+            "concurrent_requests": 25
+        },
+        "parallelization": {
+            "stagger": 0.3,
+            "num_threads": 50
+        },
+        "async_mode": "threaded",
+        "prompt": null,
+        "max_length": 2000,
+        "max_input_length": 8000,
+        "strategy": null
+    },
+    "claim_extraction": {
+        "llm": {
+            "api_key": "REDACTED, length 56",
+            "type": "openai_chat",
+            "model": "gpt-4o",
+            "max_tokens": 4000,
+            "request_timeout": 180.0,
+            "api_base": null,
+            "api_version": null,
+            "proxy": null,
+            "cognitive_services_endpoint": null,
+            "deployment_name": null,
+            "model_supports_json": true,
+            "tokens_per_minute": 0,
+            "requests_per_minute": 0,
+            "max_retries": 10,
+            "max_retry_wait": 10.0,
+            "sleep_on_rate_limit_recommendation": true,
+            "concurrent_requests": 25
+        },
+        "parallelization": {
+            "stagger": 0.3,
+            "num_threads": 50
+        },
+        "async_mode": "threaded",
+        "enabled": false,
+        "prompt": "prompts/claim_extraction.txt",
+        "description": "Any claims or facts that could be relevant to information discovery.",
+        "max_gleanings": 0,
+        "strategy": null
+    },
+    "cluster_graph": {
+        "max_cluster_size": 10,
+        "strategy": null
+    },
+    "umap": {
+        "enabled": false
+    },
+    "local_search": {
+        "text_unit_prop": 0.5,
+        "community_prop": 0.1,
+        "conversation_history_max_turns": 5,
+        "top_k_entities": 10,
+        "top_k_relationships": 10,
+        "max_tokens": 12000,
+        "llm_max_tokens": 2000
+    },
+    "global_search": {
+        "max_tokens": 12000,
+        "data_max_tokens": 12000,
+        "map_max_tokens": 1000,
+        "reduce_max_tokens": 2000,
+        "concurrency": 32
+    },
+    "encoding_model": "cl100k_base",
+    "skip_workflows": []
+}
+21:29:46,481 graphrag.index.create_pipeline_config INFO skipping workflows 
+21:29:46,497 graphrag.index.run INFO Running pipeline
+21:29:46,497 graphrag.index.storage.file_pipeline_storage INFO Creating file storage at output/20240719-212946/artifacts
+21:29:46,497 graphrag.index.input.load_input INFO loading input from root_dir=input
+21:29:46,497 graphrag.index.input.load_input INFO using file storage for input
+21:29:46,499 graphrag.index.storage.file_pipeline_storage INFO search input for files matching .*\.txt$
+21:29:46,499 graphrag.index.input.text INFO found text files from input, found [('Sec4.txt', {})]
+21:29:46,503 graphrag.index.workflows.load INFO Workflow Run Order: ['create_base_text_units', 'create_base_extracted_entities', 'create_summarized_entities', 'create_base_entity_graph', 'create_final_entities', 'create_final_nodes', 'create_final_communities', 'join_text_units_to_entity_ids', 'create_final_relationships', 'join_text_units_to_relationship_ids', 'create_final_community_reports', 'create_final_text_units', 'create_base_documents', 'create_final_documents']
+21:29:46,504 graphrag.index.run INFO Final # of rows loaded: 1
+21:29:46,666 graphrag.index.run INFO Running workflow: create_base_text_units...
+21:29:46,666 graphrag.index.run INFO dependencies for create_base_text_units: []
+21:29:46,673 datashaper.workflow.workflow INFO executing verb orderby
+21:29:46,677 datashaper.workflow.workflow INFO executing verb zip
+21:29:46,683 datashaper.workflow.workflow INFO executing verb aggregate_override
+21:29:46,690 datashaper.workflow.workflow INFO executing verb chunk
+21:29:46,901 datashaper.workflow.workflow INFO executing verb select
+21:29:46,907 datashaper.workflow.workflow INFO executing verb unroll
+21:29:46,920 datashaper.workflow.workflow INFO executing verb rename
+21:29:46,926 datashaper.workflow.workflow INFO executing verb genid
+21:29:46,934 datashaper.workflow.workflow INFO executing verb unzip
+21:29:46,944 datashaper.workflow.workflow INFO executing verb copy
+21:29:46,949 datashaper.workflow.workflow INFO executing verb filter
+21:29:46,965 graphrag.index.emit.parquet_table_emitter INFO emitting parquet table create_base_text_units.parquet
+21:29:47,179 graphrag.index.run INFO Running workflow: create_base_extracted_entities...
+21:29:47,179 graphrag.index.run INFO dependencies for create_base_extracted_entities: ['create_base_text_units']
+21:29:47,180 graphrag.index.run INFO read table from storage: create_base_text_units.parquet
+21:29:47,222 datashaper.workflow.workflow INFO executing verb entity_extract
+21:29:47,231 graphrag.llm.openai.create_openai_client INFO Creating OpenAI client base_url=None
+21:29:47,242 graphrag.index.llm.load_llm INFO create TPM/RPM limiter for gpt-4o: TPM=0, RPM=0
+21:29:47,242 graphrag.index.llm.load_llm INFO create concurrency limiter for gpt-4o: 25
+21:29:47,337 datashaper.workflow.workflow INFO executing verb merge_graphs
+21:29:47,355 graphrag.index.emit.parquet_table_emitter INFO emitting parquet table create_base_extracted_entities.parquet
+21:29:47,542 graphrag.index.run INFO Running workflow: create_summarized_entities...
+21:29:47,544 graphrag.index.run INFO dependencies for create_summarized_entities: ['create_base_extracted_entities']
+21:29:47,545 graphrag.index.run INFO read table from storage: create_base_extracted_entities.parquet
+21:29:47,567 datashaper.workflow.workflow INFO executing verb summarize_descriptions
+21:29:47,620 graphrag.index.emit.parquet_table_emitter INFO emitting parquet table create_summarized_entities.parquet
+21:29:47,796 graphrag.index.run INFO Running workflow: create_base_entity_graph...
+21:29:47,796 graphrag.index.run INFO dependencies for create_base_entity_graph: ['create_summarized_entities']
+21:29:47,797 graphrag.index.run INFO read table from storage: create_summarized_entities.parquet
+21:29:47,821 datashaper.workflow.workflow INFO executing verb cluster_graph
+21:29:47,846 datashaper.workflow.workflow INFO executing verb select
+21:29:47,849 graphrag.index.emit.parquet_table_emitter INFO emitting parquet table create_base_entity_graph.parquet
+21:29:48,30 graphrag.index.run INFO Running workflow: create_final_entities...
+21:29:48,30 graphrag.index.run INFO dependencies for create_final_entities: ['create_base_entity_graph']
+21:29:48,31 graphrag.index.run INFO read table from storage: create_base_entity_graph.parquet
+21:29:48,57 datashaper.workflow.workflow INFO executing verb unpack_graph
+21:29:48,71 datashaper.workflow.workflow INFO executing verb rename
+21:29:48,80 datashaper.workflow.workflow INFO executing verb select
+21:29:48,89 datashaper.workflow.workflow INFO executing verb dedupe
+21:29:48,99 datashaper.workflow.workflow INFO executing verb rename
+21:29:48,108 datashaper.workflow.workflow INFO executing verb filter
+21:29:48,129 datashaper.workflow.workflow INFO executing verb text_split
+21:29:48,139 datashaper.workflow.workflow INFO executing verb drop
+21:29:48,147 datashaper.workflow.workflow INFO executing verb merge
+21:29:48,167 datashaper.workflow.workflow INFO executing verb text_embed
+21:29:48,169 graphrag.llm.openai.create_openai_client INFO Creating OpenAI client base_url=None
+21:29:48,177 graphrag.index.llm.load_llm INFO create TPM/RPM limiter for text-embedding-3-small: TPM=0, RPM=0
+21:29:48,177 graphrag.index.llm.load_llm INFO create concurrency limiter for text-embedding-3-small: 25
+21:29:48,182 graphrag.index.verbs.text.embed.strategies.openai INFO embedding 73 inputs via 73 snippets using 5 batches. max_batch_size=16, max_tokens=8191
+21:29:48,662 httpx INFO HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+21:29:48,691 httpx INFO HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+21:29:48,751 httpx INFO HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+21:29:48,768 graphrag.llm.base.rate_limiting_llm INFO perf - llm.embedding "Process" with 0 retries took 0.5770000000484288. input_tokens=305, output_tokens=0
+21:29:48,802 graphrag.llm.base.rate_limiting_llm INFO perf - llm.embedding "Process" with 0 retries took 0.6180000000167638. input_tokens=463, output_tokens=0
+21:29:48,874 graphrag.llm.base.rate_limiting_llm INFO perf - llm.embedding "Process" with 0 retries took 0.6849999999976717. input_tokens=559, output_tokens=0
+21:29:48,914 datashaper.workflow.workflow INFO executing verb drop
+21:29:48,926 datashaper.workflow.workflow INFO executing verb filter
+21:29:48,945 graphrag.index.emit.parquet_table_emitter INFO emitting parquet table create_final_entities.parquet
+21:29:49,170 graphrag.index.run INFO Running workflow: create_final_nodes...
+21:29:49,170 graphrag.index.run INFO dependencies for create_final_nodes: ['create_base_entity_graph']
+21:29:49,171 graphrag.index.run INFO read table from storage: create_base_entity_graph.parquet
+21:29:49,207 datashaper.workflow.workflow INFO executing verb layout_graph
+21:29:49,235 datashaper.workflow.workflow INFO executing verb unpack_graph
+21:29:49,250 datashaper.workflow.workflow INFO executing verb unpack_graph
+21:29:49,268 datashaper.workflow.workflow INFO executing verb drop
+21:29:49,281 datashaper.workflow.workflow INFO executing verb filter
+21:29:49,309 datashaper.workflow.workflow INFO executing verb select
+21:29:49,322 datashaper.workflow.workflow INFO executing verb rename
+21:29:49,335 datashaper.workflow.workflow INFO executing verb convert
+21:29:49,376 datashaper.workflow.workflow INFO executing verb join
+21:29:49,398 datashaper.workflow.workflow INFO executing verb rename
+21:29:49,401 graphrag.index.emit.parquet_table_emitter INFO emitting parquet table create_final_nodes.parquet
+21:29:49,623 graphrag.index.run INFO Running workflow: create_final_communities...
+21:29:49,623 graphrag.index.run INFO dependencies for create_final_communities: ['create_base_entity_graph']
+21:29:49,635 graphrag.index.run INFO read table from storage: create_base_entity_graph.parquet
+21:29:49,679 datashaper.workflow.workflow INFO executing verb unpack_graph
+21:29:49,698 datashaper.workflow.workflow INFO executing verb unpack_graph
+21:29:49,716 datashaper.workflow.workflow INFO executing verb aggregate_override
+21:29:49,735 datashaper.workflow.workflow INFO executing verb join
+21:29:49,756 datashaper.workflow.workflow INFO executing verb join
+21:29:49,777 datashaper.workflow.workflow INFO executing verb concat
+21:29:49,793 datashaper.workflow.workflow INFO executing verb filter
+21:29:49,829 datashaper.workflow.workflow INFO executing verb aggregate_override
+21:29:49,848 datashaper.workflow.workflow INFO executing verb join
+21:29:49,869 datashaper.workflow.workflow INFO executing verb filter
+21:29:49,908 datashaper.workflow.workflow INFO executing verb fill
+21:29:49,926 datashaper.workflow.workflow INFO executing verb merge
+21:29:49,946 datashaper.workflow.workflow INFO executing verb copy
+21:29:49,965 datashaper.workflow.workflow INFO executing verb select
+21:29:49,968 graphrag.index.emit.parquet_table_emitter INFO emitting parquet table create_final_communities.parquet
+21:29:50,184 graphrag.index.run INFO Running workflow: join_text_units_to_entity_ids...
+21:29:50,184 graphrag.index.run INFO dependencies for join_text_units_to_entity_ids: ['create_final_entities']
+21:29:50,185 graphrag.index.run INFO read table from storage: create_final_entities.parquet
+21:29:50,242 datashaper.workflow.workflow INFO executing verb select
+21:29:50,262 datashaper.workflow.workflow INFO executing verb unroll
+21:29:50,283 datashaper.workflow.workflow INFO executing verb aggregate_override
+21:29:50,288 graphrag.index.emit.parquet_table_emitter INFO emitting parquet table join_text_units_to_entity_ids.parquet
+21:29:50,493 graphrag.index.run INFO Running workflow: create_final_relationships...
+21:29:50,494 graphrag.index.run INFO dependencies for create_final_relationships: ['create_base_entity_graph', 'create_final_nodes']
+21:29:50,494 graphrag.index.run INFO read table from storage: create_base_entity_graph.parquet
+21:29:50,502 graphrag.index.run INFO read table from storage: create_final_nodes.parquet
+21:29:50,554 datashaper.workflow.workflow INFO executing verb unpack_graph
+21:29:50,576 datashaper.workflow.workflow INFO executing verb filter
+21:29:50,619 datashaper.workflow.workflow INFO executing verb rename
+21:29:50,637 datashaper.workflow.workflow INFO executing verb filter
+21:29:50,702 datashaper.workflow.workflow INFO executing verb drop
+21:29:50,722 datashaper.workflow.workflow INFO executing verb compute_edge_combined_degree
+21:29:50,746 datashaper.workflow.workflow INFO executing verb convert
+21:29:50,782 datashaper.workflow.workflow INFO executing verb convert
+21:29:50,785 graphrag.index.emit.parquet_table_emitter INFO emitting parquet table create_final_relationships.parquet
+21:29:51,10 graphrag.index.run INFO Running workflow: join_text_units_to_relationship_ids...
+21:29:51,10 graphrag.index.run INFO dependencies for join_text_units_to_relationship_ids: ['create_final_relationships']
+21:29:51,11 graphrag.index.run INFO read table from storage: create_final_relationships.parquet
+21:29:51,71 datashaper.workflow.workflow INFO executing verb select
+21:29:51,93 datashaper.workflow.workflow INFO executing verb unroll
+21:29:51,115 datashaper.workflow.workflow INFO executing verb aggregate_override
+21:29:51,140 datashaper.workflow.workflow INFO executing verb select
+21:29:51,142 graphrag.index.emit.parquet_table_emitter INFO emitting parquet table join_text_units_to_relationship_ids.parquet
+21:29:51,350 graphrag.index.run INFO Running workflow: create_final_community_reports...
+21:29:51,350 graphrag.index.run INFO dependencies for create_final_community_reports: ['create_final_nodes', 'create_final_relationships']
+21:29:51,351 graphrag.index.run INFO read table from storage: create_final_nodes.parquet
+21:29:51,359 graphrag.index.run INFO read table from storage: create_final_relationships.parquet
+21:29:51,415 datashaper.workflow.workflow INFO executing verb prepare_community_reports_nodes
+21:29:51,439 datashaper.workflow.workflow INFO executing verb prepare_community_reports_edges
+21:29:51,463 datashaper.workflow.workflow INFO executing verb restore_community_hierarchy
+21:29:51,488 datashaper.workflow.workflow INFO executing verb prepare_community_reports
+21:29:51,489 graphrag.index.verbs.graph.report.prepare_community_reports INFO Number of nodes at level=0 => 73
+21:29:51,535 datashaper.workflow.workflow INFO executing verb create_community_reports
+21:29:51,569 datashaper.workflow.workflow INFO executing verb window
+21:29:51,572 graphrag.index.emit.parquet_table_emitter INFO emitting parquet table create_final_community_reports.parquet
+21:29:51,793 graphrag.index.run INFO Running workflow: create_final_text_units...
+21:29:51,799 graphrag.index.run INFO dependencies for create_final_text_units: ['create_base_text_units', 'join_text_units_to_relationship_ids', 'join_text_units_to_entity_ids']
+21:29:51,805 graphrag.index.run INFO read table from storage: create_base_text_units.parquet
+21:29:51,828 graphrag.index.run INFO read table from storage: join_text_units_to_relationship_ids.parquet
+21:29:51,832 graphrag.index.run INFO read table from storage: join_text_units_to_entity_ids.parquet
+21:29:51,886 datashaper.workflow.workflow INFO executing verb select
+21:29:51,910 datashaper.workflow.workflow INFO executing verb rename
+21:29:51,935 datashaper.workflow.workflow INFO executing verb join
+21:29:51,962 datashaper.workflow.workflow INFO executing verb join
+21:29:51,990 datashaper.workflow.workflow INFO executing verb aggregate_override
+21:29:52,18 datashaper.workflow.workflow INFO executing verb select
+21:29:52,21 graphrag.index.emit.parquet_table_emitter INFO emitting parquet table create_final_text_units.parquet
+21:29:52,247 graphrag.index.run INFO Running workflow: create_base_documents...
+21:29:52,248 graphrag.index.run INFO dependencies for create_base_documents: ['create_final_text_units']
+21:29:52,248 graphrag.index.run INFO read table from storage: create_final_text_units.parquet
+21:29:52,319 datashaper.workflow.workflow INFO executing verb unroll
+21:29:52,346 datashaper.workflow.workflow INFO executing verb select
+21:29:52,372 datashaper.workflow.workflow INFO executing verb rename
+21:29:52,395 datashaper.workflow.workflow INFO executing verb join
+21:29:52,423 datashaper.workflow.workflow INFO executing verb aggregate_override
+21:29:52,452 datashaper.workflow.workflow INFO executing verb join
+21:29:52,485 datashaper.workflow.workflow INFO executing verb rename
+21:29:52,512 datashaper.workflow.workflow INFO executing verb convert
+21:29:52,544 graphrag.index.emit.parquet_table_emitter INFO emitting parquet table create_base_documents.parquet
+21:29:52,764 graphrag.index.run INFO Running workflow: create_final_documents...
+21:29:52,764 graphrag.index.run INFO dependencies for create_final_documents: ['create_base_documents']
+21:29:52,765 graphrag.index.run INFO read table from storage: create_base_documents.parquet
+21:29:52,838 datashaper.workflow.workflow INFO executing verb rename
+21:29:52,869 graphrag.index.emit.parquet_table_emitter INFO emitting parquet table create_final_documents.parquet

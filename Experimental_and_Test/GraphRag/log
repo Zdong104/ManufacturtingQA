@@ -1,0 +1,178 @@
+
+## Running GraphRag Project
+2024-07-19 21:40:24[?25l⠋ GraphRAG Indexer 
+[2K🚀 [32mReading settings from settings.yaml[0m
+⠋ GraphRAG Indexer 
+[2K⠋ GraphRAG Indexer 
+[2KTraceback (most recent call last):
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K  File "<frozen runpy>", line 198, in _run_module_as_main
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K  File "<frozen runpy>", line 88, in _run_code
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K  File 
+"/home/zihan/miniconda3/lib/python3.11/site-packages/graphrag/index/__main__.py"
+, line 68, in <module>
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K    index_cli(
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K  File 
+"/home/zihan/miniconda3/lib/python3.11/site-packages/graphrag/index/cli.py", 
+line 156, in index_cli
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K    _run_workflow_async()
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K  File 
+"/home/zihan/miniconda3/lib/python3.11/site-packages/graphrag/index/cli.py", 
+line 149, in _run_workflow_async
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K    runner.run(execute())
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K  File "/home/zihan/miniconda3/lib/python3.11/asyncio/runners.py", line 118, in 
+run
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K    return self._loop.run_until_complete(task)
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K  File "uvloop/loop.pyx", line 1517, in uvloop.loop.Loop.run_until_complete
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K  File 
+"/home/zihan/miniconda3/lib/python3.11/site-packages/graphrag/index/cli.py", 
+line 118, in execute
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K    async for output in run_pipeline_with_config(
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K  File 
+"/home/zihan/miniconda3/lib/python3.11/site-packages/graphrag/index/run.py", 
+line 144, in run_pipeline_with_config
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K    dataset = dataset if dataset is not None else await 
+_create_input(config.input)
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K  File 
+"/home/zihan/miniconda3/lib/python3.11/site-packages/graphrag/index/run.py", 
+line 133, in _create_input
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K    return await load_input(config, progress_reporter, root_dir)
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K  File 
+"/home/zihan/miniconda3/lib/python3.11/site-packages/graphrag/index/input/load_i
+nput.py", line 81, in load_input
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K    results = await loader(config, progress, storage)
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K  File 
+"/home/zihan/miniconda3/lib/python3.11/site-packages/graphrag/index/input/text.p
+y", line 55, in load
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K    return pd.DataFrame([await load_file(file, group) for file, group in files])
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K  File 
+"/home/zihan/miniconda3/lib/python3.11/site-packages/graphrag/index/input/text.p
+y", line 55, in <listcomp>
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K    return pd.DataFrame([await load_file(file, group) for file, group in files])
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K  File 
+"/home/zihan/miniconda3/lib/python3.11/site-packages/graphrag/index/input/text.p
+y", line 37, in load_file
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K    text = await storage.get(path, encoding="utf-8")
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K  File 
+"/home/zihan/miniconda3/lib/python3.11/site-packages/graphrag/index/storage/file
+_pipeline_storage.py", line 86, in get
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K    return await self._read_file(file_path, as_bytes, encoding)
+⠋ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+⠙ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K  File 
+"/home/zihan/miniconda3/lib/python3.11/site-packages/graphrag/index/storage/file
+_pipeline_storage.py", line 109, in _read_file
+⠙ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K    return await f.read()
+⠙ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K           ^^^^^^^^^^^^^^
+⠙ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K  File 
+"/home/zihan/miniconda3/lib/python3.11/site-packages/aiofiles/threadpool/utils.p
+y", line 43, in method
+⠙ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K    return await self._loop.run_in_executor(self._executor, cb)
+⠙ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+⠙ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K  File "/home/zihan/miniconda3/lib/python3.11/concurrent/futures/thread.py", 
+line 58, in run
+⠙ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K    result = self.fn(*self.args, **self.kwargs)
+⠙ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+⠙ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2K  File "<frozen codecs>", line 322, in decode
+⠙ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m
+[2K[1A[2KUnicodeDecodeError: 'utf-8' codec can't decode byte 0xd5 in position 1755: 
+invalid continuation byte
+⠙ GraphRAG Indexer 
+└── Loading Input (InputFileType.text) - 1 files loaded (0 filtered) [90m━[0m [35m100%[0m [36m…[0m [33m0…[0m

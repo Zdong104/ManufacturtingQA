@@ -1,0 +1,2974 @@
+Introduction 
+and Overview of 
+Manufacturing 
+ 
+ 
+ 
+ 
+Chapter Contents 
+1.1 What Is Manufacturing? 
+1.1.1 Manufacturing Defined 
+1.1.2 Manufacturing Industries and 
+Products 
+1.1.3 Manufacturing Capability 
+1.2 Materials in Manufacturing 
+1.2.1 Metals 
+1.2.2 Ceramics 
+1.2.3 Polymers 
+1.2.4 Composites 
+1.3 Manufacturing Processes 
+1.3.1 Processing Operations 
+1.3.2 Assembly Operations 
+1.3.3 Production Machines and Tooling 
+1.4 Production Systems 
+1.4.1 Production Facilities 
+1.4.2 Manufacturing Support Systems 
+1.5 Manufacturing Economics 
+1.5.1 Production Cycle Time Analysis 
+1.5.2 Manufacturing Cost Models 
+1.6 Recent Developments in Manufacturing 
+Making things has been an essential activity of human 
+civilizations since before recorded history. Today, the 
+term manufacturing is used for this activity. For techno- 
+logical and economic reasons, manufacturing is impor- 
+tant to the welfare of the United States and most other 
+developed and developing nations. Technology can be 
+defined as the application of science to provide society 
+and its members with those things that are needed or 
+desired. Technology affects our daily lives, directly and 
+indirectly, in many ways. Consider the list of products in 
+Table 1.1. They represent various technologies that help our 
+society and its members to live better. What do all these 
+products have in common? They are all manufac- tured. 
+These technological wonders would not be avail- able to 
+our society if they could not be manufactured. 
+Manufacturing is the critical factor that makes technol- 
+ogy possible. 
+Economically, manufacturing is an important means 
+by which a nation creates material wealth. In the Unit- 
+ed States, the manufacturing industries account for 
+only about 12% of gross domestic product (GDP). A 
+country’s natural resources, such as agricultural lands, 
+mineral deposits, and oil reserves, also create wealth. 
+In the U.S., agriculture, mining, and similar industries 
+account for less than 5% of GDP (agriculture alone is 
+only about 1%). Construction and public utilities make 
+up around 5%. The rest is service industries, which in- 
+clude retail, transportation, banking, communication, 
+education, and government. The service sector ac- 
+counts for more than 75% of U.S. GDP. Government 
+(federal, state, and local) accounts for more of GDP 
+than the manufacturing sector; however, government 
+services do not create wealth. In the modern global 
+economy, a nation must have a strong manufacturing 
+base (or it must have significant natural resources) if it 
+is to provide a strong economy and a high standard of 
+living for its people. 
+1 
+1 
+Section 1.1/What Is Manufacturing? 
+2 
+ 
+ 
+TABLE • 1.1 Products representing various technologies, most of which affect nearly all of us. 
+ 
+Athletic shoes 
+E-book reader 
+One-piece molded plastic patio chair 
+Automatic teller machine 
+Fax machine 
+Optical scanner 
+Automatic dishwasher 
+Hand-held electronic calculator 
+Personal computer (PC) 
+Ballpoint pen 
+High density PC diskette 
+Photocopying machine 
+Camcorder 
+Home security system 
+Pull-tab beverage cans 
+Cell phone 
+Hybrid gas-electric automobile 
+Quartz crystal wrist watch 
+Compact disc (CD) 
+Industrial robot 
+Self-propelled mulching lawnmower 
+Compact disc player 
+Ink-jet color printer 
+Smart phone 
+Compact fluorescent light bulb 
+LCD and Plasma TVs 
+Supersonic aircraft 
+Contact lenses 
+Magnetic resonance imaging (MRI) 
+Tablet computer 
+Digital camera 
+machine for medical diagnosis 
+Tennis racket of composite materials 
+Digital video disc (DVD) 
+Medicines 
+Video games 
+Digital video disc player 
+Microwave oven 
+Washing machine and dryer 
+ 
+ 
+This opening chapter considers some general topics about manufacturing. What is 
+manufacturing? How is it organized in industry? What are the materials, processes, 
+and systems by which it is accomplished? 
+ 
+What Is Manufacturing? 
+The word manufacture is derived from two Latin words, manus (hand) and factus 
+(make); the combination means made by hand. The English word manufacture is 
+several centuries old, and “made by hand” accurately described the manual methods 
+used when the word was first coined.1 Most modern manufacturing is accomplished 
+by automated and computer-controlled machinery (Historical Note 1.1). 
+ 
+ 
+ 
+1As a noun, the word manufacture first appeared in English around 1567 A.D. As a verb, it first appeared 
+around 1683 A.D. 
+. 
+ 
+The history of manufacturing can be separated into  weapons, scrolls, pottery and glassware, and other 
+two subjects: (1) the discovery and invention of mate-  products of the time, but the procedures were largely 
+rials and processes to make things, and (2) the devel-  based on handicraft. 
+opment of the systems of production. The materials   The systems aspects of manufacturing are examined 
+and processes to make things predate the systems  here, and the materials and processes are discussed in 
+by several millennia. Some of the processes—casting, Historical Note 1.2. Systems of manufacturing refer 
+hammering (forging), and grinding—date back 6000 to the ways of organizing people and equipment so years 
+or more. The early fabrication of implements and that production can be performed more efficiently. weapons 
+was accomplished more as crafts and trades
+Several historical events and discoveries stand out than 
+manufacturing as it is known today. The ancient as having had a major impact on the development of Romans 
+had what might be called factories to produce  modern manufacturing systems. 
+Section 1.1/What Is Manufacturing? 
+3 
+ 
+ 
+ 
+Certainly one significant discovery was the principle 
+of division of labor—dividing the total work into tasks 
+and having individual workers each become a special- 
+ist at performing only one task. This principle had been 
+practiced for centuries, but the economist Adam Smith 
+(1723–1790) is credited with first explaining its eco- 
+nomic significance in The Wealth of Nations. 
+The Industrial Revolution (circa 1760–1830) had 
+a major impact on production in several ways. It 
+marked the change from an economy based on agri- 
+culture and handicraft to one based on industry and 
+manufacturing. The change began in England, where a 
+series of machines were invented and steam power 
+replaced water, wind, and animal power. These ad- 
+vances gave British industry significant advantages 
+over other nations, and England attempted to restrict 
+export of the new technologies. However, the revo- 
+lution eventually spread to other European countries 
+and the United States. Several inventions of the Indus- 
+trial Revolution greatly contributed to the development 
+of manufacturing: (1) Watt’s steam engine—a new 
+power-generating technology for industry; (2) machine 
+tools, starting with John Wilkinson’s boring machine 
+around 1775 (Historical Note 21.1); (3) the spinning 
+jenny, power loom, and other machinery for the tex- 
+tile industry that permitted significant increases in 
+productivity; and (4) the factory system—a new way 
+of organizing large numbers of production workers 
+based on division of labor. 
+While England was leading the industrial revolu- 
+tion, an important concept was being introduced in the 
+United States: interchangeable parts manufacture. 
+Much credit for this concept is given to Eli Whitney 
+(1765–1825), although its importance had been rec- 
+ognized by others [10]. In 1797, Whitney negotiated 
+a contract to produce 10,000 muskets for the U.S. 
+government. The traditional way of making guns at the 
+time was to custom-fabricate each part for a par- ticular 
+gun and then hand-fit the parts together by fil- ing. 
+Each musket was unique, and the time to make it was 
+considerable. Whitney believed that the com- ponents 
+could be made accurately enough to permit parts 
+assembly without fitting. After several years of 
+development in his Connecticut factory, he traveled to 
+Washington in 1801 to demonstrate the principle. 
+He laid out components for 10 muskets before gov- 
+ernment officials, including Thomas Jefferson, and 
+proceeded to select parts randomly to assemble the 
+guns. No special filing or fitting was required, and 
+all of the guns worked perfectly. The secret be- hind his 
+achievement was the collection of special machines, 
+fixtures, and gages that he had developed in 
+his 
+factory. Interchangeable parts manufacture 
+required many years of development before becom- 
+ing a practical reality, but it revolutionized methods of 
+manufacturing. It is a prerequisite for mass produc- 
+tion. Because its origins were in the United States, 
+interchangeable parts production came to be known as 
+the American System of manufacture. 
+The mid- and late 1800s witnessed the expan- sion 
+of railroads, steam-powered ships, and other machines 
+that created a growing need for iron and steel. New 
+steel production methods were devel- oped to meet 
+this demand (Historical Note 6.1). Also during this 
+period, several consumer products were developed, 
+including 
+the 
+sewing 
+machine, 
+bicycle, 
+and 
+automobile. To meet the mass demand for these 
+products, more efficient production methods were 
+required. Some historians identify developments dur- 
+ing this period as the Second Industrial Revolution, 
+characterized in terms of its effects on manufacturing 
+systems by (1) mass production, (2) scientific manage- 
+ment movement, (3) assembly lines, and (4) electrifi- 
+cation of factories. 
+In the late 1800s, the scientific management 
+movement was developing in the United States in 
+response to the need to plan and control the activi- ties 
+of growing numbers of production workers. The 
+movement’s leaders included Frederick W. Taylor 
+(1856–1915), Frank Gilbreth (1868–1924), and his wife 
+Lillian (1878–1972). Scientific management included 
+several features [3]: (1) motion study, aimed at find- 
+ing the best method to perform a given task; (2) time 
+study, to establish work standards for a job; (3) exten- 
+sive use of standards in industry; (4) the piece rate 
+system and similar labor incentive plans; and (5) use 
+of data collection, record keeping, and cost account- 
+ing in factory operations. 
+Henry Ford (1863–1947) introduced the assembly 
+line in 1913 at his Highland Park, Michigan plant. The 
+assembly line made possible the mass production of 
+complex consumer products. Use of assembly line 
+methods permitted Ford to sell a Model T automobile 
+for as little as $500, thus making ownership of cars 
+feasible for a large segment of the U.S. population. 
+In 1881, the first electric power generating station 
+had been built in New York City, and soon electric mo- 
+tors were being used as a power source to operate fac- 
+tory machinery. This was a far more convenient power 
+delivery system than steam engines, which required 
+overhead belts to distribute power to the machines. By 
+1920, electricity had overtaken steam as the principal 
+power source in U.S. factories. The twentieth century 
+was a time of more technological advances than in all 
+other centuries combined. Many of these develop- 
+ments resulted in the automation of manufacturing. 
+Section 1.1/What Is Manufacturing? 
+4 
+ 
+ 
+ 
+ 
+Scrap and 
+waste 
+Manufacturing 
+process 
+ 
+ 
+ 
+ 
+ 
+Starting 
+material 
+Processed 
+part 
+$ 
+ 
+$$$ 
+ 
+ 
+ 
+ 
+Starting 
+material 
+Material in 
+processing 
+Processed 
+part 
+ 
+(a) 
+(b) 
+ 
+FIGURE 1.1  Two ways to define manufacturing: (a) as a technical process, and (b) as an economic process. 
+ 
+ 
+1.1.1 MANUFACTURING DEFINED 
+ 
+As a field of study in the modern context, manufacturing can be defined two ways, 
+one technologic, and the other economic. Technologically, manufacturing is the ap- 
+plication of physical and chemical processes to alter the geometry, properties, and/ 
+or appearance of a given starting material to make parts or products; manufacturing 
+also includes assembly of multiple parts to make products. The processes to accom- 
+plish manufacturing involve a combination of machinery, tools, power, and labor, as 
+depicted in Figure 1.1(a). Manufacturing is almost always carried out as a sequence 
+of operations. Each operation brings the material closer to the desired final state. 
+Economically, manufacturing is the transformation of materials into items of 
+greater value by means of one or more processing and/or assembly operations, as 
+depicted in Figure 1.1(b). The key point is that manufacturing adds value to the 
+material by changing its shape or properties, or by combining it with other materials 
+that have been similarly altered. The material has been made more valuable through 
+the manufacturing operations performed on it. When iron ore is converted into steel, value 
+is added. When sand is transformed into glass, value is added. When petroleum is 
+refined into plastic, value is added. And when plastic is molded into the complex 
+geometry of a patio chair, it is made even more valuable. 
+Figure 1.2 shows a product on the left and the starting workpiece from which the 
+circular frame of the product was produced on the right. The starting workpiece is 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE 1.2 A mechanical 
+heart value on the left and the 
+titanium workpiece from which 
+the frame is machined on the 
+right. (Courtesy of George E. 
+Kane Manufacturing Technology 
+Laboratory, Lehigh University.) 
+Machinery 
+Tooling 
+Power 
+Labor 
+Manufacturing 
+process 
+ 
+Value 
+added $$ 
+ 
+Section 1.1/What Is Manufacturing? 
+5 
+ 
+ 
+a titanium billet, and the product consists of a carbon wafer assembled to the hook 
+that protrudes from the right of the frame. The product is an artificial heart valve 
+costing thousands of dollars, well worth it for patients who need one. (By the way, 
+the surgeon who installs it charges several more thousand dollars.) The titanium 
+billet costs a small fraction of the selling price. It measures about 25 mm (1 in) 
+in diameter. The frame was machined (a material removal process, Section 1.3.1) 
+from the starting billet. Machining time was about one hour. Note the added value 
+provided by this operation. Note also the waste in the unit operation, as depicted in 
+Figure 1.1(a); the finished frame has only about 5% of the mass of the starting 
+workpiece (although the titanium swarf can be recycled). 
+The words manufacturing and production are often used interchangeably. The 
+author’s view is that production has a broader meaning than manufacturing. To illus- trate, 
+one might speak of “crude oil production,” but the phrase “crude oil manufac- 
+turing” seems out of place. Yet when used in the context of products such as metal 
+parts or automobiles, either word seems okay. 
+ 
+ 
+1.1.2 MANUFACTURING INDUSTRIES AND PRODUCTS 
+ 
+Manufacturing is an important commercial activity performed by companies that 
+sell products to customers. The type of manufacturing done by a company depends 
+on the kinds of products it makes. 
+ 
+Manufacturing Industries 
+Industry consists of enterprises and organizations that 
+produce or supply goods and services. Industries can be classified as primary, second- ary, 
+or tertiary. Primary industries cultivate and exploit natural resources, such as 
+agriculture and mining. 
+ 
+but construction and power utilities are also included. 
+Tertiary industries constitute the service sector of the economy. A list of specific 
+industries in these categories is presented in Table 1.2. 
+ 
+TABLE • 1.2 Specific industries in the primary, secondary, and tertiary categories. 
+ 
+Primary 
+Secondary 
+Tertiary (service) 
+Agriculture 
+Forestry 
+Fishing 
+Livestock 
+Quarries 
+Mining 
+Petroleum 
+Aerospace 
+Food processing 
+Apparel 
+Glass, ceramics 
+Automotive 
+Heavy machinery 
+Basic metals 
+Paper 
+Beverages 
+Petroleum refining 
+Building materials 
+Pharmaceuticals 
+Chemicals 
+Plastics (shaping) 
+Computers 
+Power utilities 
+Construction 
+Publishing 
+Consumer appliances 
+Textiles 
+Electronics 
+Tire and rubber 
+Equipment 
+Wood and furniture 
+Fabricated metals 
+Banking 
+Insurance 
+Communications 
+Legal 
+Education 
+Real estate 
+Entertainment 
+Repair and 
+Financial services 
+maintenance 
+Government 
+Restaurant 
+Health and medical 
+Retail trade 
+Hotel 
+Tourism 
+Information 
+Transportation 
+Wholesale trade 
+cipal activity in this category, 
+Secondary industries take the outputs of the primary indus- 
+tries and convert them into consumer and capital goods. Manufacturing is the prin- 
+Section 1.1/What Is Manufacturing? 
+6 
+ 
+ 
+This book is concerned with the secondary industries in Table 1.2, which include 
+the companies engaged in manufacturing. However, the International Standard 
+Industrial Classification (ISIC) used to compile Table 1.2 includes several industries 
+whose production technologies are not covered in this text; for example, beverages, 
+chemicals, and food processing. In this book, manufacturing means production of 
+hardware, which ranges from nuts and bolts to digital computers and military weap- 
+ons. Plastic and ceramic products are included, but apparel, paper, pharmaceuticals, 
+power utilities, publishing, and wood products are excluded. 
+ 
+Manufactured Products Final products made by the manufacturing industries 
+can be divided into two major classes: consumer goods and capital goods. Consumer goods 
+are products purchased directly by consumers, such as cars, personal comput- ers, TVs, 
+tires, and tennis rackets. Capital goods are those purchased by companies to produce 
+goods and/or provide services. Examples of capital goods include aircraft, computers, 
+communication equipment, medical apparatus, trucks and buses, railroad locomotives, 
+machine tools, and construction equipment. Most of these capital goods are purchased 
+by the service industries. It was noted in the introduction that manu- facturing 
+accounts for about 12% of gross domestic product and services about 75% of GDP in 
+the United States. Yet the manufactured capital goods purchased by the service 
+sector are the enablers of that sector. Without the capital goods, the service 
+industries could not function. 
+In addition to final products, other manufactured items include the materials, 
+components, tools, and supplies used by the companies that make the final products. 
+Examples of these items include sheet steel, bar stock, metal stampings, machined 
+parts, plastic moldings and extrusions, cutting tools, dies, molds, and lubricants. 
+Thus, the manufacturing industries consist of a complex infrastructure with vari- 
+ous categories and layers of intermediate suppliers with whom the final consumer 
+never deals. 
+This book is generally concerned with discrete items—individual parts and 
+assembled products rather than items produced by continuous processes. A metal 
+stamping is a discrete item, but the sheet-metal coil from which it is made is continu- 
+ous (almost). Many discrete parts start out as continuous or semicontinuous prod- 
+ucts, such as extrusions and electrical wire. Long sections made in almost continuous 
+lengths are cut to the desired size. An oil refinery is a better example of a continuous 
+process. 
+ 
+Production Quantity and Product Variety The quantity of products made by a 
+factory has an important influence on the way its people, facilities, and procedures 
+are organized. Annual production quantities can be classified into three ranges: (1) 
+low production, quantities in the range 1 to 100 units per year; (2) medium produc- 
+tion, from 100 to 10,000 units annually; and (3) high production, 10,000 to millions 
+of units. The boundaries between the three ranges are somewhat arbitrary (author’s 
+judgment). Depending on the kinds of products, these boundaries may shift by an 
+order of magnitude or so. 
+Production quantity refers to the number of units produced annually of a particu- 
+lar product type. Some plants produce a variety of different product types, each type being 
+made in low or medium quantities. Other plants specialize in high production of only 
+one product type. It is instructive to identify product variety as a parameter distinct 
+from production quantity. Product variety refers to different product designs or types 
+that are produced in the plant. Different products have different shapes and 
+Section 1.1/What Is Manufacturing? 
+7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE 1.3 Relationship 
+between product variety and 
+production quantity in discrete 
+product manufacturing. 
+ 
+sizes; they perform different functions; they are intended for different markets; some have 
+more components than others; and so forth. The number of different product types 
+made each year can be counted. When the number of product types made in the 
+factory is high, this indicates high product variety. 
+There is an inverse correlation between product variety and production quantity 
+in terms of factory operations. If a factory’s product variety is high, then its produc- 
+tion quantity is likely to be low; but if production quantity is high, then product vari- 
+ety will be low, as depicted in Figure 1.3. Manufacturing plants tend to specialize in a 
+combination of production quantity and product variety that lies somewhere inside 
+the diagonal band in Figure 1.3. 
+Although product variety has been identified as a quantitative parameter (the 
+number of different product types made by the plant or company), this parameter is 
+much less exact than production quantity because details on how much the designs 
+differ are not captured simply by the number of different designs. Differences 
+between an automobile and an air conditioner are far greater than between an air 
+conditioner and a heat pump. Within each product type, there are differences among 
+specific models. 
+The extent of the product differences may be small or great, as illustrated in the 
+automotive industry. Each of the U.S. automotive companies produces cars with two 
+or three different nameplates in the same assembly plant, although the body styles 
+and other design features are virtually the same. In different plants, the company 
+builds heavy trucks. The terms “soft” and “hard” might be used to describe these 
+differences in product variety. Soft product variety occurs when there are only small 
+differences among products, such as the differences among car models made on the 
+same production line. In an assembled product, soft variety is characterized by a 
+high proportion of common parts among the models. Hard product variety occurs 
+when the products differ substantially, and there are few common parts, if any. The 
+difference between a car and a truck exemplifies hard variety. 
+ 
+ 
+1.1.3 MANUFACTURING CAPABILITY 
+ 
+A manufacturing plant consists of a set of processes and systems (and people, of 
+course) designed to transform a certain limited range of materials into products of 
+increased value. These three building blocks—materials, processes, and systems— 
+constitute the subject of modern manufacturing. There is a strong interdependence 
+among these factors. A company engaged in manufacturing cannot do everything. 
+Section 1.1/What Is Manufacturing? 
+8 
+ 
+ 
+It must do only certain things, and it must do those things well. Manufacturing ca- 
+pability refers to the scope of technical and physical capabilities and limitations of 
+a manufacturing company and each of its plants. Manufacturing capability has three 
+dimensions: (1) technological processing capability, (2) physical size and weight of 
+product, and (3) production capacity. 
+ 
+Technological Processing Capability The technological processing capabil- ity 
+of a plant (or company) is its available set of manufacturing processes. Certain plants 
+perform machining operations, others roll steel billets into sheet stock, and others build 
+automobiles. A machine shop cannot roll steel, and a rolling mill can- not build cars. 
+The underlying feature that distinguishes these plants is the processes they can 
+perform. Technological processing capability is closely related to material type. 
+Certain manufacturing processes are suited to certain materials, whereas other 
+processes are suited to other materials. By specializing in a certain process or group of 
+processes, the plant is simultaneously specializing in certain material types. Tech- 
+nological processing capability includes not only the physical processes, but also the 
+expertise possessed by plant personnel in these processing technologies. Companies 
+must concentrate on the design and manufacture of products that are compatible 
+with their technological processing capability. 
+ 
+Physical Product Limitations A second aspect of manufacturing capability is 
+imposed by the physical product. A plant with a given set of processes is limited in 
+terms of the size and weight of the products that can be accommodated. Large, 
+heavy products are difficult to move. To move these products about, the plant must 
+be equipped with cranes of the required load capacity. Smaller parts and products 
+made in large quantities can be moved by conveyor or other means. The limitation 
+on product size and weight extends to the physical capacity of the manufacturing 
+equipment as well. Production machines come in different sizes. Larger machines 
+must be used to process larger parts. The production and material handling equip- 
+ment must be planned for products that lie within a certain size and weight range. 
+ 
+Production Capacity A third limitation on a plant’s manufacturing capability 
+is the production quantity that can be produced in a given time period (e.g., month 
+or year). This quantity limitation is commonly called plant capacity, or production 
+capacity, defined as the maximum rate of production that a plant can achieve under 
+assumed operating conditions. The operating conditions refer to number of shifts 
+per week, hours per shift, direct labor manning levels in the plant, and so on. These 
+factors represent inputs to the manufacturing plant. Given these inputs, how much 
+output can the factory produce? 
+Plant capacity is usually measured in terms of output units, such as annual tons of steel 
+produced by a steel mill, or number of cars produced by a final assembly plant. In 
+these cases, the outputs are homogeneous. In cases in which the output units are not 
+homogeneous, other factors may be more appropriate measures, such as avail- able 
+labor hours of productive capacity in a machine shop that produces a variety of 
+parts. 
+Materials, processes, and systems are the basic building blocks of manufacturing 
+and the three broad subject areas of this book. This introductory chapter provides 
+an overview of these three subjects before embarking on a detailed coverage in the 
+remaining chapters. 
+Section 1.2/Materials in Manufacturing 
+9 
+ 
+ 
+Materials in Manufacturing 
+Most engineering materials can be classified into one of three basic categories: 
+(1) metals, (2) ceramics, and (3) polymers. Their chemistries are different, their 
+mechanical and physical properties are different, and these differences affect the 
+manufacturing processes that can be used to produce products from them. In addi- 
+tion to the three basic categories, there are (4) composites—nonhomogeneous mix- 
+tures of the other three basic types rather than a unique category. The classification 
+of the four groups is pictured in Figure 1.4. This section provides a survey of these 
+materials. Chapters 6 through 9 cover the four material types in more detail. 
+ 
+ 
+1.2.1 METALS 
+ 
+Metals used in manufacturing are usually alloys, which are composed of two or 
+more elements, with at least one being a metallic element. Metals and alloys can be 
+divided into two basic groups: (1) ferrous, and (2) nonferrous. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE 1.4 
+Classification of the 
+four engineering 
+materials. 
+1.2 
+ 
+Ferrous Metals 
+ 
+ 
+ 
+Metals 
+ 
+ 
+ 
+ 
+ 
+ 
+Nonferrous 
+Metals 
+ 
+ 
+ 
+Crystalline 
+Ceramics 
+ 
+ 
+ 
+Ceramics 
+ 
+ 
+ 
+ 
+ 
+Glasses 
+ 
+Engineering 
+Materials 
+ 
+ 
+ 
+ 
+Thermoplastics 
+ 
+ 
+ 
+ 
+ 
+Polymers 
+ 
+ 
+Thermosets 
+ 
+ 
+ 
+ 
+ 
+ 
+Elastomers 
+ 
+ 
+ 
+Metal Matrix 
+Composites 
+ 
+ 
+ 
+ 
+Composites 
+ 
+ 
+Ceramic Matrix 
+Composites 
+ 
+ 
+ 
+ 
+ 
+ 
+Polymer Matrix 
+Composites 
+ 
+ 
+Section 1.2/Materials in Manufacturing 
+10 
+ 
+ 
+Ferrous Metals Ferrous metals are based on iron; the group includes steel and cast 
+iron. These metals constitute the most important group commercially, more than three-
+fourths of the metal tonnage throughout the world. Pure iron has limited com- mercial 
+use, but when alloyed with carbon, iron has more uses and greater commer- cial value 
+than any other metal. Alloys of iron and carbon form steel and cast iron. 
+Steel can be defined as an iron–carbon alloy containing 0.02% to 2.11% carbon. It 
+is the most important category within the ferrous metal group. Its composition often 
+includes other alloying elements as well, such as manganese, chromium, nickel, and 
+molybdenum, to enhance the properties of the metal. Applications of steel include 
+construction (bridges, I-beams, and nails), transportation (trucks, rails, and rolling 
+stock for railroads), and consumer products (automobiles and appliances). 
+Cast iron is an alloy of iron and carbon (2% to 4%) used in casting (primarily 
+sand casting). Silicon is also present in the alloy (in amounts from 0.5% to 3%), and 
+other elements are often added also, to obtain desirable properties in the cast part. 
+Cast iron is available in several different forms, of which gray cast iron is the most 
+common; its applications include blocks and heads for internal combustion engines. 
+Nonferrous Metals Nonferrous metals include the other metallic elements and their 
+alloys. In almost all cases, the alloys are more important commercially than the pure 
+metals. The nonferrous metals include the pure metals and alloys of aluminum, copper, 
+gold, magnesium, nickel, silver, tin, titanium, zinc, and other metals. 
+ 
+1.2.2 CERAMICS 
+ 
+A ceramic is defined as a compound containing metallic (or semimetallic) and nonme- 
+tallic elements. Typical nonmetallic elements are oxygen, nitrogen, and carbon. Ceram- 
+ics include a variety of traditional and modern materials. Traditional ceramics, some of 
+which have been used for thousands of years, include: clay (abundantly available, con- 
+sisting of fine particles of hydrous aluminum silicates and other minerals used in mak- 
+ing brick, tile, and pottery); silica (the basis for nearly all glass products); and alumina 
+and silicon carbide (two abrasive materials used in grinding). Modern ceramics include 
+some of the preceding materials, such as alumina, whose properties are enhanced in 
+various ways through modern processing methods. Newer ceramics include: carbides— 
+metal carbides such as tungsten carbide and titanium carbide, which are widely used 
+as cutting tool materials; and nitrides—metal and semimetal nitrides such as titanium 
+nitride and boron nitride, used as cutting tools and grinding abrasives. 
+For processing purposes, ceramics can be divided into crystalline ceramics and 
+glasses. Different methods of manufacturing are required for the two types. 
+Crystalline ceramics are formed in various ways from powders and then fired (heated 
+to a temperature below the melting point to achieve bonding between the powders). 
+The glass ceramics (namely, glass) can be melted and cast, and then formed in proc- 
+esses such as traditional glass blowing. 
+ 
+1.2.3 POLYMERS 
+ 
+A polymer is a compound formed of repeating structural units called mers, whose 
+atoms share electrons to form very large molecules. Polymers usually consist of 
+carbon plus one or more other elements such as hydrogen, nitrogen, oxygen, and 
+chlorine. Polymers are divided into three categories: (1) thermoplastic polymers, 
+(2) thermosetting polymers, and (3) elastomers. 
+Section 1.3/Manufacturing Processes 
+11 
+ 
+ 
+Thermoplastic polymers can be subjected to multiple heating and cooling cycles 
+without substantially altering the molecular structure of the polymer. Common 
+thermoplastics include polyethylene, polystyrene, polyvinylchloride, and nylon. 
+Thermosetting polymers chemically transform (cure) into a rigid structure upon 
+cooling from a heated plastic condition; hence the name thermosetting. Members 
+of this type include phenolics, amino resins, and epoxies. Although the name “ther- 
+mosetting” is used, some of these polymers cure by mechanisms other than heating. 
+Elastomers are polymers that exhibit significant elastic behavior; hence the name 
+elastomer. They include natural rubber, neoprene, silicone, and polyurethane. 
+ 
+ 
+1.2.4 COMPOSITES 
+ 
+Composites do not really constitute a separate category of materials; they are mix- 
+tures of the other three types. A composite is a material consisting of two or more 
+phases that are processed separately and then bonded together to achieve proper- 
+ties superior to those of its constituents. The term phase refers to a homogeneous 
+mass of material, such as an aggregation of grains of identical unit cell structure in a 
+solid metal. The usual structure of a composite consists of particles or fibers of one 
+phase mixed in a second phase, called the matrix. 
+Composites are found in nature (e.g., wood), and they can be produced synthetically. 
+The synthesized type is of greater interest here, and it includes glass fibers in a polymer 
+matrix, such as fiber-reinforced plastic; polymer fibers of one type in a matrix of a sec- 
+ond polymer, such as an epoxy-Kevlar composite; and ceramic in a metal matrix, such 
+as a tungsten carbide in a cobalt binder to form a cemented carbide cutting tool. 
+Properties of a composite depend on its components, the physical shapes of the 
+components, and the way they are combined to form the final material. Some com- 
+posites combine high strength with light weight and are suited to applications such 
+as aircraft components, car bodies, boat hulls, tennis rackets, and fishing rods. Other 
+composites are strong, hard, and capable of maintaining these properties at elevated 
+temperatures, for example, cemented carbide cutting tools. 
+ 
+Manufacturing Processes 
+A manufacturing process is a designed procedure that results in physical and/or 
+chemical changes to a starting work material with the intention of increasing the 
+value of that material. A manufacturing process is usually carried out as a unit oper- ation, 
+which means that it is a single step in the sequence of steps required to trans- form 
+the starting material into a final product. Manufacturing operations can be divided 
+into two basic types: (1) processing operations and (2) assembly operations. A 
+processing operation transforms a work material from one state of completion to 
+a more advanced state that is closer to the final desired product. It adds value by 
+changing the geometry, properties, or appearance of the starting material. In general, 
+processing operations are performed on discrete work parts, but certain processing 
+operations are also applicable to assembled items (e.g., painting a spot-welded car 
+body). An assembly operation joins two or more components to create a new entity, 
+called an assembly, subassembly, or some other term that refers to the joining proc- 
+ess (e.g., a welded assembly is called a weldment). A classification of manufacturing 
+processes is presented in Figure 1.5. Some of the basic processes used in modern 
+manufacturing date from antiquity (Historical Note 1.2). 
+1.3 
+Section 1.3/Manufacturing Processes 
+12 
+ 
+Material 
+removal 
+Solidification 
+processes 
+Manufacturing 
+processes 
+Processing 
+operations 
+Particulate 
+processing 
+Shaping 
+processes 
+Assembly 
+operations 
+Coating and 
+deposition processes 
+Deformation 
+processes 
+Adhesive 
+bonding 
+Brazing and 
+soldering 
+Permanent 
+joining processes 
+Welding 
+Cleaning and 
+surface treatments 
+Surface processing 
+operations 
+Permanent 
+fastening methods 
+Mechanical 
+fastening 
+Threaded 
+fasteners 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE 1.5 
+Classification of 
+manufacturing 
+processes. 
+ 
+ 
+ 
+ 
+ 
+Property 
+enhancing processes 
+Heat 
+treatment 
+Historical Note 1.2 
+Manufacturing materials and processes 
+ 
+Although most of the historical developments that form  
+Gold was found by early humans in relatively pure form 
+the modern practice of manufacturing have occurred  
+in nature; it could be hammered into shape. Copper 
+only during the last few centuries (Historical Note 1.1), was probably the first metal to be extracted from ores, 
+several of the basic fabrication processes date as far thus requiring smelting as a processing technique. 
+back as the Neolithic period (circa 8000–3000 B.C.E.). It Copper could not be hammered readily because it 
+was during this period that processes such as the fol-  
+strain hardened; instead, it was shaped by casting 
+lowing were developed: carving and other woodwork- 
+ 
+(Historical Note 10.1). Other metals used during this 
+ing, hand forming and firing of clay pottery, grinding  
+period were silver and tin. It was discovered that cop- 
+and polishing of stone, spinning and weaving of tex-  
+per alloyed with tin produced a more workable metal 
+tiles, and dyeing of cloth. 
+ 
+ 
+than copper alone (casting and hammering could both 
+Metallurgy and metalworking also began during 
+be used). This heralded the important period known as 
+the Neolithic period, in Mesopotamia and other areas 
+the Bronze Age (circa 3500–1500 B.C.). 
+around the Mediterranean. It either spread to, or de- 
+ 
+Iron was also first smelted during the Bronze Age. 
+veloped independently in, regions of Europe and Asia. 
+Meteorites may have been one source of the metal, 
+Section 1.3/Manufacturing Processes 
+13 
+ 
+ 
+ 
+but iron ore was also mined. Temperatures required to 
+reduce iron ore to metal are significantly higher than for 
+copper, which made furnace operations more difficult. 
+Other processing methods were also more difficult for 
+the same reason. Early blacksmiths learned that when 
+certain irons (those containing small amounts of car- 
+bon) were sufficiently heated and then quenched, 
+they became very hard. This permitted grinding a very 
+sharp cutting edge on knives and weapons, but it also 
+made the metal brittle. Toughness could be increased 
+by reheating at a lower temperature, a process known 
+as tempering. What we have described is, of course, 
+the heat treatment of steel. The superior properties of 
+steel caused it to succeed bronze in many applica- 
+tions (weaponry, agriculture, and mechanical devices). 
+The period of its use has subsequently been named 
+the Iron Age (starting around 1000 B.C.). It was not un- 
+til much later, well into the nineteenth century, that the 
+demand for steel grew significantly and more modern 
+steelmaking techniques were developed (Historical 
+Note 6.1). 
+The beginnings of machine tool technology oc- 
+curred during the Industrial Revolution. During the peri- 
+od 1770–1850, machine tools were developed for most 
+of the conventional material removal processes, 
+such as boring, turning, drilling, milling, shaping, 
+and planing (Historical Note 21.1). Many of the individ- 
+ual processes predate the machine tools by centuries; 
+for example, drilling and sawing (of wood) date from 
+ancient times, and turning (of wood) from around the 
+time of Christ. 
+Assembly methods were used in ancient cultures to 
+make ships, weapons, tools, farm implements, 
+machinery, chariots and carts, furniture, and garments. 
+The earliest processes included binding with twine 
+and rope, riveting and nailing, and soldering. Around 
+2000 years ago, forge welding and adhesive bond- 
+ing had been developed. Widespread use of screws, 
+bolts, and nuts as fasteners—so common in today’s 
+assembly—required the development of machine tools 
+that could accurately cut the required helical shapes 
+(e.g., Maudsley’s screw cutting lathe, 1800). It was not 
+until around 1900 that fusion welding proc- esses 
+started to be developed as assembly techniques 
+(Historical Note 28.1). 
+Natural rubber was the first polymer to be used in 
+manufacturing (if we exclude wood, which is a polymer 
+composite). The vulcanization process, discovered by 
+Charles Goodyear in 1839, made rubber a useful engi- 
+neering material (Historical Note 8.2). Subsequent de- 
+velopments included plastics such as cellulose nitrate 
+in 1870, Bakelite in 1900, polyvinylchloride in 1927, pol- 
+yethylene in 1932, and nylon in the late 1930s (Histori- 
+cal Note 8.1). Processing requirements for plastics led 
+to the development of injection molding (based on die 
+casting, one of the metal casting processes) and other 
+polymer shaping techniques. 
+Electronics products have imposed unusual de- 
+mands on manufacturing in terms of miniaturization. 
+The evolution of the technology has been to package 
+more and more devices into a smaller area—in some 
+cases millions of transistors onto a flat piece of semi- 
+conductor material that is only 12 mm (0.50 in) on a 
+side. The history of electronics processing and pack- 
+aging dates from around 1960 (Historical Notes 33.1, 
+34.1, and 34.2). 
+ 
+ 
+ 
+1.3.1 PROCESSING OPERATIONS 
+ 
+A processing operation uses energy to alter a work part’s shape, physical properties, 
+or appearance to add value to the material. The forms of energy include mechani- 
+cal, thermal, electrical, and chemical. The energy is applied in a controlled way by 
+means of machinery and tooling. Human energy may also be required, but the hu- 
+man workers are generally employed to control the machines, oversee the opera- 
+tions, and load and unload parts before and after each cycle of operation. A general 
+model of a processing operation is illustrated in Figure 1.1(a). Material is fed into the 
+process, energy is applied by the machinery and tooling to transform the material, 
+and the completed work part exits the process. Most production operations produce 
+waste or scrap, either as a natural aspect of the process (e.g., removing material as in 
+machining) or in the form of occasional defective pieces. It is an important objective 
+in manufacturing to reduce waste in either of these forms. 
+More than one processing operation is usually required to transform the starting 
+material into final form. The operations are performed in the particular sequence 
+required to achieve the geometry and condition defined by the design specification. 
+Section 1.3/Manufacturing Processes 
+14 
+ 
+ 
+Three categories of processing operations are distinguished: (1) shaping opera- 
+tions, (2) property-enhancing operations, and (3) surface processing operations. 
+Shaping operations alter the geometry of the starting work material by vari- 
+ous methods. Common shaping processes include casting, forging, and machining. 
+Property-enhancing operations add value to the material by improving its physical 
+properties without changing its shape. Heat treatment is the most common example. 
+Surface processing operations are performed to clean, treat, coat, or deposit mate- 
+rial onto the exterior surface of the work. Common examples of coating are plating 
+and painting. Shaping processes are covered in Parts III through VI, corresponding 
+to the four main categories of shaping processes in Figure 1.5. Property-enhancing 
+processes and surface processing operations are covered in Part VII. 
+ 
+Shaping Processes Most shape processing operations apply heat, mechanical 
+force or a combination of these to effect a change in geometry of the work material. 
+There are various ways to classify the shaping processes. The classification used in this 
+book is based on the state of the starting material, by which there are four categories: 
+(1) solidification processes, in which the starting material is a heated liquid or semif- luid 
+that cools and solidifies to form the part geometry; (2) particulate processing, in which 
+the starting material is a powder, and the powders are formed and heated into the 
+desired geometry; (3) deformation processes, in which the starting material is a 
+ductile solid (commonly metal) that is deformed to shape the part; and (4) material 
+removal processes, in which the starting material is a solid (ductile or brittle), from 
+which material is removed so that the resulting part has the desired geometry. 
+In the first category, the starting material is heated sufficiently to transform it into 
+a liquid or highly plastic (semifluid) state. Nearly all materials can be processed in 
+this way. Metals, ceramic glasses, and plastics can all be heated to sufficiently high 
+temperatures to convert them into liquids. With the material in a liquid or semifluid 
+form, it can be poured or otherwise forced to flow into a mold cavity and allowed to 
+solidify, thus taking a solid shape that is the same as the cavity. Most processes that 
+operate this way are called casting or molding. Casting is the name used for metals, 
+and molding is the common term used for plastics. This category of shaping process 
+is depicted in Figure 1.6. Figure 11.1 shows a cast iron casting, and a collection of 
+plastic molded parts is displayed in Figure 13.20. 
+In particulate processing, the starting materials are powders of metals or 
+ceramics. Although these two materials are quite different, the processes to shape 
+them in particulate processing are quite similar. The common technique in powder 
+ 
+ 
+ 
+ 
+FIGURE 1.6 Casting 
+and molding processes 
+start with a work mate- 
+rial heated to a fluid 
+or semifluid state. The 
+process consists of 
+(1) pouring the fluid 
+into a mold cavity and 
+(2) allowing the fluid to 
+solidify, after which the 
+solid part is removed 
+from the mold. 
+Section 1.3/Manufacturing Processes 
+15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE 1.7 
+Particulate processing: 
+(1) the starting material 
+is powder; the usual 
+process consists of 
+(2) pressing and 
+(3) sintering. 
+ 
+ 
+metallurgy involves pressing and sintering, illustrated in Figure 1.7, in which the 
+powders are first squeezed into a die cavity under high pressure and then heated to 
+bond the individual particles together. Examples of parts produced by powder 
+metallurgy are shown in Figure 15.1. 
+In the deformation processes, the starting work part is shaped by the application 
+of forces that exceed the yield strength of the material. For the material to be formed 
+in this way, it must be sufficiently ductile to avoid fracture during deformation. To 
+increase ductility (and for other reasons), the work material is often heated before 
+forming to a temperature below the melting point. Deformation processes are asso- 
+ciated most closely with metalworking and include operations such as forging and 
+extrusion, shown in Figure 1.8. Figure 18.19 shows a forging operation performed by 
+a drop hammer. 
+Also included within the deformation processes category is sheet metalworking, 
+which involves bending, forming, and shearing operations performed on starting 
+blanks and strips of sheet metal. Several sheet metal parts, called stampings because 
+they are made on a stamping press, are illustrated in Figure 19.35. 
+Material removal processes are operations that remove excess material from the 
+starting workpiece so that the resulting shape is the desired geometry. The most 
+important processes in this category are machining operations such as turning, 
+ 
+ 
+FIGURE 1.8 Some 
+common deformation 
+processes: (a) forging, 
+in which two halves 
+of a die squeeze the 
+work part, causing it to 
+assume the shape of 
+the die cavity; and 
+(b) extrusion, in which 
+a billet is forced to flow 
+through a die orifice, 
+thus taking the cross- 
+sectional shape of the 
+orifice. 
+Section 1.3/Manufacturing Processes 
+16 
+ 
+ 
+ 
+Workpiece 
+ 
+ 
+Rotation 
+(work) 
+Starting 
+diameter Chip 
+Diameter 
+after turning 
+ 
+ 
+ 
+ 
+Drill bit 
+Work part 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Work 
+ 
+ 
+ 
+Milling 
+ 
+ 
+ 
+Rotation 
+ 
+ 
+ 
+ 
+Material 
+removed 
+ 
+Feed tool 
+Single point 
+cutting tool 
+Hole 
+ 
+Feed 
+(a) 
+(b) 
+(c) 
+ 
+FIGURE 1.9  Common machining operations: (a) turning, in which a single-point cutting tool removes metal from 
+a rotating workpiece to reduce its diameter; (b) drilling, in which a rotating drill bit is fed into the work to create a 
+round hole; and (c) milling, in which a work part is fed past a rotating cutter with multiple edges. 
+ 
+ 
+drilling, and milling, shown in Figure 1.9. These cutting operations are most com- 
+monly applied to solid metals, performed using cutting tools that are harder and 
+stronger than the work metal. 
+The front cover of this book shows a turning operation. 
+Grinding is another common material removal process. Other processes in this 
+category are known as nontraditional processes because they use lasers, electron 
+beams, chemical erosion, electric discharges, and electrochemical energy to remove 
+material rather than cutting or grinding tools. 
+It is desirable to minimize waste and scrap in converting a starting work part into 
+its subsequent geometry. Certain shaping processes are more efficient than others in terms 
+of material conservation. Material removal processes (e.g., machining) tend to be 
+wasteful of material, simply by the way they work. The material removed from the starting 
+shape is waste, at least in terms of the unit operation. Other processes, such as certain 
+casting and molding operations, often convert close to 100% of the start- ing material 
+into final product. Manufacturing processes that transform nearly all of the starting 
+material into product and require no subsequent machining to achieve final part 
+geometry are called net shape processes. Other processes require mini- mum 
+machining to produce the final shape and are called near net shape processes. 
+ 
+Property-Enhancing Processes The second major type of part processing is 
+performed to improve mechanical or physical properties of the work material. 
+These processes do not alter the shape of the part, except unintentionally in some 
+cases. The most important property-enhancing processes involve heat treatments, 
+which include various annealing and strengthening processes for metals and glasses. 
+Sintering of powdered metals is also a heat treatment that strengthens a pressed 
+powder metal work part. Its counterpart in ceramics is called firing. 
+ 
+Surface Processing Surface processing operations include (1) cleaning, (2) sur- 
+face treatments, and (3) coating and thin film deposition processes. Cleaning includes 
+both chemical and mechanical processes to remove dirt, oil, and other contaminants 
+from the surface. Surface treatments include mechanical working such as shot peen- 
+ing and sand blasting, and physical processes such as diffusion and ion implanta- tion. 
+Coating and thin film deposition processes apply a coating of material to the exterior 
+surface of the work part. Common coating processes include electroplating, 
+cutter 
+Rotation 
+Feed 
+Section 1.3/Manufacturing Processes 
+17 
+ 
+ 
+anodizing of aluminum, organic coating (call it painting), and porcelain enameling. 
+Thin film deposition processes include physical vapor deposition and chemical vapor 
+deposition to form extremely thin coatings of various substances. 
+Several surface-processing operations have been adapted to fabricate semi- 
+conductor materials into integrated circuits for microelectronics. These processes 
+include chemical vapor deposition, physical vapor deposition, and oxidation. They 
+are applied to very localized areas on the surface of a thin wafer of silicon (or other 
+semiconductor material) to create the microscopic circuit. 
+ 
+ 
+1.3.2 ASSEMBLY OPERATIONS 
+ 
+The second basic type of manufacturing operation is assembly, in which two or more 
+separate parts are joined to form a new entity. Components of the new entity are 
+connected either permanently or semipermanently. Permanent joining processes 
+include welding, brazing, soldering, and adhesive bonding. They form a joint be- 
+tween components that cannot be easily disconnected. Certain mechanical assem- 
+bly methods are available to fasten two (or more) parts together in a joint that can 
+be conveniently disassembled. The use of screws, bolts, and other threaded fasten- 
+ers are important traditional methods in this category. Other mechanical assembly 
+techniques form a more permanent connection; these include rivets, press fitting, 
+and expansion fits. Special joining and fastening methods are used in the assembly 
+of electronic products. Some of the methods are identical to or are adaptations of 
+the preceding processes, for example, soldering. Electronics assembly is concerned 
+primarily with the assembly of components such as integrated circuit packages to 
+printed circuit boards to produce the complex circuits used in so many of today’s 
+products. Joining and assembly processes are discussed in Part VIII, and the special- 
+ized assembly techniques for electronics are described in Chapter 34. 
+ 
+ 
+1.3.3 PRODUCTION MACHINES AND TOOLING 
+ 
+Manufacturing operations are accomplished using machinery and tooling (and peo- 
+ple). The extensive use of machinery in manufacturing began with the Industrial 
+Revolution. It was at that time that metal cutting machines started to be developed 
+and widely used. These were called machine tools—power-driven machines used 
+to operate cutting tools previously operated by hand. Modern machine tools are 
+described by the same basic definition, except that the power is electrical rather than water 
+or steam, and the level of precision and automation is much greater today. Machine 
+tools are among the most versatile of all production machines. They are used to 
+make not only parts for consumer products, but also components for other 
+production machines. Both in a historic and a reproductive sense, the machine tool 
+is the mother of all machinery. 
+Other production machines include presses for stamping operations, forge ham- 
+mers for forging, rolling mills for rolling sheet metal, welding machines for weld- 
+ing, and insertion machines for inserting electronic components into printed circuit 
+boards. The name of the equipment usually follows from the name of the process. 
+Production equipment can be general purpose or special purpose. General purpose 
+equipment is more flexible and adaptable to a variety of jobs. It is commercially availa- ble 
+for any manufacturing company to invest in. Special purpose equipment is usually 
+designed to produce a specific part or product in very large quantities. The economics 
+Section 1.3/Manufacturing Processes 
+18 
+ 
+ 
+ 
+TABLE • 1.3 
+processes. 
+Production equipment and tooling used for various manufacturing 
+ 
+Process 
+Equipment 
+Special tooling (function) 
+Casting 
+Molding 
+Rolling 
+Forging 
+Extrusion 
+Stamping 
+Machining 
+ 
+ 
+Grinding 
+Welding 
+a 
+ 
+Molding machine 
+Rolling mill 
+Forge hammer or press 
+Press 
+Press 
+Machine tool 
+ 
+ 
+Grinding machine 
+Welding machine 
+Mold (cavity for molten metal) 
+Mold (cavity for hot polymer) 
+Roll (reduce work thickness) 
+Die (squeeze work to shape) 
+Extrusion die (reduce cross-section) 
+Die (shearing, forming sheet metal) 
+Cutting tool (material removal) 
+Fixture (hold work part) 
+Jig (hold part and guide tool) 
+Grinding wheel (material removal) 
+Electrode (fusion of work metal) 
+Fixture (hold parts during welding) 
+aVarious types of casting setups and equipment (Chapter 11). 
+ 
+of mass production justify large investments in special purpose machinery to achieve high 
+efficiencies and short cycle times. This is not the only reason for special purpose 
+equipment, but it is the dominant one. Another reason may be because the process 
+is unique and commercial equipment is not available. Some companies with unique 
+processing requirements develop their own special purpose equipment. 
+Production machinery usually requires tooling that customizes the equipment for 
+the particular part or product. In many cases, the tooling must be designed specifically 
+for the part or product configuration. When used with general purpose equipment, it is 
+designed to be exchanged. For each work part type, the tooling is fastened to the 
+machine and the production run is made. When the run is completed, the tooling is 
+changed for the next work part type. When used with special purpose machines, the 
+tooling is often designed as an integral part of the machine. Because the special purpose 
+machine is likely being used for mass production, the tooling may never need changing 
+except for replacement of worn components or for repair of worn surfaces. 
+The type of tooling depends on the type of manufacturing process. In Table 1.3, 
+we list examples of special tooling used in various operations. Details are provided 
+in the chapters that discuss these processes. 
+ 
+Production Systems 
+To operate effectively, a manufacturing firm must have systems that allow it to ef- 
+ficiently accomplish its type of production. Production systems consist of people, 
+equipment, and procedures designed for the combination of materials and processes that 
+constitute a firm’s manufacturing operations. Production systems can be divided into 
+two categories: (1) production facilities and (2) manufacturing support systems, as 
+shown in Figure 1.10.2 Production facilities refer to the physical equipment and the 
+arrangement of equipment in the factory. Manufacturing support systems are 
+ 
+2 This diagram also indicates the major topic areas covered in this book. 
+.4 
+Section 1.4/Production Systems 
+19 
+ 
+ 
+ 
+Production system 
+ 
+Manufacturing 
+support systems 
+ 
+ 
+ 
+Manufacturing 
+systems 
+ 
+ 
+ 
+Quality control 
+systems 
+Manufacturing 
+support 
+ 
+ 
+ 
+ 
+ 
+Facilities 
+FIGURE 1.10 Model of 
+the production system 
+and overview of major 
+topics in the book. 
+Engineering 
+materials 
+Manufacturing processes and assembly operations 
+ 
+the procedures used by the company to manage production and solve the techni- 
+cal and logistics problems encountered in ordering materials, moving work through 
+the factory, and ensuring that products meet quality standards. Both categories in- 
+clude people. People make these systems work. In general, direct labor workers are 
+responsible for operating the manufacturing equipment; and professional staff 
+workers are responsible for manufacturing support. 
+ 
+ 
+1.4.1 PRODUCTION FACILITIES 
+ 
+Production facilities consist of the factory and the production, material handling, 
+and other equipment in the factory. The equipment comes in direct physical contact 
+with the parts and/or assemblies as they are being made. The facilities “touch” the 
+product. Facilities also include the way the equipment is arranged in the factory— 
+the plant layout. The equipment is usually organized into logical groupings. In this 
+book they are called manufacturing systems, such as an automated production line, 
+or a machine cell consisting of an industrial robot and two machine tools. 
+A manufacturing company attempts to design its manufacturing systems and 
+organize its factories to serve the particular mission of each plant in the most effi- 
+cient way. Over the years, certain types of production facilities have come to be 
+recognized as the most appropriate way to organize for a given combination of prod- 
+uct variety and production quantity, as discussed in Section 1.1.2. Different types of 
+facilities are required for each of the three ranges of annual production quantities. 
+ 
+Low-Quantity Production  In the low-quantity range (1–100 units/year), the term job 
+shop is often used to describe the type of production facility. A job shop makes low 
+quantities of specialized and customized products. The products are typically 
+complex, such as space capsules, prototype aircraft, and special machinery. The 
+equipment in a job shop is general purpose, and the labor force is highly skilled. 
+A job shop must be designed for maximum flexibility to deal with the wide prod- 
+uct variations encountered (hard product variety). If the product is large and heavy, 
+and therefore difficult to move, it typically remains in a single location during its fab- 
+rication or assembly. Workers and processing equipment are brought to the product, 
+rather than moving the product to the equipment. This type of layout is referred to 
+as a fixed-position layout, shown in Figure 1.11(a). In a pure situation, the product 
+Finished 
+products 
+Section 1.4/Production Systems 
+20 
+ 
+ 
+ 
+ 
+(a) 
+(b) 
+ 
+Worker 
+Workstation 
+Equipment 
+Conveyor 
+ 
+ 
+ 
+v 
+ 
+ 
+Cell 
+Cell 
+(c) 
+Workers 
+ 
+(d) 
+FIGURE 1.11  Various types of plant layout: (a) fixed-position layout, (b) process layout, (c) cellular layout, and 
+(d) product layout. 
+ 
+remains in a single location during its entire production. Examples of such products 
+include ships, aircraft, locomotives, and heavy machinery. In actual practice, these 
+items are usually built in large modules at single locations, and then the completed 
+modules are brought together for final assembly using large-capacity cranes. 
+The individual components of these large products are often made in factories in 
+which the equipment is arranged according to function or type. This arrangement 
+is called a process layout. The lathes are in one department, the milling machines 
+are in another department, and so on, as in Figure 1.11(b). Different parts, each 
+requiring a different operation sequence, are routed through the departments in the 
+particular order needed for their processing, usually in batches. The process layout 
+is noted for its flexibility; it can accommodate a great variety of operation sequences 
+for different part configurations. Its disadvantage is that the machinery and methods to 
+produce a part are not designed for high efficiency. 
+ 
+Medium Quantity Production 
+In the medium-quantity range (100–10,000 units 
+annually), two different types of facility are distinguished, depending on product 
+variety. When product variety is hard, the usual approach is batch production, in 
+which a batch of one product is made, after which the manufacturing equipment is 
+changed over to produce a batch of the next product, and so on. The production rate 
+of the equipment is greater than the demand rate for any single product type, and so 
+the same equipment can be shared among multiple products. The changeover between 
+production runs takes time—time to change tooling and set up the machin- ery. This 
+setup time is lost production time, and this is a disadvantage of batch manu- facturing. 
+Batch production is commonly used for make-to-stock situations, in which 
+Product 
+Equipment 
+(mobile) 
+Workers 
+Departments 
+Work unit 
+Production 
+machines 
+Section 1.4/Production Systems 
+21 
+ 
+ 
+items are manufactured to replenish inventory that has been gradually depleted by 
+demand. The equipment is usually arranged in a process layout, as in Figure 1.11(b). 
+An alternative approach to medium-range production is possible if product vari- 
+ety is soft. In this case, extensive changeovers between one product style and the 
+next may not be necessary. It is often possible to configure the manufacturing sys- 
+tem so that groups of similar products can be made on the same equipment without 
+significant lost time because of setup. The processing or assembly of different parts 
+or products is accomplished in cells consisting of several workstations or machines. 
+The term cellular manufacturing is often associated with this type of production. 
+Each cell is designed to produce a limited variety of part configurations; that is, the 
+cell specializes in the production of a given set of similar parts, according to the 
+principles of group technology (Section 39.5). The layout is called a cellular layout, 
+depicted in Figure 1.11(c). 
+High Production The high-quantity range (10,000 to millions of units per year) is 
+referred to as mass production. The situation is characterized by a high demand rate 
+for the product, and the manufacturing system is dedicated to the production of that 
+single item. Two categories of mass production can be distinguished: quantity produc- tion 
+and flow line production. Quantity production involves the mass production of 
+single parts on single pieces of equipment. It typically involves standard machines 
+(e.g., stamping presses) equipped with special tooling (e.g., dies and material handling 
+devices), in effect dedicating the equipment to the production of one part type. Typi- 
+cal layouts used in quantity production are the process layout and cellular layout. 
+Flow line production involves multiple pieces of equipment or workstations 
+arranged in sequence, and the work units are physically moved through the sequence to 
+complete the product. The workstations and equipment are designed specifically for 
+the product to maximize efficiency. The layout is called a product layout, and the 
+workstations are arranged into one long line, as in Figure 1.11(d), or into a series of 
+connected line segments. The work is usually moved between stations by mecha- 
+nized conveyor. At each station, a small amount of the total work is completed on 
+each unit of product. 
+The most familiar example of flow line production is the assembly line, associ- 
+ated with products such as cars and household appliances. The pure case of flow line 
+production occurs when there is no variation in the products made on the line. Every 
+product is identical, and the line is referred to as a single model production line. To 
+successfully market a given product, it is often beneficial to introduce feature and 
+model variations so that individual customers can choose the exact merchandise that 
+appeals to them. From a production viewpoint, the feature differences represent a 
+case of soft product variety. The term mixed-model production line applies to these 
+situations in which there is soft variety in the products made on the line. Modern 
+automobile assembly is an example. Cars coming off the assembly line have varia- 
+tions in options and trim representing different models and in many cases different 
+nameplates of the same basic car design. 
+ 
+1.4.2 MANUFACTURING SUPPORT SYSTEMS 
+ 
+To operate its facilities efficiently, a company must organize itself to design the proc- esses 
+and equipment, plan and control the production orders, and satisfy product quality 
+requirements. These functions are accomplished by manufacturing sup- port 
+systems—people and procedures by which a company manages its production 
+Section 1.4/Production Systems 
+22 
+ 
+ 
+operations. Most of these support systems do not directly contact the product, but 
+they plan and control its progress through the factory. Manufacturing support func- 
+tions are often carried out in the firm by people organized into departments such as 
+the following: 
+ 
+➢ Manufacturing engineering. The manufacturing engineering department is re- 
+sponsible for planning the manufacturing processes—deciding what processes 
+should be used to make the parts and assemble the products. This department is 
+also involved in designing and ordering the machine tools and other equipment 
+used by the operating departments to accomplish processing and assembly. 
+➢ Production planning and control. This department is responsible for solv- ing 
+the logistics problem in manufacturing—ordering materials and purchased 
+parts, scheduling production, and making sure that the operating departments 
+have the necessary capacity to meet the production schedules. 
+➢ Quality control. Producing high-quality products should be a top priority of any 
+manufacturing firm in today’s competitive environment. It means designing and 
+building products that conform to specifications and satisfy or exceed customer 
+expectations. Much of this effort is the responsibility of the QC department. 
+ 
+Manufacturing Economics 
+In Section 1.1.1, manufacturing was defined as a transformation process that adds 
+value to a starting work material. In Section 1.1.2, we noted that manufacturing is 
+a commercial activity performed by companies that sell products to customers. It is 
+appropriate to consider some of the economic aspects of manufacturing, and that is 
+the purpose of this section. Our coverage consists of (1) production cycle time analy- 
+sis and (2) manufacturing cost models. 
+ 
+ 
+1.5.1 
+PRODUCTION CYCLE TIME ANALYSIS 
+ 
+“Time is money”, as the saying goes. The total time to make a product is one of the 
+components that determine its total cost and the price that can be charged for it. The 
+total time is the sum of all of the individual cycle times of the unit operations needed 
+to manufacture the product. As defined in Section 1.3, a unit operation is a single step 
+in the sequence of steps required to make the final product. The cycle time of a unit 
+operation is defined as the time that one work unit spends being processed or assem- 
+bled. It is the time interval between when one work unit begins the operation and 
+the next unit begins. A typical production cycle time consists of the actual processing time 
+plus the work handling time, for example, loading and unloading the part in the 
+machine. In some processes, such as machining, time is also required to periodically 
+change the tooling used in the operation when it wears out. In equation form, 
+Tc = To 1 Th 1 Tt 
+(1.1) 
+where Tc = cycle time of the unit operation, min/pc; To = actual processing time in 
+the operation, min/pc; Th = work handling time, min/pc; and Tt = tool handling time 
+if that applies in the operation, min/pc. As indicated, the tool handling time usually 
+occurs periodically, not every cycle, so the time per workpiece must be determined 
+by dividing the actual time associated with changing the tool by the number of pieces 
+.5 
+Section 1.5/Manufacturing Economics 
+23 
+ 
+ 
+between tool changes. It should be mentioned that many production operations do 
+not include a tool change, so that term is omitted from Equation (1.1) in those cases. 
+Batch and job shop production are common types of manufacturing. The time 
+to produce a batch of parts in a unit operation consists of the time to set up for the 
+batch plus the actual run time. This can be summarized as follows: 
+ 
+Tb = Tsu + QTc 
+(1.2) 
+ 
+where Tb = total time to complete the batch, min/batch; Tsu = setup time, min/batch; 
+Q = batch quantity, number of pieces (pc); and Tc = cycle time as defined in Equa- 
+tion (1.1), min/pc. To obtain a realistic value of the average production time per 
+piece, the setup time is spread over the batch quantity, as follows: 
+T = Tsu + T = Tsu + QTc = Tb  
+(1.3) 
+ 
+ 
+p 
+Q 
+c 
+Q 
+Q 
+where Tp = average production time per piece, min/pc; and the other terms are de- 
+fined above. 
+If the batch size is one part, then Equations (1.2) and (1.3) are still applicable, and 
+Q = 1. In high production (mass production), these equations can also be used, but 
+the value of Q is so large that the setup time loses significance: As Q → oo, Tsu/Q → 0. 
+The average production time per piece in Equation (1.3) can be used to deter- 
+mine the actual average production rate in the operation: 
+R = 60 
+p 
+Tp
+ 
+ 
+(1.4) 
+where Rp = average hourly production rate, pc/hr. This production rate includes the 
+effect of setup time. During the production run (after the machine is set up), the 
+production rate is the reciprocal of the cycle time: 
+R = 60 
+c 
+Tc
+ 
+ 
+(1.5) 
+where Rc = hourly cycle rate, cycles/hr or pc/hr. These equations indicate that the 
+cycle rate will always be larger than the actual production rate unless the setup time 
+is zero (Rc > Rp). 
+ 
+ 
+1.5.2 MANUFACTURING COST MODELS 
+ 
+In this section, the cycle time analysis is used to estimate the costs of production, 
+which include not only the cost of time but also material and overhead. The cost of 
+time consists of labor and equipment costs, which are applied to the average produc- 
+tion time per piece as cost rates (e.g., $/hr). Thus, our cost model for production cost 
+per piece can be stated as follows: 
+Cpc = Cm + (CL + Ceq)Tp + Ct 
+(1.6) 
+where Cpc = cost per piece, $/pc; Cm = starting material cost, $/pc; CL = labor cost 
+rate, $/min; Ceq = equipment cost rate, $/min; Ct = cost of tooling that is used in the 
+unit operation, $/pc; and Tp = average production time per piece, min/pc. If appli- 
+cable, the cost of tooling Ct must be determined by dividing the actual cost of the 
+tooling by the number of pieces between tool changes. 
+Section 1.5/Manufacturing Economics 
+24 
+ 
+ 
+Overhead Costs The two cost rates, CL and Ceq, include overhead costs, which 
+consist of all of the expenses of operating the company other than material, labor, 
+and equipment. Overhead costs can be divided into two categories: (1) factory over- 
+head and (2) corporate overhead. Factory overhead consists of the costs of running 
+the factory excluding materials, direct labor, and equipment. This overhead category 
+includes plant supervision, maintenance, insurance, heat and light, and so forth. A 
+worker who operates a piece of equipment may earn an hourly wage of $15/hr, but 
+when fringe benefits and other overhead costs are figured in, the worker may cost 
+the company $30/hr. Corporate overhead consists of company expenses not related 
+to the factory, such as sales, marketing, accounting, legal, engineering, research and 
+development, office space, utilities, and health benefits.3 These functions are required in 
+the company, but they are not directly related to the cost of manufacturing. On the other 
+hand, for pricing the product, they must be added in, or else the company will lose 
+money on every product it sells. 
+J Black [1] offers some estimates of the typical costs associated with manufac- 
+turing a product, presented in Figure 1.12. Several observations are worth making 
+here. First, total manufacturing costs constitute only 40% of the product’s selling 
+price. Corporate overhead expenses (Engineering, Research and development, 
+Administration, sales, marketing, etc.) add up to almost as much as manufacturing 
+cost. Second, parts and materials are 50% of total manufacturing cost, so that is 
+about 20% of selling price. Third, direct labor is only about 12% of manufacturing 
+cost, so that is less than 5% of selling price. Factory overhead, which includes the 
+categories Plant and machinery, depreciation, energy at 26% and Indirect labor at 
+12%, adds up to more than three times Direct labor cost. 
+The issue of overhead costs can become quite complicated. A more complete 
+treatment can be found in [7] and most introductory accounting textbooks. Our 
+approach in this book is simply to include an appropriate overhead expense in our 
+labor and equipment cost rates. For example, the labor cost rate is 
+RH 
+C = 
+(1 + R  
+) 
+(1.7) 
+L 
+60 
+LOH 
+where CL = labor cost rate, $/min; RH = worker’s hourly wage rate, $/hr; and RLOH = 
+labor overhead rate, %. 
+Research and 
+development 
+Manufacturing cost 
+Engineering 
+Administration, 
+sales, marketing, 
+etc. 
+Profit 
+ 
+ 
+ 
+ 
+ 
+FIGURE 1.12 
+Typical break- 
+down of costs for 
+a manufactured 
+product [1]. 
+ 
+3Health benefits, if available from the company, are fringe benefits that apply to all regular employees, 
+and so they would be included in the direct labor overhead in the factory as well as the corporate offices. 
+40% 
+15% 
+5% 
+25% 
+15% 
+ 
+ 
+ 
+Plant and 
+machinery, 
+Direct 
+depreciation, 
+Indirect 
+labor 
+energy, etc. 
+labor 
+Parts and materials 
+12% 
+26% 
+12% 
+50% 
+ 
+ 
+Section 1.5/Manufacturing Economics 
+25 
+ 
+ 
+Equipment Cost Rate The cost of production equipment used in the factory is a 
+fixed cost, meaning that it remains constant for any level of production output. It is 
+a capital investment that is made in the hope that it will pay for itself by producing 
+a revenue stream that ultimately exceeds its cost. The company puts up the money 
+to purchase the equipment as an initial cost, and then the equipment pays back over 
+a certain number of years until it is replaced or disposed of. This is different from 
+direct labor and material costs, which are variable costs, meaning they are paid for 
+as they are used. Direct labor cost is a cost per time ($/min), and Material cost is a 
+cost per piece ($/pc). 
+In order to determine an equipment cost rate, the initial cost plus installation cost 
+of the equipment must be amortized over the number of minutes it is used during its 
+lifetime. The equipment cost rate is defined by the following: 
+Ceq =  IC  (1 + ROH) 
+(1.8) 
+60NH 
+where Ceq = equipment cost rate, $/min; IC = initial cost of the equipment, $; N = 
+anticipated number of years of service; H = annual number of hours of operation, 
+hr/yr; and ROH = applicable overhead rate for the equipment, %. 
+ 
+ 
+Example 1.1 
+Equipment 
+cost rate 
+A production machine is purchased for an initial cost plus installation of 
+$500,000. Its anticipated life = 7 years. The machine is planned for a two-shift 
+operation, eight hours per shift, and five days per week. Assume 50 weeks per 
+year. The applicable overhead rate on this type of equipment = 35%. Deter- 
+mine the equipment cost rate. 
+Solution: The number of hours of operation per year H = 50(2)(5)(8) = 
+4000 hr/yr. Using Equation (1.8), we have 
+Ceq =   500,000  (1 + 0.35) = $0.402/min == $24.11/hr 
+60(7)(4000) 
+ 
+ 
+ 
+ 
+Example 1.2 
+Cycle time and 
+cost per piece 
+The production machine in Example 1.1 is used to produce a batch of parts 
+that each has a starting material cost = $2.35. Batch quantity = 100. The actual 
+processing time in the operation = 3.72 min. Time to load and unload each 
+workpiece = 1.60 min. Tool cost = $4.40, and each tool can be used for 20 
+pieces before it is changed, which takes 2.0 min. Before production can begin, 
+the machine must be set up, which takes 2.5 hr. Hourly wage rate of the opera- 
+tor = $16.50/hr, and the applicable labor overhead rate = 40%. Determine (a) 
+the cycle time for the piece, (b) average production rate when setup time is 
+figured in, and (c) cost per piece. 
+Solution: (a) For Equation (1.1), processing time To = 3.72 min, part handling 
+time Th = 1.50 min, and tool handling time Tt = 2.00 min/20 = 0.10 min. 
+Tc = 3.72 + 1.60 + 0.10 = 5.42 min/pc 
+ 
+Section 1.5/Manufacturing Economics 
+26 
+ 
+ 
+ 
+ 
+Equipment reliability and scrap rate of parts are sometimes issues in produc- 
+tion. Equipment reliability is represented by the term availability (denoted by the 
+symbol A), which is simply the proportion uptime of the equipment. For example, if 
+A = 97%, then for every 100 hours of machine operation, we would expect on aver- 
+age that the machine would be running for 97 hours and be down for maintenance 
+and repairs for 3 hours. Scrap rate refers to the proportion of parts produced that 
+are defective. Let q denote the scrap rate. In batch production, more than the speci- 
+fied batch quantity are often produced to compensate for the losses due to scrap. 
+Let Q = the required quantity of parts to be delivered and Qo = the starting quan- 
+tity. The following equation can be used to determine how many starting parts are 
+needed on average to satisfy an order for Q finished parts: 
+Q 
+Qo = 1 - 
+q 
+ 
+(1.9) 
+ 
+Example 1.3 
+Scrap rate 
+A customer has ordered a batch of 1,000 parts to be produced by a machine 
+shop. Historical data indicates that the scrap rate on this type of part = 4%. 
+How many parts should the machine shop plan to make in order to account 
+for this scrap rate? 
+Solution: Given Q = 1,000 parts and q = 4% = 0.04, then the starting quan- 
+tity is determined as follows: 
+Q =  1000  
+= 1000 = 1041.7 rounded to 1042 starting parts 
+o 
+1 
+- 
+0.04 
+0.96 
+ 
+ 
+ 
+Of course, in modern manufacturing practice, every effort is made to minimize scrap 
+rate, with the goal being zero defects. Availability and scrap rate also figure into cal- 
+culations of production rate and part cost, as demonstrated in Example 1.4. 
+ 
+ 
+ 
+100 
+ 
+ 
+ 
+6.92 
+(c) The equipment cost rate from Example 1.1 is Ceq = $0.402/min ($24.11/hr). 
+The labor rate is calculated as follows: 
+ 
+ 
+60 
+ 
+ 
+Section 1.6/Recent Developments in Manufacturing 
+27 
+ 
+ 
+Example 1.4 
+Cycle time and 
+cost per piece 
+A high-production operation manufactures a part for the automotive indus- 
+try. Starting material cost = $1.75, and cycle time = 2.20 min. Equipment cost 
+rate = $42.00/hr, and labor cost rate = $24.00/hr, including overhead costs in 
+both cases. Availability of the production machine in this job = 97%, and the 
+scrap rate of parts produced = 5%. Because this is a long-running job, setup 
+time is ignored, and there is no tooling cost to be considered. (a) Determine 
+the production rate and finished part cost in this operation. (b) If availability 
+could be increased to 100% and scrap rate could be reduced to 0, what would 
+be the production rate and finished part cost? 
+Solution: (a) Production rate, including effect of availability 
+R =  60  (0.97) = 26.45 pc/hr 
+p 
+2.20 
+However, because of the 5% scrap rate, the production rate of acceptable 
+parts is 
+Rp = 26.45(1 - 
+0.05) = 25.13 pc/hr 
+Because of availability and scrap rate, the part cost is 
+Cpc =  
+1.75 
+ + 
+( 
+2.20 
+) 
+= $4.47/pc 
+(24 + 42) 
+(1 - 
+0.05) 
+(0.97) 
+60(1 - 
+0.05) 
+(b) If A = 100% and q = 0,  Rp =  60  = 27.27 pc/hr. 
+2.20 
+Part cost Cpc = 1.75 + (42 + 24)(2.20/60) = $4.17/pc. 
+This is an 8.5% increase in production rate and a 6.7% reduction in cost. 
+ 
+ 
+Recent Developments in Manufacturing 
+Manufacturing materials, processes, and systems have been the object of devel- 
+opment for thousands of years (Historical Notes 1.1 and 1.2). In this section, we 
+want to focus on developments that are of more recent vintage, say within the last 
+25 to 50 years. The discussion is organized around the following topic areas: 
+(1) microelectronics, (2) computerization of manufacturing, (3) flexible manufactur- 
+ing, (4) microfabrication and nanotechnology, (5) lean production and Six Sigma, 
+(6) globalization, and (7) environmentally conscious manufacturing. 
+ 
+Microelectronics Microelectronics involves electronic devices that are fabri- 
+cated on a microscopic scale. Examples include integrated circuits, which consist of 
+components such as transistors, diodes, and resistors that have been fabricated and 
+electrically connected on a small flat chip, usually made of silicon. The remarkable 
+feature about today’s microelectronics devices is the huge number of components 
+that can be contained onto the chip. The capability to fabricate integrated circuits 
+dates from the early 1960s and has advanced to the point where the current technol- 
+ogy is called giga-scale integration, meaning that chips are being produced consist- 
+ing of billions of components. Microelectronics has become so pervasive that a large 
+.6 
+Section 1.6/Recent Developments in Manufacturing 
+28 
+ 
+ 
+proportion of the common items used today are based on this technology. Two thirds 
+of the products listed in Table 1.1 are either called electronics products or their func- 
+tion and operation depend on electronics. In this book, the fabrication of integrated 
+circuits is covered in Chapter 33 and electronics assembly in Chapter 34. 
+ 
+Computerization of Manufacturing The first digital computers date from the 
+mid-1940s, but their applications in manufacturing came quite a few years later. In the 
+mid-1960s direct numerical control was developed, in which mainframe com- puters 
+were employed to remotely control machine tools in factories. As computer technology 
+developed, enabled by advances in microelectronics, the cost of comput- ers and data 
+processing was reduced, leading to the widespread use of personal com- puters, not 
+only in the office but also in the factory for tasks ranging from control of individual 
+equipment on the shop floor to control of the information required to manage the entire 
+enterprise. The Internet has allowed manufacturing companies to communicate among 
+their own geographically distributed plants and offices, and it has also provided access 
+to customers and suppliers around the world. In this book, several aspects of 
+computerization of manufacturing are included in Parts X and XI on manufacturing 
+systems (Chapters 37 and 38) and manufacturing support systems (Chapters 39 and 
+40). 
+ 
+Flexible Manufacturing During most of the twentieth century, the emphasis in 
+the manufacturing industries in the United States was on mass production to sat- 
+isfy the consumer demands of a rapidly growing population. Mass production is still 
+widely used in the United States and throughout the world, but computerization has 
+enabled manufacturing companies to develop systems that are able to cope with 
+product variations. The reader encountered several instances of this manufacturing 
+flexibility in Section 1.4.1 in the discussion of production facilities. Cellular manu- 
+facturing and mixed-model assembly lines are two examples of manually operated 
+manufacturing systems that are capable of producing a variety of parts or products 
+without the time-consuming downtime for changeover. The automobile industry, in 
+particular, is designing its final assembly lines so that ever-greater model variations 
+can be accommodated on a single line to meet changing and unpredictable demand 
+patterns. Computerization has also allowed flexibility to be designed into automated 
+systems, examples of which are the flexible manufacturing systems discussed in Sec- tion 
+38.6. 
+Closely related to flexible manufacturing is mass customization, which involves 
+a production system that is capable of producing individualized products for each 
+customer. The customer specifies the model and options, and the product is made to 
+those specifications. Mass customization is discussed in Section 38.6.3. 
+ 
+Microfabrication and Nanotechnology Another recent development in manu- 
+facturing, closely related to microelectronics, is the introduction of materials and 
+products whose dimensions are sometimes so small that they cannot be seen by the 
+naked eye. In extreme cases, the items cannot even be seen under an optical micro- 
+scope. Products that are so miniaturized require special fabrication technologies. 
+Microfabrication refers to the processes needed to make parts and products whose 
+features sizes are in the micrometer range (1 mm = 10-3 mm = 10-6m). Examples 
+include ink-jet printing heads, compact discs (CDs and DVDs), and microsensors used 
+in automotive applications (e.g., air-bag deployment sensors). Nanotechnol- ogy 
+refers to materials and products whose feature sizes are in the nanometer scale 
+Section 1.6/Recent Developments in Manufacturing 
+29 
+ 
+ 
+(1 nm = 10-3 mm = 10-6 mm = 10-9m), a scale that approaches the size of atoms and 
+molecules. Ultra-thin coatings for catalytic converters, flat screen TV monitors, and 
+cancer drugs are examples of products based on nanotechnology. The technological 
+and economic importance of microscopic and nanoscopic materials and products is 
+expected to increase in the future, and processes are needed to produce them com- 
+mercially. Chapters 35 and 36 are devoted to these technologies. 
+ 
+Lean Production and Six Sigma These are two programs aimed at improving 
+efficiency and quality in manufacturing. They address demands by customers for 
+products they buy to be both low in cost and high in quality. Lean production and Six 
+Sigma are being widely adopted by companies, especially in the United States. 
+Lean production is based on the Toyota Production System developed by Toyota 
+Motors in Japan. Its origins date from the 1950s and 1960s when Toyota began using 
+unconventional approaches to improve quality, reduce inventories, and increase 
+flexibility in its operations. Lean production can be defined simply as “doing more 
+work with fewer resources.”4 It means that fewer workers and less equipment are 
+used to accomplish more production in less time, and yet achieve higher quality in 
+the final product. The underlying objective of lean production is the elimination of 
+various forms of waste, such as producing defective parts, excessive inventories, and 
+workers waiting. Lean production is described in Sections 39.4 and 39.5 in our chap- 
+ter on process planning and production control. 
+Six Sigma was started in the 1980s at Motorola Corporation in the United States. 
+The objective was to reduce variability in the company’s processes and products to 
+increase customer satisfaction. Today, Six Sigma can be defined as “a quality-focused 
+program that utilizes worker teams to accomplish projects aimed at improving an 
+organization’s operational performance.”5 Six Sigma is discussed in more detail in 
+Section 40.4.2. 
+ 
+Globalization and Outsourcing The world is becoming more and more inte- 
+grated, creating an international economy in which barriers once established by 
+national boundaries have been reduced or eliminated. This has enabled a freer flow 
+of goods and services, capital, technology, and people among regions and countries. 
+Globalization is the term that describes this trend, which was recognized in the late 
+1980s and is now a dominant economic reality. Of interest here is that once under- 
+developed nations such as China, India, and Mexico have developed their manufac- 
+turing infrastructures and technologies to a level such that they are now important 
+producers in the global economy. These countries have large populations, and there- 
+fore large workforces, and low labor costs. Hourly wages are significantly higher 
+in the United States than in these countries, making it difficult for domestic U.S. 
+companies to compete in many products that require high labor content. Examples 
+include garments, furniture, toys, and electronic consumer products. The result has 
+been a loss of manufacturing jobs in the United States and a gain of related work to 
+these countries. 
+Outsourcing is closely related to globalization. In manufacturing, outsourc- ing 
+refers to the use of outside contractors to perform work that was traditionally 
+ 
+4 M. P. Groover, Work Systems and the Methods, Measurement, and Management of Work [8], p. 514. The 
+term lean production was coined by researchers at the Massachusetts Institute of Technology who studied 
+the production operations at Toyota and other automobile companies in the 1980s. 
+5 Ibid, p. 541. 
+Section 1.6/Recent Developments in Manufacturing 
+30 
+ 
+ 
+accomplished in-house. Outsourcing can be done in several ways, including the use 
+of local suppliers. In this case the jobs remain in the United States. Alternatively, 
+U.S. companies can outsource to foreign countries, so that parts and products once 
+made in the United States are now made outside the country. In this case U.S. jobs 
+are displaced. Two possibilities can be distinguished: (1) offshore outsourcing, which 
+refers to production in China or other overseas locations and transporting the items 
+by cargo ship to the United States, and (2) near-shore outsourcing, which means the items 
+are made in Canada, Mexico, or Central America and shipped by rail or truck into 
+the United States. 
+Outsourcing has resulted in the growth of contract manufacturers, companies 
+that specialize in producing parts, subassemblies, and/or products for other com- 
+panies. Contract manufacturers have developed expertise and efficiencies in cer- 
+tain manufacturing operations, which means they can likely produce the contracted 
+items at prices that are lower than the production costs of the customer company if 
+it were the producer. Contract manufacturers include both domestic (U.S.) and 
+foreign companies.6 Reasons why a company might prefer to use the services of a 
+contract manufacturer include: (1) the company benefits from cost savings because 
+it does not have to pay the factory expenses associated with production, (2) the 
+company can focus its resources on design and marketing of products rather than 
+manufacturing, and (3) the company may benefit from skills possessed by the con- 
+tract manufacturer but not by itself. On the other hand, there are risks associated 
+with contract manufacturing by the customer company. In turning over its prod- 
+uct designs it loses control over its intellectual property, which might result in the 
+contract manufacturer becoming a competitor. The distinction between a contract 
+manufacturer and a supplier is perhaps subtle. A supplier is usually thought of as a 
+company that provides materials and components for a customer who is engaged in 
+production of a product, whereas a contract manufacturer accomplishes the whole 
+production of the product. It may use suppliers itself. 
+China is of particular interest in this discussion of globalization and outsourcing 
+because of (1) its fast-growing economy (it now boasts the second largest gross domes- tic 
+product in the world), (2) the importance of manufacturing in that economy, and 
+(3) the extent to which U.S. companies have outsourced work to China. To take advan- tage 
+of the low labor rates, many U.S. companies have moved much of their production to 
+China (and other east Asian countries). Despite the logistics problems and costs of 
+shipping the goods back into the United States, the result has been lower costs and 
+higher profits for the outsourcing companies, as well as lower prices and a wider 
+variety of available products for American consumers. The downside has been the loss 
+of well-paying manufacturing jobs in the United States. Another consequence of U.S. 
+outsourcing to China has been a reduction in the relative contribution of the manufac- 
+turing sector to GDP. In the 1990s, the manufacturing industries accounted for about 
+20% of GDP in the United States. Today, that contribution is only about 12%. At the 
+same time, the manufacturing sector in China has grown (along with the rest of its 
+economy), now accounting for about 35% of Chinese GDP. 
+Recently, there have been signs that outsourcing of production to China by 
+American companies may be declining, and that manufacturing jobs are being 
+brought back to the U.S. There are several reasons for this trend, which is called 
+ 
+6 The largest contract manufacturer at the time of this writing is Hon Hai Precision Industries (a.k.a. 
+Foxconn, headquartered in Taiwan, but many of its factories are located in China). It ranked 60th in the 
+Fortune Global 500 with sales of $95 billion in 2010 (Fortune, July 25, 2011). 
+Section 1.6/Recent Developments in Manufacturing 
+31 
+ 
+ 
+reshoring. First, wage rates in China are increasing as the 
+government attempts to evolve from an export-driven economy 
+to a consumer-oriented economy, similar to the United States. 
+Higher Chinese wage rates mean less advantage for U.S. 
+compa- nies to offshore jobs to China. Second, logistics costs 
+and delays involved in trans- porting products from China to North 
+America are significant, especially as oil prices increase. 
+Accordingly, some companies, in their analyses of costs and 
+benefits, have decided to produce in the United States, re-
+opening old factories or building new ones. On the other hand, 
+U.S. companies producing goods for the Chinese market still have 
+good reasons to keep their operations going in that country, just as 
+Japanese and German automobile makers have established 
+plants in the United States. 
+ 
+Environmentally Conscious Manufacturing 
+An inherent 
+feature of virtually all manufacturing processes is waste (Section 
+1.3.1). The most obvious examples are material removal 
+processes, in which chips are removed from a starting 
+workpiece to create the desired part geometry. Waste in one 
+form or another is a by-product of nearly all production 
+operations. Another unavoidable aspect of manufacturing is 
+that power is required to accomplish any given process. 
+Generating that power requires fossil fuels (at least in the 
+United States and China), the burning of which results in 
+pollution of the environment. At the end of the manufacturing 
+sequence, a product is created that is sold to a customer. 
+Ultimately, the product wears out and is disposed of, perhaps in 
+some landfill, with the associated environmental degrada- tion. 
+More and more attention is being paid by society to the 
+environmental impact of human activities throughout the world 
+and how modern civilization is using our natural resources at an 
+unsustainable rate. Global warming is presently a major con- 
+cern. The manufacturing industries contribute to these 
+problems. 
+Environmentally conscious manufacturing refers to programs 
+that seek to deter- mine the most efficient use of materials and 
+natural resources in production and minimize the negative 
+consequences on the environment. Other terms for these pro- grams 
+include green manufacturing and sustainable manufacturing. 
+They all boil down to two basic approaches: (1) design products 
+that minimize their environmen- tal impact and (2) design 
+processes that are environmentally friendly. 
+Product 
+design 
+is 
+the 
+logical 
+starting 
+point 
+in 
+environmentally conscious manu- facturing. The term design 
+for environment (DFE) is used for the techniques that attempt 
+to consider environmental impact during product design prior 
+to produc- tion. Considerations in DFE include (1) selecting 
+materials that require minimum energy to produce, (2) 
+selecting processes that minimize waste of materials and 
+energy, (3) designing parts that can be recycled or reused, (4) 
+designing products that can be readily disassembled to recover 
+the parts, (5) designing products that minimize the use of 
+hazardous and toxic materials, and (6) giving attention to how 
+Section 1.6/Recent Developments in Manufacturing 
+32 
+ 
+the product will be disposed of at the end of its useful life. 
+To a great degree, decisions made during design dictate the 
+materials and processes that are used to make the product. These 
+decisions limit the options available to the manufacturing 
+departments to achieve sustainability. However, various 
+approaches can be applied to make plant operations more 
+environmentally friendly. They include 
+(1) adopting good housekeeping practices—keeping the factory 
+clean, (2) preventing pollutants from escaping into the environment 
+(rivers and atmosphere), (3) minimiz- ing waste of materials in 
+unit operations, (4) recycling rather than discarding waste 
+materials, (5) using net shape processes, (6) using renewable 
+energy sources when feasible, (7) maintaining production 
+equipment so that it operates at maximum effi- ciency, and (8) 
+investing in equipment that minimizes power requirements. 
+ 
+CCH 
+1.1 What Is Manufacturing? Manufactur- 
+ing? 
+1.1 
+What Is Manufacturing? Manu- 
+facturing? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+36 
+The Nature of 
+Materials 
+ 
+ 
+ 
+ 
+An understanding of materials is fundamental in the 
+study of manufacturing processes. In Chapter 1, manu- 
+facturing was defined as a transformation process. It is 
+the material that is transformed; and it is the behavior 
+of the material when subjected to the particular forces, 
+temperatures, and other physical parameters of the 
+process that determines the success of the operation. 
+Certain materials respond well to certain types of manu- 
+facturing processes and poorly or not at all to others. 
+What are the characteristics and properties of materials 
+that determine their capacity to be transformed by the 
+different processes? 
+Part I of this book consists of four chapters that 
+address this question. The current chapter considers the 
+atomic structure of matter and the bonding bet- ween 
+atoms and molecules. It also shows how atoms and 
+molecules in engineering materials organize themselves 
+into two structural forms: crystalline and noncrystalline. 
+It turns out that the basic engineering materials—metals, 
+ceramics, and polymers—can exist in either form, 
+although a preference for a particular form is usually 
+exhibited by a given material. For exam- ple, metals 
+almost always exist as crystals in their solid state. Glass 
+(e.g., window glass), a ceramic, assumes a noncrystalline 
+form. Some polymers are mixtures of crystalline and 
+amorphous structures. 
+Chapters 3 and 4 discuss the mechanical and physical 
+properties that are relevant in manufacturing. Of course, 
+these properties are also important in product design. 
+Chapter 5 is concerned with several part and product 
+2 
+ 
+2.1
+Atomic Structure and the Elements 
+2.2
+Bonding between Atoms and Molecules 
+2.3
+Crystalline Structures 
+2.3.1
+ 
+2.3.2
+ 
+2.3.3
+ 
+2.3.4
+ 
+2.4
+Noncrystalline (Amorphous) Structures 
+2.5
+Engineering Materials 
+36 
+Section 2.1/Atomic Structure and the Elements 
+37 
+ 
+ 
+attributes that are specified during product design and must be achieved in manufac- turing: 
+dimensions, tolerances, and surface finish. Chapter 5 also describes how these attributes 
+are measured. 
+ 
+Atomic Structure and the Elements 
+The basic structural unit of matter is the atom. Each atom is composed of a positively 
+charged nucleus, surrounded by a sufficient number of negatively charged electrons so that 
+the charges are balanced. The number of electrons identifies the atomic number and 
+the element of the atom. There are slightly more than 100 elements (not counting a few 
+extras that have been artificially synthesized), and these elements are the chemi- cal 
+building blocks of all matter. 
+Just as there are differences among the elements, there are also similarities. The 
+elements can be grouped into families and relationships established between and 
+within the families by means of the Periodic Table, shown in Figure 2.1. In the 
+horizontal direction there is a certain repetition, or periodicity, in the arrange- ment 
+of elements. Metallic elements occupy the left and center portions of the chart, and 
+nonmetals are located to the right. Between them, along a diagonal, is a transition 
+zone containing elements called metalloids or semimetals. In principle, each of the 
+elements can exist as a solid, liquid, or gas, depending on temperature and pressure. 
+At room temperature and atmospheric pressure, they each have a natural phase; 
+e.g., iron (Fe) is a solid, mercury (Hg) is a liquid, and nitrogen (N) is a gas. 
+ 
+ 
+ 
+FIGURE 2.1  Periodic Table of Elements. The atomic number and symbol are listed for the 103 elements. 
+2. 
+Section 2.1/Atomic Structure and the Elements 
+38 
+ 
+ 
+In the table, the elements are arranged into vertical columns and horizontal rows 
+in such a way that similarities exist among elements in the same columns. For exam- 
+ple, in the extreme right column are the noble gases (helium, neon, argon, krypton, 
+xenon, and radon), all of which exhibit great chemical stability and low reaction 
+rates. The halogens (fluorine, chlorine, bromine, iodine, and astatine) in column 
+VIIA share similar properties (hydrogen is not included among the halogens). The 
+noble metals (copper, silver, and gold) in column IB have similar properties. Gen- 
+erally, there are correlations in properties among elements within a given column, 
+whereas differences exist among elements in different columns. 
+Many of the similarities and differences among the elements can be explained by their 
+respective atomic structures. The simplest model of atomic structure, called the 
+planetary model, shows the electrons of the atom orbiting around the nucleus at 
+certain fixed distances, called shells, as shown in Figure 2.2. The hydrogen atom 
+(atomic number 1) has one electron in the orbit closest to the nucleus. Helium 
+(atomic number 2) has two. Also shown in the figure are the atomic structures 
+for fluorine (atomic number 9), neon (atomic number 10), and sodium (atomic 
+number 11). One might infer from these models that there is a maximum number 
+of electrons that can be contained in a given orbit. This turns out to be correct, and 
+the maximum is defined by 
+Maximum number of electrons in an orbit = 2n2 
+where n identifies the orbit, with n = 1 closest to the nucleus. 
+The number of electrons in the outermost shell, relative to the maximum 
+number allowed, determines to a large extent the atom’s chemical affinity for 
+other atoms. These outer-shell electrons are called valence electrons. For exam- 
+ple, because a hydrogen atom has only one electron in its single orbit, it readily 
+combines with another hydrogen atom to form a hydrogen molecule H2. For the 
+same reason, hydrogen also reacts readily with various other elements (e.g., to 
+form H2O). In the helium atom, the two electrons in its only orbit are the maxi- 
+mum allowed (2n2 = 2(1)2 = 2), and so helium is very stable. Neon is stable for 
+the same reason: Its outermost orbit (n = 2) has eight electrons (the maximum 
+allowed), so neon is an inert gas. 
+In contrast to neon, fluorine has one fewer electron in its outer shell (n = 2) than 
+the maximum allowed and is readily attracted to other elements that might share an 
+ 
+ 
+FIGURE 2.2  Simple model of atomic structure for several elements: (a) hydrogen, (b) helium, (c) fluorine, (d) neon, 
+and (e) sodium. 
+Section 2.2/Bonding between Atoms and Molecules 
+39 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE 2.3 The sodium fluoride 
+molecule formed by the transfer of the 
+“extra” electron of the sodium atom 
+to complete the outer orbit of the 
+fluorine atom. 
+ 
+electron to make a more stable set. The sodium atom seems divinely made for the 
+situation, with one electron in its outermost orbit. It reacts strongly with fluorine to 
+form the compound sodium fluoride, as pictured in Figure 2.3. 
+At the low atomic numbers considered here, the prediction of the number of 
+electrons in the outer orbit is straightforward. As the atomic number increases to 
+higher levels, the allocation of electrons to the different orbits becomes somewhat 
+more complicated. There are rules and guidelines, based on quantum mechanics, 
+that can be used to predict the positions of the electrons among the various orbits 
+and explain their characteristics. A discussion of these rules is somewhat beyond the scope 
+of this coverage of manufacturing materials. 
+ 
+Bonding between Atoms and Molecules 
+Atoms are held together in molecules by various types of bonds that depend on the 
+valence electrons. By comparison, molecules are attracted to each other by weaker 
+bonds, which generally result from the electron configuration in the indi- vidual 
+molecules. Thus, we have two types of bonding: (1) primary bonds, gener- ally 
+associated with the formation of molecules; and (2) secondary bonds, generally associated 
+with attraction between molecules. Primary bonds are much stronger than 
+secondary bonds. 
+ 
+Primary Bonds Primary bonds are characterized by strong atom-to-atom attrac- 
+tions that involve the exchange of valence electrons. Primary bonds include the fol- 
+lowing forms: (a) ionic, (b) covalent, and (c) metallic, as illustrated in Figure 2.4. 
+Ionic and covalent bonds are called intramolecular bonds because they involve at- 
+tractive forces between atoms within the molecule. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE 2.4 Three 
+forms of primary bonding: 
+(a) ionic, (b) covalent, 
+and (c) metallic. 
+2.2 
+Section 2.2/Bonding between Atoms and Molecules 
+40 
+ 
+ 
+In the ionic bond, the atoms of one element give up their outer electron(s), which 
+are in turn attracted to the atoms of some other element to increase their electron count 
+in the outermost shell to eight. In general, eight electrons in the outer shell is the most 
+stable atomic configuration (except for the very light atoms), and nature pro- vides a 
+very strong bond between atoms that achieves this configuration. The previous example 
+of the reaction of sodium and fluorine to form sodium fluoride (Figure 2.3) illustrates 
+this form of atomic bond. Sodium chloride (table salt) is a more common example. 
+Because of the transfer of electrons between the atoms, sodium and fluorine (or sodium 
+and chlorine) ions are formed, from which this bonding derives its name. Properties of 
+solid materials with ionic bonding include low electrical conductivity and poor 
+ductility. 
+The covalent bond is one in which electrons are shared (as opposed to trans- 
+ferred) between atoms in their outermost shells to achieve a stable set of eight. 
+Fluorine and diamond are two examples of covalent bonds. In fluorine, one electron 
+from each of two atoms is shared to form F2 gas, as shown in Figure 2.5(a). In the 
+case of diamond, which is carbon (atomic number 6), each atom has four neighbors 
+with which it shares electrons. This produces a very rigid three-dimensional struc- 
+ture, not adequately represented in Figure 2.5(b), and accounts for the extreme high 
+hardness of this material. Other forms of carbon (e.g., graphite) do not exhibit this 
+rigid atomic structure. Solids with covalent bonding generally possess high hardness 
+and low electrical conductivity. 
+The metallic bond is, of course, the atomic bonding mechanism in pure metals 
+and metal alloys. Atoms of the metallic elements generally possess too few elec- 
+trons in their outermost orbits to complete the outer shells for all of the atoms in, 
+say, a given block of metal. Accordingly, instead of sharing on an atom-to-atom 
+basis, metallic bonding involves the sharing of outer-shell electrons by all atoms 
+to form a general electron cloud that permeates the entire block. This cloud pro- 
+vides the attractive forces to hold the atoms together and form a strong, rigid 
+structure in most cases. Because of the general sharing of electrons, and their 
+freedom to move within the metal, metallic bonding provides for good electri- cal 
+conductivity. Other typical properties of materials characterized by metallic 
+bonding include good conduction of heat and good ductility. (Although some of 
+these terms are yet to be defined, the reader’s general understanding of material 
+properties is assumed.) 
+ 
+Secondary Bonds Whereas primary bonds involve atom-to-atom attractive forces, 
+secondary bonds involve attraction forces between molecules, or intermolecular forces. 
+There is no transfer or sharing of electrons in secondary bonding, and these bonds are 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE 2.5 Two examples 
+of covalent bonding: 
+(a) fluorine gas F2, and 
+(b) diamond. 
+Section 2.3/Crystalline Structures 
+41 
+ 
+ 
+ 
+FIGURE 2.6  Three types of secondary bonding: (a) dipole forces, (b) London forces, and (c) hydrogen bonding. 
+ 
+ 
+therefore weaker than primary bonds. There are three forms of secondary bonding: 
+(a) dipole forces, (b) London forces, and (c) hydrogen bonding, illustrated in Figure 2.6. 
+Types (a) and (b) are often referred to as van der Waals forces, after the scientist who 
+first studied and quantified them. 
+Dipole forces arise in a molecule comprised of two atoms that have equal and 
+opposite electrical charges. Each molecule therefore forms a dipole, as shown in 
+Figure 2.6(a) for hydrogen chloride. Although the material is electrically neu- tral 
+in its aggregate form, on a molecular scale the individual dipoles attract each 
+other, given the proper orientation of positive and negative ends of the molecules. 
+These dipole forces provide a net intermolecular bonding within the material. 
+London forces involve attractive forces between nonpolar molecules; that is, the 
+atoms in the molecule do not form dipoles in the sense of the preceding paragraph. 
+However, owing to the rapid motion of the electrons in orbit around the molecule, 
+temporary dipoles form when more electrons happen to be on one side of the mole- 
+cule than the other, as suggested by Figure 2.6(b). These instantaneous dipoles pro- 
+vide a force of attraction between molecules in the material. 
+Finally, hydrogen bonding occurs in molecules containing hydrogen atoms that are 
+covalently bonded to another atom (e.g., oxygen in H2O). Because the elec- trons 
+needed to complete the shell of the hydrogen atom are aligned on one side of 
+its nucleus, the opposite side has a net positive charge that attracts the electrons of 
+atoms in neighboring molecules. Hydrogen bonding is illustrated in Figure 
+2.6(c) for water, and is generally a stronger intermolecular bonding mechanism 
+than the other two forms of secondary bonding. It is important in the formation of 
+many polymers. 
+ 
+Crystalline Structures 
+Atoms and molecules are used as building blocks for the more macroscopic struc- ture 
+of matter that is considered here and in the following section. When materials solidify 
+from the molten state, they tend to close ranks and pack tightly, in many cases 
+arranging themselves into a very orderly structure, and in other cases, not quite so 
+orderly. Two fundamentally different material structures can be distin- guished: (1) 
+crystalline and (2) noncrystalline. Crystalline structures are examined in this section, 
+and noncrystalline in the next. 
+Many materials form into crystals on solidification from the molten or liquid state. 
+It is characteristic of virtually all metals, as well as many ceramics and polymers. A 
+crystalline structure is one in which the atoms are located at regular and recurring 
+positions in three dimensions. 
+The pattern may be replicated millions of times within 
+2.3 
+Section 2.3/Crystalline Structures 
+42 
+ 
+ 
+ 
+FIGURE 2.7 Body-centered cubic (BCC) crystal structure: (a) unit cell with atoms 
+indicated as point locations in a three-dimensional axis system; (b) unit cell model 
+showing closely packed atoms (sometimes called the hard-ball model); and 
+(c) repeated pattern of the BCC structure. 
+ 
+a given crystal. The structure can be viewed in the form of a unit cell, which is the 
+basic geometric grouping of atoms that is repeated. To illustrate, consider the unit 
+cell for the body-centered cubic (BCC) crystal structure shown in Figure 2.7, one of 
+the common structures found in metals. The simplest model of the BCC unit cell is 
+illustrated in Figure 2.7(a). Although this model clearly depicts the locations of the 
+atoms within the cell, it does not indicate the close packing of the atoms that occurs 
+in the real crystal, as in Figure 2.7(b). Figure 2.7(c) shows the repeating nature of the unit 
+cell within the crystal. 
+ 
+ 
+2.3.1 TYPES OF CRYSTAL STRUCTURES 
+ 
+In metals, three lattice structures are common: (1) body-centered cubic (BCC), 
+(2) face-centered cubic (FCC), and (3) hexagonal close-packed (HCP), illustrated 
+in Figure 2.8. Crystal structures for the common metals are presented in Table 2.1. 
+It should be noted that some metals undergo a change of structure at different 
+temperatures. Iron, for example, is BCC at room temperature; it changes to FCC 
+above 912°C (1674°F) and back to BCC at temperatures above 1400°C (2550°F). 
+When a metal (or other material) changes structure like this, it is referred to as 
+being allotropic. 
+ 
+ 
+FIGURE 2.8 Three types of crystal structures in metals: (a) body-centered cubic, (b) face-centered 
+cubic, and (c) hexagonal close-packed. 
+Section 2.3/Crystalline Structures 
+43 
+ 
+ 
+ TABLE • 2.1 Crystal structures for the common metals (at room temperature). 
+ 
+Body-Centered Cubic 
+Face-Centered Cubic 
+Hexagonal Close-Packed 
+(BCC) 
+ 
+(FCC) 
+ 
+(HCP) 
+Chromium (Cr) 
+Aluminum (Al) 
+Magnesium (Mg) 
+Iron (Fe) 
+Copper (Cu) 
+Titanium (Ti) 
+Molybdenum (Mo) 
+Gold (Au) 
+Zinc (Zn) 
+Tantalum (Ta) 
+Lead (Pb) 
+Tungsten (W) 
+Silver (Ag) 
+Nickel (Ni) 
+ 
+ 
+2.3.2 IMPERFECTIONS IN CRYSTALS 
+ 
+Thus far, crystal structures have been discussed as if they were perfect—the unit cell 
+repeated in the material over and over in all directions. A perfect crystal is sometimes 
+desirable to satisfy aesthetic or engineering purposes. For instance, a perfect dia- mond 
+(contains no flaws) is more valuable than one containing imperfections. In the 
+production of integrated circuit chips, large single crystals of silicon possess desirable 
+processing characteristics for forming the microscopic details of the circuit pattern. 
+However, there are various reasons why a crystal’s lattice structure may not 
+be perfect. The imperfections often arise naturally because of the inability of the 
+solidifying material to continue the replication of the unit cell indefinitely without 
+interruption. Grain boundaries in metals are an example. In other cases, the imper- 
+fections are introduced purposely during the manufacturing process, for example, 
+the addition of an alloying ingredient in a metal to increase its strength. 
+The various imperfections in crystalline solids are also called defects. Either term, 
+imperfection or defect, refers to deviations in the regular pattern of the crystalline 
+lattice structure. They can be catalogued as (1) point defects, (2) line defects, and 
+(3) surface defects. 
+Point defects are imperfections in the crystal structure involving either a single 
+atom or a few atoms. The defects can take various forms including, as shown in 
+Figure 2.9: (a) vacancy, the simplest defect, involving a missing atom within the 
+lattice structure; (b) ion-pair vacancy, also called a Schottky defect, which involves 
+ 
+ 
+FIGURE 2.9  Point defects: (a) vacancy, (b) ion-pair vacancy, (c) interstitialcy, and (d) displaced ion. 
+Section 2.3/Crystalline Structures 
+44 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE 2.10 Line 
+defects: (a) edge 
+dislocation and 
+(b) screw dislocation. 
+ 
+ 
+ 
+(a) 
+(b) 
+ 
+ 
+a missing pair of ions of opposite charge in a compound that has an overall charge 
+balance; (c) interstitialcy, a lattice distortion produced by the presence of an extra 
+atom in the structure; and (d) displaced ion, known as a Frenkel defect, which oc- 
+curs when an ion becomes removed from a regular position in the lattice structure 
+and inserted into an interstitial position not normally occupied by such an ion. 
+A line defect is a connected group of point defects that forms a line in the lat- 
+tice structure. The most important line defect is the dislocation, which can take two 
+forms: (a) edge dislocation and (b) screw dislocation. An edge dislocation is the edge 
+of an extra plane of atoms that exists in the lattice, as illustrated in Figure 2.10(a). 
+A screw dislocation, Figure 2.10(b), is a spiral within the lattice structure wrapped 
+around an imperfection line, like a screw is wrapped around its axis. Both types of 
+dislocations can arise in the crystal structure during solidification (e.g., casting), or 
+they can be initiated during a deformation process (e.g., metal forming) performed 
+on the solid material. Dislocations are useful in explaining certain aspects of me- 
+chanical behavior in metals. 
+Surface defects are imperfections that extend in two directions to form a boundary. The 
+most obvious example is the external surface of a crystalline object that defines its 
+shape. The surface is an interruption in the lattice structure. Surface boundaries can 
+also lie inside the material. Grain boundaries are the best example of these in- ternal 
+surface interruptions. Metallic grains are discussed in a moment, but first let 
+consider how deformation occurs in a crystal lattice, and how the process is aided by 
+the presence of dislocations. 
+ 
+ 
+2.3.3 DEFORMATION IN METALLIC CRYSTALS 
+ 
+When a crystal is subjected to a gradually increasing mechanical stress, its initial 
+response is to deform elastically. This can be likened to a tilting of the lattice struc- 
+ture without any changes of position among the atoms in the lattice, in the manner 
+depicted in Figure 2.11(a) and (b). If the force is removed, the lattice structure (and 
+therefore the crystal) returns to its original shape. If the stress reaches a high value 
+relative to the electrostatic forces holding the atoms in their lattice positions, a per- 
+manent shape change occurs, called plastic deformation. What has happened is that 
+the atoms in the lattice have permanently moved from their previous locations, and 
+a new equilibrium lattice has been formed, as suggested by Figure 2.11(c). 
+Section 2.3/Crystalline Structures 
+45 
+ 
+ 
+ 
+ 
+FIGURE 2.11 Deformation of a crystal structure: (a) original lattice; (b) elastic deformation, 
+with no permanent change in positions of atoms; and (c) plastic deformation, in which atoms 
+in the lattice are forced to move to new “homes.” 
+ 
+The lattice deformation shown in (c) of the figure is one possible mechanism, called 
+slip, by which plastic deformation can occur in a crystalline structure. The other is 
+called twinning, discussed later. 
+Slip involves the relative movement of atoms on opposite sides of a plane in the 
+lattice, called the slip plane. The slip plane must be somehow aligned with the lattice 
+structure (as indicated in the sketch), and so there are certain preferred directions 
+along which slip is more likely to occur. The number of these slip directions de- 
+pends on the lattice type. The three common metal crystal structures are somewhat 
+more complicated, especially in three dimensions, than the square lattice depicted in Figure 
+2.11. It turns out that HCP has the fewest slip directions, BCC the most, and FCC 
+falls in between. HCP metals show poor ductility and are generally difficult to 
+deform at room temperature. Metals with BCC structure would figure to have the 
+highest ductility, if the number of slip directions were the only criterion. However, 
+nature is not so simple. These metals are generally stronger than the others, which 
+complicates the issue, and the BCC metals usually require higher stresses to cause 
+slip. In fact, some of the BCC metals exhibit poor ductility. Low carbon steel is a 
+notable exception; although relatively strong, it is widely used with great commer- 
+cial success in sheet-metal-forming operations, where it exhibits good ductility. The 
+FCC metals are generally the most ductile of the three crystal structures, combining 
+a good number of slip directions with (usually) relatively low to moderate strength. 
+All three of these metal structures become more ductile at elevated temperatures, 
+and this fact is often exploited in shaping them. 
+Dislocations play an important role in facilitating slip in metals. When a lattice 
+structure containing an edge dislocation is subjected to a shear stress, the material 
+deforms much more readily than in a perfect structure. This is explained by the fact 
+that the dislocation is put into motion within the crystal lattice in the presence of the 
+stress, as shown in the series of sketches in Figure 2.12. Why is it easier to move a dis- 
+location through the lattice than it is to deform the lattice itself? The answer is that 
+the atoms at the edge dislocation require a smaller displacement within the distorted lattice 
+structure to reach a new equilibrium position. Thus, a lower energy level is needed 
+to realign the atoms into the new positions than if the lattice were missing the 
+dislocation. A lower stress level is therefore required to effect the deformation. 
+Because the new position manifests a similar distorted lattice, movement of atoms 
+at the dislocation continues at the lower stress level. 
+The slip phenomenon and the influence of dislocations have been explained here 
+on a very microscopic basis. On a larger scale, slip occurs many times over 
+Section 2.3/Crystalline Structures 
+46 
+ 
+ 
+ 
+FIGURE 2.12  Effect of dislocations in the lattice structure under stress. In the series of diagrams, the 
+movement of the dislocation allows deformation to occur under a lower stress than in a perfect lattice. 
+ 
+ 
+throughout the metal when subjected to a deforming load, thus causing it to ex- 
+hibit the familiar macroscopic behavior of stretching, compressing, or bending. 
+Dislocations represent a good-news–bad-news situation. Because of dislocations, 
+the metal is more ductile and yields more readily to plastic deformation (forming) 
+during manufacturing. However, from a product design viewpoint, the metal is not 
+nearly as strong as it would be in the absence of dislocations. 
+Twinning is a second way in which metal crystals plastically deform. Twinning 
+can be defined as a mechanism of plastic deformation in which atoms on one side of 
+a plane (called the twinning plane) are shifted to form a mirror image of the other 
+side of the plane. It is illustrated in Figure 2.13. The mechanism is important in HCP metals 
+(e.g., magnesium, zinc) because they do not slip readily. Besides structure, another 
+factor in twinning is the rate of deformation. The slip mechanism requires more 
+time than twinning, which can occur almost instantaneously. Thus, when the 
+deformation rate is very high, metals twin that would otherwise slip. Low carbon 
+steel is an example that illustrates this rate sensitivity; when subjected to high strain 
+rates it twins, whereas at moderate rates it deforms by slip. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE 2.13 Twinning 
+involves the formation 
+of an atomic mirror 
+image (i.e., a “twin”) 
+on the opposite side 
+of the twinning plane: 
+(a) before and (b) after 
+twinning. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+(b) 
+Section 2.4/Noncrystalline (Amorphous) Structures 
+47 
+ 
+ 
+2.3.4 GRAINS AND GRAIN BOUNDARIES IN METALS 
+ 
+A given block of metal may contain millions of individual crystals, called grains. 
+Each grain has its own unique lattice orientation; but collectively, the grains are ran- 
+domly oriented within the block. Such a structure is referred to as polycrystalline. It 
+is easy to understand how such a structure is the natural state of the material. When 
+the block is cooled from the molten state and begins to solidify, nucleation of indi- 
+vidual crystals occurs at random positions and orientations throughout the liquid. 
+As 
+these crystals grow they finally interfere with each other, forming at their interface a 
+surface defect—a grain boundary. The grain boundary consists of a transition zone, 
+perhaps only a few atoms thick, in which the atoms are not aligned with either grain. 
+The size of the grains in the metal block is determined by the number of nucleation 
+sites in the molten material and the cooling rate of the mass, among other factors. In 
+a casting process, the nucleation sites are often created by the relatively cold walls 
+of the mold, which motivates a somewhat preferred grain orientation at these walls. 
+Grain size is inversely related to cooling rate: Faster cooling promotes smaller 
+grain size, whereas slower cooling has the opposite effect. Grain size is important 
+in metals because it affects mechanical properties. Smaller grain size is generally 
+preferable from a design viewpoint because it means higher strength and hard- 
+ness. It is also desirable in certain manufacturing operations (e.g., metal forming), 
+because it means higher ductility during deformation and a better surface on the 
+finished product. 
+Another factor influencing mechanical properties is the presence of grain 
+boundaries in the metal. They represent imperfections in the crystalline structure 
+that interrupt the continued movement of dislocations. This helps to explain why 
+smaller grain size—therefore more grains and more grain boundaries—increases the 
+strength of the metal. By interfering with dislocation movement, grain boundaries 
+also contribute to the characteristic property of a metal to become stronger as it is 
+deformed. The property is called strain hardening, and it is examined more closely 
+in Chapter 3 on mechanical properties. 
+ 
+Noncrystalline (Amorphous) Structures 
+Many important materials are noncrystalline—liquids and gases, for example. Water 
+and air have noncrystalline structures. A metal loses its crystalline structure when 
+it is melted. Mercury is a liquid metal at room temperature, with its melting point 
+of -38°C (-37°F). Important classes of engineering materials have a noncrystalline 
+form in their solid state; the term amorphous is often used to describe these materi- 
+als. Glass, many plastics, and rubber fall into this category. Many important plastics 
+are mixtures of crystalline and noncrystalline forms. Even metals can be amorphous rather 
+than crystalline, given that the cooling rate during transformation from liquid to solid 
+is fast enough to inhibit the atoms from arranging themselves into their pre- ferred 
+regular patterns. This can happen, for instance, if the molten metal is poured 
+between cold, closely spaced, rotating rolls. 
+Two closely related features distinguish noncrystalline from crystalline materials: 
+(1) absence of a long-range order in the molecular structure, and (2) differences in 
+melting and thermal expansion characteristics. 
+The difference in molecular structure can be visualized with reference to Fig- 
+ure 2.14. The closely packed and repeating pattern of the crystal structure is shown 
+on the left; and the less dense and random arrangement of atoms in the noncrystalline 
+2.4 
+Section 2.4/Noncrystalline (Amorphous) Structures 
+48 
+ 
+ 
+ 
+ 
+FIGURE 2.14 Illustration of difference 
+in structure between: (a) crystalline 
+and (b) noncrystalline materials. The 
+crystal structure is regular, repeating, 
+and denser, while the noncrystalline 
+structure is more loosely packed and 
+random. 
+ 
+ 
+material on the right. The difference is demonstrated by a metal when it melts. The 
+more loosely packed atoms in the molten metal show an increase in volume (reduction 
+in density) compared with the material’s solid crystalline state. This effect is character- 
+istic of most materials when melted (ice is a notable exception; liquid water is denser 
+than solid ice). It is a general characteristic of liquids and solid amorphous materials 
+that they are absent of long-range order as on the right in our figure. 
+The melting phenomenon will now be examined in more detail, and in doing so, 
+the second important difference between crystalline and noncrystalline structures is 
+illustrated. As indicated above, a metal experiences an increase in volume when it 
+melts from the solid to the liquid state. For a pure metal, this volumetric change occurs 
+rather abruptly, at a constant temperature (i.e., the melting temperature Tm), as indi- 
+cated in Figure 2.15. The change represents a discontinuity from the slopes on either 
+side in the plot. The gradual slopes characterize the metal’s thermal expansion—the 
+change in volume as a function of temperature, which is usually different in the solid 
+and liquid states. Associated with the sudden volume increase as the metal transforms from 
+solid to liquid at the melting point is the addition of a certain quantity of heat, called 
+the heat of fusion, which causes the atoms to lose the dense, regular arrange- ment 
+of the crystalline structure. The process is reversible; it operates in both direc- tions. 
+If the molten metal is cooled through its melting temperature, the same abrupt change 
+in volume occurs (except that it is a decrease), and the same quantity of heat is given 
+off by the metal. 
+An amorphous material exhibits quite different behavior than that of a pure 
+metal when it changes from solid to liquid, as shown in Figure 2.15. The process 
+is again reversible, but observe the behavior of the amorphous material during 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE 2.15 Characteristic change in 
+volume for a pure metal (a crystalline 
+structure), compared to the same 
+volumetric changes in glass 
+(a noncrystalline structure). 
+Section 2.5/Engineering Materials 
+49 
+ 
+ 
+cooling from the liquid state, rather than during melting from the solid, as before. 
+Glass (silica, SiO2) is used to illustrate. At high temperatures, glass is a true liquid, 
+and the molecules are free to move about as in the usual definition of a liquid. As 
+the glass cools, it gradually transforms into the solid state, going through a transi- 
+tion phase, called a supercooled liquid, before finally becoming rigid. It does not 
+show the sudden volumetric change that is characteristic of crystalline materials; 
+instead it passes through its melting temperature Tm without a change in its thermal 
+expansion slope. In this supercooled liquid region, the material becomes increas- 
+ingly viscous as the temperature continues to decrease. As it cools further, a point 
+is finally reached at which the supercooled liquid converts to a solid. This is called 
+the glass-transition temperature Tg. At this point, there is a change in the thermal 
+expansion slope. (It might be more precise to refer to it as the thermal contraction 
+slope; however, the slope is the same for expansion and contraction). The rate of 
+thermal expansion is lower for the solid material than for the supercooled liquid. 
+The difference in behavior between crystalline and noncrystalline materials can 
+be traced to the response of their respective atomic structures to changes in temper- 
+ature. When a pure metal solidifies from the molten state, the atoms arrange them- 
+selves into a regular and recurring structure. This crystal structure is much more 
+compact than the random and loosely packed liquid from which it formed. Thus, 
+the process of solidification produces the abrupt volumetric contraction observed 
+in Figure 2.15 for the crystalline material. By contrast, amorphous materials do not 
+achieve this repeating and closely packed structure at low temperatures. The atomic 
+structure is the same random arrangement as in the liquid state; thus, there is no 
+abrupt volumetric change as these materials transition from liquid to solid. 
+ 
+Engineering Materials 
+This section summarizes how atomic structure, bonding, and crystal structure (or 
+absence thereof) are related to the type of engineering material: metals, ceramics, 
+and polymers. 
+ 
+Metals Metals have crystalline structures in the solid state, almost without excep- 
+tion. The unit cells of these crystal structures are almost always BCC, FCC, or HCP. 
+The atoms of the metals are held together by metallic bonding, which means that 
+their valence electrons can move about with relative freedom (compared with the 
+other types of atomic and molecular bonding). These structures and bonding gener- 
+ally make the metals strong and hard. Many of the metals are quite ductile (capable of being 
+deformed, which is useful in manufacturing), especially the FCC metals. Other general 
+properties of metals related to structure and bonding include high electri- cal and 
+thermal conductivity, opaqueness (impervious to light rays), and reflectivity 
+(capacity to reflect light rays). 
+ 
+Ceramics Ceramic molecules are characterized by ionic or covalent bonding, or 
+both. The metallic atoms release or share their outermost electrons to the nonme- 
+tallic atoms, and a strong attractive force exists within the molecules. The general 
+properties that result from these bonding mechanisms include high hardness and 
+stiffness (even at elevated temperatures) and brittleness (no ductility). The bond- 
+ing also means that ceramics are electrically insulating (nonconducting), refractory 
+(thermally resistant), and chemically inert. 
+2.5 
+Section 1.6/Recent Developments in Manufacturing 
+50 
+ 
+ 
+Ceramics possess either a crystalline or noncrystalline 
+structure. Most ceramics have a crystal structure, whereas glasses 
+based on silica (SiO2) are amorphous. In certain cases, either 
+structure can exist in the same ceramic material. For example, 
+silica occurs in nature as crystalline quartz. When this mineral is 
+melted and then cooled, it solidifies to form fused silica, which 
+has a noncrystalline structure. 
+ 
+Polymers A polymer molecule consists of many repeating 
+mers to form very large molecules held together by covalent 
+bonding. Elements in polymers are usu- ally carbon plus one or 
+more other elements such as hydrogen, nitrogen, oxygen, and 
+chlorine. Secondary bonding (van der Waals) holds the 
+molecules 
+together 
+within 
+the 
+aggregate 
+material 
+(intermolecular bonding). Polymers have either a glassy 
+structure or mixture of glassy and crystalline. There are 
+differences among the three polymer types. In thermoplastic 
+polymers, the molecules consist of long chains of mers in a 
+linear structure. These materials can be heated and cooled 
+without substantially altering their linear structure. In 
+thermosetting polymers, the molecules transform into a rigid, 
+three-dimensional structure on cooling from a heated plastic 
+condition. If thermosetting polymers are reheated, they 
+degrade chemically rather than soften. Elastomers have large 
+molecules with coiled struc- tures. The uncoiling and recoiling 
+of the molecules when subjected to stress cycles motivate the 
+aggregate material to exhibit its characteristic elastic behavior. 
+The molecular structure and bonding of polymers provide them 
+with the fol- lowing typical properties: low density, high 
+electrical resistivity (some polymers are used as insulating 
+materials), and low thermal conductivity. Strength and stiff- ness 
+of polymers vary widely. Some are strong and rigid (although 
+not matching the strength and stiffness of metals or ceramics), 
+whereas others exhibit highly elastic behavior. 
+ 
