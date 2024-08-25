@@ -1,0 +1,11 @@
+Question,Answer
+Define group technology?,Answer. GT is a general approach in which similarities among parts are identified and exploited in design and manufacturing.
+What is a part family?,Answer. A part family is a collection of parts that are similar in design or manufacturing attributes.
+Define cellular manufacturing?,Answer. Cellular manufacturing involves the production of part families using groups of machines (generally manually operated) to produce a certain part family or a limited set of part families.
+What is the composite part concept in group technology?,"Answer. In GT, a composite part is a hypothetical part that includes all of the design and/or manufacturing attributes of a given part family. The concept is useful in designing cells to produce the part family."
+Name some of the possible machine cell designs in group technology.,"Answer. GT machine cell designs include: single machines, multiple machines with manual handling, multiple machines with mechanized handling, flexible manufacturing cells, and flexible manufacturing systems."
+What is a flexible manufacturing system?,Answer. A flexible manufacturing system (FMS) is an automated group technology cell consisting of processing stations interconnected by an automated handling system and controlled by a computer.
+What makes an automated manufacturing system flexible?,"Answer. The tests of flexibility are: (1) process different part styles in non-batch mode; (2) accept changes in schedule, (3) deal gracefully with equipment breakdowns, and (4) accommodate new part style introductions."
+Name some of the FMS software and control functions.,"Answer. Functions include: (1) NC part programming, (2) NC part program download, (3) production control, (4)machine control, (5) workpart control, (6) tool management, (7) work transport control, and (8) general system management."
+Identify some of the applications of FMS technology.,"Answer. Applications include: machining, assembly, inspection, and sheet metal processing."
+"What are the advantages of FMS technology, compared to conventional batch operations?","Answer. Advantages include: (1) higher machine utilization, (2) reduced work-in-process, (3)lower manufacturing lead times, and (4) greater flexibility in production scheduling."

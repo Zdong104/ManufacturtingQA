@@ -1,8 +1,0 @@
-This diagram also indicates the major topic areas covered in this book.
-C01.indd   18C01.indd   1810/07/12   9:11 AM10/07/12   9:11 AM Section 1.4/Production Systems 19
-the procedures used by the company to manage production and solve the techni-
-cal and logistics problems encountered in ordering materials, moving work through 
-the factory, and ensuring that products meet quality standards. Both categories in-
-clude people. People make these systems work. In general, direct labor workers are 
-responsible for operating the manufacturing equipment; and professional staff 
-workers are responsible for manufacturing support.

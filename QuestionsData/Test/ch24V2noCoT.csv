@@ -1,0 +1,147 @@
+Question,Answer,llamaindex,LangChain
+"The basic structural unit of matter is which one of the following? (a) atom, (b) electron, (c) element, (d) molecule, or (e) nucleus.",Answer. (a),Answer: (a) atom,"The correct answer is:
+
+(a) atom"
+"Approximately how many different elements have been identified (one answer)? (a) 10, (b) 50, (c) 100, (d) 200, or (e) 500.",Answer. (c),(c) 100,"Based on the provided context, the correct answer is:
+
+(c) 100"
+"In the Periodic Table, the elements can be divided into which of the following categories (more than one)? (a) ceramics, (b) gases, (c) liquids, (d) metals, (e) nonmetals, (f) polymers, (g) semi-metals, and (h) solids.","Answer. (d), (e), and (g).","Based on the context provided and the information about the Periodic Table, the elements can be divided into the following categories:
+
+(d) metals
+(e) nonmetals
+(g) semi-metals
+
+Therefore, the correct answer is:
+
+Answer: (d), (e), (g)","Based on the provided context and what is commonly known about the Periodic Table, the elements can be divided into the following categories:
+
+(d) metals
+(e) nonmetals
+(g) semi-metals (also known as metalloids)
+
+Therefore, the correct answers are: (d), (e), and (g)."
+"The element with the lowest density and smallest atomic weight is which one of the following? (a) aluminum, (b) argon, (c) helium, (d) hydrogen, or (e) magnesium.",Answer. (d),The element with the lowest density and smallest atomic weight is (d) hydrogen.,"Based on the information provided and my knowledge in the field of manufacturing and materials science, the correct answer to the question ""The element with the lowest density and smallest atomic weight is which one of the following?"" is:
+
+(d) hydrogen"
+"Which of the following bond types are classified as primary bonds (more than one)? (a) covalent bonding, (b) hydrogen bonding, (c) ionic bonding, (d) metallic bonding, and (e) van der Waals forces.","Answer. (a), (c), and (d).","Based on the provided context and the knowledge of manufacturing processes and materials, the bond types classified as primary bonds are:
+
+(a) covalent bonding
+(c) ionic bonding
+(d) metallic bonding
+
+Therefore, the correct answer is:
+
+**Answer: (a), (c), (d)**","The correct answers are:
+
+(a) covalent bonding  
+(c) ionic bonding  
+(d) metallic bonding  
+
+Thus, the final answer is:
+
+**(a), (c), (d)**"
+"How many atoms are there in the unit cell of the face- centered cubic (FCC) unit cell (one answer)? (a) 8, (b) 9, (c) 10, (d) 12, or (e) 14.",Answer. (e),"The correct answer is:
+
+(d) 12","The correct answer is based on the structure of the face-centered cubic (FCC) unit cell. An FCC unit cell has atoms at each of the corners of the cube and one atom at the center of each face of the cube. Each corner atom is shared among eight neighboring unit cells, and each face-centered atom is shared between two unit cells. Accounting for these shared atoms, the total number of atoms per FCC unit cell is calculated as follows:
+
+- 8 corner atoms × 1/8 (since each is shared among 8 unit cells) = 1 atom
+- 6 face-centered atoms × 1/2 (since each is shared between 2 unit cells) = 3 atoms
+
+Thus, the total number of atoms in an FCC unit cell is 1 + 3 = 4.
+
+However, none of the given choices (a) 8, (b) 9, (c) 10, (d) 12, or (e) 14 correctly reflects this. 
+
+If the question is asking how many atoms are there in the unit cell itself, considering the contributions from shared atoms, the correct response based on common understanding is 4 atoms.
+
+Given the provided choices, if we must select the closest correct answer based on the context of how the atoms are positioned (without considering the shared nature), the face-centered cubic unit cell has atoms positioned at 8 corners and 6 faces. It might be a comprehension or typographical error in the provided choices. 
+
+For the most accurate representation from the standard understanding of FCC:
+
+- The actual number of atoms in an FCC unit cell is 4.
+
+Since this does not match any provided option, it might be best to clarify with the exam provider. Given the constraints, the answer should be:
+
+**None of the provided options correctly represent the number of atoms in an FCC unit cell. The correct answer is typically 4 atoms.**"
+"Which of the following are not point defects in a crystal lattice structure (more than one)? (a) edge dislocation, (b) interstitialcy, (c) Schottky defect, or (d) vacancy.","Answer. (b), (c), (d)",Answer: (a) edge dislocation,"Based on the provided document content and my knowledge on manufacturing processes and materials, the correct answer to the question is:
+
+(a) edge dislocation
+
+Explanation:
+- Point defects include (b) interstitialcy, (c) Schottky defect, and (d) vacancy.
+- Edge dislocation is a type of line defect, not a point defect.
+
+So, the correct answer is:
+(a) edge dislocation"
+"Which one of the following crystal structures has the fewest slip directions and therefore the metals with this structure are generally more difficult to deform at room temperature? (a) BCC, (b) FCC, or (c) HCP.",Answer. (c),(c) HCP,"Based on the provided context and my knowledge of manufacturing processes and materials, the correct answer is:
+
+(c) HCP"
+"Grain boundaries are an example of which one of the following types of crystal structure defects? (a) dislocation, (b) Frenkel defect, (c) line defects, (d) point defects, or (e) surface defects.",Answer. (e),Answer: (e) surface defects,The correct answer is (e) surface defects.
+"Twinning is which of the following (more than one)? (a) elastic deformation, (b) mechanism of plastic deformation, (c) more likely at high deformation rates, (d) more likely in metals with HCP structure, (e) slip mechanism, and (f) type of dislocation.","Answer. (b), (c), and (d).","(b) mechanism of plastic deformation, (c) more likely at high deformation rates, (d) more likely in metals with HCP structure","Based on the provided context and my knowledge of manufacturing processes and materials, the correct answers are:
+
+(b) mechanism of plastic deformation
+(c) more likely at high deformation rates
+(d) more likely in metals with HCP structure
+
+Thus, the final answer is:
+
+(b), (c), and (d)"
+"Polymers are characterized by which of the following bonding types (more than one)? (a) adhesive, (b) covalent, (c) hydrogen, (d) ionic, (e) metallic, and (f) van der Waals.",Answer. (b) and (f).,"Based on the provided context, polymers are characterized by the following bonding types:
+
+- Covalent bonding within the polymer molecules.
+- Secondary bonding (van der Waals forces) between the polymer molecules.
+- Hydrogen bonding can also be significant in some polymers.
+
+Therefore, the correct answers are:
+
+(b) covalent
+(c) hydrogen
+(f) van der Waals
+
+Answer: (b), (c), (f)","Based on the provided context and my knowledge of manufacturing processes and materials, polymers are characterized by the following bonding types:
+
+(b) covalent
+(f) van der Waals
+
+Final answer: (b) and (f)"
+"Which one of the following metals has the lowest density? (a) aluminum, (b) copper, (c) magnesium, or (d) tin.",Answer. (c),(d) magnesium,The correct answer is (c) magnesium.
+"Polymers typically exhibit greater thermal expansion properties than metals: (a) true, or (b) false.",Answer. (a),Answer: (a) true,"Based on the provided context and my knowledge of manufacturing processes and materials, the correct answer is:
+
+(a) true.
+
+Polymers typically exhibit greater thermal expansion properties than metals."
+"In the heating of most metal alloys, melting begins at a certain temperature and concludes at a higher temperature. In these cases, which of the following temperatures marks the beginning of melting? (a) liquidus, of (b) solidus.",Answer. (b),Answer: (b) solidus,"The correct answer is:
+
+(b) solidus"
+"Which of the following materials has the highest specific heat? (a) aluminum, (b) concrete, (c) polyethylene, or (d) water.",Answer. (d),(d) water,"Based on what I know about materials and their specific heat capacities, the correct answer to the question ""Which of the following materials has the highest specific heat?"" is:
+
+(d) water."
+"Copper is generally considered easy to weld, because of its high thermal conductivity: (a) true, or (b) false.",Answer. (b) The high thermal conductivity of copper makes it difficult to weld because the heat flows away from the joint rather than being concentrated to permit melting of the metal.,Answer: (b) false,"Based on the context provided and my knowledge regarding manufacturing processes and materials, the correct answer is:
+
+(b) false."
+"The mass diffusion rate dm/dt across a boundary between two different metals is a function of which of the following variables (more than one): (a) concentration gradient dc/dx, (b) contact area, (c) density, (d) melting point, (e) temperature, and (f) time.","Answer. (a), (b), (e), and (f). This is perhaps a trick question. Choices (a) and (b) are included in Eq. (4.5). Temperature (e) has a strong influence on the diffusion coefficient. Time (f) figures into the process because it affects the concentration gradient; as time elapses, the concentration gradient is reduced so that the rate of diffusion is reduced.","The mass diffusion rate \( \frac{dm}{dt} \) across a boundary between two different metals is a function of the following variables:
+
+(a) concentration gradient \( \frac{dc}{dx} \)
+(b) contact area
+(e) temperature
+
+Therefore, the correct answer is:
+
+**(a), (b), (e)**","The mass diffusion rate \(\frac{dm}{dt}\) across a boundary between two different metals is a function of the following variables:
+
+(a) concentration gradient \(\frac{dc}{dx}\)
+(b) contact area
+(e) temperature
+(f) time
+
+Therefore, the correct answers are:
+
+**(a), (b), (e), and (f)**"
+"Which of the following pure metals is the best conductor of electricity? (a) aluminum, (b) copper, (c) gold, or (d) silver.",Answer. (d),(d) silver,"The correct answer is:
+
+(d) silver"
+"A superconductor is characterized by which of the following (choose one best answer): (a) very low resistivity, (b) zero conductivity, or (c) resistivity properties between those of conductors and semiconductors?",Answer. (b),Answer: (a) very low resistivity,"The correct answer is:
+
+(a) very low resistivity"
+"In an electrolytic cell, the anode is the electrode which is (a) positive, or (b) negative.",Answer. (a),Answer: (a) positive,"The correct answer is:
+
+(a) positive"

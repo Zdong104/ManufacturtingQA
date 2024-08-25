@@ -1,0 +1,106 @@
+Question,Answer,llamaindex,LangChain
+Machining is never used for rapid prototyping because it takes too long: (a) true or (b) false.,Answer. (b) Desktop milling is the principal material removal technology used for rapid prototyping.,(b) false,(b) false
+"Which of the following rapid prototyping processes starts with a photosensitive liquid polymer to fabricate a component (more than one)? (a) ballistic particle manufacturing, (b) fused deposition modeling, (c) selective laser sintering, (d) solid ground curing, and (e) stereolithography.",Answer. (d) and (e),(e) stereolithography,"The rapid prototyping processes that start with a photosensitive liquid polymer to fabricate a component are:
+
+(d) solid ground curing
+(e) stereolithography"
+"Of all of the current material addition rapid prototyping technologies, which one is the most widely used? (a) ballistic particle manufacturing, (b) fused deposition modeling, (c) selective laser sintering, (d) solid ground curing, and (e) stereolithography.",Answer. (e),(b) fused deposition modeling,The correct answer is (b) fused deposition modeling.
+"Which of the following RP technologies use a liquid as the starting material (more than one)? (a) ballistic particle manufacturing, (b) fused deposition modeling, (c) laminated object manufacturing, (d)	selective laser sintering, (e) solid ground curing, and (f) stereolithography.","Answer. (a), (e), and (f)","The RP (Rapid Prototyping) technologies that use a liquid as the starting material are:
+
+(e) solid ground curing
+(f) stereolithography
+
+So, the correct answer is: **(e) and (f)**.","Based on my knowledge of manufacturing processes and materials, the RP (Rapid Prototyping) technologies that use a liquid as the starting material are:
+
+(e) solid ground curing, and 
+(f) stereolithography.
+
+So, the correct answer is (e) and (f)."
+"Which one of the following RP technologies uses solid sheet stock as the starting material? (a) ballistic particle manufacturing, (b) fused deposition modeling, (c) laminated object manufacturing, (d) solid ground curing, and (e) stereolithography.",Answer. (c),(c) laminated object manufacturing,"The correct answer is:
+
+(c) laminated object manufacturing"
+"Which of the following RP technologies uses powders as the starting material (more than one)? (a) ballistic particle manufacturing, (b) fused deposition modeling, (c) selective laser sintering, (d) solid ground curing, and (e) three dimensional printing.",Answer. (c) and (e),"(c) selective laser sintering, and (e) three dimensional printing","The RP (Rapid Prototyping) technologies that use powders as the starting material are:
+
+(a) ballistic particle manufacturing,
+(c) selective laser sintering, and
+(e) three dimensional printing.
+
+So, the correct answer(s) are:
+
+**(a), (c), and (e)**"
+Rapid prototyping technologies are never used to make production parts: (a) true or (b) false.,"Answer. (b) Examples include small batch sizes of plastic parts that could not be economically injection molded, parts with intricate internal geometries, and one-of-a-kind parts such as bone replacements.",Answer: (b) false,The correct answer is (b) false.
+"Which of the following are problems with the current material addition rapid prototyping technologies (more than one)? (a) inability to convert a solid part into layers, (b) limited material variety, (c) part accuracy, and (d) part shrinkage.","Answer. (b), (c), and (d)","(b) limited material variety, (c) part accuracy, and (d) part shrinkage.","Based on the context provided in the documents and common knowledge of manufacturing processes and materials, the problems with the current material addition rapid prototyping technologies include:
+
+(b) limited material variety,
+(c) part accuracy, and
+(d) part shrinkage.
+
+Therefore, the correct answers are:
+
+(b), (c), and (d)."
+"Which of the following would be classified as examples of a product feature, rather than a freedom from deficiency (more than one)? (a) components within tolerance, (b) location of ON/OFF switch, (c) no missing parts, (d) product weight, and (e) reliability.","Answer. (b), (d), and (e).","(b) location of ON/OFF switch, (d) product weight, and (e) reliability","The correct answers are:
+
+(b) location of ON/OFF switch
+(d) product weight
+(e) reliability"
+"If the product tolerance is set so that the process capability index = 1.0, then the percentage of parts that are within tolerance will be closest to which one of the following when the process is operating in statistical control? (a) 35%, (b) 65%, (c) 95%, (d) 99%, or (e) 100%.",Answer. (e),"Based on the provided context and the information from the text, the process capability index (PCI) of 1.0 corresponds to a situation where the tolerance range is equal to the natural tolerance limits (6σ). According to the text, when the design tolerances are set equal to the natural tolerance limits, 99.73% of the parts will be within tolerance.
+
+However, the question asks for the percentage of parts that are within tolerance when the process capability index is 1.0. Referring to Table 42.1 in the text, a PCI of 1.0 corresponds to 3 standard deviations, which results in 0.27% of parts being defective. Therefore, the percentage of parts within tolerance is 100% - 0.27% = 99.73%.
+
+Given the options provided:
+(a) 35%
+(b) 65%
+(c) 95%
+(d) 99%
+(e) 100%
+
+The closest answer to 99.73% is (d) 99%.
+
+Therefore, the correct answer is:
+(d) 99%","Based on the provided context, the process capability index (PCI) is given by the equation \( \text{PCI} = \frac{T}{6\sigma} \), where \( T \) is the tolerance range and \( \sigma \) is the standard deviation. When the process capability index (PCI) is equal to 1.0, it means that the tolerance range is equal to 6 standard deviations.
+
+From the document, it is stated that when design tolerances are set equal to the natural tolerance limits (which is 6 standard deviations, or \( 6\sigma \)), 99.73% of the parts will be within tolerance, and 0.27% will be outside the limits. This corresponds to a PCI of 1.0.
+
+Thus, the percentage of parts that are within tolerance will be closest to 99%.
+
+So, the correct answer is:
+
+(d) 99%"
+"Which of the following principles and/or approaches are generally credited to G. Taguchi (more than one)? (a) acceptance sampling, (b) control charts, (c) loss function, (d) Pareto priority index, and (e) robust design.",Answer. (c) and (e).,"The principles and approaches generally credited to G. Taguchi are:
+
+(c) loss function
+(e) robust design
+
+Therefore, the correct answer is:
+
+(c) and (e)","Based on the context provided and knowledge of manufacturing processes and materials, the principles and approaches generally credited to G. Taguchi are:
+
+(c) loss function
+(e) robust design
+
+Therefore, the correct answers are: **(c) and (e)**."
+"In a control chart, the upper control limit is set equal to which one of the following? (a) process mean, (b) process mean plus three standard deviations, (c) upper design tolerance limit, or (d) upper value of the maximum range R.",Answer. (b),(b) process mean plus three standard deviations,"The context provided in the documents indicates that the control chart's upper control limit (UCL) is generally set at three standard deviations above the process mean. Therefore, the correct answer is:
+
+(b) process mean plus three standard deviations"
+"The R chart is used for which one of the following product or part characteristics? (a) number of rejects in the sample, (b) number of reworked parts in a sample, (c) radius of a cylindrical part, or (d) range of sample values.",Answer. (d),(d) range of sample values,"The correct answer is:
+
+(d) range of sample values"
+"Which one of the following best describes the situations for which the c chart is most suited? (a) control of defective parts, (b) mean value of part characteristic of interest, (c) number of defects in a sample, or (d) proportion of defects in a sample.",Answer. (c),(c) number of defects in a sample,The correct answer is (c) number of defects in a sample.
+"Which of the following identify an out-of-control condition in a control chart (more than one)? (a) consistently increasing value of x , (b) points near the central line, (c) R outside the control limits of the R chart, and (d) x outside the control limits of the x chart.","Answer. (a), (c), and (d).","Based on the provided context and the principles of control charts, the correct answers are:
+
+(a) consistently increasing value of x
+(c) R outside the control limits of the R chart
+(d) x outside the control limits of the x chart
+
+These conditions indicate that the process is not in statistical control. Points near the central line (b) do not indicate an out-of-control condition.
+
+So, the correct answer is:
+
+**(a), (c), and (d)**","Based on the provided context and knowledge of control charts in manufacturing, the correct answers that identify an out-of-control condition in a control chart are:
+
+(c) R outside the control limits of the R chart, and 
+(d) x outside the control limits of the x chart.
+
+Therefore, the final answer is: 
+
+(c) and (d)"
