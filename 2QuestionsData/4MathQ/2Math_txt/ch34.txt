@@ -1,0 +1,131 @@
+Problems 
+Silicon Processing and IC Fabrication 
+34.1 A single crystal boule of silicon is grown by the Czochralski process to an average diameter of 320 mm with length = 1500 mm. The seed and tang ends are removed, which reduces the length to 1150 mm. The diameter is ground to 300 mm. A 90-mm-wide flat is ground on the surface which extends from one end to the other. The ingot is then sliced into wafers of thickness = 0.50 mm, using an abrasive saw blade whose thickness = 0.33 mm. Assuming that the seed and tang portions cut off the ends of the starting boule were conical in shape, determine (a) the original volume of the boule, mm3; (b) how many wafers are cut from it, assuming the entire 1150 mm length can be sliced; and 
+(c) the volumetric proportion of silicon in the starting boule that is wasted during processing. 
+Solution: (a) Total volume V = V1 (tang) + V2 (cylinder) + V3 (seed) 
+V1= V3 = (cone in which h = 0.5(1500-1150) = 175, D = 320, R = 160) = R2h/3 
+= 0.333(160)2(175) = 4,691,445 mm3. 
+V2= R2L = (160)2(1150) = 92,488,488 mm3 
+Total V = 2(4,691,445) + 92,488,488 = 101,871,378 mm3 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 01-13-09, 01-15-09, 05-14-09 
+(b) 
+Number of wafers = 1150/(0.50 + 0.33) = 1385.5 o 1385 wafers 
+
+(c) 
+Area of one wafer Aw = Ac -As, where Ac = area of the circle of radius R = 150 mm, and As = the area of the segment As created by the flat ground on the cylindrical surface. Ac = R2= (150)2 = 70685.8 mm2 The area of a segment of the circle created by the 170 mm chord As = R2/360 -0.5R2 sin , where T is the angle formed by two radii of the circle and the chord. 0.5T = sin-1(90/150) = 17.46. T = 34.92. As = (150)2(34.92)/360 -0.5(150)2 sin 34.92 = 6855.6 – 6439.1 = 416.5 mm2 Aw = Ac -As = 70685.8 -416.5 = 70269.3 mm2 Volume of one wafer Vw = Awt = 70269.3(0.5) = 35134.7 mm3 Volume of 1385 wafers = 1385(35134.7) = 48,661,518 mm3 Volume wasted = 101,871,378 -48,661,518 = 53,209,860 mm3 Proportion wasted = 53,209,860 / 101,871,378 = 52.23%. 
+
+
+34.2 A silicon boule is grown by the Czochralski process to a diameter of 5.25 in and a length of 5 ft. The seed and tang ends are cut off, reducing the effective length to 48.00 in. Assume that the seed and tang portions are conical in shape. The diameter is ground to 4.921 in (125 mm). A primary flat of width 1.625 in is ground on the surface the entire length of the ingot. The ingot is then sliced into wafers 0.025 in thick, using an abrasive saw blade whose thickness = 0.0128 in. Determine (a) the original volume of the boule, in3; (b) how many wafers are cut from it, assuming the entire 4 ft length can be sliced, and (c) what is the volumetric proportion of silicon in the starting boule that is wasted during processing? 
+Solution: (a) Volume V = V1 (tang) + V2 (cylinder) + V3 (seed) 
+V1= V3 = (cone in which h = 0.5(60-48) = 6.0, D = 5.25) = R2h/3 = 0.333(5.25/2)2(6.0) 
+= 43.295 in3. 
+V2= D2L/4 = (5.25)2(48)/4 = 1039.082 in3 
+V = 2(43.295) + 1039.082 = 1125.672 in3 
+(b) 
+Number of wafers = 48.0/(0.025 + 0.0128) = 48/(0.0378) = 1269.8 o 1269 wafers 
+
+(c) 
+Area of one wafer Aw = Ac -As, where Ac = area of the circle of radius R = 4.921/2 = 2.4605 in, and As = the area of the segment As created by the flat ground on the cylindrical surface. Ac = R2= (2.4605)2 = 19.0194 in2 The area of a segment of the circle created by the 1.625 in chord As = R2/360 -0.5R2 sin , where T is the angle formed by two radii of the circle and the chord. 0.5T = sin-1(1.625/4.921) = 19.28. T = 38.56. As = (2.4605)2(38.56)/360 -0.5(2.4605)2 sin 38.56 = 2.0372 -1.8869 = 0.1503 in2 Aw = Ac -As = 19.0194 -0.1503 = 18.8691 in2 Volume of one wafer Vw = Awt = 18.8691(0.025) = 0.4717 in3 Volume of 1269 wafers = 1269(0.4717) = 598.621 in3 Volume wasted = 1125.672 -598.621 = 527.051 in3 Proportion wasted = 527.051/1125.672 = 46.82%. 
+
+
+34.3 The processable area on a 156-mm-diameter wafer is a 150-mm-diameter circle. How many square IC chips can be processed within this area, if each chip is 7.5 mm on a side? Assume the cut lines (streets) between chips are of negligible width. 
+Solution: nc = 0.34(150/7.5)2.25 = 0.34(20)2.25 = 287.6. Estimate nc = 287 chips. 
+34.4 Solve Problem 34.3, only use a wafer size of 257 mm whose processable area has a diameter = 250 mm. What is the percent increase in (a) wafer diameter, (b) processable wafer area, and (c) number of chips, compared to the values in the previous problem? 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 01-13-09, 01-15-09, 05-14-09 Solution: (a) Increase in wafer diameter = (250 – 150)/150 = 0.667 = 66.7% increase 
+(b) 
+Processable area A = D2/4 For the 150 mm diameter, A = (159)2/4 = 17,671 mm2 For the 250 mm diameter, A = (250)2/4 = 49,087 mm2 Increase in processable wafer area = (49,087 – 17,671)/17,671 = 1.78 = 178% increase 
+
+(c) 
+nc = 0.34(250/7.5)2.25 = 0.34(33.33)2.25 = 907 Increase in number of chips = (907 – 287)/287 =2.16 = 216% increase 
+
+
+Note: These results indicate the advantages of increasing wafer size. For a 67% increase in processable area, we get a 216% increase in number of chips. 
+34.5 A 6.0-in wafer has a processable area with a 5.85-in diameter. How many square IC chips can be fabricated within this area, if each chip is 0.50 in on a side? Assume the cut lines (streets) between chips are of negligible width. 
+Solution: nc = 0.34(5.85/0.5)2.25 = 0.34(11.7)2.25 = 86.1. Use nc = 86 chips. 
+34.6 Solve Problem 34.5, only use a wafer size of 12.0 in whose processable area has a diameter = 11.75 in. What is the percent increase in (a) processable area on the wafer and (b) number of chips on the wafer compared to the 200% increase in wafer diameter? 
+Solution: (a) Processable area A = D2/4 For the 4-in wafer with a processable area = 5.85 in, A = (5.85)2/4 = 26.88 in2 For the 12-in wafer with a processable area = 11.75 in, A = (11.75)2/4 = 108.43 in2 Increase in processable area = (108.43 – 26.88)/26.88 = 3.03 = 303% increase 
+(b) For the 6-in wafer, nc = 86 from previous problem. For the 12-in wafer, nc = 0.34(11.75/0.5)2.25 = 0.34(23.5)2.25 = 413.4 Use nc = 413 chips. Increase in number of chips = (413 – 86)/86 = 3.81 = 381% increase 
+Note: The wafer diameter increases by 100%, the wafer area increases by 303%, and the number of chips increases by 381%. This is a principal motivation for using larger wafer diameters. 
+34.7 A 250 mm diameter silicon wafer has a processable area that is circular with a diameter = 225 mm. The IC chips that will be fabricated on the wafer surface are square with 20 mm on a side. However, the processable area on each chip is only 18 mm by 18 mm. The density of circuits within each chip’s processable area is 465 circuits per mm2. (a) How many IC chips can be placed onto the wafer? (b) Using Rent’s Rule with C = 3.8 and m = 0.43, how many input/output terminals (pins) will be needed for each chip package? 
+Solution: (a) nc = 0.34(Dw/Lc)2.25 = 0.34(225/20)2.25 = 0.34(11.25)2.25 = 78.8 round to 78 
+(b) Each chip surface area = 18 x 18 = 324 mm2 Number of circuits per chip = 324(465) = 150,660 circuits Rent’s Rule nio = 3.8 nc 0.43 = 3.8(150,660)0.43 = 3.8(168.476) = 640.2 round to 640 pins 
+34.8 A 12-inch diameter silicon wafer has a processable area that is circular with a diameter = 11.4 in. The IC chips that will be fabricated on the wafer surface are square with 0.75 in on a side, including an allowance for subsequent chip separation. However, the processable area on each chip is only 0.60 in by 0.60 in. The density of circuits within each chip’s processable area is 100,000 circuits per square inch. (a) How many IC chips can be placed onto the wafer? (b) Using Rent’s Rule with C = 3.8 and m = 0.43, how many input/output terminals (pins) will be needed for each chip package? 
+Solution: (a) nc = 0.34(Dw/Lc)2.25 = 0.34(11.4/0.75)2.25 = 0.34(15.2)2.25 = 155.1 round to 155 
+(b) Each chip surface area = 0.60 x 0.60 = 0.36 in2 
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+01-13-09, 01-15-09, 05-14-09 Number of circuits per chip = 100,000(0.36) = 36,000 circuits Rent’s Rule nio = 3.8 nc 0.43 = 3.8(36,000)0.43 = 3.8(91.035) = 345.9 round to 345 pins 
+34.9 A silicon boule has been processed through grinding to provide a cylinder whose diameter = 285 mm and whose length = 900 mm. Next, it will be sliced into wafers 0.7 mm thick using a cut-off saw with a kerf = 0.5 mm. The wafers thus produced will be used to fabricate as many IC chips as possible for the personal computer market. Each IC has a market value to the company of $98. Each chip is square with 15 mm on a side. The processable area of each wafer is defined by a diameter = 270 mm. Estimate the value of all of the IC chips that could be produced, assuming an overall yield of 80% good product. 
+Solution: First determine the number of wafers that can be obtained from the cylinder. Each wafer takes 0.7 + 0.5 mm = 1.2 mm of the cylinder’s length. Thus, the number of wafers is given by: nw = 900/1.2 = 750 wafers Next determine the number of chips per wafer: nc = 0.34(270/15)2.25 = 0.34(18)2.25 = 227 IC chips. The total number of chips on 750 wafers, accounting for the yield of 80% is given by the following: Total number of chips = 750(227)(0.80) = 136,200 good chips. At $98/chip, the total value = 136,200($98) = $13,347,600. 
+34.10 The surface of a silicon wafer is thermally oxidized, resulting in a SiO2 film that is 100 nm thick. If the starting thickness of the wafer was exactly 0.400 mm, what is the final wafer thickness after thermal oxidation? 
+Solution: A 100 nm film requires a layer of silicon = 0.44d Final thickness tf = 0.400 -0.44(100 x 10-6) + 100 x 10-6 = 0.400 + 0.56(.0001) = 0.400056 mm 
+34.11 It is desired to etch out a region of a silicon dioxide film on the surface of a silicon wafer. The SiO2 film is 100 nm thick. The width of the etched-out area is specified to be 650 nm. (a) If the degree of anisotropy for the etchant in the process is known to be 1.25, what should be the size of the opening in the mask through which the etchant will operate? (b) If plasma etching is used instead of wet etching, and the degree of anisotropy for plasma etching is infinity, what should be the size of the mask opening? 
+Solution: (a) Anisotropy degree A = d/u = 1.25, u = d/1.25 = 100/1.25 = 80 nm Mask opening size = 650.0 -2(80) = 490 nm 
+(b) A = d/u = . u = d/f = 0 m. Mask opening size = 650.0 -2(0) = 650.0 m 
+IC Packaging 
+34.12 An integrated circuit used in a microprocessor will contain 1000 logic gates. Use Rent's rule with C = 3.8 and m = 0.6 to determine the approximate number of input/output pins required in the package. 
+m
+Solution: Rents rule: nio = Cnc = 3.8(1000)0.6 = 63.1 o 63 input/output pins 
+34.13 A dual-in-line package has a total of 48 leads. Use Rent's rule with C = 4.5 and m = 0.5 to determine the approximate number of logic gates that could be fabricated in the IC chip for this package. 
+Solution: 48 = 4.5(nc)0.5 nc 0.5 = 48/4.5 = 10.667 nc = (10.667)2 = 113.8 o 113 logic gates 
+34.14 It is desired to determine the effect of package style on the number of circuits (logic gates) that can be fabricated onto an IC chip to which the package is assembled. Using Rent's rule with C = 4.5 and m = 0.5, compute the estimated number of devices (logic gates) that could be placed on the chip in the following cases: (a) a DIP with 16 I/O pins on a side -a total of 32 pins; (b) a square chip carrier 
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 01-13-09, 01-15-09, 05-14-09 
+with 16 pins on a side -a total of 64 I/O pins; and (c) a pin grid array with 16 by 16 pins -a total of 256 pins. 
+Solution: (a) Using Rent’s rule: nio = 4.5(nc)0.5 , find nc if nio = 32 nc 0.5 = 32/4.5 = 7.11 nc = 50.6 o 50 logic gates 
+(b) 
+Using Rent’s rule: nio = 4.5(nc)0.5 , find nc if nio = 64 nc0.5 = 64/4.5 = 14.22 nc = 202.3 o 202 logic gates 
+
+(c) 
+Using Rent’s rule: nio = 4.5(nc)0.5 , find nc if nio = 256. nc 0.5 = 256/4.5 = 56.89 nc = 3236.3 o 3236 logic gates 
+
+
+34.15 An integrated circuit used in a memory module contains 224 memory circuits. Sixteen of these integrated circuits are packaged onto a board to provide a 256 Mbyte memory module. Use Rent's rule, Eq. (34.11), with C = 6.0 and m = 0.12 to determine the approximate number of input/output pins required in each of the integrated circuits. 
+Solution: Rent’s rule: nio = Cncm = 6.0(224)0.12 = nio = 6.0(16,777,216)0.12 = 44.2 o 44 input/output pins 
+34.16 In the equation for Rent's rule with C = 4.5 and m = 0.5, determine the value of nio and nc at which the number of logic gates equals the number of I/O terminals in the package. 
+Solution: We have two equations and two unknowns: (1) nio = 4.5nc 0.5 and (2) nio = nc. Using nio in place of nc in Eq. (1), nio = 4.5nio 0.5 ln nio = ln 4.5 + 0.5 ln nio ln nio -0.5 ln nio = 0.5 ln nio = ln 4.5 = 1.50408 ln nio = 3.00816 nio = nc = 20.25. The closest possible values are nio = nc = 20 or 21. 
+34.17 A static memory device will have a two-dimensional array with 64 by 64 cells. Determine the number of input/output pins required using Rent's rule with C = 6.0 and m = 0.12. 
+Solution: (a) Rent’s rule: nio = 6.0 nc 0.12 = 6.0(64 x 64)0.12 = 6.0(4096)0.12 = 16.3 o 17 pins 
+34.18 To produce a 10 megabit memory chip, how many I/O pins are predicted by Rent's rule (C = 6.0 and m = 0.12)? 
+Solution: Rent’s rule: nio = 6.0 nc 0.12 = 6.0 (10,000,000)0.12 = 41.5 o 41 pins 
+34.19 The first IBM personal computer was based on the Intel 8088 CPU, which was released in 1979. The 8088 had 29,000 transistors and 40 I/O pins. The final version of the Pentium III (1 GHz) was released in 2000. It contained 28,000,000 transistors and had 370 I/O pins. (a) Determine the Rent’s rule coefficient values m and C assuming that a transistor can be considered a circuit. (b) Use the value of m and C to predict the number of I/O pins required for the first Pentium 4 assuming that it is manufactured with 42,000,000 transistors. (c) The first Pentium 4, released in 2001, used 423 I/O pins. Comment on the accuracy of your prediction. 
+Solution: (a) nio = Cncm; 40/29,000m = C and 370/28,000,000m = C 40/29,000m = 370/28,000,000m 40/370 = (29x103)m/(28x106)m 0.108108 = (29x103/28x106)m ln (0.108108) = m ln (0.001036) m = -2.2246/(-6.8727) = 0.3237 C = 40/29,0000.3237 = 40/27.8277 = 1.437 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 01-13-09, 01-15-09, 05-14-09 
+0.3237 
+
+nio = 1.437 nc 
+(b) 
+nio = 1.437 (42x106)0.3237 = 421.8 = 422 I/O pins 
+
+(c) 
+The actual and predicted values are almost too close to believe. Note that an updated Pentium 4 
+
+
+(2.2 GHz) released 6 months later increased to 55,000,000 transistors and remained at 423 I/O pins, so it does not fit as well for these coefficients of m and C. In very large integrated circuits that must remain backward compatible, the I/O pins are often frozen until the next generation. However, designers will add transistors to increase the functionality and speed of the processors. Therefore, there are discontinuities in the I/O pin count as new generations are released. 
+34.20 Suppose it is desired to produce a memory device that will be contained in a dual-in-line package with 32 I/O leads. How many memory cells can be contained in the device, as estimated by (a) Rent's rule with C = 6.0 and m = 0.12? 
+Solution: Rent’s rule: nio = 6.0 nc 0.12 nc 0.12 = nio/6.0 = 32/6 = 5.333 nc = (5.333)1/.12 = (5.333)8.333 = 1,143,728 memory cells 
+34.21 A 12-inch diameter silicon wafer has a processable area that is circular with a diameter = 11.4 in. The IC chips that will be fabricated on the wafer surface are square with 0.75 in on a side, including an allowance for subsequent chip separation. However, the processable area on each chip is only 0.60 in by 0.60 in. The density of circuits within each chip’s processable area is 100,000 circuits per square inch. (a) How many IC chips can be placed onto the wafer? (b) Using Rent’s Rule with C = 3.8 and m = 0.43, how many input/output terminals (pins) will be needed for each chip package? 
+Solution: (a) nc = 0.34(Dw/Lc)2.25 = 0.34(11.4/0.75)2.25 = 0.34(15.2)2.25 = 155.1 round to 155 chips 
+(b) Each chip surface area = 0.60 x 0.60 = 0.36 in2 Number of circuits per chip = 100,000(0.36) = 36,000 circuits Rent’s Rule nio = 3.8 nc 0.43 = 3.8(36,000)0.43 = 3.8(91.035) = 345.9 round to 346 pins 
+34.22 A 250 mm diameter silicon wafer has a processable area that is circular with a diameter = 225 mm. The IC chips that will be fabricated on the wafer surface are square with 20 mm on a side. However, the processable area on each chip is only 18 mm by 18 mm. The density of circuits within each chip’s processable area is 465 circuits per mm2. (a) How many IC chips can be placed onto the wafer? (b) Using Rent’s Rule with C = 4.5 and m = 0.35, how many input/output terminals (pins) will be needed for each chip package? 
+Solution: (a) nc = 0.34(Dw/Lc)2.25 = 0.34(225/20)2.25 = 0.34(11.25)2.25 = 78.8 round to 78 
+(b) Each chip surface area = 18 x 18 = 324 mm2 Number of circuits per chip = 324(465) = 150,660 circuits Rent’s Rule nio = 4.5 nc 0.35 = 4.5(150,660)0.35 = 4.5(64.91) = 292.1 round to 292 pins 
+Yields in IC Processing 
+34.23 Given that crystal yield = 55%, crystal-to-slice yield = 60%, wafer yield = 75%, multiprobe yield = 65%, and final test yield = 95%, if a starting boule weighs 125 kg, what is the final weight of silicon that is represented by the non-defective chips after final test? 
+Solution: Overall yield Y = YcYsYw YmYt = (0.55)(0.60)(0.75)(0.65)(0.95) = 0.1528 Wf = YWi = 0.1528(125) = 19.1 kg 
+34.24 On a particular production line in a wafer fabrication facility, the crystal yield is 60%, the crystal-toslice yield is 60%, wafer yield is 90%, multiprobe is 70%, and final test yield is 80%. (a) What is 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 01-13-09, 01-15-09, 05-14-09 
+the overall yield for the production line? (b) If wafer yield and multiprobe yield are combined into the same reporting category, what overall yield for the two operations would be expected? 
+Solution: (a) Overall Y = Yc Ys Yw Ym Yt = (0.60)(0.60)(0.90)(0.70)(0.80) = 0.1814 = 18.14% 
+(b) Yw Ym = (0.90)(0.70) = 0.63 = 63% 
+34.25 A silicon wafer with a diameter of 200 mm is processed over a circular area whose diameter = 190 mm. The chips to be fabricated are square with 10 mm on a side. The density of point defects in the surface area is 0.0047 defects/cm2. Determine an estimate of the number of good chips using the Bose-Einstein yield computation. 
+Solution: nc = 0.34(190/10)2.25 = 0.34(19)2.25 = 256 chips Processable wafer area A = (190)2/4 = 28,353 mm2 = 283.53 cm2 Ym = 1/(1 + AD) = 1/(1 + 283.53 x 0.0047) = 1/2.333 = 0.4287 Number of good chips = 0.4287(256) = 109.7 o 110 good chips 
+34.26 A 12-in wafer is processed over a circular area of diameter = 11.75 in. The density of point defects in the surface area is 0.018 defects/in2. The chips to be fabricated are square with an area of 0.16 in2 each. Determine an estimate of the number of good chips using the Bose-Einstein yield computation. 
+Solution: Square chips with an area = 0.16 in2 must have each side Lc = (0.16)0.5 = 0.40 in. nc = 0.34(11.75/0.4)2.25 = 0.34(29.375)2.25 = 683 chips Processable wafer area A = (11.75)2/4 = 108.43 in2 Ym = 1/(1 + AD) = 1/(1 + 108.43 x 0.018) = 1/2.952 = 0.3388 Number of good chips = 0.3388(683) = 231.4 o 231 good chips 
+34.27 The yield of good chips in multiprobe for a certain batch of wafers is 83%. The wafers have a diameter of 150 mm with a processable area that is 140 mm in diameter. If the defects are all assumed to be point defects, determine the density of point defects using the Bose-Einstein method of estimating yield. 
+Solution: Ym = 1/(1 + AD) Processable area A = (140)2/4 = 15,394 mm2 = 153.94 cm2 0.83 = 1/(1 + 153.94D) 0.83(1 + 153.94D) = 0.83 + 127.77 D = 1 127.77 D = 1 -0.83 = 0.17 D = 0.17/127.77 = 0.00133 defects/cm2 
+34.28 A silicon wafer has a processable area of 35.0 in2. The yield of good chips on this wafer is Ym = 75%. If the defects are all assumed to be point defects, determine the density of point defects using the Bose-Einstein method of estimating yield. 
+Solution: Ym = 1/(1 + AD) Processable area A = 35 in2 
+0.75 = 1/(1 + 35 D) 0.75(1 + 35 D) = 0.75 + 26.25 D = 1 26.25 D = 1 -0.75 = 0.25 D = 0.25/26.25 = 0.0095 defects/in2 
+
+

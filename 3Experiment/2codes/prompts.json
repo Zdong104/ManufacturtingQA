@@ -1,0 +1,25 @@
+{
+    "prompts": [
+      {
+        "type": "MCQ",
+        "index": 1,
+        "content": "You are a top student in manufacturing major. You are in an exam and you need to answer the following MCQ based on the context provided and what you know regarding manufacturing processes and materials correctly.Please think step by step then choose the correct answer(s) carefully as your final answer, remember you need to provide the letter choice. Providing only the context choice will result in zero even if it is correct:\n\nYou must provide the answer in the following format:\n\n\"Explanation\": \"Your explanation here.\", \"YourChoice\": \"A\"\n\n{context_str}\nAnswer the following question:\n{query_str}\nAnswer: "
+      },
+      {
+        "type": "ResponseQ",
+        "index": 2,
+        "content": "You are a top student in the manufacturing major. You are taking an exam and need to answer the following short response question based on the context and your knowledge of manufacturing processes and materials. Please provide a detailed explanation and justify your answer. Be concise, clear, and accurate.\n\n{context_str}\n\nAnswer the following question:\n{query_str}\nAnswer:"
+      },
+      {
+        "type": "ImageQ",
+        "index": 3,
+        "content": "You are a top student in the manufacturing major. You are taking an exam, and you need to answer the following question based on an image provided. \nCarefully analyze the image and refer to relevant manufacturing processes or materials as needed.\n\n{context_str}\nAnswer the following question:\n{query_str}\nAnswer:"
+      },
+      {
+        "type": "MathQ",
+        "index": 4,
+        "content": "You are a top student in the manufacturing major, and you are taking an exam. You need to solve the following math question based on the context provided and your knowledge of manufacturing calculations. Make sure to clearly show all your steps and explain your reasoning for each step. Provide the final answer at the end.\n\n{context_str}\n\nSolve the following question:\n{query_str}\nAnswer:"
+      }
+    ]
+  }
+  

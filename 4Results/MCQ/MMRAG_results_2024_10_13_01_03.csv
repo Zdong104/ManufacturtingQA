@@ -1,0 +1,201 @@
+Question,Answer,Explanation,YourChoice,OutputAnswers,Context,Context_path,Confident_Score
+"Which one of the following casting processes is most widely used (one answer)? (a) centrifugal casting, (b) die casting, (c) investment casting, (d) sand casting, or (e) shell casting.",Answer. (d),"The question asks for the most widely used casting process. From the context provided, it is mentioned that sand casting is the most widely used casting process, accounting for a significant majority of the total tonnage cast. It is versatile and can be used for nearly all casting alloys, including those with high melting temperatures. This makes sand casting the most prevalent method in the industry.",D,"""Explanation"": ""The question asks for the most widely used casting process. From the context provided, it is mentioned that sand casting is the most widely used casting process, accounting for a significant majority of the total tonnage cast. It is versatile and can be used for nearly all casting alloys, including those with high melting temperatures. This makes sand casting the most prevalent method in the industry."", ""YourChoice"": ""D""","![](images/2e9c442ffa305916105dc642fcafc5e1a04fa0f7362571cdf8bf17f157d07b23.jpg)  
+FIGURE 11.19  (a) Centrifuge  casting—centrifugal  force causes metal to  ﬂ  ow to the mold  cavities away from the  axis of rotation; and  (b) the casting.  
+
+Centrifuge Casting   In centrifuge casting, Figure 11.19, the mold is designed with  part cavities located away from the axis of rotation, so that the molten metal poured  into the mold is distributed to these cavities by centrifugal force. The process is used  for smaller parts, and radial symmetry of the part is not a requirement as it is for the  other two centrifugal casting methods.  
+
+# 11.4 11.4  Foundry Practice  
+
+In all casting processes, the metal must be heated to the molten state to be poured or  otherwise forced into the mold. Heating and melting are accomplished in a furnace.  This section covers the various types of furnaces used in foundries and the pouring  practices for delivering the molten metal from furnace to mold.  
+
+# 11.4.1  FURNACES  
+
+The types of furnaces most commonly used in foundries are (1) cupolas, (2) direct  fuel-ﬁ  red furnaces, (3) crucible furnaces, (4) electric-arc furnaces, and (5) induction  furnaces. Selection of the most appropriate furnace type depends on factors such  as the casting alloy; its melting and pouring temperatures; capacity requirements of  the furnace; costs of investment, operation, and maintenance; and environmental  pollution considerations.  
+
+Cupolas   A cupola is a vertical cylindrical furnace equipped with a tapping spout  near its base. Cupolas are used only for melting cast irons, and although other fur- naces are also used, the largest tonnage of cast iron is melted in cupolas. General  construction and operating features of the cupola are illustrated in Figure 11.20. It  consists of a large shell of steel plate lined with refractory. The “charge,” consisting  of iron, coke, ﬂ  ux, and possible alloying elements, is loaded through a charging door  located less than halfway up the height of the cupola. The iron is usually a mixture  of pig iron and scrap (including risers, runners, and sprues left over from previous  castings). Coke is the fuel used to heat the furnace. Forced air is introduced through  openings near the bottom of the shell for combustion of the coke. The ﬂ  ux is a basic  
+
+![](images/2290e45e2ff807680e7eac19261e8f15f845b214aef610791e3bd22e2511f128.jpg)  
+FIGURE 11.20  Cupola  used for melting cast  iron. Furnace shown is  typical for a small  foundry and omits  details of emissions  control system required  in a modern cupola.  
+
+compound such as limestone that reacts with coke ash and other impurities to form  slag. The slag serves to cover the melt, protecting it from reaction with the environ- ment inside the cupola and reducing heat loss. As the mixture is heated and melting  of the iron occurs, the furnace is periodically tapped to provide liquid metal for the  pour.  
+
+Direct Fuel-Fired Furnaces   A direct fuel-ﬁ  red furnace contains a small open  hearth, in which the metal charge is heated by fuel burners located on the side of  the furnace. The roof of the furnace assists the heating action by reﬂ  ecting the ﬂ  ame  down against the charge. Typical fuel is natural gas, and the combustion products  exit the furnace through a stack. At the bottom of the hearth is a tap hole to release  the molten metal. Direct fuel-ﬁ  red furnaces are generally used in casting for melting  nonferrous metals such as copper-base alloys and aluminum.  
+
+Crucible Furnaces   These furnaces melt the metal without direct contact with a  burning fuel mixture. For this reason, they are sometimes called  indirect fuel-ﬁ  red  furnaces . Three types of crucible furnaces are used in foundries: (a) lift-out type, (b)  stationary, and (c) tilting, illustrated in Figure 11.21. # Metal Casting  Processes  
+
+# Chapter Contents  
+
+# 11.1 Sand Casting  
+
+11.1.1 Patterns and Cores 11.1.2 Molds and Mold Making 11.1.3 The Casting Operation  
+
+11.2 Other Expendable-Mold Casting  Processes  
+
+11.2.1 Shell Molding 11.2.2 Vacuum Molding 11.2.3 Expanded Polystyrene Process 11.2.4 Investment Casting 11.2.5 Plaster-Mold and Ceramic- Mold Casting  
+
+# 11.3 Permanent-Mold Casting Processes  
+
+11.3.1 The Basic Permanent-Mold  Process 11.3.2 Variations of Permanent-Mold  Casting 11.3.3 Die Casting 11.3.4 Squeeze Casting and Semi- Solid Metal Casting 11.3.5 Centrifugal Casting  
+
+11.4 Foundry Practice  
+
+11.4.1 Furnaces 11.4.2 Pouring, Cleaning, and Heat  Treatment  
+
+# 11.5 Casting Quality  
+
+11.6 Metals for Casting  
+
+11.7 Product Design Considerations  
+
+Metal casting processes divide into two categories, based  on mold type: (1) expendable mold and (2) permanent  mold. In expendable mold casting operations, the mold  is sacriﬁ  ced in order to remove the cast part. Since a new  mold is required for each new casting, production rates  in expendable-mold processes are often limited by the  time required to make the mold rather than the time  to make the casting itself. However, for certain part  geometries, sand molds can be produced and castings  made at rates of 400 parts per hour and higher. In per- manent mold casting processes, the mold is fabricated  out of metal (or other durable material) and can be used  many times to make many castings. Accordingly, these  processes possess a natural advantage in terms of higher  production rates.  
+
+The discussion of casting processes in this chapter  is organized as follows: (1) sand casting, (2) other ex- pendable mold casting processes, and (3) permanent  mold casting processes. The chapter also includes cast- ing equipment and practices used in foundries. Another  section deals with inspection and quality issues. Product  design guidelines are presented in the ﬁ  nal section.  
+
+# 11.1 11.1  
+
+#  Sand Casting  
+
+Sand casting is the most widely used casting process, ac- counting for a signiﬁ  cant majority of the total tonnage  cast. Nearly all casting alloys can be sand cast; indeed, it  is one of the few processes that can be used for metals  with high melting temperatures, such as steels, nickels,  and titaniums. Its versatility permits the casting of parts  ranging in size from small to very large and in produc- tion quantities from one to millions. Figure 11.1 shows a  cast iron sand casting of a pump housing that has been  partially machined to create accurate holes and surfaces.  
+
+Sand casting , also known as  sand-mold casting , con- sists of pouring molten metal into a sand mold, allowing  the metal to solidify, and then breaking up the mold to  remove the casting. The casting must then be cleaned  and inspected, and heat treatment is sometimes required  
+
+![](images/d0f22ae4cf5d5b45f4df1ceea2c7b0827d990b07c9b13928610143c4f027c31f.jpg)  
+FIGURE 11.1  A sand  casting for an  industrial pump. Holes  and surfaces have  been machined.  (Courtesy of George E.  Kane Manufacturing  Technology Laboratory,  Lehigh University.)  
+
+to improve metallurgical properties. The cavity in the sand mold is formed by pack- ing sand around a pattern (an approximate duplicate of the part to be cast), and then  removing the pattern by separating the mold into two halves. The mold also contains  the gating and riser system. In addition, if the casting is to have internal surfaces (e.g.,  hollow parts or parts with holes), a core must be included in the mold. Since the mold  is sacriﬁ  ced to remove the casting, a new sand mold must be made for each part that  is produced. From this brief description, sand casting is seen to include not only the  casting operation itself, but also the fabrication of the pattern and the making of the  mold. The production sequence is outlined in Figure 11.2. # Part III   Solidiﬁ  cation  Processes  
+
+# 10 Fundamentals  of Metal Casting  
+
+# Chapter Contents  
+
+10.1 Overview of Casting Technology  
+
+10.1.1 Casting Processes 10.1.2 Sand-Casting Molds  
+
+# 10.2 Heating and Pouring  
+
+10.2.1 Heating the Metal 10.2.2 Pouring the Molten Metal 10.2.3 Engineering Analysis of Pouring 10.2.4 Fluidity  
+
+# 10.3 Solidiﬁ  cation and Cooling  
+
+10.3.1 Solidiﬁ  cation of Metals 10.3.2 Solidiﬁ  cation Time 10.3.3 Shrinkage 10.3.4 Directional Solidiﬁ  cation 10.3.5 Riser Design  
+
+This part of the book covers those manufacturing  processes in which the starting work material is either  a liquid or is in a highly plastic condition, and a part  is created through solidiﬁ  cation of the material. Cast- ing and molding processes dominate this category of  shaping operations. With reference to Figure 10.1, the  solidiﬁ  cation processes can be classiﬁ  ed according to  the engineering material that is processed: (1) metals,  (2) ceramics, speciﬁ  cally glasses,  and (3) polymers and  polymer matrix composites (PMCs). Casting of metals  is covered in this and the following chapter. Glasswork- ing is covered in Chapter 12, and the processing of poly- mers and PMCs is treated in Chapters 13 and 14.  
+
+Casting  is a process in which molten metal ﬂ  ows by  gravity or other force into a mold where it solidiﬁ  es in  the shape of the mold cavity. The term  casting  is also  applied to the part that is made by this process. It is one  of the oldest shaping processes, dating back 6000 years  (Historical Note 10.1). The principle of casting seems  simple: melt the metal, pour it into a mold, and let it  cool and solidify; yet there are many factors and vari- ables that must be considered in order to accomplish a  successful casting operation.  
+
+Casting includes both the casting of ingots and the  casting of shapes. The term  ingot  is usually associ- ated with the primary metals industries; it describes a  large casting that is simple in shape and intended for  
+
+![](images/a004ef6a006b91d6379175ed32739720d6f55dd64b21fbc7f5bfb66820e008f3.jpg)  
+FIGURE 10.1  Classiﬁ  cation of solidiﬁ  cation processes.  
+
+# Historical Note 10.1  Origins of casting  
+
+Casting of metals can be traced back to around 4000  B . C . E . Gold was the ﬁ  rst metal to be discovered and  used by the early civilizations; it was malleable and  could be readily hammered into shape at room tem- perature. There seemed to be no need for other ways  to shape gold. It was the subsequent discovery of cop- per that gave rise to the need for casting. Although  copper could be forged to shape, the process was  more difﬁ  cult (due to strain hardening) and limited to  relatively simple forms. Historians believe that hun- dreds of years elapsed before the process of cast- ing copper was ﬁ  rst performed, probably by accident  during the reduction of copper ore in preparation for  hammering the metal into some useful form. Thus,  through serendipity, the art of casting was born. It is  likely that the discovery occurred in Mesopotamia, and  the “technology” quickly spread throughout the rest  of the ancient world.  
+
+It was an innovation of signiﬁ  cant importance  in the history of mankind. Shapes much more intri- cate could be formed by casting than by hammering.  More sophisticated tools and weapons could be fab- ricated. More detailed implements and ornaments  could be fashioned. Fine gold jewelry could be made  more beautiful and valuable than by previous meth- ods. Alloys were ﬁ  rst used for casting when it was  discovered that mixtures of copper and tin (the alloy  thus formed was bronze) yielded much better cast- ings than copper alone.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec11.txt; /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec11.txt; /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec10.txt,"[ 0 . 8 2 9 8 7 9 9 6 9 1 5 5 1 7 4 ,   0 . 8 2 7 6 4 0 6 2 5 2 1 7 4 8 6 4 ,   0 . 8 2 5 8 4 4 2 2 2 1 8 6 4 9 2 1 ]"
+"In sand casting, the volumetric size of the pattern is which of the following relative to the cast part? (a) bigger, (b) same size, or (c) smaller.",Answer. (a),"In sand casting, the pattern is made larger than the final cast part to account for the shrinkage that occurs as the metal solidifies and cools. This is known as the pattern shrinkage allowance. The pattern must be oversized to ensure that the final dimensions of the cast part are accurate after cooling. Therefore, the volumetric size of the pattern is bigger relative to the cast part.",A,"""Explanation"": ""In sand casting, the pattern is made larger than the final cast part to account for the shrinkage that occurs as the metal solidifies and cools. This is known as the pattern shrinkage allowance. The pattern must be oversized to ensure that the final dimensions of the cast part are accurate after cooling. Therefore, the volumetric size of the pattern is bigger relative to the cast part."", ""YourChoice"": ""A""","In addition, various machines have  been developed to mechanize the packing procedure. These machines operate by  any of several mechanisms, including (1) squeezing the sand around the pattern  by pneumatic pressure; (2) a jolting action in which the sand, contained in the  ﬂ  ask with the pattern, is dropped repeatedly in order to pack it into place; and  (3) a slinging action, in which the sand grains are impacted against the pattern at  high speed.  
+
+An alternative to traditional ﬂ  asks for each sand mold is  ﬂ  askless molding , which  refers to the use of one master ﬂ  ask in a mechanized system of mold production.  Each sand mold is produced using the same master ﬂ  ask. Mold production rates up  to 600 per hour are claimed for this more automated method [8].  
+
+Several indicators are used to determine the quality of the sand mold [7]:  (1)  strength —the mold’s ability to maintain its shape and resist erosion caused by  the ﬂ  ow of molten metal; it depends on grain shape, adhesive qualities of the binder,  and other factors; (2)  permeability —capacity of the mold to allow hot air and  gases from the casting operation to pass through the voids in the sand; (3)  thermal  stability —ability of the sand at the surface of the mold cavity to resist cracking  and buckling upon contact with the molten metal; (4)  collapsibility —ability of  the mold to give way and allow the casting to shrink without cracking the casting;  it also refers to the ability to remove the sand from the casting during cleaning;  and (5)  reusability —can the sand from the broken mold be reused to make other  molds? These measures are sometimes incompatible; for example, a mold with  greater strength is less collapsible.  
+
+Sand molds are often classiﬁ  ed as green-sand, dry-sand, or skin-dried molds.  Green-sand molds  are made of a mixture of sand, clay, and water, the word  green   referring to the fact that the mold contains moisture at the time of pouring. Green- sand molds possess sufﬁ  cient strength for most applications, good collapsibility,  good permeability, good reusability, and are the least expensive of the molds. They  are the most widely used mold type, but they are not without problems. Moisture in  the sand can cause defects in some castings, depending on the metal and geometry  of the part. A  dry-sand mold  is made using organic binders rather than clay, and the  mold is baked in a large oven at temperatures ranging from $200^{\circ}\mathrm{C}$  to $320^{\circ}\mathrm{C}$ ( $(400^{\circ}\mathrm{F}-$ $600^{\circ}\mathrm{F}$ ) [8]. Oven baking strengthens the mold and hardens the cavity surface. A  dry-sand mold provides better dimensional control in the cast product, compared  to green-sand molding. However, dry-sand molding is more expensive, and produc- tion rate is reduced because of drying time. Applications are generally limited to  medium and large castings in low to medium production rates. In a  skin-dried mold ,  the advantages of a dry-sand mold is partially achieved by drying the surface of a  green-sand mold to a depth of 10 to  $25~\mathrm{mm}$  (0.4–1 in) at the mold cavity surface,  using torches, heating lamps, or other means. Special bonding materials must be  added to the sand mixture to strengthen the cavity surface.  
+
+The preceding mold classiﬁ  cations refer to the use of conventional binders con- sisting of either clay-and-water or ones that require heating to cure. In addition to  these classiﬁ  cations, chemically bonded molds have been developed that are not  based on either of these traditional binder ingredients. Some of the binder materials  
+
+TABLE •   11.1  Densities of selected casting alloys. 
+![](images/9725dcbc318e134262b17ad3edbd95364966f6c691449828b4acc86280530cba.jpg)  
+Source: [7]. a Density depends on composition of alloy; value given is typical. }19\:\mathrm{kg}.$ . The difference $=$ $21.19-3.0=18.19\,\mathrm{kg}$ . Given that $1\,\mathrm{kg}=9.81\,\mathrm{N}$ , the buoyancy force is therefore  $F_{b}=9.81(18.19)=\mathbf{178.4}\,\mathbf{N}$ .  
+
+Following solidiﬁ  cation and cooling, the sand mold is broken away from the casting  to retrieve the part. The part is then cleaned—gating and riser system are separated,  and sand is removed. The casting is then inspected (Section 11.5).  
+
+#  Other Expendable-Mold Casting Processes  
+
+As versatile as sand casting is, there are other casting processes that have been  developed to meet special needs. The differences between these methods are in the  composition of the mold material, or the manner in which the mold is made, or in  the way the pattern is made.  
+
+# 11.2.1  SHELL MOLDING  
+
+Shell molding is a casting process in which the mold is a thin shell (typically 9 mm  or 3/8 in) made of sand held together by a thermosetting resin binder. Developed in  Germany during the early 1940s, the process is described and illustrated in Figure 11.5.  
+
+There are many advantages to the shell-molding process. The surface of the  shell-mold cavity is smoother than a conventional green-sand mold, and this  smoothness permits easier ﬂ  ow of molten metal during pouring and better surface  ﬁ  nish on the ﬁ  nal casting. Finishes of  $2.5\ \mu\mathrm{m}$  ( $100~\mu$ -in) can be obtained. Good  
+
+![](images/dee6cae125c63a5134d7ce28ecb31ad6f9fac4b6373f22ba5cde845f450c5d36.jpg)  
+FIGURE 11.5  Steps in shell-molding: (1) a match-plate or cope-and-drag metal pattern is heated and placed over a  box containing sand mixed with thermosetting resin; (2) box is inverted so that sand and resin fall onto the hot pattern,  causing a layer of the mixture to partially cure on the surface to form a hard shell; (3) box is repositioned so that loose,  uncured particles drop away; (4) sand shell is heated in oven for several minutes to complete curing; (5) shell mold is  stripped from the pattern; (6) two halves of the shell mold are assembled, supported by sand or metal shot in a box,  and pouring is accomplished. The ﬁ  nished casting with sprue removed is shown in (7).  
+
+dimensional accuracy is also achieved, with tolerances of  $\pm0.25~\mathrm{mm}$  ( $(\pm0.010\$  in)  possible on small-to-medium-sized parts. The good ﬁ  nish and accuracy often pre- cludes the need for further machining. Collapsibility of the mold is generally suf- ﬁ  cient to avoid tearing and cracking of the casting.  
+
+Disadvantages of shell molding include a more expensive metal pattern than the  corresponding pattern for green-sand molding. This makes shell molding difﬁ  cult to  justify for small quantities of parts. Shell molding can be mechanized for mass pro- duction and is very economical for large quantities. It seems particularly suited to  steel castings of less than 20 lb. Examples of parts made using shell molding include  gears, valve bodies, bushings, and camshafts.  
+
+# 11.2.2  VACUUM MOLDING  
+
+Vacuum molding, also called the  V-process , was developed in Japan around 1970. It  uses a sand mold held together by vacuum pressure rather than by a chemical binder.  Accordingly, the term  vacuum  in this process refers to the making of the mold rather  than the casting operation itself. The steps of the process are explained in Figure 11.6.  
+
+! In sand casting, liquid metal is supplied  to the cavity by means of risers (Section 10.3.5). In die casting (Section 11.3.3), the  molten metal is applied under pressure.  
+
+Pattern-makers account for thermal contraction by making the mold cavities  oversized. The amount by which the mold must be made larger relative to the ﬁ  nal  casting size is called the  pattern shrinkage allowance . Although the shrinkage is  volumetric, the dimensions of the casting are expressed linearly, so the allowances  must be applied accordingly. Special “shrink rules” with slightly elongated scales are  used to make the patterns and molds larger than the desired casting by the appropri- ate amount. Table 10.1 lists typical values of linear shrinkage for various cast metals;  these values can be used to determine shrink rule scales.  
+
+# 10.3.4  DIRECTIONAL SOLIDIFICATION  
+
+In order to minimize the damaging effects of shrinkage, it is desirable for the  regions of the casting most distant from the liquid metal supply to freeze ﬁ  rst and  for solidiﬁ  cation to progress from these remote regions toward the riser(s). In this  way, molten metal will continually be available from the risers to prevent shrink- age voids during freezing. The term  directional solidiﬁ  cation  is used to describe  this aspect of the freezing process and the methods by which it is controlled. The  desired directional solidiﬁ  cation is achieved by observing Chvorinov’s rule in  the design of the casting itself, its orientation within the mold, and the design of the riser  system that feeds it. For example, by locating sections of the casting with lower  V / A ratios away from the riser, freezing will occur ﬁ  rst in these regions and the supply of liq- uid metal for the rest of the casting will remain open until these bulkier sections solidify.  
+
+Another way to encourage directional solidiﬁ  cation is to use  chills —internal  or external heat sinks that cause rapid freezing in certain regions of the casting.  Internal chills  are small metal parts placed inside the cavity before pouring so that  the molten metal will solidify ﬁ  rst around these parts. The internal chill should have  a chemical composition similar to the metal being poured, most readily achieved by  making the chill out of the same metal as the casting itself.  
+
+![](images/1db4e1837b6cee2d1fe501d6bcbcab40c5637157277faab6472f82e3d533b694.jpg)  
+FIGURE 10.9  (a) External chill to  encourage rapid  freezing of the molten  metal in a thin section  of the casting; and (b)  the likely result if the  external chill were not  used.  
+
+External chills  are metal inserts in the walls of the mold cavity that can remove  heat from the molten metal more rapidly than the surrounding sand in order to  promote solidiﬁ  cation. They are often used effectively in sections of the casting  that are difﬁ  cult to feed with liquid metal, thus encouraging rapid freezing in these  sections while the connection to liquid metal is still open. Figure 10.9 illustrates a  possible application of external chills and the likely result in the casting if the chill  were not used.  
+
+As important as it is to initiate freezing in the appropriate regions of the cavity, it  is also important to avoid premature solidiﬁ  cation in sections of the mold nearest the  riser. Of particular concern is the passageway between the riser and the main cavity.  This connection must be designed in such a way that it does not freeze before the  casting, which would isolate the casting from the molten metal in the riser. Although  it is generally desirable to minimize the volume in the connection (to reduce wasted  metal), the cross-sectional area must be sufﬁ  cient to delay the onset of freezing. This  goal is usually aided by making the passageway short in length, so that it absorbs  heat from the molten metal in the riser and the casting.  
+
+# 10.3.5  RISER DESIGN  
+
+As described earlier, a riser, Figure 10.2(b), is used in a sand-casting mold to feed  liquid metal to the casting during freezing in order to compensate for solidiﬁ  cation  shrinkage.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec11.txt; /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec11.txt; /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec10.txt,"[ 0 . 8 0 4 7 3 5 0 3 5 8 5 0 5 0 4 9 ,   0 . 8 0 0 9 5 8 9 5 4 9 1 7 9 7 6 ,   0 . 8 0 0 9 2 6 8 1 6 0 3 1 7 7 1 7 ]"
+"Silica sand has which one of the following compositions? (a) Al2O3, (b) SiO, (c) SiO2, or (d) SiSO4.",Answer. (c),"Silica sand is primarily composed of silicon dioxide, which is represented by the chemical formula SiO2. This is a well-known fact in materials science and is consistent with the information provided in the context about silicon and its compounds.",C,"""Explanation"": ""Silica sand is primarily composed of silicon dioxide, which is represented by the chemical formula SiO2. This is a well-known fact in materials science and is consistent with the information provided in the context about silicon and its compounds."", ""YourChoice"": ""C""","It was (and is) made by mixing soda  $\mathrm{(Na_{2}O)}$  and  lime (CaO) with silica $\left(\mathrm{SiO}_{2}\right)$  as the major ingredient. The blending of ingredients has  evolved empirically to achieve a balance between avoiding crystallization during  
+
+TABLE  •  7.4   Typical compositions of selected glass products. 
+![](images/ddb363f62dea8e17cdc3753bef88ff6d2145d328858dcb682b23c3a5a6ee7190.jpg)  
+Compiled from [4], [5] and [10], and other sources. a May include $\mathrm{Fe}_{2}\mathrm{O}_{3}$  with ${\mathrm{Al}}_{2}{\mathrm{O}}_{3}$  
+
+cooling and achieving chemical durability of the final product. Modern window glass  and the techniques for making it have required slight adjustments in composition  and closer control over its variation. Magnesia  $\mathrm{(MgO)}$ ) has been added to help re- duce  devitrification.  
+
+Containers  In previous times, the same basic soda-lime composition was used for  manual glass-blowing to make bottles and other containers. Modern processes for  shaping glass containers cool the glass more rapidly than older methods. Also, the  importance of chemical stability in container glass is better understood today. Re-  sulting changes in composition have attempted to optimize the proportions of lime  (CaO) and soda  $\left(\mathrm{Na}_{2}\mathrm{O}_{3}\right)$ . Lime promotes fluidity. It also increases devitrification,  but since cooling is more rapid, this effect is not as important as in prior processing  techniques with slower cooling rates. Soda reduces chemical instability and solubil- ity  of the container glass.  
+
+Light Bulb Glass   Glass used in light bulbs and other thin glass items (e.g., drinking  glasses, Christmas ornaments) is high in soda and low in lime; it also contains small  amounts of magnesia and alumina. The chemistry is dictated largely by the econom-  ics of large volumes involved in light bulb manufacture. The raw materials are inex-  pensive and suited to the continuous melting furnaces used today.  
+
+Laboratory Glassware  These products include containers for chemicals (e.g.,  flasks, beakers, glass tubing). The glass must be resistant to chemical attack and ther-  mal shock. Glass that is high in silica is suitable because of its low thermal expan-  sion. The trade name “Vicor” is used for this high-silica glass. This product is very  insoluble in water and acids. Additions of boric oxide also produce a glass with low  coefficient of thermal expansion, so some glass for laboratory ware contains  $\mathrm{B}_{2}\mathrm{O}_{3}$  in  amounts of around  $13\%$ . The trade name “Pyrex” is used for the borosilicate glass   developed by the Corning Glass Works. Both Vicor and Pyrex are included in the  listing as examples of this product category.  
+
+Glass Fibers  Glass fibers are manufactured for a number of important applica- tions,  including fiberglass reinforced plastics, insulation wool, and fiber optics. The  compositions vary according to function. The most commonly used glass reinforcing  fibers in plastics are E-glass. It is high in CaO and ${\mathrm{Al}}_{2}{\mathrm{O}}_{3}$  content, it is economical, and  it possesses good tensile strength in fiber form. Another glass fiber material is S- glass, which has higher strength but is not as economical as E-glass. Compositions are  indicated in the table.  
+
+Insulating fiberglass wool can be manufactured from regular soda-lime-silica  glasses. The glass product for fiber optics consists of a long, continuous core of glass  with high refractive index surrounded by a sheath of lower refractive glass. The in-  side glass must have a very high transmittance for light in order to accomplish long  distance communication.  
+
+Optical Glasses  Applications for these glasses include lenses for eyeglasses and  optical instruments such as cameras, microscopes, and telescopes. To achieve their  function, the glasses must have different refractive indices, but each lens must be  homogenous in composition. Optical glasses are generally divided into: crowns and  flints. Silicon is one of the most abundant  elements in the Earth’s crust, com-  prising about $26\%$  by weight  (Table 7.1). It occurs naturally only as a chemical com-  pound—in  rocks, sand, clay, and soil—either as silicon dioxide or as more  complex silicate compounds. As an element it has the same  crystalline structure as diamond, but its hardness is lower. It is  hard but brittle, lightweight, chemically inactive at room  temperature, and is classified as a semiconductor.  
+
+The greatest amounts of silicon in manufacturing are in ceramic  compounds ( $\mathrm{SiO}_{2}$   in glass and silicates in clays) and alloying  elements in steel, aluminum, and copper alloys. It is also used  as a reducing agent in certain metallurgical processes. Of sig-  nificant technological importance is pure silicon as the base  material in semiconduc-  tor manufacturing in electronics. The  vast majority of integrated circuits produced today are made  from silicon (Chapter 33).  
+
+# 7.5.3  BORON  
+
+Boron is a semimetallic element in the same periodic group as  aluminum. It is only about  $0.001\%$  of the Earth’s crust by  weight, commonly occurring as the miner- als  borax  $\mathrm{(Na_{2}B_{4}O_{7^{-}}}$ $10\mathrm{H}_{2}\mathrm{O}$ ) and  kernite  $(\mathrm{Na}_{2}\mathrm{B}_{4}\mathrm{O}_{7}\mathrm{-}4\mathrm{H}_{2}\mathrm{O})$ . Boron is lightweight and  very stiff (high modulus of elasticity) in fiber form. In terms of  electrical properties, it is classified as a semiconductor (its  conductivity varies with temperature; it is an insulator at low  temperatures but a conductor at high temperatures).  
+
+As a material of industrial significance, boron is usually found  in compound form.  As such, it is used as a solution in nickel  electroplating operations, an ingredient  $\left(\mathrm{B}_{2}\mathrm{O}_{3}\right)$  in certain glass  compositions, a catalyst in organic chemical reactions, and as  a  nitride (cubic boron nitride) for cutting tools. In nearly pure  form it is used as a fiber in composite materials (Sections 9.4.1  and 14.1). The potassium blend, for example, has the  chemical composition $\mathrm{KAlSi}_{3}\mathrm{O}_{8}$ . Mixtures of clay, silica, and feldspar are used to make  stoneware, china, and other tableware.  
+
+Still another important raw material for traditional ceramics is  alumina . Most  alumina is processed from the mineral  bauxite , which is an impure mixture of hy-  drous aluminum oxide and aluminum hydroxide plus similar compounds of iron or  manganese. Bauxite is also the principal ore in the production of aluminum metal.  A purer but less common form of ${\mathrm{Al}}_{2}{\mathrm{O}}_{3}$  is the mineral  corundum , which contains  alumina in massive amounts. Slightly impure forms of corundum crystals are the  colored gemstones sapphire and ruby. Alumina ceramic is used as an abrasive in  grinding wheels and as a refractory brick in furnaces.  
+
+Silicon carbide , also used as an abrasive, does not occur as a mineral. Instead,  it is produced by heating mixtures of sand (source of silicon) and coke (carbon) to  a temperature of around  $2200^{\circ}\mathrm{C}$   $(3900^{\circ}\mathrm{F})$ ), so that the resulting chemical reaction  forms SiC and carbon monoxide.  
+
+# 7.2.2  TRADITIONAL   CERAMIC   PRODUCTS  
+
+The minerals discussed above are the ingredients for a variety of ceramic products.  The coverage is organized by major categories of traditional ceramic products. A  summary of these products, and the raw materials and ceramics out of which they  are made, is presented in Table 7.3. The coverage is limited to materials commonly  used in manufactured products, thus omitting certain commercially important ce-  ramics such as cement.  
+
+Pottery and Tableware  This category is one of the oldest, dating back thousands  of years; yet it is still one of the most important. It includes tableware products that  we all use: earthenware, stoneware, and china. The raw materials for these products  are clay usually combined with other minerals such as silica and feldspar. The wetted  mixture is shaped and then fired to produce the finished piece.  
+
+Earthenware  is the least refined of the group; it includes pottery and similar ar-  ticles made in ancient times. Earthenware is relatively porous and is often glazed.  Glazing  involves application of a surface coating, usually a mixture of oxides such  
+
+TABLE  •  7.3   Summary of traditional ceramic products. 
+![](images/0169fae17dde8fd251170e892b91f5c9e8a2343e2b55fcbc4cc75755dc039529.jpg)  
+
+as silica and alumina, to make the product less pervious to moisture and more at-  tractive to the eye.  Stoneware  has lower porosity than earthenware, resulting from  closer control of ingredients and higher firing temperatures.  China  is fired at even  higher temperatures, which produces the translucence in the finished pieces that  characterize their fine quality. The reason for this is that much of the ceramic mate-  rial has been converted to the glassy (vitrified) phase, which is relatively transparent  compared to the polycrystalline form. Modern  porcelain  is nearly the same as china  and is produced by firing the components, mainly clay, silica, and feldspar, at still  higher temperatures to achieve a very hard, dense, glassy material. Porcelain is used in  a variety of products ranging from electrical insulation to bathtub coatings.  
+
+Brick and Tile   Building brick, clay pipe, unglazed roof tile, and drain tile are made  from  various low-cost clays containing silica and gritty matter widely available in  natural  deposits. These products are shaped by pressing (molding) and firing at rela-  tively low  temperatures.  
+
+Refractories  Refractory ceramics, often in the form of bricks, are critical in many  industrial processes that require furnaces and crucibles to heat and/or melt materi-  als. The useful properties of refractory materials are high temperature resistance,  thermal insulation, and resistance to chemical reaction with the materials (usually  molten metals) being heated. As mentioned, alumina is often used as a refractory  ceramic, together with silica.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/Sec7.txt; /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/Sec7.txt; /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/Sec7.txt,"[ 0 . 8 2 0 0 9 6 5 9 5 8 3 6 7 4 7 ,   0 . 8 1 1 3 7 3 5 4 3 8 3 3 5 8 9 ,   0 . 8 0 8 6 2 1 7 2 0 3 3 9 5 6 1 3 ]"

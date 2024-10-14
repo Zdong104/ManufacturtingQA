@@ -1,0 +1,45 @@
+Problems 
+33.1 A prototype of a tube with a square cross section is to be fabricated using stereolithography. The outside dimension of the square = 100 mm and the inside dimension = 90 mm (wall thickness = 5 mm except at corners). The height of the tube (z-direction) = 80 mm. Layer thickness = 0.10 mm. The diameter of the laser beam (“spot size”) = 0.25 mm, and the beam is moved across the surface of the photopolymer at a velocity of 500 mm/s. Compute an estimate for the time required to build the part, if 10 s are lost each layer to lower the height of the platform that holds the part. Neglect the time for postcuring. 
+Solution: Layer area Ai same for all layers. Ai = 1002 – 902 = 1900 mm2 Time to complete one layer Ti same for all layers. Ti = (1900 mm2)/(0.25 mm)(500 mm/s)+ 10 s = 15.2 + 10 = 25.2 s Number of layers nl = (80 mm)/(0.10 mm/layer) = 800 layers 
+Tc = 800(25.2) = 20,160 s = 336.0 min = 5.6 hr 
+33.2 Solve Problem 33.1 except that the layer thickness = 0.40 mm. 
+Solution: Layer area Ai same for all layers. Ai = 1002 – 902 = 1900 mm2 Time to complete one layer Ti same for all layers. Ti = (1900 mm2)/(0.25 mm)(500 mm/s)+ 10 s = 15.2 + 10 = 25.2 s Number of layers nl = (80 mm)/(0.40 mm/layer) = 200 layers Tc = 200(25.2) = 5,040 s = 84.0 min = 1.4 hr 
+33.3 The part in Problem 33.1 is to be fabricated using fused deposition modeling instead of stereolithography. Layer thickness is to be 0.20 mm and the width of the extrudate deposited on the surface of the part = 1.25 mm. The extruder workhead moves in the x-y plane at a speed of 150 mm/s. A delay of 10 s is experienced between each layer to reposition the workhead. Compute an estimate for the time required to build the part. 
+Solution: Use same basic approach as in stereolithography. Layer area Ai same for all layers. Ai = 1002 – 902 = 1900 mm2 Time to complete one layer Ti same for all layers. Ti = (1900 mm2)/(1.25 mm)(150 mm/s)+ 10 s = 10.133 + 10 = 20.133 s Number of layers nl = (80 mm)/(0.20 mm/layer) = 400 layers Tc = 400(20.133) = 8053.33 s = 134.22 min = 2.24 hr 
+33.4 Solve Problem 33.3, except using the following additional information. It is known that the diameter of the filament fed into the extruder workhead is 1.25 mm, and the filament is fed into the workhead from its spool at a rate of 30.6 mm of length per second while the workhead is depositing material. Between layers, the feed rate from the spool is zero. 
+Solution: Cross-sectional area of filament = D2/4 = 0.25(1.25)2 = 1.227 mm2 Volumetric rate of filament deposition = (1.227 mm2)(30.6 mm/s) = 37.55 mm3/s Part volume = part cross sectional area x height = Ah A = 1002 – 902 = 1900 mm2 and h = 80 mm. Part volume V = 1900(80) = 152,000 mm3 Tc = (152,000 mm3)/(37.55 mm3/s) + (400 layers)(10 s delay/layer) = 4047.94 + 4000 
+= 8047.9 s = 134.13 min = 2.24 hr This is very close to previous calculated value -within round-off error. 
+33.5 A cone-shaped part is to be fabricated using stereolithography. The radius of the cone at its base = 35 mm and its height = 40 mm. The layer thickness = 0.20 mm. The diameter of the laser beam = 0.22 mm, and the beam is moved across the surface of the photopolymer at a velocity of 500 mm/s. Compute an estimate for the time required to build the part, if 10 s are lost each layer to lower the height of the platform that holds the part. Neglect post-curing time. 
+Solution: Volume of cone V = R2h/3 = (35)2(40)/3 = 51,313 mm3 Layer thickness t = 0.20 mm Number of layers ni = 40 mm/(0.20 mm/layer) = 200 layers Average volume per layer Vi= (51,313 mm3)/200 = 256.56 mm3 Since thickness t = 0.20 mm, average area/layer = (256.56 mm3)/(0.20 mm) = 1282.8 mm2 Average time per layer Ti = 1282.8/(0.22 x 500) = 11.66 + 10 = 21.66 s Cycle time Tc = 200(21.66 s) = 4332.4 s = 72.2 min = 1.20 hr. 
+33.6 The cone-shaped part in Problem 33.5 is to be built using laminated-object manufacturing. Layer thickness = 0.20 mm. The laser beam can cut the sheet stock at a velocity of 500 mm/s. Compute an estimate for the time required to build the part, if 10 s are lost each layer to lower the height of the platform that holds the part and advance the sheet stock in preparation for the next layer. Ignore cutting of the cross-hatched areas outside of the part since the cone should readily drop out of the stack owing to its geometry. 
+Solution: For LOM, we need the circumference of each layer, which is the outline to be cut by the laser beam. For a cone, the total surface area (not including the base) = R(R2+ h2)0.5 A = (35)(352 + 40)0.5 = 5844.2 mm2 Average surface area per layer = (5844.2 mm2)/(200 layers) = 29.22 mm2/layer Since layer thickness t = 0.20 mm, circumference C = (29.22 mm2)/(0.20 mm) = 146.1 mm Average time to cut a layer Ti = (146.1 mm)/(500 mm/s) + 10 s = 0.292 + 10 = 10.292 s Number of layers nl = 40/0.20 = 200 layers Tc = 200(10.292) = 2058.4 s = 34.3 min = 0.57 hr. 
+33.7 Stereolithography is to be used to build the part in Figure 33.1 in the text. Dimensions of the part are: height = 125 mm, outside diameter = 75 mm, inside diameter = 65 mm, handle diameter = 12 mm, handle distance from cup = 70 mm measured from center (axis) of cup to center of handle. The handle bars connecting the cup and handle at the top and bottom of the part have a rectangular cross section and are 10 mm thick and 12 mm wide. The thickness at the base of the cup is 10 mm. The laser beam diameter = 0.25 mm, and the beam can be moved across the surface of the photopolymer at = 500 mm/s. Layer thickness = 0.20 mm. Compute an estimate of the time required to build the part, if 10 s are lost each layer to lower the height of the platform that holds the part. Neglect post-curing time. 
+Solution: The part can be sliced into cross sections that have one of three basic shapes: (1) base, which is 10 mm thick and includes the handle and handle bar; (2) cup ring and handle; and (3) top of cup, which is 10 mm thick and consists of the cup ring, handle, and handle bar. Let us compute the areas of the three shapes. Area (1): A1= (75)2/4 + (12)2/4 + (approximately)(12 x 32.5 – 0.5(12)2/4) A1 = 4417.9 + 113.1 + (390.0 – 56.5) = 4864.5 mm2 Area (2): A2= (752 – 652)/4 + (12)2/4 = 1099.6 + 113.1 = 1212.7 mm2 Area (3): A3= (752 – 652)/4 + (12)2/4 + (approximately)(12 x 32.5 – 0.5(12)2/4) A3 = 1099.6 +113.1 + (390.0 – 56.5) = 1546.2 mm2 
+Number of layers for each area: 
+(1) 
+nl1 = (10 mm)/(0.2 mm/layer) = 50 layers 
+
+(2) 
+nl2 = (125 – 10 – 10)/(0.2) = 525 layers 
+
+(3) 
+nl3 = (10 mm)/(0.2 mm/layer) = 50 layers 
+
+Time to complete one layers for each of the three shapes: 
+
+(1) 
+Ti1 = (4864.5 mm2)/(0.25 x 500) + 10 = 38.92 + 10 = 48.92 s 
+
+(2) 
+Ti2 = (1212.7 mm2)/(0.25 x 500) + 10 = 9.70 + 10 = 19.70 s 
+
+(3) 
+Ti3 = (1546.2 mm2)/(0.25 x 500) + 10 = 12.37 + 10 = 22.37 s 
+
+
+Total time for all layers Tc = 50(48.92) + 525(19.70) + 50(22.37) Tc = 13,907 s + 231.78 min = 3.86 hr 
+34.8 A prototype of a part is to be fabricated using stereolithography. The part is shaped like a right triangle whose base = 36 mm, height = 48 mm, and thickness = 25 mm. In application, the part will stand on its base, which is 36 mm by 25 mm. In the stereolithography process, the layer thickness = 0.20 mm. The diameter of the laser beam (“spot size”) = 0.15 mm, and the beam is moved across the surface of the photopolymer at a velocity of 400 mm/s. Compute the minimum possible time required to build the part, if 8 sec are lost each layer to lower the height of the platform that holds the part. Neglect the time for postcuring. 
+Solution: The part should be oriented on its side in the stereolithography process; thus, layer area Ai is the same for all layers. Ai = 0.5(36 x 48) = 864 mm2 Time to complete one layer Ti same for all layers. Ti = (864 mm2)/(0.15 mm)(400 mm/s)+ 8 s = 14.4 + 8 = 22.4 s Number of layers nl = (25 mm)/(0.20 mm/layer) = 125 layers Tc = 125(22.4) = 2800 s = 46.67 min = 0.7778 hr 
+
+
+

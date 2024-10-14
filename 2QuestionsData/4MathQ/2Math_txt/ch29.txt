@@ -1,0 +1,116 @@
+Problems 
+Power Density 
+29.1 A heat source can transfer 3500 J/sec to a metal part surface. The heated area is circular, and the heat intensity decreases as the radius increases, as follows: 70% of the heat is concentrated in a circular area that is 3.75 mm in diameter. Is the resulting power density enough to melt metal? 
+Solution: Area A = (3.75)2/4 = 11.045 mm2 Power P = 0.70(3500) = 2450 J/s = 2450 W. Power density PD = 2450 W/11.04472 = 222 W/mm2. This power density is most probably sufficient for melting the metal. 
+29.2 In a laser beam welding process, what is the quantity of heat per unit time (J/sec) that is transferred to the material if the heat is concentrated in circle with a diameter of 0.2 mm? Assume the power density provided in Table 29.1. 
+Solution: PD from Table 29.1 is 9000 W/mm2 for laser beam welding P = PD x A π(&#21; 2/4 = 283 W = 283 J/sec 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 11-20-08, 11-21-08 
+29.3 A welding heat source is capable of transferring 150 Btu/min to the surface of a metal part. The heated area is approximately circular, and the heat intensity decreases with increasing radius as follows: 50% of the power is transferred within a circle of diameter = 0.1 inch and 75% is transferred within a concentric circle of diameter = 0.25 in. What are the power densities in (a) the 0.1-inch diameter inner circle and (b) the 0.25-inch diameter ring that lies around the inner circle? 
+(c) Are these power densities sufficient for melting metal? 
+Solution: (a) Area A = (0.1)2/4 = 0.00785 in2 
+150 Btu/min = 2.5 Btu/sec. 
+Power P = 0.50(2.5) = 1.25 Btu/sec 
+Power density PD = (1.25 Btu/sec)/0.00785 in2 = 159 Btu/sec-in2 
+(b) 
+A = (0.252 -0.12)/4 = 0.0412 in2 Power P = (0.75 -0.50)(2.5) = 0.625 Btu/sec Power density PD = (0.625 Btu/sec)/0.0412 in2 = 15.16 Btu/sec-in2 
+
+(c) 
+Power densities are sufficient certainly in the inner circle and probably in the outer ring for welding. 
+
+
+Unit Melting Energy 
+29.4 Compute the unit energy for melting for the following metals: (a) aluminum and (b) plain low carbon steel. 
+Solution: (a) From Table 29.2, Tm for aluminum = 930 K (1680 R) Eq. (29.2) for SI units: Um = 3.33(10-6)Tm 2 Um = 3.33 x 10-6 (930)2 = 2.88 J/mm3 Eq. (29.2) for USCS units: Um = 1.467(10-5)Tm 2 Um = 1.467 x 10-5 (1680)2 = 41.4 Btu/in3 
+(b) From Table 29.2, Tm for plain low carbon steel = 1760 K (3160 R) Eq. (29.2) for SI units: Um = 3.33(10-6)Tm 2 Um = 3.33 x 10-6 (1760)2 = 10.32 J/mm3 Eq. (29.2) for USCS units: Um = 1.467(10-5)Tm 2 Um = 1.467 x 10-5 (3160)2 = 146.5 Btu/in3 
+29.5 Compute the unit energy for melting for the following metals: (a) copper and (b) titanium. 
+Solution: (a) From Table 29.2, Tm for copper = 1350 K (2440 R) Eq. (29.2) for SI units: Um = 3.33(10-6)Tm 2 Um = 3.33 x 10-6 (1350)2 = 6.07 J/mm3 Eq. (29.2) for USCS units: Um = 1.467(10-5)Tm 2 Um = 1.467 x 10-5 (2440)2 = 87.3 Btu/in3 
+(b) From Table 29.2, Tm for titanium = 2070 K (3730 R) Eq. (29.2) for SI units: Um = 3.33(10-6)Tm 2 Um = 3.33 x 10-6 (2070)2 = 14.27 J/mm3 Eq. (29.2) for USCS units: Um = 1.467(10-5)Tm 2 Um = 1.467 x 10-5 (3730)2 = 204.1 Btu/in3 
+29.6 Make the calculations and plot on linearly scaled axes the relationship for unit melting energy as a function of temperature. Use temperatures as follows to construct the plot: 200C, 400C, 600C, 800C, 1000C, 1200C, 1400C, 1600C, 1800C, and 2000C. On the plot, mark the positions of some of the welding metals in Table 29.2. Use of a spreadsheet program is recommended for the calculations. 
+Solution: Eq. (29.2) for SI units: Um = 3.33 x 10-6 Tm2. The plot is based on the following calculated values. For Tm = 200C = (200 + 273) = 473K: Um = 3.33 x 10-6 (473)2 = 0.75 J/mm3 For Tm = 400C = (400 + 273) = 673K: Um = 3.33 x 10-6 (673)2 = 1.51 J/mm3 For Tm = 600C = (600 + 273) = 873K: Um = 3.33 x 10-6 (873)2 = 2.54 J/mm3 For Tm = 800C = (800 + 273) = 1073K: Um = 3.33 x 10-6 (1073)2 = 3.83 J/mm3 For Tm = 1000C = (1000 + 273) = 1273K: Um = 3.33 x 10-6 (1273)2 = 5.40 J/mm3 For Tm = 1200C = (1200 + 273) = 1473K: Um = 3.33 x 10-6 (1473)2 = 7.23 J/mm3 For Tm = 1400C = (1400 + 273) = 1673K: Um = 3.33 x 10-6 (1673)2 = 9.32 J/mm3 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 11-20-08, 11-21-08 For Tm = 1600C = (1600 + 273) = 1873K: Um = 3.33 x 10-6 (1873)2 = 11.68 J/mm3 For Tm = 1800C = (1800 + 273) = 2073K: Um = 3.33 x 10-6 (2073)2 = 14.31 J/mm3 For Tm = 2000C = (2000 + 273) = 2273K: Um = 3.33 x 10-6 (2273)2 = 17.20 J/mm3 
+
+29.7 Make the calculations and plot on linearly scaled axes the relationship for unit melting energy as a function of temperature. Use temperatures as follows to construct the plot: 500F, 1000F, 1500F, 2000F, 2500F, 3000F, and 3500F. On the plot, mark the positions of some of the welding metals in Table 29.2. Use of a spreadsheet program is recommended for the calculations. 
+Solution: Eq. (29.2) for USCS units: Um = 1.467(10-5)Tm 2. The plot is based on the following calculated values. The plot is left as a student exercise. For Tm = 500F = (500 + 460) = 960R: Um = 1.467 x 10-5 (960)2 = 13.5 Btu/in3 For Tm = 1000F = (1000 + 460) = 1460R: Um = 1.467 x 10-5 (1460)2 = 31.3 Btu/in3 For Tm = 1500F = (1500 + 460) = 1960R: Um = 1.467 x 10-5 (1960)2 = 56.4 Btu/in3 For Tm = 2000F = (2000 + 460) = 2460R: Um = 1.467 x 10-5 (2460)2 = 88.8 Btu/in3 For Tm = 2500F = (2500 + 460) = 2960R: Um = 1.467 x 10-5 (2960)2 = 128.5 Btu/in3 For Tm = 3000F = (3000 + 460) = 3460R: Um = 1.467 x 10-5 (3460)2 = 175.6 Btu/in3 For Tm = 3500F = (3500 + 460) = 3960R: Um = 1.467 x 10-5 (3960)2 = 230.0 Btu/in3 
+29.8 A fillet weld has a cross-sectional area of 25.0 mm2 and is 300 mm long. (a) What quantity of heat (in joules) is required to accomplish the weld, if the metal to be welded is low carbon steel? (b) How much heat must be generated at the welding source, if the heat transfer factor is 0.75 and the melting factor = 0.63? 
+Solution: (a) Eq. (29.2) for SI units: Um = 3.33 x 10-6 Tm 2 From Table 29.2, Tm for low carbon steel = 1760° K Um = 3.33 x 10-6 (1760)2 = 10.32 J/mm3 Volume of metal melted V = 25(300) = 7500 mm3 Hw = 10.32(7500) = 77,360 J at weld 
+(b) Given f1 = 0.75 and f2 = 0.63, H = 77,360/(0.75 x 0.63) = 163,700 J at source. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 11-20-08, 11-21-08 
+29.9 A U-groove weld is used to butt weld 2 pieces of 7.0-mm-thick titanium plate. The U-groove is prepared using a milling cutter so the radius of the groove is 3.0 mm. During welding, the penetration of the weld causes an additional 1.5 mm of material to be melted. The final cross-sectional area of the weld can be approximated by a semicircle with a radius of 4.5 mm. The length of the weld is 200 mm. The melting factor of the setup is 0.57 and the heat transfer factor is 0.86. 
+(a) 
+What is the quantity of heat (in Joules) required to melt the volume of metal in this weld (filler metal plus base metal)? Assume the resulting top surface of the weld bead is flush with the top surface of the plates. (b) What is the required heat generated at the welding source? 
+
+Solution: (a) From Table 29.2, Tm for titanium is 2070°K Um = 3.33 x 10-6 (2070)2 = 14.29 J/mm3 Aw = πr2/2 = π(4.5)2 /2 = 31.8 mm2 V = AwL = 31.8(200) = 6360 mm3 Hw = UmV = 14.29(6360) = 90,770 J 
+
+(b) 
+H = Hw/(f1f2) = 90,770/(0.86 x 0.57) = 185,200 J 
+
+
+29.10 A groove weld has a cross-sectional area = 0.045 in2 and is 10 inches long. (a) What quantity of heat (in Btu) is required to accomplish the weld, if the metal to be welded is medium carbon steel? 
+(b) 
+How much heat must be generated at the welding source, if the heat transfer factor = 0.9 and the melting factor = 0.7? 
+
+Solution: (a) Eq. (29.2) for USCS units: Um = 1.467 x 10-5 Tm 2 From Table 29.2, Tm for medium carbon steel = 3060 R Um = 1.467 x 10-5 (3060)2 = 137.4 Btu/in3 Volume of metal melted V = 0.045(10) = 0.45 in3 Hw = 137.4(0.45) = 61.8 Btu at weld 
+
+(b) 
+Given f1 = 0.9 and f2 = 0.7. H = 61.8/(0.9 x 0.7) = 98.1 Btu at source. 
+
+
+29.11 Solve the previous problem, except that the metal to be welded is aluminum, and the corresponding melting factor is half the value for steel. 
+Solution: (a) Eq. (29.2) for USCS units: Um = 1.467 x 10-5 Tm 2 From Table 29.2, Tm for aluminum = 1680 R Um = 1.467 x 10-5 (1680)2 = 41.4 Btu/in3 Volume of metal melted V = 0.045(10) = 0.45 in3 Hw = 41.4(0.45) = 18.6 Btu at weld 
+(b) Given f1 = 0.9 and f2 = 0.35. H = 18.6/(0.9 x 0.35) = 59.1 Btu at source. 
+29.12 In a controlled experiment, it takes 3700 J to melt the amount of metal that is in a weld bead with a cross-sectional area of 6.0 mm2 that is 150.0 mm long. (a) Using Table 29.2, what is the most likely metal? (b) If the heat transfer factor is 0.85 and the melting factor is 0.55 for a welding process, how much heat must be generated at the welding source to accomplish the weld? 
+Solution: V = AwL = 6.0(150) = 900 mm3 Um = Hw/V = 3700 / 900 = 4.111 J/mm3 
+Tm = (Um/k)0.5 
+= (4.111/3.33x10-6)0.5 = 1111° K From Table 29.2, the metal with the closest melting point to 1111° is Bronze (1120° K) 
+(b) H = Hw/f1f2 = 3700/ (0.85 x 0.55) = 7,914 Joules 
+29.13 Compute the unit melting energy for (a) aluminum and (b) steel as the sum of: (1) the heat required to raise the temperature of the metal from room temperature to its melting point, which is the volumetric specific heat multiplied by the temperature rise; and (2) the heat of fusion, so that this value can be compared to the unit melting energy calculated by Eq. (29.2). Use either the SI units or 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 11-20-08, 11-21-08 
+U.S. Customary units. Find the values of the properties needed in these calculations either in this text or in other references. Are the values close enough to validate Eq. (29.2)? 
+Solution: (a) Aluminum properties (from standard sources): heat of fusion Hf = 395,390 J/kg = 170 Btu/lb, melting temperature Tm = 660C = 1220F, density U = 2700 kg/m3= 0.096 lb/in3, specific heat C = 900 J/kg-C = 0.215 Btu/lb-F. Um = C(Tm -Tambient) + Hf 
+Um = (2.7x10-6 kg/mm3)(900 J/kg-C))(660 -21) + (2.7x10-6 kg/mm3)(395390 J/kg) = 2.62 J/mm3 This compares with Eq. (29.2): Um = 3.33 x 10-6 (660 + 273)2 = 2.90 J/mm3 , which is about a 10% difference. These values for aluminum show good agreement. In USCS, Um = C(Tm -70) + Hf = 0.096(0.215)(1220 -70) + 0.096(170) = 40.1 Btu/in3 This compares with Eq. (29.2): Um = 1.467 x 10-5 (1220 + 460)2 = 41.4 Btu/in3, which is about a 3% difference. 
+(b) Steel properties (from standard sources): heat of fusion Hf = 272,123 J/kg = 117 Btu/lb, melting temperature Tm = 1480C = 2700F, density U = 7900 kg/m3= 0.284 lb/in3, specific heat C = 460 J/kg-C = 0.11 Btu/lb-F. Um = C(Tm -Tambient) + Hf 
+Um = (7.9x10-6 kg/mm3)(460 J/kg-C))(1480 -21) + (7.9x10-6 kg/mm3)(272123 J/kg) = 7.45 J/mm3 This compares with Eq. (29.2): Um = 3.33 x 10-6 (1480 + 273)2 = 10.23 J/mm3 , which is about a 37% difference. In USCS, Um = C(Tm -70) + Hf = 0.284(0.11)(2700 -70) + 0.284(117) = 115.4 Btu/in3 This compares with Eq. (29.2): Um = 1.467 x 10-5 (2700 + 460)2 = 146.5 Btu/in3 , which is about a 27% difference. 
+Comment: These values show a greater difference than for aluminum. This is at least partially accounted for by the fact that the specific heat of steel increases significantly with temperature, which would increase the calculated values based on Um = C(Tm -Tambient) + Hf . 
+Energy Balance in Welding 
+29.14 The welding power generated in a particular arc-welding operation = 3000 W. This is transferred to the work surface with a heat transfer factor = 0.9. The metal to be welded is copper whose melting point is given in Table 29.2. Assume that the melting factor = 0.25. A continuous fillet weld is to be made with a cross-sectional area = 15.0 mm2. Determine the travel speed at which the welding operation can be accomplished. 
+Solution: From Table 29.2, Tm = 1350K for copper. Um = 3.33 x 10-6(1350)2 = 6.07 J/mm3 v = f1 f2 RH/UmAw = 0.9(0.25)(3000)/(6.07 x 15) = 7.4 mm/s. 
+29.15 Solve the previous problem except that the metal to be welded is high carbon steel, the cross-sectional area of the weld = 25.0 mm2, and the melting factor = 0.6. 
+Solution: From Table 29.2, Tm = 1650K for high carbon steel. Um = 3.33 x 10-6(1650)2 = 9.07 J/mm3 v = f1 f2 RH /UmAw = 0.9(0.6)(3000)/(9.07 x 25) = 7.15 mm/s. 
+29.16 A welding operation on an aluminum alloy makes a groove weld. The cross-sectional area of the weld is 30.0 mm2. The welding velocity is 4.0 mm/sec. The heat transfer factor is 0.92 and the melting factor is 0.48. The melting temperature of the aluminum alloy is 650C. Determine the rate of heat generation required at the welding source to accomplish this weld. 
+Solution: Um = 3.33 x 10-6(650 + 273)2 = 2.84 J/mm3 f1 f2 RH = UmAw v RH = Um Aw v/f1 f2 = 2.84(30)(4)/(0.92 x 0.48) = 771 J/s = 771 W. 
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 11-20-08, 11-21-08 
+29.17 The power source in a particular welding operation generates 125 Btu/min, which is transferred to the work surface with heat transfer factor = 0.8. The melting point for the metal to be welded = 1800F and its melting factor = 0.5. A continuous fillet weld is to be made with a cross-sectional area = 0.04 in2. Determine the travel speed at which the welding operation can be accomplished. 
+Solution: Um = 1.467 x 10-5 (1800 + 460)2 = 74.9 Btu/in3 
+v = f1 f2 RH /UmAw = 0.8(0.5)(125)/(74.9 x 0.04) = 16.7 in/min 
+29.18 In a certain welding operation to make a fillet weld, the cross-sectional area = 0.025 in2 and the travel speed = 15 in/min. If the heat transfer factor = 0.95 and melting factor = 0.5, and the melting point = 2000F for the metal to be welded, determine the rate of heat generation required at the heat source to accomplish this weld. 
+Solution: Um = 1.467 x 10-5 (2000 + 460)2 = 88.8 Btu/in3 
+v = 15 = f1 f2 RH/UmAw = 0.95(0.5)RH /(88.8 x 0.025) = 0.214 RH 
+RH = 15/0.214 = 70.1 Btu/min 
+29.19 A fillet weld is used to join 2 medium carbon steel plates each having a thickness of 5.0 mm. The plates are joined at a 90° angle using an inside fillet corner joint. The velocity of the welding head is 6 mm/sec. Assume the cross section of the weld bead approximates a right isosceles triangle with a leg length of 4.5 mm, the heat transfer factor is 0.80, and the melting factor is 0.58. Determine the rate of heat generation required at the welding source to accomplish the weld. 
+Solution: Aw = bh/2 = 4.5(4.5)/2 = 10.125 mm2 
+From Table 29.2, Tm = 1700°K 
+Um = 3.33 x 10-6 (1700)2 = 9.62 J/mm3 
+RH = UmAwv/(f1f2) = 9.62(10.125)(5.0) / (0.8 x 0.58) = 1260 J/sec = 1260 W. 
+29.20 A spot weld was made using an arc-welding process. In a spot-welding operation, two 1/16-in-thick aluminum plates were joined. The melted metal formed a nugget that had a diameter of ¼ in. The operation required the power to be on for 4 sec. Assume the final nugget had the same thickness as the two aluminum plates (1/8 in thick), the heat transfer factor was 0.80 and the melting factor was 
+0.50. Determine the rate of heat generation that was required at the source to accomplish this weld. 
+Solution: From Table 29.2, Tm = 1680R for aluminum. Um = 1.467 x 10-5 (1680)2 = 41.4 Btu/in3 V = πD2/4 (2t) = π (0.252/4)(2)(1/16) = 0.0061 in3 Hw = UmV = 41.4(0.0061) = 0.254 Btu H = Hw /(f1f2) = 0.254/(0.80 x 0.5) = 0.635 Btu RH = H/T = 0.635/4 = 0.159 Btu/sec = 9.53 Btu/min 
+29.21 A surfacing weld is to be applied to a rectangular low carbon steel plate that is 200 mm by 350 mm. The filler metal to be added is a harder (alloy) grade of steel, whose melting point is assumed to be the same. A thickness of 2.0 mm will be added to the plate, but with penetration into the base metal, the total thickness melted during welding = 6.0 mm, on average. The surface will be applied by making a series of parallel, overlapped welding beads running lengthwise on the plate. The operation will be carried out automatically with the beads laid down in one long continuous operation at a travel speed = 7.0 mm/s, using welding passes separated by 5 mm. Assume the welding bead is rectangular in cross section: 5 mm by 6 mm. Ignore the minor complications of the turnarounds at the ends of the plate. Assuming the heat transfer factor = 0.8 and the melting factor = 0.6, determine (a) the rate of heat that must be generated at the welding source, and (b) how long will it take to complete the surfacing operation. 
+Solution: (a) From Table 29.2, Tm = 1760K for low carbon steel. Um = 3.33 x 10-6(1760)2 = 10.32 J/mm3 RH = UmAwv/f1f2 = 10.32(6 x 5)(7)/(0.8 x 0.6) = 4515 J/s 
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 11-20-08, 11-21-08 
+(b) Total length of cut = 350(200/5) = 14,000 mm Time to travel at v = 7 mm/s = 14,000/7 = 2000 s = 33.33 min 
+29.22 An axle-bearing surface made of high carbon steel has worn beyond its useful life. When it was new, the diameter was 4.00 in. In order to restore it, the diameter was turned to 3.90 in to provide a uniform surface. Next the axle was built up so that it was oversized by the deposition of a surface weld bead, which was deposited in a spiral pattern using a single pass on a lathe. After the weld buildup, the axle was turned again to achieve the original diameter of 4.00 in. The weld metal deposited was a similar composition to the steel in the axle. The length of the bearing surface was 
+7.0 in. During the welding operation, the welding apparatus was attached to the tool holder, which was fed toward the head of the lathe as the axle rotated. The axle rotated at a speed of 4.0 rev/min. The weld bead height was 3/32 in above the original surface. In addition, the weld bead penetrated 1/16 in into the surface of the axle. The width of the weld bead was 0.25 in, thus the feed on the lathe was set to 0.25 in/rev. Assuming the heat transfer factor was 0.80 and the melting factor was 0.65, determine (a) the relative velocity between the workpiece and the welding head, (b) the rate of heat generated at the welding source, and (c) how long it took to complete the welding portion of this operation. 
+Solution: (a) v = NπD π(&#19;&#12; &#3; 49.01 in/min = 0.8168 in/sec 
+(b) 
+From Table 29.2, Tm = 2960R for high carbon steel. Um = 1.467 x 10-5(2960)2 = 128.5 Btu/in3 RH = Um Aw v/f1f2 = 128.5 (0.25(3/32+1/16)) 49.01 / (0.8 x 0.65) = 128.5(0.0391)(49.01)/0.52 = 473 Btu/min 
+
+(c) 
+Tweld = L/(fN) = 7.0/(0.25 x 4) = 7.0 min 
+
+
+
+
+
+

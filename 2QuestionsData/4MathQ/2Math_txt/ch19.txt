@@ -1,0 +1,482 @@
+Problems 
+Rolling 
+19.1 A 42.0-mm-thick plate made of low carbon steel is to be reduced to 34.0 mm in one pass in a rolling operation. As the thickness is reduced, the plate widens by 4%. The yield strength of the steel plate is 174 MPa and the tensile strength is 290 MPa. The entrance speed of the plate is 15.0 m/min. The roll radius is 325 mm and the rotational speed is 49.0 rev/min. Determine (a) the minimum required coefficient of friction that would make this rolling operation possible, (b) exit velocity of the plate, and (c) forward slip. 
+Solution: (a) Maximum draft dmax = 2 R Given that d = to -tf = 42 -34 = 8.0 mm, 2 = 8/325 = 0.0246 P = (0.0246)0.5 = 0.157 
+(b) 
+Plate widens by 4%. towovo = tfwfvf wf = 1.04 wo 42(wo)(15) = 34(1.04wo)vf vf = 42(wo)(15)/ 34(1.04wo) = 630/35.4 = 17.8 m/min 
+
+(c) 
+vr =  r2N= (0.325)2(49.0) = 16.26 m/min 
+
+
+s = (vf -vr)/vr = (17.8 – 16.26)/16.26 = 0.0947 
+19.2 A 2.0-in-thick slab is 10.0 in wide and 12.0 ft long. Thickness is to be reduced in three steps in a hot rolling operation. Each step will reduce the slab to 75% of its previous thickness. It is expected that for this metal and reduction, the slab will widen by 3% in each step. If the entry speed of the slab in the first step is 40 ft/min, and roll speed is the same for the three steps, determine: (a) length and (b) exit velocity of the slab after the final reduction. 
+Solution: (a) After three passes, tf = (0.75)(0.75)(0.75)(2.0) = 0.844 in wf = (1.03)(1.03)(1.03)(10.0) = 10.927 in towoLo = tfwfLf (2.0)(10.0)(12 x 12) = (0.844)(10.927)Lf Lf = (2.0)(10.0)(12 x 12)/(0.844)(10.927) = 312.3 in = 26.025 ft 
+(b) Given that roll speed is the same at all three stands and that towovo = tfwfvf , 
+Step 1: vf = (2.0)(10.0)(40)/(0.75 x 2.0)(1.03 x 10.0) = 51.78 ft/min Step 2: vf = (0.75 x 2.0)(1.03 x 10.0)(40)/(0.752 x 2.0)(1.032 x 10.0) = 51.78 ft/min Step 3: vf = (0.752 x 2.0)(1.032 x 10.0)(40)/(0.753 x 2.0)(1.033 x 10.0) = 51.78 ft/min 
+19.3 A series of cold rolling operations are to be used to reduce the thickness of a plate from 50 mm down to 25 mm in a reversing two-high mill. Roll diameter = 700 mm and coefficient of friction between rolls and work = 0.15. The specification is that the draft is to be equal on each pass. Determine (a) minimum number of passes required, and (b) draft for each pass? 
+Solution: (a) Maximum draft dmax = 2 R = (0.15)2 (350) = 7.875 mm Minimum number of passes = (to -tf)/dmax = (50 -25)/7.875 = 3.17 o 4 passes 
+(b) Draft per pass d = (50 -25)/4 = 6.25 mm 
+19.4 In the previous problem, suppose that the percent reduction were specified to be equal for each pass, rather than the draft. (a) What is the minimum number of passes required? (b) What is the draft for each pass? 
+Solution: (a) Maximum possible draft occurs on first pass: dmax = 2 R = (0.15)2 (350) = 7.875 mm This converts into a maximum possible reduction x = 7.875/50 = 0.1575 Let x = fraction reduction per pass, and n = number of passes. The number of passes must be an integer. To reduce from to = 50 mm to to = 25 mm in n passes, the following relationship must be satisfied: 50(1 -x)n = 25 (1 -x)n = 25/50 = 0.5 
+(1 -x) = 0.51/n Try n = 4: (1 -x) = (0.5)1/4 = 0.8409 x = 1 -0.8409 = 0.1591, which exceeds the maximum possible reduction of 0.1575. Try n =5: (1 -x) = (0.5)1/5 = 0.87055 x = 1 -0.87055 = 0.12945, which is within the maximum possible reduction of 0.1575. 
+(b) Pass 1: d = 50(0.12945) = 6.47 mm, tf =50-6.47 = 43.53 mm Pass 2: d = 43.53(0.12945) = 5.63 mm, tf = 43.53 -5.63 = 37.89 mm Pass 3: d = 37.89(0.12945) = 4.91 mm, tf = 37.89 -4.91 = 32.98 mm Pass 4: d = 32.98(0.12945) = 4.27 mm, tf = 32.98 -4.27 = 28.71 mm Pass 5: d = 28.71(0.12945) = 3.71 mm, tf = 28.71 -3.71 = 25.00 mm 
+19.5 A continuous hot rolling mill has two stands. Thickness of the starting plate = 25 mm and width = 300 mm. Final thickness is to be 13 mm. Roll radius at each stand = 250 mm. Rotational speed at the first stand = 20 rev/min. Equal drafts of 6 mm are to be taken at each stand. The plate is wide enough relative to its thickness that no increase in width occurs. Under the assumption that the forward slip is equal at each stand, determine (a) speed vr at each stand, and (b) forward slip s. (c) Also, determine the exiting speeds at each rolling stand, if the entering speed at the first stand = 26 m/min. 
+Solution: (a) Let to = entering plate thickness at stand 1. to = 25 mm. Let t1 = exiting plate thickness at stand 1 and entering thickness at stand 2. t1=25-6 = 19 mm. Let t2 = exiting plate thickness at stand 2. t2=19-6=13 mm. Let vo = entering plate speed at stand 1. Let v1 = exiting plate speed at stand 1 and entering speed at stand 2. Let v2 = exiting plate speed at stand 2. Let vr1 = roll speed at stand 1. vr1= DNr = (2 x 250)(10-3)(20) = 31.42 m/min Let vr2 = roll speed at stand 2. vr2= ? 
+Forward slip s = (vf -vr)/vr svr = vf -vr (1 + s)vr = vf 
+At stand 1, (1 + s)vr1= v1 (Eq. 1) At stand 2, (1 + s)vr2= v2 (Eq. 2) By constant volume, towovo = t1w1v1 = t2w2v2 Since there is no change in width, wo = w1= w2 Therefore, tovo = t1v1= t2v2 1.0vo = 0.75v1 = 0.50v2 v2 = 1.5v1 (Eq. 3) Combining (Eqs. 2 and 3), (1 + s)vr2= v2 = 1.5v1 Substituting (Eq. 1), (1 + s)vr2 = 1.5(1 + s)vr1 , thus vr2 = 1.5vr1 vr2 = 1.5(31.42) = 47.1 m/min 
+(b) 25vo = 19v1 v1 = 25(26)/19 = 34.2 m/min (Eq. 1): (1 + s)vr1= v1 (1 + s)(31.4) = 34.2 (1 + s) = 34.2/31.4 = 1.089 
+
+s = 0.089 
+(c) v1= 34.2 m/min, previously calculated in (b) v2 = 1.5v1 = 1.5(34.2) = 51.3 m/min 
+19.6 A continuous hot rolling mill has eight stands. The dimensions of the starting slab are: thickness = 
+3.0 in, width = 15.0 in, and length = 10 ft. The final thickness is to be 0.3 in. Roll diameter at each stand = 36 in, and rotational speed at stand number 1 = 30 rev/min. It is observed that the speed of the slab entering stand 1 = 240 ft/min. Assume that no widening of the slab occurs during the rolling sequence. Percent reduction in thickness is to be equal at all stands, and it is assumed that the forward slip will be equal at each stand. Determine (a) percent reduction at each stand, (b) rotational speed of the rolls at stands 2 through 8, and (c) forward slip. (d) What is the draft at stands 1 and 8? 
+(e) 
+What is the length and exit speed of the final strip exiting stand 8? 
+
+Solution: (a) To reduce from to = 3.0 in to tf = 0.3 in over 8 stands, 3.0(1 -x)8= 0.3 (1 -x)8 = 0.3/3.0 = 0.10 (1 -x) = (0.10)1/8 = 0.74989 x = 1 -0.74989 = r = 0.2501 = 25.01% at each stand. 
+
+(b) 
+Forward slip s = (vf -vr)/vr svr = vf -vr (1 + s)vr = vf At stand 1: (1 + s)vr1= v1 , where vr1 = roll speed, v1 = exit speed of slab. At stand 2: (1 + s)vr2= v2 , where vr2 = roll speed, v2 = exit speed of slab. Etc. At stand 8: (1 + s)vr8= v8, where vr8 = roll speed, v8 = exit speed of slab. By constant volume, towovo = t1w1v1= t2w2v2= ...= t8w8v8 Since there is no change in width, wo = w1= w2= ... w8 Therefore, tovo = t1v1= t2v2= ...= t8v8 to = 3.0, 3vo = 3(1 -r)v1 = 3(1 -r)2v2 = . . . 3(1 -r)8v8 , where r = 0.2501 as determined in part (a). Since s is a constant, vr1: vr2: ...: vr8= v1: v2: ...: v8 Given that Nr1 = 30 rev/min, vr1= DNr1= (2S x 18/12)(30) = 282.78 ft/min In general Nr = (30/282.78) = 0.10609vr Nr2 = 0.10609 x 282.78/(1-r) = 0.10609 x 282.78/(1-0.2501) = 40 rev/min Nr3 = 0.10609 x 282.78/(1-r)2 = 53.3 rev/min Nr4 = 0.10609 x 282.78/(1-r)3 = 71.1 rev/min Nr5 = 0.10609 x 282.78/(1-r)4 = 94.9 rev/min 
+
+Nr6 = 0.10609 x 282.78/(1-r)5 = 126.9.3 rev/min Nr7 = 0.10609 x 282.78/(1-r)6 = 168.5 rev/min Nr8 = 0.10609 x 282.78/(1-r)7 = 224.9 rev/min 
+
+(c) 
+Given vo = 240 ft/min v1 = 240/(1-r) = 240/0.74989 = 320 ft/min v2 = 320/0.74989 = 426.8 ft/min From equations for forward slip, (1 + s)vr1= v1 (1 + s)(282.78) = 320 (1 + s) = 320/282.78 = 1.132 s = 0.132 Check with stand 2: given v2 = 426.8 ft/min from above Nr2 = 0.10609vr2 Rearranging, vr2= Nr2/0.10609 = 9.426Nr2 = 0.426(40) = 377.04 ft/min (1 + s)(377.04) = 426.8 (1 + s) = 426.8/377.14 = 1.132 s = 0.132, as before 
+
+(d) 
+Draft at stand 1 d1 = 3.0(0.2501) = 0.7503 in Draft at stand 8 d8 = 3.0(1 -0.2501)7(0.2501) = 0.10006 in 
+
+(e) 
+Length of final strip Lf = L8 towoLo = t8w8L8 Given that wo = w8, toLo = t8L8 3.0(10 ft) = 0.3L8 L8 = 100 ft towovo = t8w8v8 tovo = t8v8 v8 = 240(3/0.3) = 2400 ft/min 
+
+
+19.7 A plate that is 250 mm wide and 25 mm thick is to be reduced in a single pass in a two-high rolling mill to a thickness of 20 mm. The roll has a radius = 500 mm, and its speed = 30 m/min. The work material has a strength coefficient = 240 MPa and a strain hardening exponent = 0.2. Determine (a) roll force, (b) roll torque, and (c) power required to accomplish this operation. 
+Solution: (a) Draft d = 25 -20 = 5 mm, Contact length L = (500 x 5).5 = 50 mm True strain H = ln(25/20) = ln 1.25 = 0.223 
+Yf = 240(0.223)0.20/1.20 = 148.1 MPa Rolling force F = 148.1(250)(50) = 1,851,829 N 
+(b) 
+Torque T = 0.5(1,851,829)( 50 x 10-3) = 46,296 N-m 
+
+(c) 
+N = (30 m/min)/(2S x 0.500) = 9.55 rev/min = 0.159 rev/s Power P = 2(0.159)(1,851,829)(50 x 10-3) = 92,591 N-m/s = 92,591 W 
+
+
+
+19.8 Solve Problem 19.7 using a roll radius = 250 mm. 
+Solution: (a) Draft d = 25 -20 = 5 mm, Contact length L = (250 x 5).5 = 35.35 mm True strain H = ln(25/20) = ln 1.25 = 0.223 
+Yf = 240(0.223)0.20/1.20 = 148.1 MPa Rolling force F = 148.1(250)(35.35) = 1,311,095 N 
+(b) 
+Torque T = 0.5(1,311,095)(35.35 x 10-3) = 23,174 N-m 
+
+(c) 
+N = (30 m/min)/(2S x 0.250) = 19.1 rev/min = 0.318 rev/s Power P = 2(0.318)(1,311,095)(35.35 x 10-3) = 92,604 N-m/s = 92,604 W 
+
+
+Note that the force and torque are reduced as roll radius is reduced, but that the power remains the same (within calculation error) as in the previous problem. 
+19.9 Solve Problem 19.7, only assume a cluster mill with working rolls of radius = 50 mm. Compare the results with the previous two problems, and note the important effect of roll radius on force, torque and power. 
+Solution: (a) Draft d = 25 -20 = 5 mm, Contact length L = (50 x 5).5 = 15.81 mm True strain H = ln(25/20) = ln 1.25 = 0.223 
+Yf = 240(0.223)0.20/1.20 = 148.1 MPa Rolling force F = 148.1(250)(15.81) = 585,417 N 
+(b) 
+Torque T = 0.5(585,417)(15.81 x 10-3) = 4,628 N-m 
+
+(c) 
+N = (30 m/min)/(2S x 0.050) = 95.5 rev/min = 1.592 rev/s Power P = 2(1.592)(585,417)(15.81 x 10-3) = 92,554 N-m/s = 92,554 W 
+
+
+Note that this is the same power value (within calculation error) as in Problems 19.7 and 19.8. In fact, power would probably increase because of lower mechanical efficiency in the cluster type rolling mill. 
+19.10 A 4.50-in-thick slab that is 9 in wide and 24 in long is to be reduced in a single pass in a two-high rolling mill to a thickness of 3.87 in. The roll rotates at a speed of 5.50 rev/min and has a radius of 
+17.0 in. The work material has a strength coefficient = 30,000 lb/in2 and a strain hardening exponent = 0.15. Determine (a) roll force, (b) roll torque, and (c) power required to accomplish this operation. 
+Solution: (a) Draft d = 4.50 – 3.87 = 0.63 in, Contact length L = (17.0 x 0.63)0.5 = 3.27 in True strain H = ln(4.5/3.87) = ln 1.16 = 0.1508 
+Yf = 30,000(0.1508)0.15/1.15 = 19,642 lb/in2 
+Rolling force F = Y fwL = 16,414(9.0)(3.27) = 483,000 lb 
+(b) 
+Torque T = 0.5FL = 0.5(483000)(3.27) = 789,700 in-lb. 
+
+(c) 
+N = 5.50 rev/min Power P = 2(5.50)(483000)(3.27) = 54,580,500 in-lb/min HP = (54,580,500 in-lb/min)/(396,000) = 138 hp 
+
+
+19.11 A single-pass rolling operation reduces a 20 mm thick plate to 18 mm. The starting plate is 200 mm wide. Roll radius = 250 mm and rotational speed = 12 rev/min. The work material has a strength coefficient = 600 MPa and a strength coefficient = 0.22. Determine (a) roll force, (b) roll torque, and 
+(c) power required for this operation. 
+Solution: (a) Draft d = 20 -18 = 2.0 mm, Contact length L = (250 x 2).5 = 11.18 mm = 0.0112 m True strain H = ln(20/18) = ln 1.111 = 0.1054 
+Yf = 600(0.1054)0.22/1.22 = 300 MPa Rolling force F = 300(0.0112)(0.2) = 0.672 MN = 672,000 N 
+(b) 
+Torque T = 0.5(672,000)(0.0112) = 3,720 N-m 
+
+(c) 
+Given that N = 12 rev/min Power P = 2(12/60)(672,000)(0.0112) = 37,697 W 
+
+
+19.12 A hot rolling mill has rolls of diameter = 24 in. It can exert a maximum force = 400,000 lb. The mill has a maximum horsepower = 100 hp. It is desired to reduce a 1.5 in thick plate by the maximum 
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 
+possible draft in one pass. The starting plate is 10 in wide. In the heated condition, the work material has a strength coefficient = 20,000 lb/in2 and a strain hardening exponent = zero. Determine (a) maximum possible draft, (b) associated true strain, and (c) maximum speed of the rolls for the operation. 
+Solution: (a) Assumption: maximum possible draft is determined by the force capability of the rolling mill and not by coefficient of friction between the rolls and the work. Draft d = 1.5 -tf Contact length L = (12d)0.5 
+Yf = 20,000()0/1.0 = 20,000 lb/in2 Force F = 20,000(10) (12d)0.5 = 400,000 (the limiting force of the rolling mill) (12d)0.5 = 400,000/200,000 = 2.0 12 d = 2.02 = 4 
+d = 4/12 = 0.333 in 
+(b) 
+True strain H = ln(1.5/tf) tf = to -d = 1.5 -0.333 = 1.167 in H = ln(1.5/1.167) = ln 1.285 = 0.251 
+
+(c) 
+Given maximum possible power HP = 100 hp = 100 x 396000 (in-lb/min)/hp = 39,600,000 in-lb/min Contact length L = (12 x 0.333)0.5 = 2.0 in P = 2N(400,000)(2.0) = 5,026,548N in-lb/min 5,026,548N = 39,600,000 N = 7.88 rev/min vr = 2RN = 2(12/12)(7.88) = 49.5 ft/min 
+
+
+19.13 Solve Problem 19.12 except that the operation is warm rolling and the strain-hardening exponent is 
+0.18. Assume the strength coefficient remains at 20,000 lb/in2. 
+Solution: (a) Assumption (same as in previous problem): maximum possible draft is determined by the force capability of the rolling mill and not by coefficient of friction between the rolls and the work. Draft d = 1.5 -tf Contact length L = (12d)0.5 H = ln(1.5/tf) 
+Yf = 20,000()0.18/1.18 = 16,949.18 (d)0.5 
+F = Y (10)(12d)0.5 = 34.641Yf = 400,000 (as given) 
+f (d)0.5 
+Yf = 400,000/34.641 = 11,547 
+Now use trial-and-error to values of Yf and d that fit this equation. Try d = 0.3 in, tf = 1.5 -0.3 =1.2 in H = ln(1.5/1.2) = ln 1.25 = 0.223 Yf = 16,949(0.223).18 = 13,134 lb/in2. 
+(d)0.5 
+= 11,547/13,134 = 0.8791 d = 0.773, which does not equal the initial trial value of d = 0.3 
+Try d = 0.5 in, tf = 1.5 -0.5 =1.0 in H = ln(1.5/1.0) = ln 1.50 = 0.4055 Yf = 16,949(0.4055).18 = 14,538 lb/in2. 
+(d)0.5 
+= 11,547/14,538 = 0.7942 d = 0.631, which does not equal the trial value of d = 0.5 
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 
+Try d = 0.6 in, tf = 1.5 -0.6= 0.9 in H = ln(1.5/0.9) = 0.5108 Yf = 16,949(0.5108).18 = 15,120 lb/in2. 
+(d)0.5 
+= 11,547/15,120 = 0.7637 d = 0.583, which is too much compared to d = 0.6 
+Try d = 0.58 in, tf = 1.5 -0.58 = 0.92 in H = ln(1.5/0.92) = ln 1.579 = 0.489 Yf = 16,949(0.489).18 = 15,007 lb/in2. 
+(d)0.5 
+= 11,547/15,007 = 0.769 d = 0.592, which is close but still above the trial value of d = 0.55 
+Try d = 0.585 in, tf = 1.50 -0.585 = 0.915 in H = ln(1.5/0.915) = 0.494 Yf = 16,949(0.494).18 = 15,036 lb/in2. (d)0.5 
+= 11,547/15,036 = 0.768 d = 0.590, which is close but still above the trial value of d = 0.585. 
+Try d = 0.588 in, tf = 1.50 -0.588 = 0.912 in H = ln(1.5/0.912) = 0.498 Yf = 16,949(0.498).18 = 15,053 lb/in2. (d)0.5 
+= 11,547/15,053 = 0.767 d = 0.588, which is almost the same as the trial value of d = 0.588. 
+(b) 
+True strain H = ln(1.5/0.912) = 0.498 
+
+(c) 
+Given maximum possible power HP = 100 hp = 100 x 396000 (in-lb/min)/hp 
+
+
+= 39,600,000 in-lb/min Contact length L = (12 x 0.588)0.5 = 2.66 in P = 2N(400,000)(2.66) = 6,685,000N in-lb/min 6,486,000N = 39,600,000 N = 5.92 rev/min vr = 2RN = 2(12/12)(5.92) = 37.2 ft/min 
+Forging 
+19.14 A cylindrical part is warm upset forged in an open die. The initial diameter is 45 mm and the initial height is 40 mm. The height after forging is 25 mm. The coefficient of friction at the die-work interface is 0.20. The yield strength of the work material is 285 MPa, and its flow curve is defined by a strength coefficient of 600 MPa and a strain-hardening exponent of 0.12. Determine the force in the operation (a) just as the yield point is reached (yield at strain = 0.002), (b) at a height of 35 mm, 
+(c) 
+at a height of 30 mm, and (d) at a height of 25 mm. Use of a spreadsheet calculator is recommended. 
+
+Solution: (a) V = D2L/4 = (45)2(40)/4 = 63,617 mm3 Given H = 0.002, Yf = 600(0.002)0.12 = 284.6 MPa, and h = 40 -40(0.002) = 39.92 A = V/h = 63,617/39.92 = 1594 mm2 Kf = 1 + 0.4(0.2)(45)/39.92 = 1.09 F = 1.09(284.6)(1594) = 494,400 N 
+
+(b) 
+Given h = 35, H = ln(40/35) = ln 1.143 = 0.1335 Yf = 600(0.1335)0.12 = 471.2 MPa V = 63,617 mm3 from part (a) above. At h = 35, A = V/h = 63617/35 = 1818 mm2 
+
+Corresponding D = 48.1 mm (from A = D2/4) Kf = 1 + 0.4(0.2)(48.1)/35 = 1.110 F = 1.110(471.2)(1818) = 950,700 N 
+
+(c) 
+Given h = 30, H = ln(40/30) = ln 1.333 = 0.2877 Yf = 600(0.2877)0.12 = 516.7 MPa V = 63,617 mm3 from part (a) above. At h = 30, A = V/h = 63,617/30 = 2120.6 mm2 Corresponding D = 51.96 mm (from A = D2/4) Kf = 1 + 0.4(0.2)(51.96)/30 = 1.138 F = 1.138(516.7)(2120.6) = 1,247,536 N 
+
+(d) 
+Given h = 25, H = ln(40/25) = ln 1.6 = 0.4700 Yf = 600(0.470)0.12 = 548.0 MPa V = 63,617 mm3 from part (a) above. At h = 25, A = V/h = 63,617/25 = 2545 mm2 Corresponding D = 56.9 mm (from A = D2/4) Kf = 1 + 0.4(0.2)(56.9)/25 = 1.182 F = 1.182(548.0)(2545) = 1,649,000 N 
+
+
+19.15 A cylindrical workpart with D = 2.5 in and h = 2.5 in is upset forged in an open die to a height = 1.5 in. Coefficient of friction at the die-work interface = 0.10. The work material has a flow curve defined by: K = 40,000 lb/in2 and n = 0.15. Yield strength = 15,750 lb/in2. Determine the instantaneous force in the operation (a) just as the yield point is reached (yield at strain = 0.002), (b) at height h = 2.3 in, (c) h = 2.1 in, (d) h = 1.9 in, (e) h = 1.7 in, and (f) h = 1.5 in. Use of a spreadsheet calculator is recommended. 
+Solution: (a) V = D2L/4 = (2.5)2(2.5)/4 = 12.273 in3 Given H = 0.002, Yf = 40,000(0.002)0.15 = 15,748 lb/in2 and h = 2.5 -2.5(0.002) = 2.495 A = V/h = 12.273/2.495 = 4.92 in2 Kf = 1 + 0.4(0.1)(2.5)/2.495 = 1.04 F = 1.04(15,748)(4.92) = 80,579 lb 
+(b) 
+Given h = 2.3, H = ln(2.5/2.3) = ln 1.087 = 0.0834 Yf = 40,000(0.0834)0.15 = 27,556 lb/in2 V = 12.273 in3 from part (a) above. At h = 2.3, A = V/h = 12.273/2.3 = 5.34 in2 Corresponding D = 2.61 (from A = D2/4) Kf = 1 + 0.4(0.1)(2.61)/2.3 = 1.045 F = 1.045(27,556)(5.34) = 153,822 lb 
+
+(c) 
+Given h = 2.1, H = ln(2.5/2.1) = ln 1.191 = 0.1744 Yf = 40,000(0.1744)0.15 = 30,780 lb/in2 V = 12.273 in3 from part (a) above. At h = 2.1, A = V/h = 12.273/2.1 = 5.84 in2 Corresponding D = 2.73 (from A = D2/4) Kf = 1 + 0.4(0.1)(2.73)/2.1 = 1.052 F = 1.052(30,780)(5.84) = 189,236 lb 
+
+(d) 
+Given h = 1.9, H = ln(2.5/1.9) = ln 1.316 = 0.274 Yf = 40,000(0.274)0.15 = 32,948 lb/in2 V = 12.273 in3 from part (a) above. At h = 1.9, A = V/h = 12.273/1.9 = 6.46 in2 Corresponding D = 2.87 (from A = D2/4) 
+
+Kf = 1 + 0.4(0.1)(2.87)/1.9 = 1.060 F = 1.060(32,948)(6.46) = 225,695 lb 
+
+(e) 
+Given h = 1.7, H = ln(2.5/1.7) = ln 1.471 = 0.386 Yf = 40,000(0.386)0.15 = 34,673 lb/in2 V = 12.273 in3 from part (a) above. At h = 1.7, A = V/h = 12.273/1.7 = 7.22 in2 Corresponding D = 3.03 (from A = D2/4) Kf = 1 + 0.4(0.1)(3.03)/1.7 = 1.071 F = 1.071(34,673)(7.22) = 268,176 lb 
+
+(f) 
+Given h = 1.5, H = ln(2.5/1.5) = ln 1.667 = 0.511 Yf = 40,000(0.511)0.15 = 36,166 lb/in2 V = 12.273 in3 from part (a) above. At h = 1.5, A = V/h = 12.273/1.5 = 8.182 in2 Corresponding D = 3.23 (from A = D2/4) Kf = 1 + 0.4(0.1)(3.23)/1.5 = 1.086 F = 1.086(36,166)(8.182) = 321,379 lb 
+
+
+
+19.16 A cylindrical workpart has a diameter = 2.5 in and a height = 4.0 in. It is upset forged to a height = 
+2.75 in. Coefficient of friction at the die-work interface = 0.10. The work material has a flow curve with strength coefficient = 25,000 lb/in2 and strain hardening exponent = 0.22. Determine the plot of force vs. work height. Use of a spreadsheet calculator is recommended. 
+Solution: Volume of cylinder V = D2L/4 = (2.5)2(4.0)/4 = 19.635 in3 We will compute the force F at selected values of height h: h = (a) 4.0, (b) 3.75, (c) 3.5, (d) 3.25, (e) 3.0, (f) 2.75, and (g) 2.5. These values can be used to develop the plot. The shape of the plot will be similar to Figure 21.13 in the text. 
+At h = 4.0, we assume yielding has just occurred and the height has not changed significantly. Use H = 0.002 (the approximate yield point of metal). At H = 0.002, Yf = 25,000(0.002)0.22 = 6,370 lb/in2 Adjusting the height for this strain, h = 4.0 -4.0(0.002) = 3.992 A = V/h = 19.635/3.992 = 4.92 in2 Kf = 1 + 0.4(0.1)(2.5)/3.992 = 1.025 F = 1.025(6,370)(4.92) = 32,125 lb 
+At h = 3.75, H = ln(4.0/3.75) = ln 1.0667 = 0.0645 Yf = 25,000(0.0645)0.22 = 13,680 lb/in2 V = 19.635 in3 calculated above. At h = 3.75, A = V/h = 19.635/3.75 = 5.236 in2 Corresponding D = 2.582 (from A = D2/4) Kf = 1 + 0.4(0.1)(2.582)/3.75 = 1.028 F = 1.028(13,680)(5.236) = 73,601 lb 
+At h = 3.5, H = ln(4.0/3.5) = ln 1.143 = 0.1335 Yf = 25,000(0.1335)0.22 = 16,053 lb/in2 At h = 3.5, A = V/h = 19.635/3.5 = 5.61 in2 Corresponding D = 2.673 (from A = D2/4) Kf = 1 + 0.4(0.1)(2.673)/3.5 = 1.031 F = 1.031(16,053)(5.61) = 92,808 lb 
+At h = 3.25, H = ln(4.0/3.25) = ln 1.231 = 0.2076 Yf = 25,000(0.2076)0.22 = 17,691 lb/in2 At h = 3.25, A = V/h = 19.635/3.25 = 6.042 in2 
+Corresponding D = 2.774 (from A = D2/4) Kf = 1 + 0.4(0.1)(2.774)/3.25 = 1.034 F = 1.034(17,691)(6.042) = 110,538 lb 
+At h = 3.0, H = ln(4.0/3.0) = ln 1.333 = 0.2874 Yf = 25,000(0.2874)0.22 = 19,006 lb/in2 At h = 3.0, A = V/h = 19.635/3.0 = 6.545 in2 Corresponding D = 2.887 (from A = D2/4) Kf = 1 + 0.4(0.1)(2.887)/3.0 = 1.038 F = 1.038(19,006)(6.545) = 129,182 lb 
+At h =2.75, H = ln(4.0/2.75) = ln 1.4545 = 0.3747 Yf = 25,000(0.3747)0.22 = 20,144 lb/in2 V = 19.635 in3 calculated above. At h = 2.75, A = V/h = 19.635/2.75 = 7.140 in2 Corresponding D = 3.015 (from A = D2/4) Kf = 1 + 0.4(0.1)(3.015)/2.75 = 1.044 F = 1.044(20,144)(7.140) = 150,136 lb 
+19.17 A cold heading operation is performed to produce the head on a steel nail. The strength coefficient for this steel is 600 MPa, and the strain hardening exponent is 0.22. Coefficient of friction at the die-work interface is 0.14. The wire stock out of which the nail is made is 5.00 mm in diameter. The head is to have a diameter of 9.5 mm and a thickness of 1.6 mm. The final length of the nail is 120 mm. (a) What length of stock must project out of the die in order to provide sufficient volume of material for this upsetting operation? (b) Compute the maximum force that the punch must apply to form the head in this open-die operation. 
+Solution: (a) Volume of nail head V = Df 2hf/4 = (9.5)2(1.6)/4 = 113.4 mm3. Ao = Do 2/4 = (4.75)2/4 = 19.6 mm2 ho = V/Ao = 113.4/19.6 = 5.78 mm 
+(b) H = ln(5.78/1.6) = ln 3.61= 1.2837 Yf = 600(1.2837)0.22 = 634 MPa Af = (9.5)2/4 = 70.9 mm2 Kf = 1 + 0.4(0.14)(9.5/1.6) = 1.33 F = 1.33(634)(70.9) = 59,886 N 
+19.18 Obtain a large common nail (flat head). Measure the head diameter and thickness, as well as the diameter of the nail shank. (a) What stock length must project out of the die in order to provide sufficient material to produce the nail? (b) Using appropriate values for strength coefficient and strain hardening exponent for the metal out of which the nail is made (Table 3.4), compute the maximum force in the heading operation to form the head. 
+Solution: Student exercise. Calculations similar to those in the preceding problem for the data developed by the student. 
+19.19 A hot upset forging operation is performed in an open die. The initial size of the workpart is: Do = 25 mm, and ho = 50 mm. The part is upset to a diameter = 50 mm. The work metal at this elevated temperature yields at 85 MPa (n = 0). Coefficient of friction at the die-work interface = 0.40. Determine (a) final height of the part, and (b) maximum force in the operation. 
+Solution: (a) V = Do 2ho/4 = (25)2(50)/4 = 24,544 mm3. Af = Df 2/4 = (50)2/4 = 1963.5 mm2. hf = V/Af = 24,544/1963.5 = 12.5 mm. 
+(b) H = ln(50/12.5) = ln 4 = 1.3863 
+Yf = 85(1.3863)0 = 85 MPa Force is maximum at largest area value, Af = 1963.5 mm2 D = (4 x 1963.5/)0.5 = 50 mm Kf = 1 + 0.4(0.4)(50/12.5) = 1.64 F = 1.64(85)(1963.5) = 273,712 N 
+19.20 A hydraulic forging press is capable of exerting a maximum force = 1,000,000 N. A cylindrical workpart is to be cold upset forged. The starting part has diameter = 30 mm and height = 30 mm. The flow curve of the metal is defined by K = 400 MPa and n = 0.2. Determine the maximum reduction in height to which the part can be compressed with this forging press, if the coefficient of friction = 0.1. Use of a spreadsheet calculator is recommended. 
+Solution: Volume of work V = Do 2ho/4 = (30)2(30)/4 = 21,206 mm3. Final area Af = 21,206/hf H = ln(30/hf) Yf = 4000.2 = 400(ln 30/hf)0.2) Kf = 1+ 0.4(Df/hf) = 1 + 0.4(0.1)(Df/hf) Forging force F = KfYfAf = (1 + 0.04Df/hf)( 400(ln 30/hf)0.2)( 21,206/hf) 
+Requires trial and error solution to find the value of hf that will match the force of 1,000,000 N. 
+(1) 
+Try hf = 20 mm Af = 21,206/20 = 1060.3 mm2 H = ln(30/20) = ln 1.5 = 0.405 Yf = 400(0.405)0.2 = 333.9 MPa Df = (4 x 1060.3/)0.5 = 36.7 mm Kf = 1 + 0.04(36.7/20) = 1.073 F = 1.073(333.9)(1060.3) = 380,050 N Too low. Try a smaller value of hf to increase F. 
+
+(2) 
+Try hf = 10 mm. Af = 21,206/10 = 2120.6 mm2 H = ln(30/10) = ln 3.0 = 1.099 Yf = 400(1.099)0.2 = 407.6 MPa Df = (4 x 2120.6/)0.5 = 51.96 mm Kf = 1 + 0.04(51.96/10) = 1.208 F = 1.208(407.6)(2120.6) = 1,043,998 N Slightly high. Need to try a value of hf between 10 and 20, closer to 10. 
+
+(3) 
+Try hf = 11 mm Af = 21,206/11 = 1927.8 mm2 H = ln(30/11) = ln 2.7273 = 1.003 Yf = 400(1.003)0.2 = 400.3 MPa Df = (4 x 1927.8/)0.5 = 49.54 mm Kf = 1 + 0.04(51.12/11) = 1.18 F = 1.18(400.3)(1927.8) = 910,653 N 
+
+(4) 
+By linear interpolation, try hf = 10 + (44/133) = 10.33 mm Af = 21,206/10.33 = 2052.8 mm2 H = ln(30/10.33) = ln 2.9042 = 1.066 Yf = 400(1.066)0.2 = 405.16 MPa Df = (4 x 2052.8/)0.5 = 51.12 mm Kf = 1 + 0.04(51.12/10.33) = 1.198 F = 1.198(405.16)(2052.8) = 996,364 N 
+
+(5) 
+By further linear interpolation, try hf = 10 + (44/48)(0.33) = 10.30 Af = 21,206/10.30 = 2058.8 mm2 H = ln(30/10.30) = ln 2.913 = 1.069 Yf = 400(1.069)0.2 = 405.38 MPa Df = (4 x 2058.8/)0.5 = 51.2 mm Kf = 1 + 0.04(51.2/10.3) = 1.199 F = 1.199(405.38)(2058.8) = 1,000,553 N Close enough! Maximum height reduction = 30.0 -10.3 = 19.7 mm 
+
+
+Using a spreadsheet calculator, the author’s program (written in Excel) obtained a value of h = 19.69603 mm to achieve a force of 1,000,000 lb within one pound. 
+19.21 A part is designed to be hot forged in an impression die. The projected area of the part, including flash, is 16 in2. After trimming, the part has a projected area of 10 in2. Part geometry is complex. As heated the work material yields at 10,000 lb/in2, and has no tendency to strain harden. At room temperature, the material yields at 25,000 lb/in2 Determine the maximum force required to perform the forging operation. 
+Solution: Since the work material has no tendency to work harden, n = 0. From Table 19.1, choose Kf = 8.0. F = 8.0(10,000)(16) = 1,280,000 lb. 
+19.22 A connecting rod is designed to be hot forged in an impression die. The projected area of the part is 6,500 mm2. The design of the die will cause flash to form during forging, so that the area, including flash, will be 9,000 mm2. The part geometry is considered to be complex. As heated the work material yields at 75 MPa, and has no tendency to strain harden. Determine the maximum force required to perform the operation. 
+Solution: Since the work material has no tendency to work harden, n = 0. From Table 19.1, choose Kf =8.0. F = 8.0(75)(9,000) = 5,400,000 N. 
+Extrusion 
+19.23 A cylindrical billet that is 100 mm long and 50 mm in diameter is reduced by indirect (backward) extrusion to a 20 mm diameter. The die angle is 90. The Johnson equation has a = 0.8 and b = 1.4, and the flow curve for the work metal has a strength coefficient of 800 MPa and strain hardening exponent of 0.13. Determine (a) extrusion ratio, (b) true strain (homogeneous deformation), (c) extrusion strain, (d) ram pressure, and (e) ram force. 
+Solution: (a) rx = Ao/Af = Do 2/Df 2 = (50)2/(20)2 = 6.25 
+(b) 
+H = ln rx = ln 6.25 = 1.833 
+
+(c) 
+x = a + b ln rx = 0.8 + 1.4(1.833) = 3.366 
+
+(d) 
+Yf = 800(1.833)0.13/1.13 = 766.0 MPa p = 766.0(3.366) = 2578 MPa 
+
+(e) 
+Ao = Do 2/4 = (50)2/4 = 1963.5 mm2 F = 2578(1963.5) = 5,062,000 N 
+
+
+19.24 A 3.0-in-long cylindrical billet whose diameter = 1.5 in is reduced by indirect extrusion to a diameter = 0.375 in. Die angle = 90. In the Johnson equation, a = 0.8 and b = 1.5. In the flow curve for the work metal, K = 75,000 lb/in2 and n = 0.25. Determine (a) extrusion ratio, (b) true strain (homogeneous deformation), (c) extrusion strain, (d) ram pressure, (e) ram force, and (f) power if the ram speed = 20 in/min. 
+Solution: (a) rx = Ao/Af = Do 2/Df 2 = (1.5)2/(0.375)2 = 42 = 16.0 
+(b) 
+H = ln rx = ln 16 = 2.773 
+
+(c) 
+x = a + b ln rx = 0.8 + 1.5(2.773) = 4.959 
+
+(d) 
+Yf = 75,000(2.773)0.25/1.25 = 77,423 lb/in2 p = 77,423(4.959) = 383,934 lb/in2 
+
+(e) 
+Ao = Do 2/4 = (1.5)2/4 = 1.767 in2 F = (383,934)(1.767) = 678,411 lb. 
+
+(f) 
+P = 678,411(20) = 13,568,228 in-lb/min HP = 13,568,228/396,000 = 34.26 hp 
+
+
+19.25 A billet that is 75 mm long with diameter = 35 mm is direct extruded to a diameter of 20 mm. The extrusion die has a die angle = 75. For the work metal, K = 600 MPa and n = 0.25. In the Johnson extrusion strain equation, a = 0.8 and b = 1.4. Determine (a) extrusion ratio, (b) true strain (homogeneous deformation), (c) extrusion strain, and (d) ram pressure and force at L = 70, 60, 50, 40, 30, 20, and 10 mm. Use of a spreadsheet calculator is recommended for part (d). 
+Solution: (a) rx = Ao/Af = Do 2/Df 2 = (35)2/(20)2 = 3.0625 
+(b) 
+H = ln rx = ln 3.0625 = 1.119 
+
+(c) 
+x = a + b ln rx = 0.8 + 1.4(1.119) = 2.367 
+
+(d) 
+Yf = 600(1.119)0.25/1.25 = 493.7 MPa 
+
+
+Ao = (35)2/4 = 962.1 mm2 It is appropriate to determine the volume of metal contained in the cone of the die at the start of the extrusion operation, to assess whether metal has been forced through the die opening by the time the billet has been reduced from L = 75 mm to L = 70 mm. For a cone-shaped die with angle = 75, the height h of the frustum is formed by metal being compressed into the die opening: The two radii are: R1 = 0.5Do = 17.5 mm and R2 = 0.5Df = 10 mm, and h = (R1-R2)/tan 75 = 7.5/tan 75 = 2.01 mm Frustum volume V = 0.333h(R12 + R1R2+ R22) = 0.333(2.01)(17.52 + 10 x 17.5 + 102) = 1223.4 mm3. Compare this with the volume of the portion of the cylindrical billet between L = 75 mm and L = 70 mm. V = Do 2 h/4 = 0.25(35)2(75 -70) = 4810.6 mm3 Since this volume is greater than the volume of the frustum, this means that the metal has extruded through the die opening by the time the ram has moved forward by 5 mm. 
+L = 70 mm: pressure p = 493.7(2.367 + 2 x 70/35) = 3143.4 MPa Force F = 3143.4(962.1) = 3,024, 321 N L = 60 mm: pressure p = 493.7(2.367 + 2 x 60/35) = 2861.3 MPa Force F = 2861.3(962.1) = 2,752,890 N L = 50 mm: pressure p = 493.7(2.367 + 2 x 50/35) = 2579.2 MPa Force F = 2579.2(962.1) = 2,481,458 N L = 40 mm: pressure p = 493.7(2.367 + 2 x 40/35) = 2297.1 MPa Force F = 2297.1(962.1) = 2,210,027 N L = 30 mm: pressure p = 493.7(2.367 + 2 x 30/35) = 2014.9 MPa Force F = 2014.9(962.1) = 1,938,595 N L = 20 mm: pressure p = 493.7(2.367 + 2 x 20/35) = 1732.8 MPa Force F = 1732.8(962.1) = 1,667,164 N L = 10 mm: pressure p = 493.7(2.367 + 2 x 10/35) = 1450.7 MPa Force F = 1450.7(962.1) = 1,395,732 N 
+19.26 A 2.0-in-long billet with diameter = 1.25 in is direct extruded to a diameter of 0.50 in. The extrusion die angle = 90. For the work metal, K = 45,000 lb/in2, and n = 0.20. In the Johnson extrusion strain equation, a = 0.8 and b = 1.5. Determine (a) extrusion ratio, (b) true strain (homogeneous deformation), (c) extrusion strain, and (d) ram pressure at L = 2.0, 1.5, 1.0, 0.5 and zero in. Use of a spreadsheet calculator is recommended for part (d). 
+Solution: (a) rx = Ao/Af = Do 2/Df 2 = (1.25)2/(0.5)2 = 6.25 
+(b) 
+H = ln rx = ln 6.25 = 1.8326 
+
+(c) 
+x = a + b ln rx = 0.8 + 1.5(1.8326) = 3.549 
+
+(d) 
+Yf = 45,000(1.8326)0.20/1.20 = 42,330 lb/in2 
+
+
+Ao = (1.25)2/4 = 1.227 in2 Unlike the previous problem, the die angle D = 90, so metal is forced through the die opening as soon as the billet starts to move forward in the chamber. 
+L = 2.0 in: pressure p = 42,330(3.549 + 2 x 2.0/1.25) = 285,677 lb/in2 Force F = 285,677(1.227) = 350,579 lb L = 1.5 in: pressure p = 42,330(3.549 + 2 x 1.5/1.25) = 251,813 lb/in2 Force F = 251,813(1.227) = 309,022 lb L = 1.0 in: pressure p = 42,330(3.549 + 2 x 1.0/1.25) = 217,950 lb/in2 Force F = 217,950(1.227) = 267,465 lb L = 0.5 in: pressure p = 42,330(3.549 + 2 x 0.5/1.25) = 184,086 lb/in2 Force F = 184,086(1.227) = 225,908 lb L = 0.0 in: pressure p = 42,330(3.549 + 2 x 0.0/1.25) = 150,229 lb/in2 Force F = 150,229(1.227) = 184,351 lb These last values for L = 0 are not possible because of the increase in pressure and force due to the butt remaining in the extruder container at the end of the operation. 
+19.27 A direct extrusion operation is performed on a cylindrical billet with an initial diameter of 2.0 in and an initial length of 4.0 in. The die angle = 60q and orifice diameter is 0.50 in. In the Johnson extrusion strain equation, a = 0.8 and b = 1.5. The operation is carried out hot and the hot metal yields at 13,000 lb/in2 and does not strain harden when hot. (a) What is the extrusion ratio? (b) Determine the ram position at the point when the metal has been compressed into the cone of the die and starts to extrude through the die opening. (c) What is the ram pressure corresponding to this position? (d) Also determine the length of the final part if the ram stops its forward movement at the start of the die cone. 
+Solution: (a) rx = Ao/Af = Do 2/Df 2 = (2.0)2/(0.5)2 = 16.0 
+(b) The portion of the billet that is compressed into the die cone forms a frustum with R1 = 0.5Do = 
+1.0 in and R2 = 0.5Df = 0.25 in. The height of the frustum h = (R1-R2)/tan 65 = (1.0 -0.25)/tan 60 = 
+0.433 in. The volume of the frustum is V = 0.333h(R12 + R1R2+ R22) = 0.333(0.433)(1.02 + 1.0 x 0.25 + 0.252) = 0.595 in3 The billet has advanced a certain distance by the time this frustum is completely filled and extrusion through the die opening is therefore initiated. The volume of billet compressed forward to fill the frustum is given by: V = R12(Lo -L1) = (1.0)2(Lo -L1) Setting this equal to the volume of the frustum, we have (Lo -L1) = 0.595 in3 (Lo -L1) = 0.595/S = 0.189 in L1 = 4.0 -0.189 = 3.811 in 
+(c) 
+H = ln rx = ln 16 = 2.7726 
+
+x = a + b ln rx = 0.8 + 1.5(2.7726) = 4.959 Yf = 13,000(2.7726)0/1.0 = 13,000 lb/in2 p = 13,000(4.959 + 2 x 3.811/2.0) = 114,000 lb/in2 
+
+(d) 
+Length of extruded portion of billet = 3.811 in. With a reduction rx = 16, the final part length, excluding the cone shaped butt remaining in the die is L = 3.811(16) = 60.97 in. 
+
+
+19.28 An indirect extrusion process starts with an aluminum billet with diameter = 2.0 in and length = 3.0 in. Final cross section after extrusion is a square with 1.0 in on a side. The die angle = 90. The operation is performed cold and the strength coefficient of the metal K = 26,000 lb/in2 and strain-hardening exponent n = 0.20. In the Johnson extrusion strain equation, a = 0.8 and b = 1.2. (a) Compute the extrusion ratio, true strain, and extrusion strain. (b) What is the shape factor of the product? (c) If the butt left in the container at the end of the stroke is 0.5 in thick, what is the length of the extruded section? (d) Determine the ram pressure in the process. 
+Solution: (a) rx = Ao/Af Ao = Do 2/4 = (2)2/4 = 3.142 in2 Af = 1.0 x 1.0 = 1.0 in2 rx = 3.142/1.0 = 3.142 H = ln 3.142 = 1.145 x = 0.8 + 1.3(1.145) = 2.174 
+(b) 
+To determine the die shape factor we need to determine the perimeter of a circle whose area is equal to that of the extruded cross section, A = 1.0 in2. The radius of the circle is R = (1.0/)0.5 = 0.5642 in, Cc = 2(0.5642) = 3.545 in The perimeter of the extruded cross section Cx = 4(1.0) = 4.0 in Kx = 0.98 + 0.02(4.0/3.545)2.25 = 1.006 
+
+(c) 
+Given that the butt thickness = 0.5 in Original volume V = (3.0)(S x 22/4) = 9.426 in3 The final volume consists of two sections: (1) butt, and (2) extrudate. The butt volume V1= (0.5)(22/4) = 1.571 in3. The extrudate has a cross-sectional area Af = 1.0 in2. Its volume V2= LAf = 
+
+
+9.426 -1.571 = 7.855 in3. Thus, length L = 7.855/1.0 = 7.855 in 
+(d) Yf = 26,000(1.145)0.2/1.2 = 22,261 lb/in3 p = 1.006(22,261)(2.174) = 48,698 lb/in2 
+19.29 An L-shaped structural section is direct extruded from an aluminum billet in which Lo = 500 mm and Do = 100 mm. Dimensions of the cross section are given in Figure P19.29. Die angle = 90. Determine (a) extrusion ratio, (b) shape factor, and (c) length of the extruded section if the butt remaining in the container at the end of the ram stroke is 25 mm. 
+Solution: (a) rx = Ao/Af Ao = (100)2/4 = 7854 mm2 Af = 2(12 x 50) = 1200 mm2 rx = 7854/1200= 6.545 
+(b) 
+To determine the die shape factor we need to determine the perimeter of a circle whose area is equal to that of the extruded cross section, A = 1200 mm2. The radius of the circle is R = (1200/)0.5 = 19.54 mm, Cc = 2(19.54) = 122.8 mm. The perimeter of the extruded cross section Cx =62+50+12 +38+50 +12 =224 mm Kx = 0.98 + 0.02(224/122.8)2.25 = 1.057 
+
+(c) 
+Total original volume V = 0.25(100)2(500) = 3,926,991 mm3 
+
+
+The final volume consists of two sections: (1) butt, and (2) extrudate. The butt volume V1= 0.25(100)2(25) = 196,350 mm3. The extrudate has a cross-sectional area Af = 1200 mm2. Its volume V2= LAf = 3,926,991 -196,350 = 3,730,641 mm3. Thus, length L = 3,730,641/1200 = 3108.9 mm = 3.109 m 
+19.30 The flow curve parameters for the aluminum alloy of Problem 19.29 are: K = 240 MPa and n = 0.16. If the die angle in this operation = 90, and the corresponding Johnson strain equation has constants a = 0.8 and b = 1.5, compute the maximum force required to drive the ram forward at the start of extrusion. 
+Solution: From Problem 19.29, rx = 5.068 H = ln 5.068= 1.623 x = 0.8 + 1.5(1.623) = 3.234 
+Yf = 240(1.623)0.16/1.16 = 223.6 MPa Maximum ram force occurs at beginning of stroke when length is maximum at L = 250 mm p = KxY f (x + 2L/Do) = 1.057(223.6)( 3.234 + 2(250)/88) = 2107.2 MPa F = pAo = 2107.2 (6082.1) = 12,816,267 N 
+19.31 A cup-shaped part is backward extruded from an aluminum slug that is 50 mm in diameter. The final dimensions of the cup are: OD = 50 mm, ID = 40 mm, height = 100 mm, and thickness of base = 5 mm. Determine (a) extrusion ratio, (b) shape factor, and (c) height of starting slug required to achieve the final dimensions. (d) If the metal has flow curve parameters K = 400 MPa and n = 0.25, and the constants in the Johnson extrusion strain equation are: a = 0.8 and b = 1.5, determine the extrusion force. 
+Solution: (a) rx = Ao/Af Ao = 0.25(50)2 = 1963.75 mm2 Af = 0.25(502 -402) = 706.86 mm2 rx = 1963.75/706.86 = 2.778 
+(b) 
+To determine the die shape factor we need to determine the perimeter of a circle whose area is equal to that of the extruded cross section, A = 706.86 mm2. The radius of the circle is R = (706.86/)0.5 = 15 mm, Cc = 2(15) = 94.25 mm. The perimeter of the extruded cross section Cx = (50 + 40) = 90S = 282.74 mm. Kx = 0.98 + 0.02(282.74/94.25)2.25 = 1.217 
+
+(c) 
+Volume of final cup consists of two geometric elements: (1) base and (2) ring. 
+
+(1) 
+Base t = 5 mm and D = 50 mm. V1 = 0.25(50)2(5) = 9817.5 mm3 
+
+
+(2)RingOD =50mm, ID =40mm, and h = 95 mm. V2 = 0.25(502 -402)(95) = 0.25(2500 -1600)(95) = 67,151.5 mm3 Total V = V1+ V2 = 9817.5 + 67,151.5 = 76,969 mm3 Volume of starting slug must be equal to this value V = 76,969 mm3 V = 0.25(50)2(h) = 1963.5h = 76,969 mm3 
+h = 39.2 mm 
+(d) H = ln 2.778 = 1.0218 
+x = 0.8 + 1.5(1.0218) = 2.33 Yf = 400(1.0218)0.25/1.25 = 321.73 MPa 
+p = KxY f x = 1.217(321.73)(2.33) = 912.3 MPa 
+Ao = 0.25(40)2 = 1256.6 mm2 F = 912.3(1256.6) = 1,146,430 N 
+19.32 Determine the shape factor for each of the extrusion die orifice shapes in Figure P19.32. 
+Solution: (a) Ax = 20 x 60 = 1200 mm, Cx = 2(20 + 60) = 160 mm Ao = R2 = 1200 R2 = 1200/S = 381.97, R = 19.544 mm, Cc = 2R = 2(19.544) = 122.8 mm Kx = 0.98 + 0.02(160/122.8)2.25 = 1.016 
+(b) 
+Ax = Ro 2-Ri2 = (252 -22.52) = 373.06 mm2 Cx = Do + Di= (50 + 45) = 298.45 mm R2 = 373.06/S = 118.75, R = 10.897 mm, Cc = 2R = 2(10.897) = 68.47 mm Kx = 0.98 + 0.02(298.45/68.47)2.25 = 1.53 
+
+(c) 
+Ax = 2(5)(30) + 5(60 -10) = 300 + 250 = 550 mm2 Cx =30+60+30+5+25+ 50+25+5 =230mm Ao = R2 = 550, R2 = 550/S = 175.07, R = 13.23 mm Cc = 2R = 2(13.23) = 83.14 mm Kx = 0.98 + 0.02(230/83.14)2.25 = 1.177 
+
+(d) 
+Ax = 5(55)(5) + 5(85 -5x5) = 1675 mm2 Cx =2x55+16x25+8x15+ 10x5 =680mm Ao = R2 = 1675, R2 = 1675/S = 533.17, R = 23.09 mm Cc = 2R = 2(23.09) = 145.08 mm Kx = 0.98 + 0.02(680/145.08)2.25 = 1.626 
+
+
+19.33 A direct extrusion operation produces the cross section shown in Figure P19.32(a) from a brass billet whose diameter = 125 mm and length = 350 mm. The flow curve parameters of the brass are K = 700 MPa and n = 0.35. In the Johnson strain equation, a = 0.7 and b = 1.4. Determine (a) the extrusion ratio, (b) the shape factor, (c) the force required to drive the ram forward during extrusion at the point in the process when the billet length remaining in the container = 300 mm, and (d) the length of the extruded section at the end of the operation if the volume of the butt left in the container is 600,000 mm3. 
+Solution: (a) rx = Ao/Af Ao = (125)2/4 = 12,272 mm2 Af = Ax = 20(60) = 1200 mm2 rx = 12272/1200 = 10.23 
+(b) 
+To determine the die shape factor we need to determine the perimeter of a circle whose area is equal to that of the extruded cross section, Af = 1200 mm2. The radius of the circle is R = (1200/)0.5 = 19.544 mm, Cc = 2(19.544) = 122.8 mm. The perimeter of the extruded cross section Cx = 2(20 + 60) = 160 mm Kx = 0.98 + 0.02(160/122.8)2.25 = 1.016 
+
+(c) 
+H = ln 10.23 = 2.325 
+
+
+x = 0.7 + 1.4(2.325) = 3.955 Yf = 700(2.325)0.35/1.35 = 696.6 MPa 
+p = KxY f x = 1.016(696.6)(3.955 + 2(300)/125) = 6196.3 MPa F = pAo = 6196.3(12,272) = 76,295,200 N 
+(d) Total original volume V = (125)2(350)/4 = 4,295,200 mm3 The final volume consists of two sections: (1) butt, and (2) extrudate. The butt volume as given V1 = 600,000 mm3. The extrudate has a cross-sectional area Af = 1200 mm2. Its volume V2= LAf = 4,295,200 – 600,000 = 3,695,200 mm3. Thus, length L = 3,695,200/1200 = 3079.3 mm = 3.079 m 
+19.34 In a direct extrusion operation the cross section shown in Figure P19.32(b) is produced from a copper billet whose diameter = 100 mm and length = 500 mm. In the flow curve for copper, the strength coefficient = 300 MPa and strain hardening exponent = 0.50. In the Johnson strain equation, a = 0.8 and b = 1.5. Determine (a) the extrusion ratio, (b) the shape factor, (c) the force required to drive the ram forward during extrusion at the point in the process when the billet length remaining in the container = 450 mm, and (d) the length of the extruded section at the end of the operation if the volume of the butt left in the container is 350,000 mm3. 
+Solution: (a) rx = Ao/Af Ao = (100)2/4 = 7854 mm2 Af = Ax = (50)2/4 -(45)2/4 = 1963.5 – 1590.4 = 373.1 mm2 rx = 7854/373.1 = 21.05 
+(b) 
+To determine the die shape factor we need to determine the perimeter of a circle whose area is equal to that of the extruded cross section, Ax = 373.1 mm2. The radius of the circle is R = (373.1/)0.5 = 10.9 mm, Cc = 2(10.9) = 68.5 mm. The perimeter of the extruded cross section Cx = (50) + (45) = 298.5 mm Kx = 0.98 + 0.02(298.5/68.5)2.25 = 1.53 
+
+(c) 
+H = ln 21.05= 3.047 
+
+
+x = 0.8 + 1.5(3.047) = 5.37 Yf = 300(3.047)0.50/1.50 = 349.1 MPa 
+p = KxY f x = 1.53(349.1)(5.37 + 2(450)/100) = 7675.3 MPa F = pAo = 7675.3(7854) = 60,282,179 N 
+(d) Total original volume V = (100)2(500)/4 = 3,926,991 mm3 The final volume consists of two sections: (1) butt, and (2) extrudate. The butt volume as given V1 = 350,000 mm3. The extrudate has a cross-sectional area Af = 373.1 mm2. Its volume V2= LAf = 3,926,991 – 350,000 = 3,576,991 mm3. Thus, length L = 3,576,991/373.1 = 9,587.2 mm = 9.587 m 
+19.35 A direct extrusion operation produces the cross section shown in Figure P19.32(c) from an aluminum billet whose diameter = 150 mm and length = 500 mm. The flow curve parameters for the aluminum are K = 240 MPa and n = 0.16. In the Johnson strain equation, a = 0.8 and b = 1.2. Determine (a) the extrusion ratio, (b) the shape factor, (c) the force required to drive the ram forward during extrusion at the point in the process when the billet length remaining in the container = 400 mm, and (d) the length of the extruded section at the end of the operation if the volume of the butt left in the container is 600,000 mm3. 
+Solution: (a) rx = Ao/Af Ao = (150)2/4 = 17,671.5 mm2 Af = Ax = 60(5) + 2(25)(5) = 300 + 250 = 550 mm2 rx = 17,671.5/550 = 32.1 
+(b) 
+To determine the die shape factor we need to determine the perimeter of a circle whose area is equal to that of the extruded cross section, Ax = 550 mm2. Cx =30+60+30+5+25+ 50+25+5 =230mm Ao = R2 = 550, R2 = 550/S = 175.07, R = 13.23 mm Cc = 2R = 2(13.23) = 83.14 mm Kx = 0.98 + 0.02(230/83.14)2.25 = 1.177 
+
+(c) 
+H = ln 32.1= 3.47 x = 0.8 + 1.2(3.47) = 4.96 
+
+
+Yf = 240(3.47)0.16/1.16 = 252.5 MPa 
+p = KxY f x = 1.177(252.5)(4.96 + 2(400)/150) = 3059.1 MPa F = pAo = 3059.1(17,671.5) = 54,058,912 N 
+(d) Total original volume V = (150)2(500)/4 = 8,835,750 mm3 The final volume consists of two sections: (1) butt, and (2) extrudate. The butt volume as given V1 = 600,000 mm3. The extrudate has a cross-sectional area Af = 550 mm2. Its volume V2= LAf = 8,835,750 – 600,000 = 8,235,750 mm3. Thus, length L = 8,835,750/550 = 14,974 mm = 14.974 m 
+19.36 A direct extrusion operation produces the cross section shown in Figure P19.32(d) from an aluminum billet whose diameter = 150 mm and length = 900 mm. The flow curve parameters for the aluminum are K = 240 MPa and n = 0.16. In the Johnson strain equation, a = 0.8 and b = 1.5. Determine (a) the extrusion ratio, (b) the shape factor, (c) the force required to drive the ram forward during extrusion at the point in the process when the billet length remaining in the container = 850 mm, and (d) the length of the extruded section at the end of the operation if the volume of the butt left in the container is 600,000 mm3. 
+Solution: (a) rx = Ao/Af Ao = (150)2/4 = 17,671.5 mm2 Af = Ax = 5(55)(5) + 5(85 – 5(5)) = 1675 mm2 rx = 17,671.5/1675 = 10.55 
+(b) 
+To determine the die shape factor we need to determine the perimeter of a circle whose area is equal to that of the extruded cross section, Ax = 1675 mm2. Cx =2x55+16x25+8x15+ 10x5 =680mm Ao = R2 = 1675, R2 = 1675/S = 533.17,  R = 23.09 mm Cc = 2R = 2(23.09) = 145.08 mm Kx = 0.98 + 0.02(680/145.08)2.25 = 1.626 
+
+(c) 
+H = ln 10.55= 2.36 
+
+
+x = 0.8 + 1.5(2.36) = 4.33 Yf = 240(2.36)0.16/1.16 = 237.4 MPa 
+p = KxY f x = 1.626(237.4)(4.33 + 2(850)/150) = 6046.2 MPa F = pAo = 6046.2(17,671.5) = 106,846,146 N 
+(d) Total original volume V = (150)2(900)/4 = 15,904,313 mm3 The final volume consists of two sections: (1) butt, and (2) extrudate. The butt volume as given V1 = 600,000 mm3. The extrudate has a cross-sectional area Af = 1675 mm2. Its volume V2= LAf = 15,904,313 – 600,000 = 15,304,313 mm3. Thus, length L = 15,304,313/1675 = 9,137 mm = 9.137 m 
+Drawing 
+
+19.37 A spool of wire has a starting diameter of 2.5 mm. It is drawn through a die with an opening that is to 2.1 mm. The entrance angel of the die is 18q degrees. Coefficient of friction at the work-die interface is 0.08. The work metal has a strength coefficient of 450 MPa and a strain hardening coefficient of 0.26. The drawing is performed at room temperature. Determine (a) area reduction, (b) draw stress, and (c) draw force required for the operation. 
+Solution: (a) r = (Ao -Af)/Ao Ao = 0.25(2.50)2 = 4.91 mm2 
+Af = 0.25(2.1)2 = 3.46 mm2 r = (4.91 – 3.46)/4.91 = 0.294 
+(b) Draw stress d: H = ln(4.91/3.46) = ln 1.417 = 0.349 
+Yf = 450(0.349)0.26/1.26 = 271.6 MPa I = 0.88 + 0.12(D/Lc) D = 0.5(2.5 + 2.1) = 2.30 Lc = 0.5(2.5 -2.1)/sin 18 = 0.647 I = 0.88 + 0.12(2.30/0.647) = 1.31 
+d = Yf (1 + /tan )(ln Ao/Af) = 271.6(1 + 0.08/tan 18)(1.31)(0.349) = 154.2 MPa 
+(c) Draw force F: F = Af d = 3.46(154.2) = 534.0 N 
+
+19.38 Rod stock that has an initial diameter of 0.50 in is drawn through a draw die with an entrance angle of 13. The final diameter of the rod is = 0.375 in. The metal has a strength coefficient of 40,000 lb/in2 and a strain hardening exponent of 0.20. Coefficient of friction at the work-die interface = 0.1. Determine (a) area reduction, (b) draw force for the operation, and (c) horsepower to perform the operation if the exit velocity of the stock = 2 ft/sec. 
+
+Solution: (a) r = (Ao -Af)/Ao Ao = 0.25(0.50)2 = 0.1964 in2 Af = 0.25(0.35)2 = 0.1104 in2 r = (0.1964 -0.1104)/0.1964 = 0.4375 
+(b) Draw force F: H = ln(0.1964/0.1104) = ln 1.778 = 0.5754 Yf = 40,000(0.5754)0.20/1.20 = 29,845 lb/in2 
+I = 0.88 + 0.12(D/Lc) D = 0.5(.50 + 0.375) = 0.438 Lc = 0.5(0.50 -0.375)/sin 13 = 0.2778 I = 0.88 + 0.12(0.438/0.2778) = 1.069 
+F = AfY f (1 + /tan )(ln Ao/Af) F = 0.1104(29,845)(1 + 0.1/tan 13)(1.069)(0.5754) = 2907 lb 
+(c) P = 2907(2 ft/sec x 60) = 348,800 ft/lb/min HP = 348800/33,000 = 10.57 hp 
+
+19.39 Bar stock of initial diameter = 90 mm is drawn with a draft = 15 mm. The draw die has an entrance angle = 18, and the coefficient of friction at the work-die interface = 0.08. The metal behaves as a perfectly plastic material with yield stress = 105 MPa. Determine (a) area reduction, (b) draw stress, 
+(c) draw force required for the operation, and (d) power to perform the operation if exit velocity = 1.0 m/min. 
+
+Solution: (a) r = (Ao -Af)/Ao Ao = 0.25(90)2 = 6361.7 mm2 Df = Do -d = 90 -15 = 75 mm, Af = 0.25(75)2 = 4417.9 mm2 r = (6361.7 -4417.9)/6361.7 = 0.3056 
+(b) Draw stress d: H = ln(6361.7 /4417.9) = ln 1.440 = 0.3646 
+Yf = k = 105 MPa 
+I = 0.88 + 0.12(D/Lc) 
+D = 0.5(90 + 75) = 82.5 mm 
+Lc = 0.5(90 -75)/sin 18 = 24.3 mm 
+I = 0.88 + 0.12(82.5/24.3) = 1.288 
+d = Yf (1 + /tan )(ln Ao/Af) = 105(1 + 0.08/tan 18)(1.288)(0.3646) = 61.45 MPa 
+(c) F = Af d = 4417.9 (61.45) = 271,475 N 
+(d) P = 271,475(1 m/min) = 271,475 N-m/min = 4524.6 N-m/s = 4524.6 W 
+
+ 
+19.40 Wire stock of initial diameter = 0.125 in is drawn through two dies each providing a 0.20 area reduction. The starting metal has a strength coefficient = 40,000 lb/in2 and a strain hardening exponent = 0.15. Each die has an entrance angle of 12, and the coefficient of friction at the work-die interface is estimated to be 0.10. The motors driving the capstans at the die exits can each deliver 
+1.50 hp at 90% efficiency. Determine the maximum possible speed of the wire as it exits the second die. 
+Solution: First draw: Do = 0.125 in, Ao = 0.25(0.125)2 = 0.012273 in2 009819 in2 
+H = ln(0.012273/0.009819) = ln 1.250 = 0.2231 
+r = (Ao -Af)/Ao, Af = Ao(1 -r) = 0.012773(1 -0.2) = 0. 
+Yf = 40,000(0.2231)0.15/1.15 = 27,775 lb/in2 
+I = 0.88 + 0.12(D/Lc) 
+Df = 0.125(1 -r)0.5 = 0.125(0.8).5 = 0.1118 in 
+D = 0.5(.125 + 0.1118) = 0.1184 
+Lc = 0.5(0.125 -0.1118)/sin 12 = 0.03173 
+I = 0.88 + 0.12(0.1184/0.03173) = 1.33 
+F = AfY f (1 + /tan )(ln Ao/Af) 
+F = 0.09819(27,775)(1 + 0.1/tan 12)(1.33)(0.2231) = 119 lb 
+1.5 hp at 90% efficiency = 1.5 x 0.90(33,000 ft-lb/min)/60 = 742.5 ft-lb/sec P = Fv = 119v = 742.5 v = 742.5/119 = 6.24 ft/sec 
+Second draw: Do = 0.1118 in, Ao = 0.25(0.1118)2 = 0.009819 in2 
+r = (Ao -Af)/Ao, Af = Ao(1 -r) = 0.009819(1 -0.2) = 0.007855 in2 
+H = ln(0.009819/0.007855) = ln 1.250 = 0.2231 
+Total strain experienced by the work metal is the sum of the strains from the first and second draws: 
+H = 1+ 2 = 0.2231 + 0.2231 = 0.4462 
+Yf = 40,000(0.4462)0.15/1.15 = 30,818 lb/in2 
+I = 0.88 + 0.12(D/Lc) 
+Df = 0.1118(1 -r)0.5 = 0.1118(.8).5 = 0.100 in 
+D = 0.5(0.1118 + 0.100) = 0.1059 
+Lc = 0.5(0.1118 -0.100)/sin 12 = 0.0269 
+I = 0.88 + 0.12(0.1059/0.0269) = 1.35 
+F = AfY f (1 + /tan )(ln Ao/Af) 
+F = 0.007855(30,818)(1 + 0.1/tan 12)(1.35)(0.4462) = 214 lb. 
+1.5 hp at 90% efficiency = 742.5 ft-lb/sec as before in the first draw. P = Fv = 214v = 742.5 v = 742.5/214 = 3.47 ft/sec 
+Note: The calculations indicate that the second draw die is the limiting step in the drawing sequence. The first operation would have to be operated at well below its maximum possible speed; or the second draw die could be powered by a higher horsepower motor; or the reductions to achieve the two stages could be reallocated to achieve a higher reduction in the first drawing operation. 
+
+
+
+
+

@@ -1,9 +1,0 @@
-Question,Answer
-"The standard coordinate system for numerical control machine tools is based on which one of the following? (a) Cartesian coordinates, (b) cylindrical coordinates, or (c) polar coordinates.",Answer. (a)
-"Identify which of the following applications are point-to- point and not continuous path operations (more than one): (a) arc welding, (b) drilling, (c) hole punching in sheet metal, (d) milling, (e) spot welding, and (f) turning.","Answer. (b), (c), and (e)."
-"The ability of a positioning system to return to a previously defined location is measured by which one of the following terms? (a) accuracy, (b) control resolution, or (c) repeatability.",Answer. (c)
-"The APT command GORGT is which of the following (more than one)? (a) continuous path command, (b) geometry statement involving a volume of revolution about a central axis, (c) name of the monster in a 1960s Japanese science fiction movie, (d) point-to-point command, or (e) tool path command in which the tool must Go Right in the next move.",Answer. (a) and (e).
-"The arm-and-body of a robot manipulator generally performs which one of the following functions in an application? (a) orientation, or (b) positioning.",Answer. (b)
-"A SCARA robot is normally associated with which of the following applications (one answer)? (a) arc welding, (b) assembly, (c) inspection, (d) machine loading and unloading, or (e) resistance welding.",Answer. (b)
-"In robotics, spray painting applications are which of the following? (a) continuous path, or (b) point-to-point.",Answer. (a)
-"Which of the following are characteristics of work situations that tend to promote the substitution of a robot in place of a human worker (more than one)? (a) frequent job changeovers, (b) hazardous work environment, (c) repetitive work cycle, (d) multiple work shifts, and (e) task requires mobility.","Answer. (b), (c), and (d)."

@@ -1,0 +1,15 @@
+llama-index-llms-openai
+llama-index-embeddings-clip
+llama-index
+llama-index-vector-stores-qdrant
+llama_index 
+ftfy 
+regex 
+tqdm
+openai
+re
+torch 
+torchvision
+matplotlib 
+scikit-image
+qdrant_client

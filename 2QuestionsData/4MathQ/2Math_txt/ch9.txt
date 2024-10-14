@@ -1,0 +1,50 @@
+Problems 
+9.1 A fiberglass composite is composed of a matrix of vinyl ester and reinforcing fibers of E-glass. The volume fraction of E-glass is 35%. The remainder is vinyl ester. The density of the vinyl ester is 
+0.882 g/cm3, and its modulus of elasticity is 3.60 GPa. The density of E-glass is 2.60 g/cm3, and its modulus of elasticity is 76.0 GPa. A section of composite 1.00 cm by 50.00 cm by 200.00 cm is fabricated with the E-glass fibers running longitudinal along the 200-cm direction. Assume there 
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful.  
+
+are no voids in the composite. Determine the (a) mass of vinyl ester in the section, (b) mass of E-glass fibers in the section, and (c) the density of the composite. 
+Solution: Volume V = (1.00 cm)(50.00 cm)(200.00 cm) = 10,000 cm3 
+(a) 
+Vm = fm (Vc) = 0.650(10,000 cm3) = 6,500 cm3 mm = 6500 cm3 (0.882 g/cm3) = 5733 g 
+
+(b) 
+Vr = fr (Vc) = 0.350(10,000 cm3) = 3,500 cm3 mr = 3500 cm3 (2.60 g/cm3) = 9100 g 
+
+(c) 
+c = = fm m + fr r = 0.650(0.882) + 0.350(2.60) = 1.48 g/cm3 
+
+
+9.2 For problem 9.1, determine the modulus of elasticity in (a) the longitudinal direction of the glass fibers and (b) the perpendicular direction to the glass fibers. 
+Solution: fm = 0.650, fr = 0.350, Em = 3.60 GPa, and Er = 76.0 GPa 
+(a) 
+Ec = fmEm + frEr Ec = 0.650(3.60) + 0.350(76.0) = 28.9 GPa 
+
+(b) 
+Ec’ = EmEr/(fmEr + frEm) Ec’ = 3.60(76.0)/(0.650(76.0) + 0.350(3.60)) = 5.40 GPa 
+
+
+9.3 A composite sample of carbon reinforced epoxy has dimensions of 12 in by 12 in by 0.25 in and mass of 1.8 lb. The carbon fibers have a modulus of elasticity of 50(106) lb/in2 and a density of 0.069 lb/in3. The epoxy matrix has modulus of elasticity of 0.61(106) lb/in2 and a density of 0.042 lb/in3. What is the volume fraction of (a) the carbon fibers and (b) the epoxy matrix in the sample? Assume there are no voids in the sample. 
+Solution: Vc = 12(12)(0.25) = 36 in3 c = mc/Vc = 1.8/36 = 0.050 lb/in3 
+(a) 
+fm = 1– fr c = fmm + frr c = (1-fr)m + frr c = m -frm + frr = m -fr(m -r) fr = (m -c)/(m -r) = (0.042 – 0.050)/(0.042 – 0.069) = 0.30 = 30% 
+
+(b) 
+fm =1 – fr fm = 1-0.30 = 0.70 = 70% 
+
+
+9.4 In problem 9.3, what is the predicted value for the modulus of elasticity (a) in the longitudinal direction and (b) the perpendicular to the carbon fibers? 
+Solution: fm = 0.70, fr = 0.30, Em = 0.61x106 lb/in2, and Er = 50.0x106 lb/in2 
+(a) 
+Ec = fmEm + frEr Ec = 0.70(0.61x106) + 0.30(50.0x106) = 15 x 106 lb/in2 
+
+(b) 
+Ec’ = EmEr/(fmEr + frEm) Ec’ = 0.61(106)(50.0(106)/(0.70(50.0x106) + 0.30(0.61x106)) = 0.87 x 106 lb/in2 
+
+
+9.5 A composite has a matrix of polyester with Kevlar-29 fibers. The volume fractions of polyester and Kevlar are 60% and 40%, respectively. The Kevlar fibers have a modulus of elasticity of 60 GPa in the longitudinal direction and 3 GPa in the transverse direction. The polyester matrix has a modulus of elasticity of 5.6 GPa in both directions. (a) Determine the modulus of elasticity for the composite in the longitudinal direction. (b) Determine the modulus of elasticity in the transverse direction. 
+Solution: fm = 0.60, fr = 0.40, Em = 5.6 GPa, and Er = 60 GPa 
+(a) Ec = fmEm + frEr Ec = 0.60(5.6) + 0.40(60) = 27.4 GPa 
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 
+(b) Ec’ = EmEr/(fmEr + frEm) Ec’ = 5.6(60)/(0.60(60) + 0.40(5.6)) = 8.79 GPa 
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 

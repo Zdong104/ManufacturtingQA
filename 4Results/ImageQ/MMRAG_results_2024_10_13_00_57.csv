@@ -1,0 +1,203 @@
+Question,Answer,OutputAnswers,Context,Context_path,Confident_Score,image_filename
+"""Q1"": ""Which figure shows the components involved in a welding process, including the consumable electrode and the protective gas?"",","""A1"": ""Figure 29.3 shows the components involved in a welding process, including the consumable electrode, electrode coating, protective gas from electrode coating, slag, base metal, molten weld metal, and solidified weld metal. This figure is essential for understanding the Shielded Metal Arc Welding (SMAW) process.""","The figure that shows the components involved in a welding process, including the consumable electrode and the protective gas, is FIGURE 29.1. This figure illustrates the basic configuration and electrical circuit of an arc-welding process, which typically involves a consumable electrode and may include a protective gas for arc shielding.","As the electrode is moved along the joint,  the molten weld pool solidiﬁ  es in its wake.  
+
+![](images/b4f956fef1b35f4c4572c229cccdd5d28a23c1366dd471f70d6c37cce7644a15.jpg)  
+FIGURE 29.1  The  basic conﬁ  guration and  electrical circuit of an  arc-welding process.  
+
+Movement of the electrode relative to the work is accomplished by either a  human welder (manual welding) or by mechanical means (i.e., machine welding,  automatic welding, or robotic welding). One of the troublesome aspects of manual  arc welding is that the quality of the weld joint depends on the skill and work ethic  of the human welder. Productivity is also an issue. It is often measured as  arc time   (also called  arc-on time )—the proportion of hours worked that arc welding is being  accomplished:  
+
+$$
+\mathrm{arc\;time}=(\mathrm{time}\;\mathrm{arc\;is\;on})/(\mathrm{hours\;worked})
+$$  
+
+This deﬁ  nition can be applied to an individual welder or to a mechanized worksta- tion. For manual welding, arc time is usually around $20\%$ . Frequent rest periods are  needed by the welder to overcome fatigue in manual arc welding, which requires  hand–eye coordination under stressful conditions. Arc time increases to about  $50\%$ (more or less, depending on the operation) for machine, automatic, and robotic  welding.  
+
+# 29.1.1  GENERAL TECHNOLOGY OF ARC WELDING  
+
+Before describing the individual AW processes, it is instructional to examine some of  the general technical issues that apply to these processes.  
+
+Electrodes  Electrodes used in AW processes are classiﬁ  ed as consumable or non- consumable.  Consumable electrodes  provide the source of the ﬁ  ller metal in arc  welding. These electrodes are available in two principal forms: rods (also called  sticks) and wire. The problem with consumable welding rods, at least in production  welding operations, is that they must be changed periodically, reducing arc time of  the welder. Consumable weld wire has the advantage that it can be continuously fed  into the weld pool from spools containing long lengths of wire, thus avoiding the  frequent interruptions that occur when using welding sticks. In both rod and wire  forms, the electrode is consumed by the arc during the welding process and added to  the weld joint as ﬁ  ller metal.  
+
+Nonconsumable electrodes  are made of tungsten (or carbon, rarely), which resists  melting by the arc. Despite its name, a nonconsumable electrode is gradually deplet- ed during the welding process (vaporization is the principal mechanism), analogous  to the gradual wearing of a cutting tool in a machining operation. For AW processes  that utilize nonconsumable electrodes, any ﬁ  ller metal used in the operation must be  supplied by means of a separate wire that is fed into the weld pool.  
+
+Arc Shielding  At the high temperatures in arc welding, the metals being joined are  chemically reactive to oxygen, nitrogen, and hydrogen in the air. The mechanical prop- erties of the weld joint can be seriously degraded by these reactions. Thus, some means  to shield the arc from the surrounding air is provided in nearly all AW processes. Arc  shielding is accomplished by covering the electrode tip, arc, and molten weld pool with  a blanket of gas or ﬂ  ux, or both, which inhibit exposure of the weld metal to air.  
+
+Common shielding gases include argon and helium, both of which are inert. In  the welding of ferrous metals with certain AW processes, oxygen and carbon dioxide  are used, usually in combination with Ar and/or He, to produce an oxidizing atmos- phere or to control weld shape.  
+
+A  ﬂ  ux  is a substance used to prevent the formation of oxides and other unwanted  contaminants, or to dissolve them and facilitate removal. During welding, the ﬂ  ux  melts and becomes a liquid slag, covering the operation and protecting the molten  weld metal. The slag hardens upon cooling and must be removed later by chipping or  brushing. Flux is usually formulated to serve several additional functions: (1) provide  a protective atmosphere for welding, (2) stabilize the arc, and (3) reduce spattering. # Welding  Processes  
+
+# Chapter Contents  
+
+# 29.1 Arc Welding  
+
+29.1.1 General Technology of Arc  Welding 29.1.2 AW Processes—Consumable  Electrodes 29.1.3 AW Processes—Nonconsumable  Electrodes  
+
+# 29.2 Resistance Welding  
+
+29.2.1 Power Source in Resistance  Welding 29.2.2 Resistance-Welding Processes  
+
+# 29.3 Oxyfuel Gas Welding  
+
+29.3.1 Oxyacetylene Welding 29.3.2 Alternative Gases for Oxyfuel  Welding  
+
+29.4 Other Fusion-Welding Processes  
+
+# 29.5 Solid-State Welding  
+
+29.5.1 General Considerations in  Solid-State Welding 29.5.2 Solid State-Welding Processes  
+
+29.6 Weld Quality  
+
+29.7 Weldability  
+
+29.8 Design Considerations in Welding  
+
+Welding processes divide into two major categories: (1)  fusion welding , in which coalescence is accomplished  by melting the two part surfaces to be joined, in some  cases adding ﬁ  ller metal to the joint; and (2)  solid-state  welding , in which heat and/or pressure are used to  achieve coalescence, but no melting of the base metals  occurs and no ﬁ  ller metal is added.  
+
+Fusion welding is by far the more important cate- gory. It includes (1) arc welding, (2) resistance welding,  (3) oxyfuel gas welding, and (4) other fusion welding  processes—ones that cannot be classiﬁ  ed as any of the  ﬁ  rst three types. Fusion welding processes are discussed  in the ﬁ  rst four sections of this chapter. Section 29.5  covers solid-state welding. And in the ﬁ  nal three sec- tions of the chapter, issues common to all welding opera- tions are examined: weld quality, weldability, and design  for welding.  
+
+#  
+
+#  Arc Welding  
+
+Arc welding (AW) is a fusion-welding process in which  coalescence of the metals is achieved by the heat of an  electric arc between an electrode and the work. The  same basic process is also used in arc cutting (Section  25.3.4). A generic AW process is shown in Figure 29.1.  An electric arc is a discharge of electric current across a  gap in a circuit. It is sustained by the presence of a ther- mally ionized column of gas (called a plasma) through  which current ﬂ  ows. To initiate the arc in an AW proc- ess, the electrode is brought into contact with the work  and then quickly separated from it by a short distance.  The electric energy from the arc thus formed produces  temperatures of  $5500^{\circ}\mathrm{C}$ $(10{,}000^{\circ}\mathrm{F})$  or higher, sufﬁ  - ciently hot to melt any metal. A pool of molten metal,  consisting of base metal(s) and ﬁ  ller metal (if one is  used) is formed near the tip of the electrode. In most  arc-welding processes, ﬁ  ller metal is added during the  operation to increase the volume and strength of the  weld joint. As the electrode is moved along the joint,  the molten weld pool solidiﬁ  es in its wake.  
+
+![](images/b4f956fef1b35f4c4572c229cccdd5d28a23c1366dd471f70d6c37cce7644a15.jpg)  
+FIGURE 29.1  The  basic conﬁ  guration and  electrical circuit of an  arc-welding process.  
+
+Movement of the electrode relative to the work is accomplished by either a  human welder (manual welding) or by mechanical means (i.e., machine welding,  automatic welding, or robotic welding). One of the troublesome aspects of manual  arc welding is that the quality of the weld joint depends on the skill and work ethic  of the human welder. Productivity is also an issue. Common shielding gases include argon and helium, both of which are inert. In  the welding of ferrous metals with certain AW processes, oxygen and carbon dioxide  are used, usually in combination with Ar and/or He, to produce an oxidizing atmos- phere or to control weld shape.  
+
+A  ﬂ  ux  is a substance used to prevent the formation of oxides and other unwanted  contaminants, or to dissolve them and facilitate removal. During welding, the ﬂ  ux  melts and becomes a liquid slag, covering the operation and protecting the molten  weld metal. The slag hardens upon cooling and must be removed later by chipping or  brushing. Flux is usually formulated to serve several additional functions: (1) provide  a protective atmosphere for welding, (2) stabilize the arc, and (3) reduce spattering.  
+
+The method of ﬂ  ux application differs for each process. The delivery techniques  include (1) pouring granular ﬂ  ux onto the welding operation, (2) using a stick elec- trode coated with ﬂ  ux material in which the coating melts during welding to cover  the operation, and (3) using tubular electrodes in which ﬂ  ux is contained in the core  and released as the electrode is consumed. These techniques are discussed further in  the descriptions of the individual AW processes.  
+
+Power Source in Arc Welding  Both direct current (DC) and alternating current  (AC) are used in arc welding. AC machines are less expensive to purchase and oper- ate, but are generally restricted to welding of ferrous metals. DC equipment can be  used on all metals with good results and is generally noted for better arc control.  
+
+In all arc welding processes, power to drive the operation is the product of the  current  $I$  passing through the arc and the voltage  $E$  across it. This power is con- verted into heat, but not all of the heat is transferred to the surface of the work.  Convection, conduction, radiation, and spatter account for losses that reduce the  amount of usable heat. The effect of the losses is expressed by the heat transfer  factor $f_{1}$  (Section 28.3.2). Some representative values of $f_{1}$  for several AW processes  are given in Table 29.1. Heat transfer factors are greater for AW processes that use  
+
+TABLE  •  29.1  Heat transfer factors for several arc-welding processes. 
+![](images/301b0d563c580eb1364dfff38b92aae2dffb67a5a42dec7f1891cab7e5480789.jpg)  
+Compiled from [1].  
+
+consumable electrodes because most of the heat consumed in melting the electrode  is subsequently transferred to the work as molten metal. The process with the low- est $f_{1}$  value in Table 29.1 is gas tungsten arc welding, which uses a nonconsumable  electrode. Melting factor  $f_{2}$  (Section 28.3.2) further reduces the available heat for  welding. The resulting power balance in arc welding is deﬁ  ned by  
+
+$$
+R_{H w}=f_{1}\,f_{2}\,I\,E=U_{m}A_{w}\nu
+$$  
+
+where  $E\,=$  voltage, V;  $I\,=$ current, A; and the other terms were deﬁ  ned in Sec- tion 28.3.2. The units of  $R_{H w}$  are watts (current multiplied by voltage), which equal  J/sec. This can be converted to Btu/sec by recalling that $1{\mathrm{~Bun}}=1055{\mathrm{~J}},$ , and thus 1  $\mathrm{Blu/sec}=1055$  watts.  
+
+# Example 29.1  Power in arc  welding  
+
+A gas tungsten arc welding operation is performed at a current of $300\,\mathrm{A}$  and  voltage of $20\,\mathrm{V}.$  The melting factor $f_{2}=0.5$ , and the unit melting energy for the  metal  $U_{m}=10\:\mathrm{J/mm^{3}}$ . Determine (a) power in the operation, (b) rate of heat  generation at the weld, and (c) volume rate of metal welded.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec29.txt; /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec29.txt; /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec29.txt,"[ 0 . 8 6 2 8 9 3 3 0 7 7 9 1 6 2 5 2 ,   0 . 8 5 8 8 6 3 9 0 9 8 2 6 6 1 6 2 ,   0 . 8 5 6 7 1 6 4 3 7 2 7 9 2 7 5 3 ]",0008488b1bf3badaef68e63f4898ac73ae5cf0c72a2c86e0af183587e93c5225.jpg
+"""Q1"": ""Is there a figure that demonstrates the microstructure of cemented carbide materials used in manufacturing?"",","""A1"": ""Yes, Figure 9.8 shows a photomicrograph (about 1500X) of cemented carbide with 85% WC and 15% Co. This figure illustrates the microstructure of the material, highlighting the distribution and morphology of the carbide particles within the cobalt binder matrix. The image helps in understanding the composite nature of cemented carbides and how the binder affects the mechanical properties of the material.""","Yes, there is a figure that demonstrates the microstructure of cemented carbide materials used in manufacturing. Figure 9.8 shows a photomicrograph (about 1500X magnification) of cemented carbide with 85% WC (tungsten carbide) and 15% Co (cobalt).","# 22.2.3  CEMENTED CARBIDES, CERMETS, AND COATED CARBIDES  
+
+Cermets  are deﬁ  ned as composites of  cer amic and  met allic materials (Section 9.2.1).  Technically speaking, cemented carbides are included within this deﬁ  nition; how- ever, cermets based on WC–Co, including WC–TiC–TaC–Co, are known as carbides  (cemented carbides) in common usage. In cutting-tool terminology, the term cer- met is applied to ceramic-metal composites containing TiC, TiN, and certain other  ceramics not including WC. One of the advances in cutting-tool materials involves  the application of a very thin coating to a WC–Co substrate. These tools are called  coated carbides. Thus, there are three important and closely related tool materials to  discuss: (1) cemented carbides, (2) cermets, and (3) coated carbides.  
+
+Cemented Carbides  Cemented carbides (also called  sintered carbides ) are a  class of hard tool material formulated from tungsten carbide (WC, Section 7.3.2)  using powder metallurgy techniques (Chapter 15) with cobalt (Co) as the binder  (Sections 9.2.1 and 16.3.1). There may be other carbide compounds in the mixture,  such as titanium carbide (TiC) and/or tantalum carbide (TaC), in addition to WC.  
+
+The ﬁ  rst cemented carbide cutting tools were made of WC–Co (Historical  Note 7.2) and could be used to machine cast irons and nonsteel materials at cut- ting speeds faster than those possible with high-speed steel and cast cobalt alloys.  However, when the straight WC–Co tools were used to cut steel, crater wear oc- curred rapidly, leading to early failure of the tools. A strong chemical afﬁ  nity exists  between steel and the carbon in WC, resulting in accelerated wear by diffusion  and chemical reaction at the tool–chip interface for this work-tool combination.  Consequently, straight WC–Co tools cannot be used effectively to machine steel. It  was subsequently discovered that additions of titanium carbide and tantalum car- bide to the WC–Co mix signiﬁ  cantly retarded the rate of crater wear when cutting  steel. These new WC–TiC–TaC–Co tools could be used for steel machining. The re- sult is that cemented carbides are divided into two basic types: (1) nonsteel-cutting  grades, consisting of only WC–Co; and (2) steel-cutting grades, with combinations  of TiC and TaC added to the WC–Co.  
+
+The general properties of the two types of cemented carbides are similar: (1) high  compressive strength but low-to-moderate tensile strength; (2) high hardness (90 to  95 HRA); (3) good hot hardness; (4) good wear resistance; (5) high thermal conduc- tivity; (6) high modulus of elasticity $\cdot\!-\!E$  values up to around  $600\times10^{3}$  MPa ( $(90\times$ $10^{6}\mathrm{lb/in}^{2}$ ); and (7) toughness lower than high-speed steel.  
+
+Nonsteel-cutting grades  refer to those cemented carbides that are suitable for  machining aluminum, brass, copper, magnesium, titanium, and other nonferrous  metals; anomalously, gray cast iron is included in this group of work materials. In  the nonsteel-cutting grades, grain size and cobalt content are the factors that inﬂ  u- ence properties of the cemented carbide material. The typical grain size found in  conventional cemented carbides ranges between 0.5 and $5\,\mu\mathrm{m}$  (20 and $200\,\mu$ -in). As  grain size is increased, hardness and hot hardness decrease, but transverse rupture  strength increases.  The typical cobalt content in cemented carbides used for cutting  tools is 3 to  $12\%$ . The effect of cobalt content on hardness and transverse rupture  strength is shown in Figure 9.9. As cobalt content increases, TRS improves at the  expense of hardness and wear resistance. Figure 7.1  shows a collection of new ceramic parts, most of which are made of alumina.  
+
+# 7.3.2  CARBIDES  
+
+The carbide ceramics include silicon carbide (SiC), tungsten carbide (WC), titani-  um carbide (TiC), tantalum carbide (TaC), and chromium carbide  $\left({\mathrm{Cr}}_{3}{\mathrm{C}}_{2}\right)$ . Silicon  carbide was discussed previously. A part made of SiC is also shown in Figure 7.1.  Although it is a man-made ceramic, the methods for its production were developed  a century ago, and therefore it is generally included in the traditional ceramics group.  In addition to its use as an abrasive, other SiC applications include resistance heating  elements and additives in steelmaking.  
+
+![](images/f5f36028180e4b0ceb11e5fe234d2085c9e1778955f3d5e7016c513388803fdf.jpg)  
+FIGURE  7.1   A collection of ceramic  components. The white  parts are alumina and  the black parts are  silicon carbide and  silicon nitride. (Photo  courtesy of Insaco Inc.)  
+
+WC, TiC, and TaC are valued for their hardness and wear resistance in cutting  tools and other applications requiring these properties.  Tungsten carbide  was the  first to be developed (Historical Note 7.2) and is the most important and widely used  material in the group. WC is typically produced by carburizing tungsten powders  that have been reduced from tungsten ores such as  wolframite  $(\mathrm{FeMnWO_{4}})$ ) and  scheelite  $(\mathrm{CaWO4})$ .  Titanium carbide  is produced by carburizing the minerals  rutile  $(\mathrm{TiO}_{2})$  or  ilmenite  $\left(\mathrm{FeTiO}_{3}\right)$ ). And  tantalum carbide  is made by carburizing either  pure tantalum powders or tantalum pentoxide  $(\mathrm{Ta}_{2}\mathrm{O}_{5})$  [11].  Chromium carbide  is  more suited to applications where chemical stability and oxidation resistance are  important. $\mathrm{Cr}_{3}\mathrm{C}_{2}$  is prepared by carburizing chromium oxide $\left(\mathrm{Cr}_{2}\mathrm{O}_{3}\right)$  as the starting  compound. Carbon black is the usual source of carbon in all of these reactions.  
+
+# Historical Note 7.2  Tungsten carbide  
+
+The compound WC does not occur in nature. It was  used WC powders mixed with about  $10\%$  of a metal  first fabricated in the late 1890s by the Frenchman from the iron group, finally settling on cobalt as the  Henri Moissan. However, the technological and com- best binder, and sintering the mixture at a temperature  mercial importance of the development was not rec- close to the melting point of the metal. The hard mate-  
+
+ognized for two decades.    rial was first marketed in Germany as “Widia” in 1926.  Tungsten became an important metal for incandes-  The Schroter patents were assigned to the General  cent lamp filaments in the early 1900s. Wire drawing Electric Company under the trade name “Carboloy”—   was required to produce the filaments. The traditional  first produced in the United States around 1928.   tool steel draw dies of the period were unsatisfactory   Widia and Carboloy were used as cutting tool  for drawing tungsten wire due to excessive wear.  There materials, with cobalt content in the range $4\%$  to  $13\%$ .  was a need for a much harder material. The compound They were effective in the machining of cast iron and  WC was known to possess such hardness. In 1914 in many nonferrous metals, but not in the cutting of steel.  Germany, H. Voigtlander and H. Lohmann developed a  When steel was machined, the tools would wear rap-  fabrication process for hard carbide draw dies by sin- idly by cratering. Tantalum carbide (TaC) and others are also used but less com- monly. The principal metallic binders are cobalt and nickel. The carbide ceramics  (Section 7.3.2) are the principal ingredient in cemented carbides, typically ranging  in content from $80\%$  to $95\%$  of total weight.  
+
+Cemented carbide parts are produced by particulate processing techniques  (Section 16.3). Cobalt is the binder used for WC (see Figure 9.8), and nickel is a  common binder for TiC and $\mathrm{Cr}_{3}\mathrm{C}_{2}$ . Even though the binder constitutes only about  $5\%$  to  $15\%$ , its effect on mechanical properties is signiﬁ  cant in the composite  
+
+![](images/000903b4b6519f0f31857f409c0020e8bb08461e4d7091d124c070ba33d274f1.jpg)  
+FIGURE 9.8  Photomicrograph  (about 1500X) of  cemented carbide  with $85\%$  WC and  $15\%$  Co. (Photo   courtesy  of Kennametal Inc.)  
+
+material. Using WC–Co as an example, as the percentage of Co is increased, hard- ness is decreased and transverse rupture strength (TRS) is increased, as shown in  Figure 9.9. TRS correlates with toughness of the WC–Co composite.  
+
+Cutting tools are the most common application of cemented carbides based on  tungsten carbide . Other applications of WC–Co cemented carbides include wire  drawing dies, rock-drilling bits and other mining tools, dies for powder metallurgy,  indenters for hardness testers, and other applications where hardness and wear re- sistance are critical requirements.  
+
+Titanium carbide  cermets are used principally for high temperature applications.  Nickel is the preferred binder; its oxidation resistance at high temperatures is  
+
+![](images/bffcaaf6f5788d8764e0b37a4f491e0b22212d75a85f05f3df6024b680077af2.jpg)  
+
+superior to that of cobalt. Applications include gas-turbine nozzle vanes, valve seats,  thermocouple protection tubes, torch tips, and hot-working spinning tools [11].  TiC–Ni is also used as a cutting tool material in machining operations.  
+
+Compared with WC–Co cemented carbides, nickel-bonded  chromium carbides are more brittle, but have excellent chemical stability and corrosion resistance. This  combination, together with good wear resistance, makes it suitable for applications  such as gage blocks, valve liners, spray nozzles, and bearing seal rings [11].  
+
+Oxide-based Cermets  Most of these composites utilize ${\mathrm{Al}}_{2}{\mathrm{O}}_{3}$  as the particulate  phase; $\mathrm{MgO}$  is another oxide sometimes used. A common metal matrix is chromium,  although other metals can also be used as binders. Relative proportions of the two  phases vary signiﬁ  cantly, with the possibility for the metal binder to be the major  ingredient. Applications include cutting tools, mechanical seals, and thermocouple  shields.  
+
+# 9.2.2  FIBER-REINFORCED METAL MATRIX COMPOSITES  
+
+These MMCs are of interest because they combine the high tensile strength and  modulus of elasticity of a ﬁ  ber with metals of low density, thus achieving good  strength-to-weight and modulus-to-weight ratios in the resulting composite mate- rial. Typical metals used as the low-density matrix are aluminum, magnesium, and  titanium. Some of the important ﬁ  ber materials used in the composite include ${\mathrm{Al}}_{2}{\mathrm{O}}_{3}$ ,  boron, carbon, and SiC.  
+
+Properties of ﬁ  ber-reinforced MMCs are anisotropic, as expected. Maximum ten- sile strength in the preferred direction is obtained by using continuous ﬁ  bers bonded  strongly to the matrix metal. Elastic modulus and tensile strength of the composite  material increase with increasing ﬁ  ber volume. MMCs with ﬁ  ber reinforcement have  good high-temperature strength properties; and they are good electrical and thermal  conductors.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec22.txt; /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/Sec7.txt; /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec9.txt,"[ 0 . 8 3 2 8 0 7 9 9 6 6 0 1 3 3 4 8 ,   0 . 8 3 2 8 0 2 5 0 6 2 2 7 7 6 7 3 ,   0 . 8 3 0 7 6 4 3 0 4 4 6 1 8 7 8 4 ]",000903b4b6519f0f31857f409c0020e8bb08461e4d7091d124c070ba33d274f1.jpg
+"""Q1"": ""Which figure shows the different adaptations of a butt joint for brazing?"",","""A1"": ""Figure 30.1 shows the different adaptations of a butt joint for brazing. It includes (a) a conventional butt joint, (b) a scarf joint, (c) a stepped butt joint, and (d) an increased cross-section of the part at the joint."",",The different adaptations of a butt joint for brazing are shown in Figure 30.1.,"Some adaptations of  the lap joint for brazing are illustrated in Figure 30.2. An advantage of brazing over  welding in lap joints is that the ﬁ  ller metal is bonded to the base parts throughout  the entire interface area between the parts, rather than only at the edges (as in ﬁ  llet  welds made by arc welding) or at discrete spots (as in resistance spot welding).  
+
+Clearance between mating surfaces of the base parts is important in brazing. The  clearance must be large enough so as not to restrict molten ﬁ  ller metal from ﬂ  owing  throughout the entire interface. Yet if the joint clearance is too great, capillary action  will be reduced and there will be areas between the parts where no ﬁ  ller metal is  present. Joint strength is affected by clearance, as depicted in Figure 30.3. There is an  
+
+![](images/ee3c550f55bdc7e3f663c2ad69b05a85fa9953e5bc03e07e80d11559aa70cc2f.jpg)  
+FIGURE 30.3  Joint strength  as a function of joint clearance.  
+
+optimum clearance value at which joint strength is maximized. The issue is compli- cated by the fact that the optimum depends on base and ﬁ  ller metals, joint conﬁ  gu- ration, and processing conditions. Typical brazing clearances in practice are 0.025 to  $0.25~\mathrm{mm}$  (0.001–0.010 in). These values represent the joint clearance at the brazing  temperature, which may be different from room temperature clearance, depending  on thermal expansion of the base metal(s).  
+
+Cleanliness of the joint surfaces prior to brazing is also important. Surfaces  must be free of oxides, oils, and other contaminants in order to promote wetting  and capillary attraction during the process, as well as bonding across the entire  interface. Chemical treatments such as solvent cleaning (Section 28.1.1) and  mechanical treatments such as wire brushing and sand blasting (Section 28.1.2)  are used to clean the surfaces. After cleaning and during the brazing operation,  ﬂ  uxes are used to maintain surface cleanliness and promote wetting for capillary  action in the clearance between faying surfaces.  
+
+# 30.1.2  FILLER METALS AND FLUXES  
+
+Common ﬁ  ller metals used in brazing are listed in Table 30.1 along with the principal  base metals on which they are typically used. To qualify as a brazing metal, the fol- lowing characteristics are needed: (1) melting temperature must be compatible with  the base metal, (2) surface tension in the liquid phase must be low for good wettabil- ity, (3) ﬂ  uidity of the molten metal must be high for penetration into the interface,  (4) the metal must be capable of being brazed into a joint of adequate strength for  the application, and (5) chemical and physical interactions with base metal (e.g., gal- vanic reaction) must be avoided. Filler metals are applied to the brazing operation in  various ways, including wire, rod, sheets and strips, powders, pastes, preformed parts  made of braze metal designed to ﬁ  t a particular joint conﬁ  guration, and cladding  on one of the surfaces to be brazed. Several of these techniques are illustrated in  Figures 30.4 and 30.5. Braze metal pastes, shown in Figure 30.5, consist of ﬁ  ller metal  powders mixed with ﬂ  uid ﬂ  uxes and binders.  
+
+Brazing ﬂ  uxes serve a similar purpose as in welding; they dissolve, combine with,  and otherwise inhibit the formation of oxides and other unwanted byproducts in the  
+
+TABLE  •  30.1  Common ﬁ  ller metals used in brazing and the base metals on which they are used. 
+![](images/f1a7f3a40f273dbbc01e46cae3c1c4bff395ad894a893d25bb8ab31fc688ba36.jpg)  
+
+! Brazing has several advantages compared to welding: (1) any metals can be  joined, including dissimilar metals; (2) certain brazing methods can be performed  quickly and consistently, thus permitting high cycle rates and automated production;  (3) some methods allow multiple joints to be brazed simultaneously; (4) brazing can  be applied to join thin-walled parts that cannot be welded; (5) in general, less heat  and power are required than in fusion welding; (6) problems with the heat-affected  zone in the base metal near the joint are reduced; and (7) joint areas that are inac- cessible by many welding processes can be brazed, since capillary action draws the  molten ﬁ  ller metal into the joint.  
+
+Disadvantages and limitations of brazing include (1) joint strength is gener- ally less than that of a welded joint; (2) although strength of a good brazed joint is  greater than that of the ﬁ  ller metal, it is likely to be less than that of the base metals;  (3) high service temperatures may weaken a brazed joint; and (4) the color of the  metal in the brazed joint may not match the color of the base metal parts, a possible  aesthetic disadvantage.  
+
+Brazing as a production process is widely used in a variety of industries, including  automotive (e.g., joining tubes and pipes), electrical equipment (e.g., joining wires  and cables), cutting tools (e.g., brazing cemented carbide inserts to shanks), and jew- elry making. In addition, the chemical processing industry and plumbing and heating  contractors join metal pipes and tubes by brazing. The process is used extensively for  repair and maintenance work in nearly all industries.  
+
+# 30.1.1  BRAZED JOINTS  
+
+Brazed joints are commonly of two types: butt and lap (Section 29.2.1). However, the  two types have been adapted for the brazing process in several ways. The conven- tional butt joint provides a limited area for brazing, thus jeopardizing the strength  of the joint. To increase the faying areas in brazed joints, the mating parts are often  scarfed or stepped or otherwise altered, as shown in Figure 30.1. Of course, addi- tional processing is usually required in the making of the parts for these special joints.  
+
+![](images/00443c52a71a0562c0bfe5dee1ba81b15c3c06016a70f56f2d669db6ac389ef1.jpg)  
+FIGURE 30.1  (a) Conventional butt  joint, and adaptations  of the butt joint for  brazing: (b) scarf joint,  (c) stepped butt joint,  (d) increased cross  section of the part at  the joint.  
+
+![](images/9184758732cdd7aa0200b85216514ac9e177f05296773cb6a40bf1082b67c7d8.jpg)  
+FIGURE 30.2  (a) Conventional lap joint, and adaptations of the lap joint for brazing: (b) cylindrical parts, (c) sandwiched  parts, and (d) use of sleeve to convert butt joint into lap joint.  
+
+One of the particular difﬁ  culties associated with a scarfed joint is the problem of  maintaining the alignment of the parts before and during brazing.  
+
+Lap joints are more widely used in brazing, since they can provide a relatively large  interface area between the parts. An overlap of at least three times the thickness of  the thinner part is generally considered good design practice. Some adaptations of  the lap joint for brazing are illustrated in Figure 30.2. An advantage of brazing over  welding in lap joints is that the ﬁ  ller metal is bonded to the base parts throughout  the entire interface area between the parts, rather than only at the edges (as in ﬁ  llet  welds made by arc welding) or at discrete spots (as in resistance spot welding).  
+
+Clearance between mating surfaces of the base parts is important in brazing. The  clearance must be large enough so as not to restrict molten ﬁ  ller metal from ﬂ  owing  throughout the entire interface. Yet if the joint clearance is too great, capillary action  will be reduced and there will be areas between the parts where no ﬁ  ller metal is  present. Joint strength is affected by clearance, as depicted in Figure 30.3. Braze Welding   This process differs from the other brazing processes in the type  of joint to which it is applied. As pictured in Figure 30.6, braze welding is used for  ﬁ  lling a more conventional weld joint, such as the V-joint shown. A greater quantity  of ﬁ  ller metal is deposited than in brazing, and no capillary action occurs. In braze  welding, the joint consists entirely of ﬁ  ller metal; the base metal does not melt and  is therefore not fused into the joint as in a conventional fusion welding process. The  principal application of braze welding is repair work.  
+
+![](images/29056bfa045a19893c48ed239d9e277a4ea57c3cb0c85031688d8679b234e858.jpg)  
+FIGURE 30.6  Braze welding. The joint consists  of braze (ﬁ  ller) metal; no base metal is fused in  the joint.  
+
+#  Soldering  
+
+Soldering is similar to brazing and can be deﬁ  ned as a joining process in which a ﬁ  ller  metal with melting point (liquidus) not exceeding $450^{\circ}\mathrm{C}$   $(840^{\circ}\mathrm{F})$  is melted and distrib- uted by capillary action between the faying surfaces of the metal parts being joined. As  in brazing, no melting of the base metals occurs, but the ﬁ  ller metal wets and combines  with the base metal to form a metallurgical bond. Details of soldering are similar to  those of brazing, and many of the heating methods are the same. Surfaces to be sol- dered must be precleaned so they are free of oxides, oils, and so on. An appropriate ﬂ  ux  must be applied to the faying surfaces, and the surfaces are heated. Filler metal, called  solder , is added to the joint, which distributes itself between the closely ﬁ  tting parts.  
+
+In some applications, the solder is precoated onto one or both of the surfaces—a  process called  tinning , irrespective of whether the solder contains any tin. Typical  clearances in soldering range from 0.075 to  $0.125\;\mathrm{mm}$  (0.003–0.005 in), except when  the surfaces are tinned, in which case a clearance of about  $0.025~\mathrm{mm}$ (0.001 in) is  used. After solidiﬁ  cation, the ﬂ  ux residue must be removed.  
+
+As an industrial process, soldering is most closely associated with electron- ics assembly (Chapter 34). It is also used for mechanical joints, but not for joints  subjected to elevated stresses or temperatures. Advantages attributed to soldering  include (1) low energy input relative to brazing and fusion welding, (2) variety of  heating methods available, (3) good electrical and thermal conductivity in the joint,  (4) capability to make air-tight and liquid-tight seams for containers, and (5) easy to  repair and rework.  
+
+The biggest disadvantages of soldering are (1) low joint strength unless reinforced  by mechanical means and (2) possible weakening or melting of the joint in elevated  temperature service.  
+
+# 30.2.1  JOINT DESIGNS IN SOLDERING  
+
+As in brazing, soldered joints are limited to lap and butt types, although butt joints  should not be used in load-bearing applications. Some of the brazing adaptations of  these joints also apply to soldering, and soldering technology has added a few more  variations of its own to deal with the special part geometries that occur in electri- cal connections. In soldered mechanical joints of sheet-metal parts, the edges of the  sheets are often bent over and interlocked before soldering, as shown in Figure 30.7,  to increase joint strength.  
+
+For electronics applications, the principal function of the soldered joint is to provide  an electrically conductive path between two parts being joined. Other design consid- erations in these types of soldered joints include heat generation (from the electrical  resistance of the joint) and vibration. Mechanical strength in a soldered electrical con- nection is often achieved by deforming one or both of the metal parts to accomplish  a mechanical joint between them, or by making the surface area larger to provide  maximum support by the solder.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec30.txt; /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec30.txt; /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec30.txt,"[ 0 . 8 3 9 2 0 9 0 4 6 4 7 4 8 4 8 3 ,   0 . 8 3 1 0 4 2 5 8 4 2 8 1 7 8 1 5 ,   0 . 8 2 9 4 3 6 2 9 7 8 6 6 6 2 3 4 ]",00443c52a71a0562c0bfe5dee1ba81b15c3c06016a70f56f2d669db6ac389ef1.jpg

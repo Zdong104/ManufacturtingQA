@@ -1,0 +1,36 @@
+Problems 
+5.1 Design the nominal sizes of a GO/NO-GO plug gage to inspect a 1.500 ± 0.030 in diameter hole. There is a wear allowance applied only to the GO side of the gage. The wear allowance is 2% of the entire tolerance band for the inspected feature. Determine (a) the nominal size of the GO gage including the wear allowance and (b) the nominal size of the NO-GO gage. 
+Solution: (a) The tolerance band is 0.060 in. Wear allowance = 0.02(0.060) = 0.0012 in. GO gage will inspect the minimum hole diameter = 1.500 – 0.030 = 1.470 in. As the gage wears, the dimension will decrease and allow unacceptable parts, so the wear allowance is added to it. Nominal GO Size = 1.470 + 0.0012 = 1.4712 in 
+(b) NO-GO gage will inspect the maximum hole diameter = 1.500 + 0.030 = 1.530 in. No wear allowance is added because this gage should not fit in the hole and wear away. 
+5.2 Design the nominal sizes of a GO/NO-GO snap gage to inspect the diameter of a shaft that is 
+1.500 ± 0.030. A wear allowance of 2% of the entire tolerance band is applied to the GO side. Determine (a) the nominal size of the GO gage including the wear allowance and (b) the nominal size of the NO-GO gage. 
+Solution: (a) The tolerance band is 0.060 in. Wear allowance = 0.02(0.060) = 0.0012 in. GO gage will inspect the maximum shaft diameter = 1.500 + 0.030 = 1.530 in. As the gage wears, the dimension will increase allowing unacceptable parts, so the wear allowance is subtracted from it. Nominal GO Size = 1.530 – 0.0012 = 1.5288 in 
+(b) NO-GO gage will inspect the minimum shaft diameter = 1.500 – 0.030 = 1.470 in. No wear allowance is added because this gage should not fit in the hole and wear away. 
+5.3 Design the nominal sizes of a GO/NO-GO plug gage to inspect a 30.00 ± 0.18 mm diameter hole. There is a wear allowance applied only to the GO side of the gage. The wear allowance is 3% of the entire tolerance band for the inspected feature. Determine (a) the nominal size of the GO gage including the wear allowance and (b) the nominal size of the NO-GO gage. 
+Solution: (a) The tolerance band is 0.36 mm. Wear allowance = 0.03(0.36) = 0.0108 mm GO gage will inspect the minimum hole diameter = 30.00 – 0.18 = 29.82 mm As the gage wears, the dimension will decrease and allow unacceptable parts, so the wear allowance is added to it Nominal GO Size = 29.82 + 0.0108 = 29.8308 mm 
+(b) NO-GO gage will inspect the maximum hole diameter = 30.00 + 0.18 = 30.18 mm. No wear allowance is added because this gage should not fit in the hole and wear away. 
+
+5.4 Design the nominal sizes of a GO/NO-GO snap gage to inspect the diameter of a shaft that is 
+30.00 ± 0.18 mm. A wear allowance of 3% of the entire tolerance band is applied to the GO side. Determine (a) the nominal size of the GO gage including the wear allowance and (b) the nominal size of the NO-GO gage. 
+Solution: (a) The tolerance band is 0.36 mm. Wear allowance = 0.03(0.36) = 0.0108 mm GO gage will inspect the maximum shaft diameter = 30.00 + 0.18 = 30.18 mm As the gage wears, the dimension will increase allowing unacceptable parts, so the wear allowance is subtracted from it. Nominal GO Size = 30.18 – 0.0108 = 30.1692 mm 
+(b) NO-GO gage will inspect the minimum shaft diameter = 30.00 – 0.18 = 29.82 mm. No wear allowance is added because this gage should not fit in the hole and wear away. 
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 
+4 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 11-11-08 
+5.5 A sine bar is used to determine the angle of a part feature. The length of the sine bar is 6.000 in. The rolls have a diameter of 1.000 in. All inspection is performed on a surface plate. In order for the sine bar to match the angle of the part, the following gage blocks must be stacked: 2.0000, 0.5000, 0.3550. Determine the angle of the part feature. 
+Solution: H = 2.0000+0.5000 + 0.3550 = 2.8550 in A = sin-1 (H/L) = sin-1 (2.8550/6.000 ) = sin-1 ( 0.4758 ) = 28.41° 
+5.6 A 200.00 mm sine bar is used to inspect an angle on a part. The angle has a dimension of 35.0 ± 1.8°. The sine bar rolls have a diameter of 30.0 mm. A set of gage blocks is available that can form any height from 10.0000 to 199.9975 mm in increments of 0.0025 mm. Determine (a) the height of the gage block stack to inspect the minimum angle, (b) height of the gage block stack to inspect the maximum angle, and (c) smallest increment of angle that can be setup at the nominal angle size. All inspection is performed on a surface plate. 
+Solution: (a) sin A = (H/L); H = L sin A = 200.00 Sin (35.0-1.8) 
+= 200.00 sin 33.2 = 109.51264 = 109.5150 mm (must round up to insure angle is in 
+tolerance. 
+(b) 
+H = L sin A = 200.00 sin (35.0 + 1.8) = 200.00 sin (36.8) = 119.80472 = 119.8025 mm (must round down to insure angle within dimensions) 
+
+(c) 
+H at nominal angle = L sin A = 200.00 Sin (35.0) = 114.7152 mm Closest angle to nominal is at H=114.7150; A = sin-1 (H/L) = sin-1 (114.7150/200.000) A = sin-1 (0.573575) = 34.99989953° At one increment above, H=114.7175; A = sin-1 (H/L) = sin-1 (114.7175/200.000 ) = A = sin-1 (0.5735875) = 35.00077385° Change in A = 35.00077385 – 34.9989953 = 0.0008743° 
+
+
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 
+5 
+
+

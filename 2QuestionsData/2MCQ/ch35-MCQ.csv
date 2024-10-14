@@ -1,0 +1,13 @@
+Question,Answer
+"How many electronic devices would be contained in an IC chip in order for it to be classified in the VLSI category? (a) 1000, (b) 10,000, (c) 1 million, or (d) 100 million.",Answer. (c)
+"An alternative name for chip in semiconductor processing is which one of the following (one answer)? (a) component, (b) device, (c) die, (d) package, or (e) wafer.",Answer. (c)
+"Which one of the following is the source of silicon for semiconductor processing? (a) pure Si in nature, (b) SiC, (c) Si3N4, or (d) SiO2.",Answer. (d)
+"Which one of the following is the most common form of radiation used in photolithography? (a) electronic beam radiation, (b) incandescent light, (c) infrared light, (d) ultraviolet light, or (e) X-ray.",Answer. (d)
+"After exposure to light, a positive resist becomes which of the following? (a) less soluble or (b) more soluble to the chemical developing fluid.",Answer. (b)
+"Which of the following processes are used to add layers of various materials in IC fabrication (more than one)? (a) chemical vapor deposition, (b) diffusion, (c) ion implantation, (d) physical vapor deposition, (e) plasma etching, (f) thermal oxidation, or (g) wet etching.","Answer. (a), (d), and (f)."
+"Which of the following are doping processes in IC fabrication (more than one)? (a) chemical vapor deposition, (b) diffusion, (c) ion implantation, (d) physical vapor deposition, (e) plasma etching, (f) thermal oxidation, or (g) wet etching.",Answer. (b) and (c).
+"Which one of the following impurity elements form electron acceptor (p-type) regions in silicon wafers? (a) antimony, (b) arsenic, (c) boron, (d) nitrogen, (e) phosphorous, or (f) potassium.",Answer. (c)
+"Which one of the following is the most common metal for intraconnection of devices in a silicon integrated circuit? (a) aluminum, (b) copper, (c) gold, (d) nickel, (e) silicon, or (f) silver.",Answer. (a)
+"Which etching process produces the more anisotropic etch in IC fabrication? (a) plasma etching, or (b) wet chemical etching.",Answer. (a)
+"Which of the following are the two principal packaging materials used in IC packaging? (a) aluminum, (b) aluminum oxide, (c) copper, (d) epoxies, or (e) silicon dioxide.",Answer. (b) and (d).
+"Which of the following metals are commonly used for wire bonding of chip pads to the lead frame (two best answers)? (a) aluminum, (b) copper, (c) gold, (d) nickel, (e) silicon, or (f) silver.",Answer. (a) and (c).

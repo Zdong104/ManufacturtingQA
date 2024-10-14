@@ -1,0 +1,104 @@
+Problems 
+25.1 In a surface grinding operation wheel diameter = 150 mm and infeed = 0.07 mm. Wheel speed = 1450 m/min, workspeed = 0.25 m/s, and crossfeed = 5 mm. The number of active grits per area of wheel surface = 0.75 grits/mm2. Determine (a) average length per chip, (b) metal removal rate, and 
+(c) 
+number of chips formed per unit time for the portion of the operation when the wheel is engaged in the work. 
+
+Solution: (a) lc = (Dd)0.5 = (150 x 0.07)0.5 = 3.24 mm 
+
+(b) 
+RMR = vwwd = (0.25 m/s)(103 mm/m)(5.0 mm)(0.07 mm) = 87.5 mm3/s = 5250 mm3/min 
+
+(c) 
+nc = vwC = (1450 m/min)( 103 mm/m)(5.0 mm)(0.75 grits/mm2) = 5,437,500 chips/min 
+
+
+25.2 The following conditions and settings are used in a certain surface grinding operation: wheel diameter = 6.0 in, infeed = 0.003 in, wheel speed = 4750 ft/min, workspeed = 50 ft/min, and crossfeed = 0.20 in. The number of active grits per square inch of wheel surface = 500. Determine 
+(a) 
+average length per chip, (b) metal removal rate, and (c) number of chips formed per unit time for the portion of the operation when the wheel is engaged in the work. 
+
+Solution: (a) lc = (Dd)0.5 = (6.0 x 0.003)0.5 = (0.018)0.5 = 0.1342 in 
+
+(b) 
+RMR = vwwd = (50 x 12)(0.20)(0.003) = 0.36 in3/min 
+
+(c) 
+nc = vwC = (4750 x 12)(0.2)(500) = 5,700,000 chips/min 
+
+
+25.3 An internal cylindrical grinding operation is used to finish an internal bore from an initial diameter of 250.00 mm to a final diameter of 252.5 mm. The bore is 125 mm long. A grinding wheel with an initial diameter of 150.00 mm and a width of 20.00 mm is used. After the operation, the diameter of the grinding wheel has been reduced to 149.75 mm. Determine the grinding ratio in this operation. 
+Solution: GR = (volume of work material removed)/(volume of wheel removed) Volume of work material removed = (/4)(125)(252.52 – 250.02) = 123,332 mm3 Volume of wheel removed = (/4)(20)(1502 – 149.752) = 1177 mm3 GR = 123,332/1177 = 104.8 
+25.4 In a surface grinding operation performed on hardened plain carbon steel, the grinding wheel has a diameter = 200 mm and width = 25 mm. The wheel rotates at 2400 rev/min, with a depth of cut (infeed) = 0.05 mm/pass and a crossfeed = 3.50 mm. The reciprocating speed of the work is 6 m/min, and the operation is performed dry. Determine (a) length of contact between the wheel and the work and (b) volume rate of metal removed. (c) If there are 64 active grits/cm2 of wheel surface, estimate the number of chips formed per unit time. (d) What is the average volume per chip? (e) If the tangential cutting force on the work = 25 N, compute the specific energy in this operation? 
+Solution: (a) lc = (Dd)0.5 = (200 x 0.05)0.5 = 3.16 mm 
+(b) 
+RMR = vwwd = (6 m/min)(103 mm/m)(3.5 mm)(0.05 mm) = 1050 mm3/min 
+
+(c) 
+nc = vwC v = ND = (2400 rev/min)(200S mm/rev) = 1,507,964 mm/min nc = (1,507,964 mm/min)(3.5 mm)(64 grits/cm2)(10-2 cm2/mm2) 
+
+
+= 3,377,840 grits/min (= chips/min) 
+(d) 
+3,377,840 grits/min = 3,377,840 chips/min Average volume per chip = (1050 mm3/min)/( 3,377,840 chips/min) = 0.00031 mm3/chip 
+
+(e) 
+U = Fcv/RMR v = 1,507,964 mm/min = 1,508 m/min U = 25(1508)/1050 = 35.9 N-m/mm3 
+
+
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 01-27-09, 01-29-09 
+25.5 An 8-in diameter grinding wheel, 1.0 in wide, is used in a surface grinding job performed on a flat piece of heat-treated 4340 steel. The wheel rotates to achieve a surface speed of 5000 ft/min, with a depth of cut (infeed) = 0.002 in per pass and a crossfeed = 0.15 in. The reciprocating speed of the work is 20 ft/min, and the operation is performed dry. (a) What is the length of contact between the wheel and the work? (b) What is the volume rate of metal removed? (c) If there are 300 active grits/in2 of wheel surface, estimate the number of chips formed per unit time. (d) What is the average volume per chip? (e) If the tangential cutting force on the workpiece = 7.3 lbs, what is the specific energy calculated for this job? 
+Solution: (a) lc = (Dd)0.5 = (8 x 0.002)0.5 = (0.016)0.5 = 0.1265 in 
+(b) 
+RMR = vwwd = (20 x 12)(0.15)(0.002) = 0.072 in3/min 
+
+(c) 
+nc = vwC = (5000 x 12)(0.15)(300) = 2,700,000 chips/min 
+
+(d) 
+Avg volume/chip = (0.072 in3/min)/(2,700,000 chips/min) = 0.000000026 in3 = 26 x 10-9 in3 
+
+(e) 
+U = Fcv/RMR = 7.3(5000 x 12)/0.072 = 6,083,333 in-lb/in3 = 15.4 hp/(in3/min) 
+
+
+25.6 A surface grinding operation is being performed on a 6150 steel workpart (annealed, approximately 200 BHN). The designation on the grinding wheel is C-24-D-5-V. The wheel diameter = 7.0 in and its width = 1.00 in. Rotational speed = 3000 rev/min. The depth (infeed) = 0.002 in per pass, and the crossfeed = 0.5 in. Workspeed = 20 ft/min. This operation has been a source of trouble right from the beginning. The surface finish is not as good as the 16 -in specified on the part print, and there are signs of metallurgical damage on the surface. In addition, the wheel seems to become clogged almost as soon as the operation begins. In short, nearly everything that can go wrong with the job has gone wrong. (a) Determine the rate of metal removal when the wheel is engaged in the work. 
+(b) 
+If the number of active grits per square inch = 200, determine the average chip length and the number of chips formed per time. (c) What changes would you recommend in the grinding wheel to help solve the problems encountered? Explain why you made each recommendation. 
+
+Solution: (a) RMR = vwwd = (20 x 12)(0.5)(0.002) = 0.24 in3/min 
+
+(b) 
+lc = (Dd)0.5 = (7.0 x .002)0.5 = 0.1183 in v = DN = (7.0/12)(3000) = 5498 ft/min = 65,973 in/min nc = vwC = 65,973(0.5)(200) = 6,597,300 grits/min 
+
+(c) 
+Changes in wheel to help solve problems cited: (1) use Al2O3 oxide abrasive rather than silicon carbide; (2) use smaller grain size than 24; (3) use shellac bond rather than vitrified bond; and (4) use more open structure than number 5 to reduce wheel clogging. 
+
+
+25.7 The grinding wheel in a centerless grinding operation has a diameter = 200 mm, and the regulating wheel diameter = 125 mm. The grinding wheel rotates at 3000 rev/min and the regulating wheel rotates at 200 rev/min. The inclination angle of the regulating wheel = 2.5. Determine the throughfeed rate of cylindrical workparts that are 25.0 mm in diameter and 175 mm long. 
+Solution: From Eq. (25.11), fr = DrNr sin I fr = (125)(200) sin 2.5q = 25,000(0.04362) = 3426 mm/min Parts through-feed rate = (3426 mm/min)/(175 mm/pc) = 19.58 pc/min 
+25.8 A centerless grinding operation uses a regulating wheel that is 150 mm in diameter and rotates at 500 rev/min. At what inclination angle should the regulating wheel be set, if it is desired to feed a workpiece with length = 3.5 m and diameter = 18 mm through the operation in exactly 30 sec? 
+Solution: From Eq. (25.11), fr = DrNr sin I fr = 3.5 m per 30 sec = 0.11667 m/s = 7.0 m/min fr = (150 x 10-3)(500 rev/min) sin I = 235.62 sin I (units are m/min) 
+7.0 m/min = 235.62 sin I m/min 
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 01-27-09, 01-29-09 sin I = 7.0/235.62 = 0.0297 I = 1.70q 
+25.9 In a certain centerless grinding operation, the grinding wheel diameter = 8.5 in, and the regulating wheel diameter = 5.0 in. The grinding wheel rotates at 3500 rev/min and the regulating wheel rotates at 150 rev/min. The inclination angle of the regulating wheel = 3. Determine the throughfeed rate of cylindrical workparts that have the following dimensions: diameter = 1.25 in and length = 8.0 in. 
+Solution: From Eq. (25.11), fr = DrNr sin I = (5.0)(150) sin 3q = 123.33 in/min Parts feed at (8.0 in/part)/(123.33 in/min) = 0.0649 min/part = 3.9 sec/part Throughfeed rate = 1/0.0649 = 15.4 parts per min 
+25.10 It is desired to compare the cycle times required to grind a particular workpiece using traditional surface grinding and using creep feed grinding. The workpiece is 200 mm long, 30 mm wide, and 75 mm thick. To make a fair comparison, the grinding wheel in both cases is 250 mm in diameter, 35 mm in width, and rotates at 1500 rev/min. It is desired to remove 25 mm of material from the surface. When traditional grinding is used, the infeed is set at 0.025 mm, and the wheel traverses twice (forward and back) across the work surface during each pass before resetting the infeed. There is no crossfeed since the wheel width is greater than the work width. Each pass is made at a workspeed of 12 m/min, but the wheel overshoots the part on both sides. With acceleration and deceleration, the wheel is engaged in the work for 50% of the time on each pass. When creep feed grinding is used, the depth is increased by 1000 and the forward feed is decreased by 1000. How long will it take to complete the grinding operation (a) with traditional grinding and (b) with creep feed grinding? 
+Solution: (a) Conventional surface grinding: Time of engagement/pass = 200 x 10-3 m/(12 m/min) = 0.01667 min = 1 s Forward and backward stroke = 2(1 s)/50% = 4 s Number of passes to remove 25 mm = 25/0.025 = 1000 passes Time to complete 1000 passes = 1000(4) = 4000 s = 66.67 min 
+(b) Creep feed grinding: Total length of feed = 200 mm + approach = 200 + (d(D-d))0.5 Given D = 250 mm and d = 25 mm, Total feed length = 200 + (25(250-25))0.5 = 275 mm fr = (12 x 103 mm/min)/1000 = 12 mm/min Time to feed = 275/12 = 22.917 min 
+Note: Creep feed grinding requires about 1/3 the time of conventional surface grinding for the situation defined here. 
+25.11 In a certain grinding operation, the grade of the grinding wheel should be “M” (medium), but the only available wheel is grade “T” (hard). It is desired to make the wheel appear softer by making changes in cutting conditions. What changes would you recommend? 
+Solution: A hard wheel means that the grains are not readily pulled from the wheel bond. The wheel can be made to appear softer by increasing the force on the individual grits as given by Eq. (25.8). According to this equation, the force on the abrasive grains will be increased by increasing work speed vw, decreasing wheel speed v, and increasing infeed d. 
+25.12 An aluminum alloy is to be ground in an external cylindrical grinding operation to obtain a good surface finish. Specify the appropriate grinding wheel parameters and the grinding conditions for this job. 
+Solution: Grinding wheel specification: Abrasive type: silicon carbide Grain size: small -high grit size number 
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+01-27-09, 01-29-09 Bond material: shellac bond Wheel structure: dense Wheel grade: medium to hard Wheel specification: C-150-E-5-B 
+Grinding conditions: Wheel speed: high speed, around 1800 m/min (6000 ft/min) Work speed: low, around 10 m/min (30 ft/min) Infeed (depth of cut): low, around 0.012 mm (0.0005 in) Crossfeed: low, around 1/6 of wheel width. 
+25.13 A high-speed steel broach (hardened) is to be resharpened to achieve a good finish. Specify the appropriate parameters of the grinding wheel for this job. 
+Solution: Grinding wheel specification: Abrasive type: cubic boron nitride Grain size: small -high grit size number Bond material: vitrified bond Wheel grade: soft to medium Wheel specification: XX-B-150-P-XY-V-XZ-1/8, where XX, XY, and XZ are manufacturer’s symbols. 
+25.14 Based on equations in the text, derive an equation to compute the average volume per chip formed in the grinding process. 
+Solution: From Eq. (25.3), RMR = vwwd (in3/min) From Eq. (25.6), nc = vwC (chips/min) Volume per chip = RMR/nc = vwwd/vwC = vwd/vC 
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 
+
+

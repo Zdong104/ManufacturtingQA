@@ -1,0 +1,14 @@
+6.2 For the preceding problem, use the inverse lever rule to determine the proportions of liquid and solid phases present in the alloy. 
+Solution: From Fig 6.2, measured values of CL and CS are: CL = 5 mm, CS = 12 mm. Liquid phase proportion = 12/(12 + 5) = 12/17 = 0.71 Solid phase proportion = 5/17 = 0.29 
+6.3 Using the lead-tin phase diagram in Figure 6.3, determine the liquid and solid phase compositions for a nominal composition of 40% Sn and 60% Pb at 204C (400F). 
+Solution: From Fig 6.3, the compositions are observed as follows: Liquid phase composition = 56% Sn -44% Pb. D phase composition = 18% Sn -82% Pb. 
+6.4 For the preceding problem, use the inverse lever rule to determine the proportions of liquid and solid phases present in the alloy. 
+Solution: From Fig 6.3, measured values of CL and CS are: CL = 10.5 mm, CS = 15 mm. Liquid phase proportion = 15/(15 + 10.5) = 15/25.5 = 0.59 D phase proportion = 10.5/25.5 = 0.41 
+6.5 Using the lead-tin phase diagram in Figure 6.3, determine the liquid and solid phase compositions for a nominal composition of 90% Sn and 10% Pb at 204C (400F). 
+Solution: From Fig 6.3, the compositions are observed as follows: Liquid phase composition = 78% Sn -22% Pb. E phase composition = 98% Sn -2% Pb. 
+6.6 For the preceding problem, use the inverse lever rule to determine the proportions of liquid and solid phases present in the alloy. 
+Solution: From Fig 6.3, measured values of CL and CS are: CL = 7.8 mm, CS = 4.2 mm. Liquid phase proportion = 4.2/(13) = 0.32 D phase proportion = 7.8/13 = 0.68 
+6.7 In the iron-iron carbide phase diagram of Figure 6.4, identify the phase or phases present at the following temperatures and nominal compositions: (a) 650C (1200F) and 2% Fe3C, (b) 760C (1400F) and 2% Fe3C, and (c) 1095C (2000F) and 1% Fe3C. 
+Solution: (a) Alpha + iron carbide, (b) gamma + iron carbide, and (c) gamma. 
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 
+5 

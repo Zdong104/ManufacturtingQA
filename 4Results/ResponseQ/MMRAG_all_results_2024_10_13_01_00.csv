@@ -1,0 +1,217 @@
+Question,Answer,OutputAnswers,Context,Context_path,Confident_Score
+We have classified glass as a ceramic material; yet glass is different from the traditional and new ceramics. What is the difference?,"Answer. Glass is vitreous - it is in the glassy state, whereas traditional and new ceramics are, by and large, polycrystalline materials.","Glass is classified as a ceramic material, but it exhibits significant differences from traditional and new ceramics. The primary distinction lies in its structure. Traditional and new ceramics generally possess a crystalline structure, meaning their atoms are arranged in a regular, repeating pattern. This crystalline structure contributes to the typical properties of ceramics, such as high hardness, brittleness, and thermal stability.
+
+In contrast, glass is an amorphous solid. This means that its atomic structure lacks the long-range order found in crystalline materials. Instead of a regular pattern, the atoms in glass are arranged randomly. This amorphous nature gives glass unique properties, such as transparency and the ability to be molded into various shapes at elevated temperatures without achieving a crystalline state. Traditional ceramics, on the other hand, are typically formed by shaping powders and sintering at high temperatures.
+
+Glass's amorphous structure allows for flexibility in manufacturing processes, such as blowing and pressing, and it often results in different physical properties, such as the ability to withstand thermal shock better than many crystalline ceramics. Additionally, its non-crystalline nature imbues it with isotropic properties, meaning its mechanical and optical characteristics are the same in all directions, unlike many ceramics, which can be anisotropic due to their crystalline structure.
+
+Thus, while both glass and ceramics are composed of inorganic materials, their structural differences are key in defining their distinct properties and applications.","Another glass fiber material is S- glass, which has higher strength but is not as economical as E-glass. Compositions are  indicated in the table.  
+
+Insulating fiberglass wool can be manufactured from regular soda-lime-silica  glasses. The glass product for fiber optics consists of a long, continuous core of glass  with high refractive index surrounded by a sheath of lower refractive glass. The in-  side glass must have a very high transmittance for light in order to accomplish long  distance communication.  
+
+Optical Glasses  Applications for these glasses include lenses for eyeglasses and  optical instruments such as cameras, microscopes, and telescopes. To achieve their  function, the glasses must have different refractive indices, but each lens must be  homogenous in composition. Optical glasses are generally divided into: crowns and  flints.  Crown glass  has a low index of refraction, while  flint glass  contains lead oxide  (PbO) that gives it a high index of refraction.  
+
+# 7.4.3  GLASS- CERAMICS  
+
+Glass-ceramics are a class of ceramic material produced by conversion of glass into   a  polycrystalline structure through heat treatment. The proportion of crystalline phase  in the final product typically ranges between $90\%$  and $98\%$ , with the remain- der being  unconverted vitreous material. Grain size is usually between 0.1 and  $1.0\ m\mathrm{m}$  (4 and 40  $m$ -in), significantly smaller than the grain size of conventional ceramics. This fine  crystal microstructure makes glass-ceramics much stronger than the glasses from  which they are derived. Also, due to their crystal structure, glass-ceramics are opaque  (usually gray or white) rather than clear.  
+
+The processing sequence for glass-ceramics is as follows: (1) The first step in-  volves heating and forming operations used in glassworking (Section 12.2) to create  the desired product geometry. Glass shaping methods are generally more economi- cal  than pressing and sintering to shape traditional and new ceramics made from powders.  (2) The product is cooled. (3) The glass is reheated to a temperature suf- ficient to cause  a dense network of crystal nuclei to form throughout the material. It is the high density  of nucleation sites that inhibits grain growth of individual crystals, thus leading  ultimately to the fine grain size in the glass-ceramic material. The key to the propensity  for nucleation is the presence of small amounts of nucleating agents in the glass  composition. Common nucleating agents are  $\mathrm{SiO}_{2}$ ,  $\mathrm{P}_{2}\mathrm{O}_{5}$ , and  $\mathrm{ZrO}_{2}$ . (4) Once  nucleation is initiated, the heat treatment is continued at a higher temperature to cause  growth of the crystalline phases.  
+
+Several examples of glass-ceramic systems and typical compositions are listed  in Table 7.5. The  $\mathrm{Li}_{2}\mathrm{O}_{-}\mathrm{Al}_{2}\mathrm{O}_{3}\mathrm{-}\mathrm{SiO}$ 2  system is the most important commercially; it  includes Corning Ware (Pyroceram), the familiar product of the Corning Glass Works.  
+
+TABLE  •  7.5   Several glass-ceramic systems. 
+![](images/945434a36ad9c350a5a62af11461f7c7975c7bba953af2203e096571a59f8b5a.jpg)  
+Compiled from [5], [6], and [10].  
+
+The significant advantages of glass-ceramics include (1) efficiency of processing  in the glassy state, (2) close dimensional control over the final product shape, and (3)  good  mechanical and physical properties. Properties include high strength (stronger than  glass), absence of porosity, low coefficient of thermal expansion, and high re-  sistance to thermal shock. These properties have resulted in applications in cooking  ware, heat exchangers, and missile radomes. Certain systems (e.g.,  $\mathrm{MgO-Al_{2}O_{3}-S i O}$ 2 system) are also characterized by high electrical resistance, suitable for electrical  and electronics applications. The significant advantages of glass-ceramics include (1) efficiency of processing  in the glassy state, (2) close dimensional control over the final product shape, and (3)  good  mechanical and physical properties. Properties include high strength (stronger than  glass), absence of porosity, low coefficient of thermal expansion, and high re-  sistance to thermal shock. These properties have resulted in applications in cooking  ware, heat exchangers, and missile radomes. Certain systems (e.g.,  $\mathrm{MgO-Al_{2}O_{3}-S i O}$ 2 system) are also characterized by high electrical resistance, suitable for electrical  and electronics applications.  
+
+# Some   Important   Elements   Related   to   Ceramics  
+
+In this section, several elements of engineering importance are discussed: carbon,  silicon, and boron. These materials are encountered occasionally in subsequent  chapters. Although they are not ceramic materials according to the definition, they  sometimes compete for applications with ceramics. And they have important appli-  cations of their own. Basic data on these elements are presented in Table 7.6.  
+
+# 7.5.1  CARBON  
+
+Carbon occurs in two alternative forms of engineering and commercial impor-  tance: graphite and diamond. They compete with ceramics in various applications:  graphite  in situations where its refractory properties are important, and diamond  
+
+TABLE  •  7.6   Some basic data and properties of carbon, silicon, and boron. 
+![](images/8515e3e7c4805e7f1435f299e1e9772ba2d78836fc1be8fe4903d9a08dc50991.jpg)  
+a Carbon sublimes (vaporizes) rather than melt.  b Carbon in the form of graphite (typical value given).  c Carbon in the form of diamond.   N.A. $=$   not available.  
+
+in industrial applications where hardness is the critical factor (such as cutting and  grinding tools).  
+
+Graphite  Graphite has a high content of crystalline carbon in the form of layers.  Bonding between atoms in the layers is covalent and therefore strong, but the par-  allel layers are bonded to each other by weak van der Waals forces. This structure  makes graphite quite anisotropic; strength and other properties vary significantly  with direction. It explains why graphite can be used both as a lubricant and as a fiber  in advanced composite materials. In powder form, graphite possesses low frictional  characteristics due to the ease with which it shears between the layers; in this form,  graphite is valued as a lubricant. In fiber form, graphite is oriented in the hexagonal  planar direction to produce a filament material of very high strength and elastic  modulus. These graphite fibers are used in structural composites ranging from tennis  rackets to fighter aircraft components.  
+
+Graphite exhibits certain high temperature properties that are both useful and  unusual. It is resistant to thermal shock, and its strength actually increases with tem-  perature. Tensile strength at room temperature is about  $100\;\mathrm{MPa}$   $\{15{,}000\ 1{\tt b}/\mathrm{in}^{2}\}$ ), but  increases to about twice this value at $2500^{\circ}\mathrm{C}$   $(4500^{\circ}\mathrm{F})$  [5].  Theoretical density of carbon  is $2.22~\mathrm{gm}/\mathrm{cm}^{3}$ , but apparent density of bulk graphite is lower due to porosity (around  $1.7\;\mathrm{{gm}/\mathrm{{cm}^{3}}}$ ).  This is increased through compacting and heating. It is electrically conduc-  tive, but its conductivity is not as high as most metals.  A disadvantage of graphite is that  it oxidizes in air above around $500^{\circ}\mathrm{C}$   $(900^{\circ}\mathrm{F})$ ). In a reducing atmosphere it can be used  up to around $3000^{\circ}\mathrm{C}$   $(5400^{\circ}\mathrm{F})$ ), not far below its sublimation point of $3727^{\circ}\mathrm{C}$   $(6740^{\circ}\mathrm{F})$  
+
+The traditional form of graphite is polycrystalline with a certain amount of amor-  phous carbon in the mixture. # Ceramics  
+
+#  
+
+7.1 Structure and Properties of Ceramics  
+
+7.1.1 7.1.2  
+
+7.2 Traditional Ceramics  
+
+7.2.1   7.2.2  
+
+7.3  
+
+7.3.1 7.3.2   7.3.3  
+
+7.4 Glass  
+
+7.4.1   7.4.2   7.4.3  
+
+7.5  
+
+7.5.1 7.5.2   7.5.3  
+
+Metals are usually thought to be the most important  class of engineering materials. However, it is of interest  to note that ceramic materials are actually more abun-  dant and widely used. Included in this category are clay  products (e.g., bricks and pottery), glass, cement, and  more modern ceramic materials such as tungsten car-  bide and cubic boron nitride. This is the class of materi-  als discussed in this chapter. Several elements related to  ceramics are also covered because they are sometimes  used in similar applications. These elements are carbon,  silicon, and boron.  
+
+The importance of ceramics as engineering materi- als  derives from their abundance in nature and their  mechanical and physical properties, which are quite  different from those of metals. A  ceramic  material is  an inorganic compound consisting of a metal (or semi-  metal) and one or more nonmetals. The word  ceramic  traces from the Greek  keramos  meaning potter’s clay  or wares made from fired clay. Important examples of  ceramic materials are  silica , or silicon dioxide  $(\mathrm{SiO}_{2})$ , the  main ingredient in most glass products;  alumina , or  aluminum oxide  $\left(\mathrm{Al}_{2}\mathrm{O}_{3}\right)$ , used in applications rang- ing  from abrasives to artificial bones; and more com- plex  compounds  such  as  hydrous  aluminum  silicate  $(\mathrm{Al}_{2}\mathrm{Si}_{2}\mathrm{O}_{5}(\mathrm{OH})_{4})$ ), known as  kaolinite , the principal in-  gredient in most clay products. The elements in these  compounds are the most common in Earth’s crust; see  Table 7.1. The group includes many additional com-  pounds, some of which occur naturally while others are  manufactured.  
+
+The general properties that make ceramics useful in  engineered products are high hardness, good electrical  and thermal insulating characteristics, chemical stabil-  ity, and high melting temperatures. Some ceramics are  translucent—window glass being the clearest example.  They are also brittle and possess virtually no ductility,  which can cause problems in both processing and per-  formance of ceramic products.  
+
+TABLE  •  7.1   Most common elements in the earth’s crust, with approximate percentages. 
+![](images/c237119181627508e130e0c03bc7765c7f9b01a9729dfbaaf6fc561a948fa13b.jpg)  
+Compiled from [6].  
+
+The commercial and technological importance of ceramics is best demonstrated  by the variety of products and applications that are based on this class of material.   ","/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/Sec7.txt, /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/Sec7.txt, /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/Sec7.txt, /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/767eac1df2b1a5037921dd489e0239f10cd5549efd0af04e8bddefa0fd56439d.jpg, /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/54fa87a32cce07ddb8fab42819cda0890105fad74a806d36cde6bf72ef5f7e7f.jpg, /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/541ba9198734a0b4caef39bb5e9cc4aa6541319fccaf8afe52d7d66eee229243.jpg","0.8530932875287468, 0.8493914180091173, 0.8472360200365927, 0.31340180781602134, 0.30157212073180645, 0.2978170871520332"
+What is the predominant chemical compound in almost all glass products?,Answer. Silica - SiO2.,The predominant chemical compound in almost all glass products is silica (\( \text{SiO}_2 \)).,"Other simple tools  rigidity had been attained in the product, a cup-shaped were utilized to add the stem and/or base to the object.  vessel. This pouring technique was used until around   The ancient Romans showed great skill in their  200  B . C . E ., when a simple tool was developed that rev- use of various metallic oxides to color glass. Their  olutionized glassworking—the blowpipe.    technology is evident in the stained glass windows of  Glassblowing  was probably first accomplished in  cathedrals and churches of the Middle Ages in Italy  Babylon and later by the Romans. It was performed  and the rest of Europe. The art of glassblowing is  using an iron tube several feet long, with a mouthpiece still practiced today for certain consumer glassware;  on one end and a fixture for holding the molten glass and automated versions of glassblowing are used for  on the other. A blob of hot glass in the required initial mass-produced glass products such as bottles and   shape and viscosity was attached to the end of the iron  light bulbs (Chapter 12).  
+
+# 7.4.1 CHEMISTRY AND PROPERTIES OF GLASS  
+
+The principal ingredient in virtually all glasses is  silica  $(\mathrm{SiO}_{2})$ ), most commonly found  as the mineral quartz in sandstone and silica sand. Quartz occurs naturally as a crys-  talline substance; but when melted and then cooled, it forms vitreous silica. Silica glass  has a very low thermal expansion coefficient and is therefore quite resistant to  thermal shock. These properties are ideal for elevated temperature applications;  accordingly, Pyrex and chemical glassware designed for heating are made with high  proportions of silica glass.  
+
+In order to reduce the melting point of glass for easier processing, and to con-  trol properties, the composition of most commercial glasses includes other oxides  as well as silica. Silica remains as the main component in these glass products, usu-  ally comprising  $50\%$  to  $75\%$  of total chemistry. The reason  $\mathrm{SiO}_{2}$  is used so widely  in these compositions is because it is the best  glass former . It naturally transforms into  a glassy state upon cooling from the liquid, whereas most ceramics crystallize upon  solidification. Table 7.4 lists typical chemistries for some common glasses. The  additional ingredients are contained in a solid solution with  $\mathrm{SiO}_{2}$ , and each has a  function: (1) acting as flux (promoting fusion) during heating; (2) increasing fluidity  in the molten glass for processing; (3) retarding  devitrification —the tendency to  crystallize from the glassy state; (4) reducing thermal expansion in the final product;   (5) improving the chemical resistance against attack by acids, basic substances, or  water; (6) adding color to the glass; and (7) altering the index of refraction for opti-  cal applications (e.g., lenses).  
+
+# 7.4.2  GLASS  PRODUCTS  
+
+Following is a list of the major categories of glass products. The roles played by the  different ingredients are examined in Table 7.4 as these products are discussed.  
+
+Window Glass  This glass is represented by two chemistries in Table 7.4: (1) soda-  lime glass and (2) window glass. The soda-lime formula dates back to the glass-blow-  ing industry of the 1800s and earlier. It was (and is) made by mixing soda  $\mathrm{(Na_{2}O)}$  and  lime (CaO) with silica $\left(\mathrm{SiO}_{2}\right)$  as the major ingredient. The blending of ingredients has  evolved empirically to achieve a balance between avoiding crystallization during  
+
+TABLE  •  7.4   Typical compositions of selected glass products. 
+![](images/ddb363f62dea8e17cdc3753bef88ff6d2145d328858dcb682b23c3a5a6ee7190.jpg)  
+Compiled from [4], [5] and [10], and other sources. a May include $\mathrm{Fe}_{2}\mathrm{O}_{3}$  with ${\mathrm{Al}}_{2}{\mathrm{O}}_{3}$  
+
+cooling and achieving chemical durability of the final product. It was (and is) made by mixing soda  $\mathrm{(Na_{2}O)}$  and  lime (CaO) with silica $\left(\mathrm{SiO}_{2}\right)$  as the major ingredient. The blending of ingredients has  evolved empirically to achieve a balance between avoiding crystallization during  
+
+TABLE  •  7.4   Typical compositions of selected glass products. 
+![](images/ddb363f62dea8e17cdc3753bef88ff6d2145d328858dcb682b23c3a5a6ee7190.jpg)  
+Compiled from [4], [5] and [10], and other sources. a May include $\mathrm{Fe}_{2}\mathrm{O}_{3}$  with ${\mathrm{Al}}_{2}{\mathrm{O}}_{3}$  
+
+cooling and achieving chemical durability of the final product. Modern window glass  and the techniques for making it have required slight adjustments in composition  and closer control over its variation. Magnesia  $\mathrm{(MgO)}$ ) has been added to help re- duce  devitrification.  
+
+Containers  In previous times, the same basic soda-lime composition was used for  manual glass-blowing to make bottles and other containers. Modern processes for  shaping glass containers cool the glass more rapidly than older methods. Also, the  importance of chemical stability in container glass is better understood today. Re-  sulting changes in composition have attempted to optimize the proportions of lime  (CaO) and soda  $\left(\mathrm{Na}_{2}\mathrm{O}_{3}\right)$ . Lime promotes fluidity. It also increases devitrification,  but since cooling is more rapid, this effect is not as important as in prior processing  techniques with slower cooling rates. Soda reduces chemical instability and solubil- ity  of the container glass.  
+
+Light Bulb Glass   Glass used in light bulbs and other thin glass items (e.g., drinking  glasses, Christmas ornaments) is high in soda and low in lime; it also contains small  amounts of magnesia and alumina. The chemistry is dictated largely by the econom-  ics of large volumes involved in light bulb manufacture. The raw materials are inex-  pensive and suited to the continuous melting furnaces used today.  
+
+Laboratory Glassware  These products include containers for chemicals (e.g.,  flasks, beakers, glass tubing). The glass must be resistant to chemical attack and ther-  mal shock. Glass that is high in silica is suitable because of its low thermal expan-  sion. The trade name “Vicor” is used for this high-silica glass. This product is very  insoluble in water and acids. Additions of boric oxide also produce a glass with low  coefficient of thermal expansion, so some glass for laboratory ware contains  $\mathrm{B}_{2}\mathrm{O}_{3}$  in  amounts of around  $13\%$ . The trade name “Pyrex” is used for the borosilicate glass   developed by the Corning Glass Works. Both Vicor and Pyrex are included in the  listing as examples of this product category.  
+
+Glass Fibers  Glass fibers are manufactured for a number of important applica- tions,  including fiberglass reinforced plastics, insulation wool, and fiber optics. The  compositions vary according to function. The most commonly used glass reinforcing  fibers in plastics are E-glass. It is high in CaO and ${\mathrm{Al}}_{2}{\mathrm{O}}_{3}$  content, it is economical, and  it possesses good tensile strength in fiber form. Another glass fiber material is S- glass, which has higher strength but is not as economical as E-glass. Compositions are  indicated in the table.  
+
+Insulating fiberglass wool can be manufactured from regular soda-lime-silica  glasses. The glass product for fiber optics consists of a long, continuous core of glass  with high refractive index surrounded by a sheath of lower refractive glass. The in-  side glass must have a very high transmittance for light in order to accomplish long  distance communication.  
+
+Optical Glasses  Applications for these glasses include lenses for eyeglasses and  optical instruments such as cameras, microscopes, and telescopes. To achieve their  function, the glasses must have different refractive indices, but each lens must be  homogenous in composition. Optical glasses are generally divided into: crowns and  flints. Another glass fiber material is S- glass, which has higher strength but is not as economical as E-glass. Compositions are  indicated in the table.  
+
+Insulating fiberglass wool can be manufactured from regular soda-lime-silica  glasses. The glass product for fiber optics consists of a long, continuous core of glass  with high refractive index surrounded by a sheath of lower refractive glass. The in-  side glass must have a very high transmittance for light in order to accomplish long  distance communication.  
+
+Optical Glasses  Applications for these glasses include lenses for eyeglasses and  optical instruments such as cameras, microscopes, and telescopes. To achieve their  function, the glasses must have different refractive indices, but each lens must be  homogenous in composition. Optical glasses are generally divided into: crowns and  flints.  Crown glass  has a low index of refraction, while  flint glass  contains lead oxide  (PbO) that gives it a high index of refraction.  
+
+# 7.4.3  GLASS- CERAMICS  
+
+Glass-ceramics are a class of ceramic material produced by conversion of glass into   a  polycrystalline structure through heat treatment. The proportion of crystalline phase  in the final product typically ranges between $90\%$  and $98\%$ , with the remain- der being  unconverted vitreous material. Grain size is usually between 0.1 and  $1.0\ m\mathrm{m}$  (4 and 40  $m$ -in), significantly smaller than the grain size of conventional ceramics. This fine  crystal microstructure makes glass-ceramics much stronger than the glasses from  which they are derived. Also, due to their crystal structure, glass-ceramics are opaque  (usually gray or white) rather than clear.  
+
+The processing sequence for glass-ceramics is as follows: (1) The first step in-  volves heating and forming operations used in glassworking (Section 12.2) to create  the desired product geometry. Glass shaping methods are generally more economi- cal  than pressing and sintering to shape traditional and new ceramics made from powders.  (2) The product is cooled. (3) The glass is reheated to a temperature suf- ficient to cause  a dense network of crystal nuclei to form throughout the material. It is the high density  of nucleation sites that inhibits grain growth of individual crystals, thus leading  ultimately to the fine grain size in the glass-ceramic material. The key to the propensity  for nucleation is the presence of small amounts of nucleating agents in the glass  composition. Common nucleating agents are  $\mathrm{SiO}_{2}$ ,  $\mathrm{P}_{2}\mathrm{O}_{5}$ , and  $\mathrm{ZrO}_{2}$ . (4) Once  nucleation is initiated, the heat treatment is continued at a higher temperature to cause  growth of the crystalline phases.  
+
+Several examples of glass-ceramic systems and typical compositions are listed  in Table 7.5. The  $\mathrm{Li}_{2}\mathrm{O}_{-}\mathrm{Al}_{2}\mathrm{O}_{3}\mathrm{-}\mathrm{SiO}$ 2  system is the most important commercially; it  includes Corning Ware (Pyroceram), the familiar product of the Corning Glass Works.  
+
+TABLE  •  7.5   Several glass-ceramic systems. 
+![](images/945434a36ad9c350a5a62af11461f7c7975c7bba953af2203e096571a59f8b5a.jpg)  
+Compiled from [5], [6], and [10].  
+
+The significant advantages of glass-ceramics include (1) efficiency of processing  in the glassy state, (2) close dimensional control over the final product shape, and (3)  good  mechanical and physical properties. Properties include high strength (stronger than  glass), absence of porosity, low coefficient of thermal expansion, and high re-  sistance to thermal shock. These properties have resulted in applications in cooking  ware, heat exchangers, and missile radomes. Certain systems (e.g.,  $\mathrm{MgO-Al_{2}O_{3}-S i O}$ 2 system) are also characterized by high electrical resistance, suitable for electrical  and electronics applications.   ","/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/Sec7.txt, /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/Sec7.txt, /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/Sec7.txt, /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/54fa87a32cce07ddb8fab42819cda0890105fad74a806d36cde6bf72ef5f7e7f.jpg, /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/767eac1df2b1a5037921dd489e0239f10cd5549efd0af04e8bddefa0fd56439d.jpg, /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/27ebff753521e1b7340a815630a56e0178c4b5815d18e0a22fd2a28c9610cefb.jpg","0.8537064784150148, 0.8535154716492577, 0.8184019279664186, 0.3373091599611588, 0.33064981829017137, 0.32862336605286224"
+What are the three basic steps in the glassworking sequence?,"Answer. (1) raw materials preparation and melting, (2) shaping, and (3) heat treatment. Finishing operations (e.g., grinding, polishing, etching) are performed on some glass products, if needed.","The three basic steps in the glassworking sequence are:
+
+1. **Preparation of Raw Materials and Melting**: This step involves the preparation of silica and other components, mixing them in proper proportions, adding recycled glass, and melting the charge in a furnace to form a viscous liquid.
+
+2. **Shaping**: The molten glass is shaped into the desired form using various methods such as pressing, blowing, spinning, and casting.
+
+3. **Heat Treatment and Finishing**: This step includes processes like annealing to relieve stresses, and finishing operations such as polishing to achieve the desired surface quality and structural integrity.
+
+These steps ensure that glass products are manufactured efficiently, maintaining quality and meeting design specifications.","# Glassworking  
+
+# Chapter Contents  
+
+12.1 Raw Materials Preparation and  Melting  
+
+12.2 Shaping Processes in Glassworking 12.2.1 Shaping of Piece Ware 12.2.2 Shaping of Flat and Tubular  Glass 12.2.3 Forming of Glass Fibers  
+
+12.3 Heat Treatment and Finishing 12.3.1 Heat Treatment 12.3.2 Finishing  
+
+12.4 Product Design Considerations  
+
+Glass products are commercially manufactured in an  almost unlimited variety of shapes. Many are produced  in very large quantities, such as light bulbs, beverage  bottles, and window glass. Others, such as giant tele- scope lenses, are made individually.  
+
+Glass is one of three basic types of ceramics (Chap- ter 7). It is distinguished by its noncrystalline (vitreous)  structure, whereas the other ceramic materials have  a crystalline structure. The methods by which glass is  shaped into useful products are quite different from  those used for the other types. In glassworking, the  principal starting material is silica  $(\mathrm{SiO}_{2})$ ; this is usually  combined with other oxide ceramics that form glasses.  The starting material is heated to transform it from a  hard solid into a viscous liquid; it is then shaped into  the desired geometry while in this highly plastic or ﬂ  uid  condition. When cooled and hard, the material remains  in the glassy state rather than crystallizing.  
+
+The typical manufacturing sequence in glassworking  consists of the steps pictured in Figure 12.1. Shaping is  accomplished by various processes, including casting,  pressing-and-blowing (to produce bottles and other  containers), and rolling (to make plate glass). A ﬁ  nish- ing step is required for certain products.  
+
+#  
+
+# Raw Materials  Preparation and  Melting  
+
+The main component in nearly all glasses is silica, the  primary source of which is natural quartz in sand. The  sand must be washed and classiﬁ  ed. Washing removes  impurities such as clay and certain minerals that would  cause undesirable coloring of the glass.  Classifying  the  sand means grouping the grains according to size. The  most desirable particle size for glassmaking is in the  range of 0.1 to $0.6\;\mathrm{mm}$  (0.004–0.025 in) [3]. The various  other components, such as soda ash (source of  $\mathrm{Na}_{2}\mathrm{O}_{l}$ ),  limestone (source of  $\mathrm{CaO}$ ), aluminum oxide, potash  
+
+![](images/94b470c5e1cc9766de732682ba40735ff54b8c2ba2a6f1f69ee504f2da5b58f7.jpg)  
+FIGURE 12.1  The  typical   process  sequence in  glassworking:  (1) preparation of  raw materials and  melting, (2)   shaping,  and (3) heat   treatment.  
+
+(source of  $\mathrm{K}_{2}\mathrm{O}$ ), and other minerals are added in the proper proportions to achieve  the desired composition. The mixing is usually done in batches, in amounts that are  compatible with the capacities of available melting furnaces.  
+
+Recycled glass is usually added to the mixture in modern practice. In addition  to preserving the environment, recycled glass facilitates melting. Depending on the  amount of waste glass available and the speciﬁ  cations of the ﬁ  nal composition, the  proportion of recycled glass may be up to $100\%$ .  
+
+The batch of starting materials to be melted is referred to as a  charge , and the pro- cedure of loading it into the melting furnace is called  charging  the furnace. Glass- melting furnaces can be divided into the following types [3]: (1)  pot furnaces —  ceramic pots of limited capacity in which melting occurs by heating the walls of the  pot; (2)  day tanks —larger capacity vessels for batch production in which heating is  done by burning fuels above the charge; (3)  continuous tank furnaces —long tank  furnaces in which raw materials are fed in one end, and melted as they move to the  other end where molten glass is drawn out for high production; and (4)  electric fur- naces  of various designs for a wide range of production rates. A gob of molten glass is dropped into  a conical mold made of steel. The mold is rotated so that centrifugal force causes  the glass to ﬂ  ow upward and spread itself on the mold surface. The faceplate (i.e.,  the front viewing screen) is later assembled to the funnel using a sealing glass of low  melting point.  
+
+Pressing  This is a widely used process for mass producing glass pieces such as dishes,  bake ware, headlight lenses, TV tube faceplates, and similar items that are relatively  ﬂ  at. The process is illustrated and described in Figure 12.3. The large quantities of most  pressed products justify a high level of automation in this production sequence.  
+
+Blowing  Several shaping sequences include blowing as one or more of the steps.  Instead of a manual operation, blowing is performed on highly automated equip- ment. The two sequences described here are the press-and-blow and blow-and-blow  methods.  
+
+As the name indicates, the  press-and-blow  method is a pressing operation fol- lowed by a blowing operation, as portrayed in Figure 12.4. The process is suited to  
+
+![](images/080848414730b1ef5028cddc440ae059475667441a4f9115e591a3df4aed042b.jpg)  
+FIGURE 12.3  Pressing  of a ﬂ  at glass piece:  (1) a gob of glass fed  into mold from the  furnace; (2) pressing  into shape by plunger;  and (3) plunger is  retracted and the  ﬁ  nished product is  removed. Symbols  v  and  $F$ indicate motion  $\left\vert v=\right\vert$   velocity) and applied  force, respectively.  
+
+![](images/493b0e6537f2cc7cf884b018b1ac1c464c968b5802dcf4b1e4c026909bd2d186.jpg)  
+FIGURE 12.4  Press-and-blow forming sequence: (1) molten gob is fed into mold cavity; (2) pressing to form a  parison ; (3) the partially formed parison, held in a neck ring, is transferred to the blow mold; and (4) blown into  ﬁ  nal shape. Symbols $v$  and $F$  indicate motion ( $v=$  velocity) and applied force, respectively.  
+
+the production of wide-mouth containers. A split mold is used in the blowing opera- tion for part removal. The  blow-and-blow  method is used to produce smaller-mouthed bottles. The se- quence is similar to the preceding, except that two (or more) blowing operations are  used rather than pressing and blowing. There are variations to the process, depend- ing on the geometry of the product, with one possible sequence shown in Figure 12.5.  
+
+![](images/a9b43b50f0a1c35dc907f1de97edae1d3a9a438da4c54f87079b0f3e02888bf3.jpg)  
+FIGURE 12.5  Blow-and-blow forming sequence: (1) gob is fed into inverted mold cavity; (2) mold is covered;  (3) ﬁ  rst blowing step; (4) partially formed piece is reoriented and transferred to second blow mold; and (5) blown  to ﬁ  nal shape.  
+
+Reheating is sometimes required between blowing steps. Duplicate and triplicate  molds are sometimes used along with matching gob feeders to increase production  rates. Press-and-blow and blow-and-blow methods are used to make jars, beverage  bottles, incandescent light bulb enclosures, and similar geometries.  
+
+Casting  If the molten glass is sufﬁ  ciently ﬂ  uid, it can be poured into a mold. Rela- tively massive objects, such as astronomical lenses and mirrors, are made by this  method. These pieces must be cooled very slowly to avoid internal stresses and pos- sible cracking owing to temperature gradients that would otherwise be set up in  the glass. After cooling and solidifying, the piece must be ﬁ  nished by lapping and  polishing. Casting is not much used in glassworking except for these kinds of special  jobs. The batch of starting materials to be melted is referred to as a  charge , and the pro- cedure of loading it into the melting furnace is called  charging  the furnace. Glass- melting furnaces can be divided into the following types [3]: (1)  pot furnaces —  ceramic pots of limited capacity in which melting occurs by heating the walls of the  pot; (2)  day tanks —larger capacity vessels for batch production in which heating is  done by burning fuels above the charge; (3)  continuous tank furnaces —long tank  furnaces in which raw materials are fed in one end, and melted as they move to the  other end where molten glass is drawn out for high production; and (4)  electric fur- naces  of various designs for a wide range of production rates.  
+
+Glass melting is generally carried out at temperatures around  $1500^{\circ}\mathrm{C}$  to  $1600^{\circ}\mathrm{C}$ $(2700^{\circ}\mathrm{F}{-}2900^{\circ}\mathrm{F})$ ). The melting cycle for a typical charge takes 24 to 48 hours. This  is the time required for all of the sand grains to become a clear liquid and for the  molten glass to be reﬁ  ned and cooled to the appropriate temperature for working.  Molten glass is a viscous liquid, the viscosity being inversely related to temperature.  Because the shaping operation immediately follows the melting cycle, the tempera- ture at which the glass is tapped from the furnace depends on the viscosity required  for the subsequent process.  
+
+#  Shaping Processes in Glassworking  
+
+The major categories of glass products were identiﬁ  ed in Section 7.4.2 as window  glass, containers, light bulbs, laboratory glassware, glass ﬁ  bers, and optical glass. De- spite the variety represented by this list, the shaping processes to fabricate these  products can be grouped into only three categories: (1) discrete processes for piece  ware, which includes bottles, light bulbs, and other individual items; (2) continuous  processes for making ﬂ  at glass (sheet and plate glass for windows) and tubing (for  laboratory ware and ﬂ  uorescent lights); and (3) ﬁ  ber-making processes to produce  ﬁ  bers for insulation, ﬁ  berglass composite materials, and ﬁ  ber optics.  
+
+# 12.2.1  SHAPING OF PIECE WARE  
+
+The ancient methods of hand-working glass, such as glass blowing, were brieﬂ  y  described in Historical Note 7.3. Handicraft methods are still employed today for  making glassware items of high value in small quantities. Most of the processes  
+
+![](images/0eb8f45750263e5cfbaec3d650ad98d0efe9a9934e3e4ccea038624be4958234.jpg)  
+FIGURE 12.2  Spinning of  funnel-shaped glass parts:  (1) gob of glass dropped into  mold; and (2) rotation of mold  to cause spreading of molten  glass on mold surface.  
+
+discussed in this section are highly mechanized technologies for producing discrete  pieces such as jars, bottles, and light bulbs in high quantities.  
+
+Spinning  Glass spinning is similar to  centrifugal casting  of metals, and is also  known by that name in glassworking. It is used to produce funnel-shaped compo- nents such as the back sections of cathode ray tubes for televisions and computer  monitors. The setup is pictured in Figure 12.2. A gob of molten glass is dropped into  a conical mold made of steel. The mold is rotated so that centrifugal force causes  the glass to ﬂ  ow upward and spread itself on the mold surface. The faceplate (i.e.,  the front viewing screen) is later assembled to the funnel using a sealing glass of low  melting point.  
+
+Pressing  This is a widely used process for mass producing glass pieces such as dishes,  bake ware, headlight lenses, TV tube faceplates, and similar items that are relatively  ﬂ  at. The process is illustrated and described in Figure 12.3. The large quantities of most  pressed products justify a high level of automation in this production sequence.  
+
+Blowing  Several shaping sequences include blowing as one or more of the steps.  Instead of a manual operation, blowing is performed on highly automated equip- ment.   ","/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec12.txt, /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec12.txt, /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec12.txt, /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/767eac1df2b1a5037921dd489e0239f10cd5549efd0af04e8bddefa0fd56439d.jpg, /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/54fa87a32cce07ddb8fab42819cda0890105fad74a806d36cde6bf72ef5f7e7f.jpg, /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/14dc386dc65ef9cccc73ac59cd168378652f9657f137e59cedd1385629908694.jpg","0.859134737727627, 0.8420921898948648, 0.8412925463184507, 0.3329181059429626, 0.32713049494549074, 0.32546679053159633"

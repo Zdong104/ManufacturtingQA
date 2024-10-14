@@ -1,0 +1,132 @@
+Problems 
+Flow Curve in Forming 
+18.1 The strength coefficient = 550 MPa and strain-hardening exponent = 0.22 for a certain metal. During a forming operation, the final true strain that the metal experiences = 0.85. Determine the flow stress at this strain and the average flow stress that the metal experienced during the operation. 
+Solution: Flow stress Yf = 550(0.85)0.22 = 531 MPa. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 05-12-09, 05-13-09 
+Average flow stress Yf = 550(0.85)0.22/1.22 = 435 MPa. 
+18.2 A metal has a flow curve with strength coefficient = 850 MPa and strain-hardening exponent = 0.30. A tensile specimen of the metal with gage length = 100 mm is stretched to a length = 157 mm. Determine the flow stress at the new length and the average flow stress that the metal has been subjected to during the deformation. 
+Solution: H = ln (157/100) = ln 1.57 = 0.451 
+Flow stress Yf = 850(0.451)0.30 = 669.4 MPa. 
+Average flow stress Yf = 850(0.451)0.30/1.30 = 514.9 MPa. 
+18.3 A particular metal has a flow curve with strength coefficient = 35,000 lb/in2 and strain-hardening exponent = 0.26. A tensile specimen of the metal with gage length = 2.0 in is stretched to a length = 
+3.3 in. Determine the flow stress at this new length and the average flow stress that the metal has been subjected to during deformation. 
+Solution: H = ln (3.3/2.0) = ln 1.65 = 0.501 
+Flow stress Yf = 35,000(0.501)0.26 = 29,240 lb/in2. 
+Average flow stress Yf = 35,000(0.501)0.26/1.26 = 23,206 lb/in2. 
+18.4 The strength coefficient and strain-hardening exponent of a certain test metal are 40,000 lb/in2 and 0.19, respectively. A cylindrical specimen of the metal with starting diameter = 2.5 in and length = 
+3.0 in is compressed to a length of 1.5 in. Determine the flow stress at this compressed length and the average flow stress that the metal has experienced during deformation. 
+Solution: H = ln (1.5/3.0) = ln 0.5 = -0.69315 
+Flow stress Yf = 40,000(0.69315)0.19 = 37,309 lb/in2. 
+Average flow stress Yf = 40,000(0.69315)0.19/1.19 = 31,352 lb/in2. 
+18.5 Derive the equation for average flow stress, Eq. (18.2) in the text. 
+Solution: Flow stress equation [Eq. (18.1)]: Yf = Kn Yf over the range H = 0to H = H is given by KndH = K ndH = Kn+1/(n+1) = Kn/(n+1) 
+18.6 For a certain metal, the strength coefficient = 700 MPa and strain-hardening exponent = 0.27. Determine the average flow stress that the metal experiences if it is subjected to a stress that is equal to its strength coefficient K. 
+Solution: Yf = K = 700 = Kn = 700.27 
+H must be equal to 1.0. 
+Yf = 700(1.0).27/1.27 = 700/1.27 = 551.2 MPa 
+18.7 Determine the value of the strain-hardening exponent for a metal that will cause the average flow stress to be 3/4 of the final flow stress after deformation. 
+Solution: Yf = 0.75 Yf 
+Kn/(1+n) = 0.75 Kn 
+1/(1+n) = 0.75 
+1 = 0.75(1+n) = 0.75 + 0.75n 
+0.25 = 0.75n n = 0.333 
+18.8 The strength coefficient = 35,000 lb/in2 and strain-hardening exponent = 0.40 for a metal used in a forming operation in which the workpart is reduced in cross-sectional area by stretching. If the average flow stress on the part is 20,000 lb/in2, determine the amount of reduction in cross-sectional area experienced by the part. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 05-12-09, 05-13-09 
+Solution: Yf = Kn/(1+n) 20,000 = 35,000 .4/(1.4) 1.4(20,000) = 35,000 .4 28,000/35,000 = 0.8 = .4 
+0.4 ln H = ln (0.8) = -0.22314 ln H = -0.22314/0.4 = -0.55786 H = 0.5724 H = ln(Ao/Af) = 0.5724 Ao/Af = 1.7726 
+
+
+Af = Ao/1.7726 = 0.564Ao 
+18.9 In a tensile test, two pairs of values of stress and strain were measured for the specimen metal after it had yielded: (1) true stress = 217 MPa and true strain = 0.35, and (2) true stress = 259 MPa and true strain = 0.68. Based on these data points, determine the strength coefficient and strain-hardening exponent. 
+Solution: Solve two equations, two unknowns: ln K = ln V -n ln 0 
+(1) 
+ln K = ln 217 – n ln 0.35 
+
+(2) 
+lnK =ln259 – n ln 0.68 
+
+(1) 
+ln K = 5.3799 – (-1.0498)n = 5.3799 + 1.0498 n 
+
+(2) 
+ln K = 5.5568 – (-0.3857)n = 5.5568 + 0.3857 n 5.3799 + 1.0498 n = 5.5568 + 0.3857 n 1.0498 n – 0.3857 n = 5.5568 – 5.3799 0.6641 n = 0.1769 n = 0.2664 ln K = 5.3799 + 1.0498 (0.2664) = 5.6596 K = 287 MPa 
+
+
+18.10 The following stress and strain values were measured in the plastic region during a tensile test carried out on a new experimental metal: (1) true stress = 43,608 lb/in2 and true strain = 0.27 in/in, and (2) true stress = 52,048 lb/in2 and true strain = 0.85 in/in. Based on these data points, determine the strength coefficient and strain-hardening exponent. 
+Solution: Solve two equations, two unknowns: ln K = ln V -n ln 0 
+(3) 
+ln K = ln 43,608 – n ln 0.27 
+
+(4) 
+lnK =ln52,048 – n ln 0.85 
+
+(3) 
+ln K = 10.6830 – (-1.3093)n = 10.6830 + 1.3093 n 
+
+(4) 
+ln K = 10.8600 – (-0.1625)n = 10.8600 + 0.1625 n 
+
+(5) 
+10.6830 + 1.3093 n = 10.8600 + 0.1625 n 1.3093 n – 0.1625 n = 10.8600 – 10.6830 1.1468 n = 0.1769 n = 0.1543 ln K = 10.6830 + 1.3093 (0.1543) = 10.885 K = 53,374 lb/in2 
+
+
+
+Strain Rate 
+18.11 The gage length of a tensile test specimen = 150 mm. It is subjected to a tensile test in which the grips holding the end of the test specimen are moved with a relative velocity = 0.1 m/s. Construct a plot of the strain rate as a function of length as the specimen is pulled to a length = 200 mm. 
+Solution: The following values are calculated for the plot: At L = 150 mm, strain rate  = 0.1/0.15 = 0.667 s-1 At L = 160 mm, strain rate  = 0.1/0.16 = 0.625 s-1 At L = 170 mm, strain rate  = 0.1/0.17 = 0.588 s-1 At L = 180 mm, strain rate  = 0.1/0.18 = 0.555 s-1 At L = 190 mm, strain rate  = 0.1/0.19 = 0.526 s-1 At L = 200 mm, strain rate  = 0.1/0.20 = 0.500 s-1 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 05-12-09, 05-13-09 
+18.12 A specimen with 6.0 in starting gage length is subjected to a tensile test in which the grips holding the end of the test specimen are moved with a relative velocity = 1.0 in/sec. Construct a plot of the strain rate as a function of length as the specimen is pulled to a length = 8.0 in. 
+Solution: The following values are calculated for the plot: At L = 6.0 in, strain rate  = 1/6.0 = 0.1667 sec-1 At L = 6.5 in, strain rate  = 1/6.5 = 0.1538 sec-1 At L = 7.0 in, strain rate  = 1/7.0 = 0.1429 sec-1 At L = 7.5 in, strain rate  = 1/7.5 = 0.1333 sec-1 At L = 8.0 in, strain rate  = 1/8.0 = 0.1250 sec-1 
+18.13 A workpart with starting height h = 100 mm is compressed to a final height of 50 mm. During the deformation, the relative speed of the plattens compressing the part = 200 mm/s. Determine the strain rate at (a) h = 100 mm, (b) h = 75 mm, and (c) h = 51 mm. 
+Solution: (a) strain rate  = 200/100 = 2.0 s-1 
+(b) 
+strain rate  = 200/75 = 2.667 s-1 
+
+(c) 
+strain rate  = 200/51 = 3.922 s-1 
+
+
+18.14 A hot working operation is carried out at various speeds. The strength constant = 30,000 lb/in2 and the strain-rate sensitivity exponent = 0.15. Determine the flow stress if the strain rate is (a) 0.01/sec (b) 1.0/sec, (c) 100/sec. 
+Solution: (a) Yf = C( )m = 30,000(0.01).15 = 15,036 lb/in2 
+(b) Yf = 30,000(1.0)0.15 = 30,000 lb/in2 
+(c) Yf = 30,000(100)0.15 = 59,858 lb/in2 
+18.15 A tensile test is performed to determine the strength constant C and strain-rate sensitivity exponent m in Eq. (18.4) for a certain metal. The temperature at which the test is performed = 500C. At a strain rate = 12/s, the stress is measured at 160 MPa; and at a strain rate = 250/s, the stress = 300 MPa. (a) Determine C and m. (b) If the temperature were 600C, what changes would you expect in the values of C and m? 
+Solution: (a) Two equations: (1) 160 = C(12)m and (2) 300 = C(250)m 
+(1) 
+ln 160 = ln C + m ln12or ln160 -m ln12 = ln C 
+
+(2) 
+ln 300 = ln C + m ln250or ln300 -m ln 250 = ln C 
+
+(1) 
+and (2): ln 160 -m ln 12 = ln 300 -m ln 250 5.0752 – 2.4849 m = 5.7038 – 5.5215 m (5.5215 – 2.4849)m = 5.7038 – 5.0752 3.0366 m = 0.6286 m = 0.207 
+
+(1) 
+C = 160/(12)0.207 = 160.1.6726 = 95.658 
+
+(2) 
+C = 300/(250)0.207 = 300/3.1361 = 95.660 Averaging these values, C = 95.659 
+
+(b) 
+If temperature were 600C, the strength constant C would decrease and the strain-rate sensitivity exponent m would increase. 
+
+
+18.16 A tensile test is carried out to determine the strength constant C and strain-rate sensitivity exponent m for a certain metal at 1000F. At a strain rate = 10/sec, the stress is measured at 23,000 lb/in2; and at a strain rate = 300/sec, the stress = 45,000 lb/in2. (a) Determine C and m. (b) If the temperature were 900F, what changes would you expect in the values of C and m? 
+Solution: (a) Two equations: (1) 23,000 = C(10)m and (2) 45,000 = C(300)m 45,000/23,000 = 1.9565 = (300/10)m = (30)m 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+05-12-09, 05-13-09 
+ln 1.9656 = m ln 30 
+0.67117 = 3.4012 m m = 0.1973 
+(1) 
+C = 23000/100.1973 = 23000/1.5752 = 14,601.4 
+
+(2) 
+C = 45000/3000.1973 = 45000/3.0819 = 14,601.4 C = 14,601.4 
+
+(b) 
+If temperature were decreased to 900F, the strength constant C would increase and the strain-rate sensitivity exponent m would decrease. 
+
+
+
+
+

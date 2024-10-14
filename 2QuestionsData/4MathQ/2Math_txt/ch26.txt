@@ -1,0 +1,81 @@
+Problems 
+Application Problems 
+26.1 For the following application, identify one or more nontraditional machining processes that might be used, and present arguments to support your selection. Assume that either the part geometry or the work material (or both) preclude the use of conventional machining. The application is a matrix of 0.1 mm (0.004 in) diameter holes in a plate of 3.2 mm (0.125 in) thick hardened tool steel. The matrix is rectangular, 75 by 125 mm (3.0 by 5.0 in) with the separation between holes in each direction = 1.6 mm ( 0.0625 in). 
+Solution: Application: matrix of holes in 0.125 inch thick hardened steel, hole diameter = 0.004 in, separation between holes = 0.0625 in. Possible processes: EBM and LBM can make holes of this size with depth-to-diameter ratios as large as 0.125/0.004 = 31.25. 
+26.2 For the following application, identify one or more nontraditional machining processes that might be used, and present arguments to support your selection. Assume that either the part geometry or the work material (or both) preclude the use of conventional machining. The application is an engraved aluminum printing plate to be used in an offset printing press to make 275 by 350 mm (11 by 14 in) posters of Lincoln's Gettysburg address. 
+Solution: Application: engraved aluminum printing press plate for 11 in by 14 in posters. Possible process: photochemical engraving; making a negative of the speech and transferring this to either a silk screen or directly to the photoresist would seem to be the most straightforward methods. 
+26.3 For the following application, identify one or more nontraditional machining processes that might be used, and present arguments to support your selection. Assume that either the part geometry or the work material (or both) preclude the use of conventional machining. The application is a through-hole in the shape of the letter L in a 12.5 mm (0.5 in) thick plate of glass. The size of the "L" is 25 by 15 mm (1.0 by 0.6 in) and the width of the hole is 3 mm (1/8 in). 
+Solution: Application: through-hole in the shape of the letter “L” drilled through 0.5-in thick plate glass. Possible process: USM works on glass and other brittle non-metallic materials. This is probably the best process. 
+26.4 For the following application, identify one or more nontraditional machining processes that might be used, and present arguments to support your selection. Assume that either the part geometry or the work material (or both) preclude the use of conventional machining. The application is a blind-hole in the shape of the letter G in a 50 mm (2.0 in) cube of steel. The overall size of the "G" is 25 by 19 mm (1.0 by 0.75 in), the depth of the hole is 3.8 mm (0.15 in), and its width is 3 mm (1/8 in). 
+Solution: Application: the letter “G” drilled to a depth of 0.15 in in block of steel. Possible processes: ECM and EDM would be useful for pocketing operations such as this. 
+26.5 Much of the work at the Cut-Anything Company involves cutting and forming of flat sheets of fiber-glass for the pleasure boat industry. Manual methods based on portable saws are currently used to perform the cutting operation, but production is slow and scrap rates are high. The foreman says the company should invest in a plasma arc cutting machine, but the plant manager thinks it would be too expensive. What do you think? Justify your answer by indicating the characteristics of the process that make PAC attractive or unattractive in this application. 
+Solution: In plasma arc cutting, the workpart must be an electrically conductive material. Fiber glass is not electrically conductive. PAC is therefore not an appropriate process for this application. 
+26.6 A furniture company that makes upholstered chairs and sofas must cut large quantities of fabrics. Many of these fabrics are strong and wear-resistant, which properties make them difficult to cut. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 01-29-09, 02-06-09 
+What nontraditional process(es) would you recommend to the company for this application? Justify your answer by indicating the characteristics of the process that make it attractive. 
+Solution: Water jet cutting would be an ideal process for this application. WJC cuts through fabrics quickly and cleanly, and the process could be readily automated. 
+Electrochemical Machining 
+26.7 The frontal working area of the electrode in an ECM operation is 2000 mm2. The applied current = 1800 amps and the voltage = 12 volts. The material being cut is nickel (valence = 2), whose specific removal rate is given in Table 26.1. (a) If the process is 90% efficient, determine the rate of metal removal in mm3/min. (b) If the resistivity of the electrolyte = 140 ohm-mm, determine the working gap. 
+Solution: (a) From Table 26.1, C = 3.42 x 10-2 mm3/A-s From Eq. (26.6) RMR = frA = (CI/A)A = CI = (3.42 x 10-2 mm3/A-s)(1800 A) = 6156 x 10-2 mm3/s = 61.56 mm3/s = 3693.6 mm3/min At 90% efficiency RMR = 0.9(3693.6 mm3/min) = 3324.2 mm3/min 
+(b) Given resistivity r = 140 ohm-mm, I = EA/gr in Eq. (26.2). Rearranging, g = EA/Ir g = (12 V)(2000 mm2)/(1800 A)(140 ohm-mm) = 0.095 mm 
+26.8 In an electrochemical machining operation, the frontal working area of the electrode is 2.5 in2. The applied current = 1500 amps, and the voltage = 12 volts. The material being cut is pure aluminum, whose specific removal rate is given in Table 26.1. (a) If the ECM process is 90 percent efficient, determine the rate of metal removal in in3/hr. (b) If the resistivity of the electrolyte = 6.2 ohm-in, determine the working gap. 
+Solution: (a) From Table 26.1, C = 0.000126 in3/A-min RMR = frA = (CI/A)(A) = CI RMR = CI = 0.000126(1500) = 0.189 in3/min at 100% efficiency. At 90% efficiency RMR = 0.189(0.90) = 0.1701 in3/min = 10.206 in3/hr. 
+(b) I = EA/gr; Rearranging, g = EA/Ir = 12(2.5)/(1500 x 6.2) = 0.0032 in 
+26.9 A square hole is to be cut using ECM through a plate of pure copper (valence = 1) that is 20 mm thick. The hole is 25 mm on each side, but the electrode used to cut the hole is slightly less that 25 mm on its sides to allow for overcut, and its shape includes a hole in its center to permit the flow of electrolyte and to reduce the area of the cut. This tool design results in a frontal area of 200 mm2. The applied current = 1000 amps. Using an efficiency of 95%, determine how long it will take to cut the hole. 
+Solution: From Table 26.1, C = 7.35 x 10-2 mm3/A-s From Eq. (26.6) fr = CI/A = (7.35 x 10-2 mm3/A-s)(1000 A)/(200 mm2) = 0.3675 mm/s At 95% efficiency, fr = 0.95(0.3675 mm/s) = 0.349 mm/s Time to machine = (20 mm)/(0.349 mm/s) = 57.3 s 
+26.10 A 3.5 in diameter through hole is to be cut in a block of pure iron (Valence = 2) by electrochemical machining. The block is 2.0 in thick. To speed the cutting process, the electrode tool will have a center hole of 3.0 in which will produce a center core that can be removed after the tool breaks through. The outside diameter of the electrode is undersized to allow for overcut. The overcut is expected to be 0.005 in on a side. If the efficiency of the ECM operation is 90%, what current will be required to complete the cutting operation in 20 minutes? 
+Solution: Electrode frontal gap area A = 0.25(3.52 -3.02) = 2.553 in2 From Table 26.1, C = 0.000135 in3/A-min fr = CI/A = 0.000135 I/2.553 = 0.0000529 I in/min at 100% efficiency. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+01-29-09, 02-06-09 At 90% efficiency fr = 0.9(0.0000529 I) = 0.0000476 I in/min To cut through a 2.0 inch thickness in 20 minutes requires a feed rate fr = 2.0/20 = 0.1 in/min fr = 0.1 = 0.0000476 I I = 0.1/0.0000476 = 2101 A. 
+Electric Discharge Machining 
+26.11 An electric discharge machining operation is being performed on two work materials: tungsten and tin. Determine the amount of metal removed in the operation after one hour at a discharge current of 20 amps for each of these metals. Use metric units and express the answers in mm3/hr. From Table 4.1, the melting temperatures of tungsten and tin are 3410C and 232C, respectively. 
+Solution: For tungsten, using Eq. (26.7), RMR = KI/Tm 1.23 = 664(20)/(34101.23) = 13,280/22,146 = 0.5997 mm3/s = 2159 mm3/hr 
+For tin, RMR = KI/Tm 1.23 = 664(20)/(2321.23) = 13,280/812 = 16.355 mm3/s = 58,878 mm3/hr 
+26.12 An electric discharge machining operation is being performed on two work materials: tungsten and zinc. Determine the amount of metal removed in the operation after one hour at a discharge amperage = 20 amps for each of these metals. Use U.S. Customary units and express the answer in in3/hr. From Table 4.1, the melting temperatures of tungsten and zinc are 6170F and 420F, respectively. 
+Solution: For tungsten, using Eq. (26.7), RMR = KI/Tm 1.23 = 5.08(20)/(61701.23) = 101.6/45,925 = 0.00221 in3/s = 0.1327 in3/hr 
+For Zinc, RMR = KI/Tm 1.23 = 5.08(20)/(4201.23) = 101.6/1685 = 0.0603 in3/s = 3.62 in3/hr 
+26.13 Suppose the hole in Problem 26.10 were to be cut using EDM rather than ECM. Using a discharge current = 20 amps (which would be typical for EDM), how long would it take to cut the hole? From Table 4.1, the melting temperature of iron is 2802F. 
+Solution: Using Eq. (26.7), RMR = 5.08 I/Tm 1.23 = 5.08(20)/28021.23 = 101.6/17,393 = 0.00584 in3/min Cross-sectional area of tool from previous problem A = 2.553 in2 fr = RMR/A = 0.00584/2.553 = 0.002293 in/min Time to machine the 2.0 inch thickness Tm = 2.0/0.002293 = 874.3 min = 14.57 hr. 
+26.14 A metal removal rate of 0.01 in3/min is achieved in a certain EDM operation on a pure iron workpart. What metal removal rate would be achieved on nickel in this EDM operation, if the same discharge current were used? The melting temperatures of iron and nickel are 2802F and 2651F, respectively. 
+Solution: For iron, RMR = 5.08 I/28021.23 = 5.08 I/17,393 = 0.000292 I in3/min Given that RMR = 0.01 in3/min 0.000292 I = 0.01 I = 0.01/0.000292 = 34.24 A. For = nickel, RMR = 5.08(34.24)/26511.23 = 173.93/16,248 = 0.0107 in3/min 
+26.15 In a wire EDM operation performed on 7-mm-thick C1080 steel using a tungsten wire electrode whose diameter = 0.125 mm, past experience suggests that the overcut will be 0.02 mm, so that the kerf width will be 0.165 mm. Using a discharge current = 10 amps, what is the allowable feed rate that can be used in the operation? Estimate the melting temperature of 0.80% carbon steel from the phase diagram of Figure 6.4. 
+Solution: From Figure 6.4, Tm = 1500C for 1080 steel Using Eq. (26.7), RMR = 664(10)/(15001.23) = 6640/8065 = 0.8233 mm3/s Frontal area of kerf A = 0.165(7.0) = 1.155 mm2 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 01-29-09, 02-06-09 fr = 49.4/1.155 = 42.79 mm/min 
+26.16 A wire EDM operation is to be performed on a slab of ¾-in-thick aluminum using a brass wire electrode whose diameter = 0.005 in. It is anticipated that the overcut will be 0.001 in, so that the kerf width will be 0.007 in. Using a discharge current = 7 amps, what is the expected allowable feed rate that can be used in the operation? The melting temperature of aluminum is 1220F. 
+Solution: Using Eq. (26.7), RMR = 5.08(7)/12201.23 = 35.56/6255 = 0.005685 in3/min Frontal area of kerf A = 0.75(0.007) = 0.00525 in2 fr = 0.005685/0.00525 = 1.083 in/min 
+26.17 A wire EDM operation is used to cut out punch-and-die components from 25-mm-thick tool steel plates. However, in preliminary cuts, the surface finish on the cut edge is poor. What changes in discharge current and frequency of discharges should be made to improve the finish? 
+Solution: As indicated in Figure 26.8(a), surface finish in EDM could be improved by reducing discharge current and increasing frequency of discharges. 
+Chemical Machining 
+26.18 Chemical milling is used in an aircraft plant to create pockets in wing sections made of an aluminum alloy. The starting thickness of one workpart of interest is 20 mm. A series of rectangular-shaped pockets 12 mm deep are to be etched with dimensions 200 mm by 400 mm. The corners of each rectangle are radiused to 15 mm. The part is an aluminum alloy and the etchant is NaOH. The penetration rate for this combination is 0.024 mm/min and the etch factor is 1.75. Determine (a) metal removal rate in mm3/min, (b) time required to etch to the specified depth, and 
+(c) 
+required dimensions of the opening in the cut and peel maskant to achieve the desired pocket size on the part. 
+
+Solution: (a) Neglecting the fact that the initial area would be less than the given dimensions of 200 mm by 400 mm, and that the material removal rate (RMR) would therefore increase during the cut as the area increased, area A =200x400 –(30 x 30 -(15)2) = 80,000 – 193 = 79,807 mm2 RMR = (0.024 mm/min)(79,807 mm2) = 1915.4 mm3/min 
+
+(b) 
+Time to machine (etch) Tm = 12/0.024 = 500 min = 8.33 hr. 
+
+(c) 
+Given Fe = 1.75, undercut u = d/Fe = 12/1.75 = 6.86 mm Maskant opening length = L –2u = 400 – 2(6.86) = 386.28 mm Maskant opening width = W –2u = 200 – 2(6.86) = 186.28 mm Radius on corners = R – u = 15 –6.86 = 8.14 mm 
+
+
+26.19 In a chemical milling operation on a flat mild steel plate, it is desired to cut an ellipse-shaped pocket to a depth of 0.4 in. The semiaxes of the ellipse are a = 9.0 in and b = 6.0 in. A solution of hydrochloric and nitric acids will be used as the etchant. Determine (a) metal removal rate in in3/hr, 
+(b) 
+time required to etch to depth, and (c) required dimensions of the opening in the cut and peel maskant required to achieve the desired pocket size on the part. 
+
+Solution: (a) Neglecting the fact that the initial area would be less than the given dimensions of 9 in by 6 in, and that the material removal rate (RMR) would therefore increase during the cut as the area increased, area of an ellipse A = ab = (9.0)(6.0) = 54S = 169.65 in2 RMR = (0.001 in/min)(169.65 in2) = 0.16965 in3/min = 10.18 in3/hr 
+
+(b) 
+Time to machine (etch) Tm = 0.4/0.001 = 400 min = 6.67 hr. 
+
+(c) 
+Given Fe = 2.0, undercut u = d/Fe = 0.4/2.0 = 0.2 mm This must be doubled to determine the effect on a and b. Maskant opening a’ = a – u = 9.0 – 2(0.2) = 8.6 in Maskant opening b’ = b – u = 6.0 – 2(0.2) = 5.6 in 
+
+
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 01-29-09, 02-06-09 
+26.20 In a certain chemical blanking operation, a sulfuric acid etchant is used to remove material from a sheet of magnesium alloy. The sheet is 0.25 mm thick. The screen resist method of masking was used to permit high production rates to be achieved. As it turns out, the process is producing a large proportion of scrap. Specified tolerances of 0.025 mm are not being achieved. The foreman in the CHM department complains that there must be something wrong with the sulfuric acid. "Perhaps the concentration is incorrect," he suggests. Analyze the problem and recommend a solution. 
+Solution: The problem in this chemical blanking operation is that the screen resist method of masking cannot achieve the tolerances specified. The photoresist method should have been used, and the process should be changed over to adopt this method. 
+26.21 In a chemical blanking operation, stock thickness of the aluminum sheet is 0.015 in. The pattern to be cut out of the sheet is a hole pattern, consisting of a matrix of 0.100 in diameter holes. If photochemical machining is used to cut these holes, and contact printing is used to make the resist (maskant) pattern, determine the diameter of the holes that should be used in the pattern. 
+Solution: From Table 26.2, Fe = 1.75. In chemical blanking, etching will occur on both sides of the part. Therefore, the effective hole depth on each side = one-half of the stock thickness = 0.015/2 = 0.0075 in. Undercut u = 0.0075/1.75 = 0.0043 in Diameter of opening = 0.100 -2(0.0043) = 0.0914 in 
+
+

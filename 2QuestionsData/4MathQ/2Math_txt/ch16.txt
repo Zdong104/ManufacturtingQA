@@ -1,0 +1,125 @@
+Problems 
+Characterization of Engineering Powders 
+16.1 A screen with 325 mesh count has wires with a diameter of 0.001377 in. Determine (a) the maximum particle size that will pass through the wire mesh and (b) the proportion of open space in the screen. 
+Solution: (a) By Eq. (16.1), particle size PS = 1/MC -tw = 1/325 -0.001377 = 0.003077 -0.001377 = 0.00170 in 
+(b) There are 325 x 325 = 105,625 openings in one square inch of the mesh. By inference from part (a), each opening is 0.00170 inch on a side, thus each opening is (0.0017)2 = 0.000002889 in2. The total open area in one square inch of mesh = 105,625(0.000002889 in2) = 0.30523 in2. This is total open space. Therefore, the percent open space in one square inch of mesh = 30.523%. 
+16.2 A screen with 10 mesh count has wires with a diameter of 0.0213 in. Determine (a) the maximum particle size that will pass through the wire mesh and (b) the proportion of open space in the screen. 
+Solution: (a) By Eq. (16.1), particle size PS = 1/MC -tw = 1/10 -0.0213 = 0.0787 in. 
+(b) There are 10 x 10 = 100 openings in one square inch of the mesh. By inference from part (a), each opening is 0.0787 inch on a side, thus each opening is (0.0787)2 = 0.00619 in2. The total open area in one square inch of mesh = 100(0.00619 in2) = 0.619 in2. This is total open space. Therefore, the percent open space in one square inch of mesh = 61.9%. 
+16.3 What is the aspect ratio of a cubic particle shape? 
+Solution: The aspect ratio is the ratio of the maximum dimension to the minimum dimension of the particle shape. The minimum dimension is the edge of any face of the cube; call it L. The maximum 
+= (3 L2)0.5 
+dimension is the cube diagonal, which is given by (L2+ L2+ L2)0.5 = (3)0.5 L = 1.732 L. Thus, the aspect ratio = 1.732:1. 
+
+16.4 Determine the shape factor for metallic particles of the following ideal shapes: (a) sphere, (b) cubic, 
+(c) 
+cylindrical with length-to-diameter ratio of 1:1, (d) cylindrical with length-to-diameter ratio of 2:1, and (e) a disk-shaped flake whose thickness-to-diameter ratio is 1:10. 
+
+Solution: (a) Sphere: Ks = 6.0 as shown in the text, Eq. (16.5). 
+
+(b) 
+Cube: Let L = edge of one face. For a cube, A = 6L2 and V = L3 Find diameter D of a sphere of equivalent volume. V = D3/6 = L3 D3= 6L3/S = 1.90986 L3 D = (1.90986 L3)0.333 = 1.2407 L Ks = AD/V = (6L2)(1.2407 L)/L3= 7.444 
+
+(c) 
+Cylinder with L/D = 1.0. For this cylinder shape, L = D. Thus, A = 2D2/4 + DL = 0.5L2+ L2 = 1.5L2, and V = (D2/4)L = 0.25L3. 
+
+
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 05-01-09, 05-11-09 Find diameter D of a sphere of equivalent volume. V = D3/6 = 0.25L3 D3 = 6(0.25L3)/S = 1.5L3 
+D = (1.5 L3)0.333 
+= 1.1447 L Ks = AD/V = (1.5L2)(1.1447 L)/0.25L3= 6.868 
+(d) 
+Cylinder with L/D = 2.0. For this cylinder shape, 0.5L = D. Thus, A = 2D2/4 + DL = 0.5(0.5L)2 + (0.5L)L = 0.125L2 + 0.5L2 = 0.625L2, and V = (D2/4)L = 0.25(0.5L)2 L = 0.0625L3 Find diameter D of a sphere of equivalent volume. V = D3/6 = 0.0625L3 D3 = 6(0.0625L3)/S = 0.375L3 D = (0.375 L3)0.333 = 0.721 L Ks = A D/V = (0.625L2)(0.721 L)/0.0625L3= 7.211 
+
+(e) 
+Disk with L/D = 0.10. For this shape, 10L = D. Thus, A = 2D2/4 + DL = 0.5(10L)2 + (10L)L = 50L2 + 10L2= 60L2, and V = (D2/4)L = 0.25(10L)2 L = 25L3 Find diameter D of a sphere of equivalent volume. V = D3/6= 25L3 D3 = 6(25L3)/ S = 150L3 
+
+
+D = (150 L3)0.333 
+= 5.313 L Ks = A D/V = (60L2)(5.313 L)/25L3= 12.75 
+16.5 A pile of iron powder weighs 2 lb. The particles are spherical in shape and all have the same diameter of 0.002 in. (a) Determine the total surface area of all the particles in the pile. (b) If the packing factor = 0.6, determine the volume taken by the pile. Note: the density of iron = 0.284 lb/in3. 
+Solution: (a) For a spherical particle of D = 0.002 in, V = D3/6 = (0.002)3/6 
+= 0.00000000418 = 4.18 x 10-9 in3/particle Weight per particle W = V = 0.284(4.18 x 10-9 in3) = 1.19 x 10-9 lb/particle Number of particles in 2 lb = 2.0/(1.19 x 10-9) = 1.681 x 109 A = D2= (0.002)2 = 0.00001256 in2 = 12.56 x 10-6 in2 Total surface area = (1.681 x 109)(12.56 x 10-6) = 21.116 x 103 in2 
+(b) With a packing factor of 0.6, the total volume taken up by the pile = (2.0/0.284)/0.6 = 11.74 in3 
+16.6 Solve Problem 16.5, except that the diameter of the particles is 0.004 in. Assume the same packing factor. 
+Solution: (a) For a spherical particle of D = 0.004 in, V = D3/6 = (0.004)3/6 
+= 0.00000003351 = 33.51 x 10-9 in3/particle Weight per particle W = V = 0.284(33.51 x 10-9 in3) = 9.516 x 10-9 lb/particle Number of particles in 2 lb = 2.0/(9.516 x 10-9) = 0.2102 x 109 A = D2= (0.004)2 = 0.00005027 in2 = 50.27 x 10-6 in2 Total surface area = (0.2102 x 109)(50.27 x 10-6) = 10.565 x 103 in2 
+(b) With a packing factor of 0.6, the total volume taken up by the pile = (2.0/0.284)/0.6 = 11.74 in3 
+16.7 Suppose in Problem 16.5 that the average particle diameter = 0.002 in; however, the sizes vary, forming a statistical distribution as follows: 25% of the particles by weight are 0.001 in, 50% are 
+0.002 in, and 25% are 0.003 in. Given this distribution, what is the total surface area of all the particles in the pile? 
+Solution: For a spherical particle of D = 0.001 in, V = D3/6 = (0.001)3/6 = 0.5236 x 10-9 in3/particle 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+05-01-09, 05-11-09 
+Weight per particle W = V = 0.284(0.5236 x 10-9 in3) = 0.1487 x 10-9 lb/particle 
+Particles of size D = 0.001 in constitute 25% of total 2 lb. = 0.5 lb 
+Number of particles in 0.5 lb = 0.5/(0.1487 x 10-9) = 3.362 x 109 
+A = D2= (0.001)2 = 3.142 x 10-6 in2/particle 
+Total surface area of particles of D = 0.001 in = (3.362 x 109)(3.142 x 10-6) = 10.563 x 103 in2 
+For a spherical particle of D = 0.002 in, V = (0.002)3/6 = 4.18 x 10-9 in3/particle Weight per particle W = V = 0.284(4.18 x 10-9 in3) = 1.19 x 10-9 lb/particle Particles of size D = 0.002 in constitute 50% of total 2 lb. = 1.0 lb Number of particles in 1 lb = 1.0/(1.19 x 10-9) = 0.8406 x 109 A = D2= (0.002)2 = 12.56 x 10-6 in2 Total surface area of particles of D = 0.002 in = (0.8406 x 109)(12.566 x 10-6) = 10.563 x 103 in2 
+For a spherical particle of D = 0.003 in, V = (0.003)3/6 = 14.137 x 10-9 in3/particle Weight per particle W = V = 0.284(14.137 x 10-9 in3) = 4.015 x 10-9 lb/particle Particles of size D = 0.003 in constitute 25% of total 2 lb. = 0.5 lb Number of particles in 0.5 lb = 0.5/(4.015 x 10-9) = 0.124 x 109 A = D2= (0.003)2 = 28.274 x 10-6 in2 Total surface area of particles of D = 0.003 in = (0.124 x 109)(28.274 x 10-6) = 3.506 x 103 in2 
+Total surface area of all particles = 10.563 x 103 + 10.563 x 103 + 3.506 x 103 = 24.632 x 103 in2. 
+16.8 A solid cube of copper with each side = 1.0 ft is converted into metallic powders of spherical shape by gas atomization. What is the percentage increase in total surface area if the diameter of each particle is 0.004 in (assume that all particles are the same size)? 
+Solution: Area of initial cube A = 6(1 ft)2 = 6 ft2 = 864 in2 
+Volume of cube V = (1 ft)3 = 1728 in3 
+Surface area of a spherical particle of D = 0.004 in is A = D2= (0.004)2 
+= 50.265 x 10-6 in3/particle 
+Volume of a spherical particle of D = 0.004 in is V = D3/6 = (0.004)3/6 
+= 33.51 x 10-9 in3/particle 
+Number of particles in 1 ft3 = 1728/33.51 x 10-9 = 51.567 x 109 
+Total surface area = (51.567 x 109)( 50.265 x 10-6 in3) = 2,592 x 103 = 2,592,000 in2 
+Percent increase = 100(2,592,000 -864)/864 = 299,900% 
+16.9 A solid cube of aluminum with each side = 1.0 m is converted into metallic powders of spherical shape by gas atomization. How much total surface area is added by the process if the diameter of each particle is 100 microns (assume that all particles are the same size)? 
+Solution: Area of starting cube A =6(1m)2 = 6 m2 
+Volume of starting cube V = (1m)3= 1m3 
+D = 100 m=0.1 mm =0.1 x10-3 m 
+Surface area of a sphere of D = 0.1 x 10-3 m is A = D2= (0.1 x 10-3)2 
+= 3.142 x 10-8 m3/particle 
+Volume of a sphere of D = 0.1 x 10-3 m is V = D3/6 = (0.1 x 10-3)3/6 
+= 0.5236 x 10-12 m3/particle 
+Number of particles in 1 m3 = 1.0/0.5236 x 10-12 = 1.91 x 1012 
+Total surface area = (1.91 x 1012)( 0.5236 x 10-12 m3) = 5.9958 x 104 = 59,958 m2 
+Added surface area = 59,958 -6 = 59,952 m2 
+16.10 Given a large volume of metallic powders, all of which are perfectly spherical and having the same exact diameter, what is the maximum possible packing factor that the powders can take? 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+05-01-09, 05-11-09 Solution: The maximum packing factor is achieved when the spherical particles are arranged as a face-centered cubic unit cell, similar to the atomic structure of FCC metals; see Figure 2.8(b). The unit cell of the FCC structure contains 8 spheres at the corners of the cube and 6 spheres on each face. Our approach to determine the packing factor will consist of: (1) finding the volume of the spheres and portions thereof that are contained in the cell, and (2) finding the volume of the unit cell cube. The ratio of (1) over (2) is the packing factor. 
+(1) 
+Volume of whole and/or partial spheres contained in the unit cell. The unit cell contains 6 half spheres in the faces of the cube and 8 one-eighth spheres in corners. The equivalent number of whole spheres = 6(.5) + 8(.125) = 4 spheres. Volume of 4 spheres = 4D3/6 = 2.0944 D3 where D = diameter of a sphere. 
+
+(2) 
+Volume of the cube of one unit cell. Consider that the diagonal of any face of the unit cell contains one full diameter (the sphere in the center of the cube face) and two half diameters (the spheres at the corners of the face). Thus, the diagonal of the cube face = 2D. Accordingly, the face is a square with each edge = D2 = 1.414D. The volume of the unit cell is therefore (1.414D)3 = 2.8284 D3. 
+
+
+The packing factor = 2.0944/2.8284 = 0.7405 = 74.05% 
+Compaction and Design Considerations 
+16.11 In a certain pressing operation, the metallic powder fed into the open die has a packing factor of 0.5. The pressing operation reduces the powders to 2/3 of their starting volume. In the subsequent sintering operation, shrinkage amounts to 10% on a volume basis. Given that these are the only factors that affect the structure of the finished part, determine its final porosity. 
+Solution: Packing factor = bulk density / true density Density = (specific volume)-1 Packing factor = true specific volume / bulk specific volume Pressing reduces bulk specific volume to 2/3 = 0.667 Sintering further reduces the bulk specific volume to 0.90 of value after pressing. Let true specific volume = 1.0 Thus for a packing factor of 0.5, bulk specific volume = 2.0. Packing factor after pressing and sintering = 1.0/(2.0 x .667 x .90) = 1.0/1.2 = 0.833 By Eq. (18.7), porosity = 1 -0.833 = 0.167 
+16.12 A bearing of simple geometry is to be pressed out of bronze powders, using a compacting pressure of 207 MPa. The outside diameter = 44 mm, the inside diameter = 22 mm, and the length of the bearing = 25 mm. What is the required press tonnage to perform this operation? 
+Solution: Projected area of part Ap = 0.25(Do 2-Di 2) = 0.25(442 -222) = 1140.4 mm2 F = Appc = 1140.4(207) = 236,062 N 
+16.13 The part shown in Figure P16.13 is to be pressed of iron powders using a compaction pressure of 75,000 lb/in2. Dimensions are inches. Determine (a) the most appropriate pressing direction, (b) the required press tonnage to perform this operation, and (c) the final weight of the part if the porosity is 10%. Assume shrinkage during sintering can be neglected. 
+Solution: (a) Most appropriate pressing direction is parallel to the part axis. 
+(b) 
+Press tonnage F = Appc Projected area of part Ap = 0.25(Do 2-Di 2) = 0.25(2.82 -0.8752) = 5.556 in2 F = Appc = 5.556(75,000) = 416,715 lb = 208 tons. 
+
+(c) 
+V = 0.25(2.82 -0.8752)(0.5) + 0.25(2.82 -1.52)(1.25 -0.5) = 0.25(3.5372 + 4.1925) = 6.071 in3 
+
+
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+05-01-09, 05-11-09 
+From Table 4.1, density of iron U = 0.284 lb/in3. 
+At 10% porosity, part weight W = 6.071(0.284)(0.90) = 1.55 lb. 
+16.14 For each of the four part drawings in Figure P16.14, indicate which PM class the parts belong to, whether the part must be pressed from one or two directions, and how many levels of press control will be required? Dimensions are mm. 
+Solution: (a) Class II, 2 directions because of axial thickness, one level of press control. 
+(b) 
+Class I, one direction part is relatively thin, one level of press control. 
+
+(c) 
+Class IV, 2 directions of pressing, 3 levels of press control required. 
+
+(d) 
+Class IV, 2 directions of pressing, 4 or 5 levels of press control due to multiple steps in part design. 
+
+
+
+
+

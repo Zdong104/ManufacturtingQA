@@ -1,0 +1,32 @@
+Problems 
+Electroplating 
+28.1 What volume (cm3) and weight (g) of zinc will be deposited onto a cathodic workpart if 10 amps of current are applied for one hour? 
+Solution: From Table 29.1, C = 4.75 x 10-2 mm3/A-s, cathode efficiency E = 95%. Volume V = ECIt = 0.95(4.75 x 10-2 mm3/A-s)(10 A)(1 hr)(3600 s/hr) = 1624.5 mm3 = 1.6245 cm3 
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 
+201 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+Density of zinc from Table 4.1 U = 7.15 g/cm3. Weight W = 1.6245(7.15) = 11.615 g 
+28.2 A sheet metal steel part with surface area = 100 cm2 is to be zinc plated. What average plating thickness will result if 15 amps are applied for 12 minutes in a chloride electrolyte solution? 
+Solution: From Table 29.1, C = 4.75 x 10-2 mm3/A-s, cathode efficiency E = 95%. Volume V = ECIt = 0.95(4.75 x 10-2 mm3/A-s)(15 A)(12 min)(60 s/min) = 487.35 mm3 Area A = 100 cm2 = 10,000 mm2 Plating thickness d = 487.35 mm3/10,000 mm2 = 0.049 mm 
+28.3 A sheet metal steel part with surface area = 15.0 in2 is to be chrome plated. What average plating thickness will result if 15 amps are applied for 10 minutes in a chromic acid-sulfate bath? 
+Solution: From Table 29.1, C = 0.92 x 10-4 in3/A-min, cathode efficiency E = 15%. Volume V = ECIt = 0.15(0.92 x 10-4)(15)(10) = 0.00207 in3. Plating thickness d = 0.00207/15 = 0.000138 in. 
+28.4 Twenty-five jewelry pieces, each with a surface area = 0.5 in2 are to be gold plated in a batch plating operation. (a) What average plating thickness will result if 8 amps are applied for 10 min in a cyanide bath? (b) What is the value of the gold that will be plated onto each piece if one ounce of gold is valued at $900? The density of gold = 0.698 lb/in3. 
+Solution: (a) From Table 29.1, C = 3.87 x 10-4 in3/A-min, cathode efficiency E = 80%. Volume V = ECIt = 0.80(3.87 x 10-4)(8)(10) = 0.02477 in3. With Q = 25 pieces and average area per piece = 0.5 in2, total area A = 25(0.5) = 12.5 in2 Plating thickness d = 0.02477/12.5 = 0.00198 in. 
+(b) Given density for gold U = 0.698 lb/in3 Weight of plated gold = (0.698 lb/in3)(0.02477 in3) = 0.01729 lb = 0.277 oz. At $300/oz, the total value of plated gold = $900(0.277) = $249.30 The value per piece is $249.30/25 = $9.97 
+28.5 A part made of sheet steel is to be nickel plated. The part is a rectangular flat plate that is 0.075 cm thick and whose face dimensions are 14 cm by 19 cm. The plating operation is carried out in an acid sulfate electrolyte, using a current = 20 amps for a duration = 30 min. Determine the average thickness of the plated metal resulting from this operation. 
+Solution: From Table 29.1, C = 3.42 x 10-2 mm3/A-s, cathode efficiency E = 95%. Volume V = ECIt = 0.95(3.42 x 10-2 mm3/A-s)(20 A)(30 min)(60 s/min) = 1169.6 mm3 Area A = 2(19 x 14) + 0.075 x 2(19 + 14) = 536.95 cm2 = 53,695 mm2 Plating thickness d = 1169.6/53,695 = 0.022 mm 
+28.6 A steel sheet metal part has total surface area = 36 in2. How long will it take to deposit a copper plating (assume valence = +1) of thickness = 0.001 in onto the surface if 15 amps of current are applied? 
+Solution: From Table 29.1, C = 2.69 x 10-4 in3/A-min, cathode efficiency E = 98%. Required volume of plate metal = 36(0.001) = 0.036 in3 Plated volume V = ECIt = 0.98(2.69 x 10-4 in3/A-min)(15 A) t = 0.003954 t in3 0.003954 t = 0.036 t = 0.036/0.003954 = 9.1 min. 
+28.7 Increasing current is applied to a workpart surface in an electroplating process according to the relation I = 12.0 + 0.2t, where I = current, amps; and t = time, min. The plating metal is chromium, and the part is submersed in the plating solution for a duration of 20 min. What volume of coating will be applied in the process? 
+Solution: From Table 29.1, C = 0.92 x 10-4 in3/A-min, cathode efficiency E = 15%. Plated volume V = ECIdt = EC(12 + 0.2t)dt = EC(12t + 0.1t2) over the range 0 to 20 min. 
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 
+202 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+V = 0.15(0.92 x 10-4)(12 x 20 + 0.1(20)2) = 0.00386 in3 
+28.8 A batch of 100 parts is to be nickel plated in a barrel plating operation. The parts are identical, each with a surface area A = 7.8 in2. The plating process applies a current I = 120 amps, and the batch takes 40 minutes to complete. Determine the average plating thickness on the parts. 
+Solution: From Table 29.1, C = 1.25 x 10-4 in3/A-min, cathode efficiency E = 95%. Volume V = ECIt = 0.95(1.25 x 10-4)(120)(40) = 0.57 in3. Area A = 100(7.8) = 780 in2 Plating thickness d = 0.57/780 = 0.00073 in. 
+28.9 A batch of 40 identical parts is to be chrome plated using racks. Each part has a surface are = 22.7 cm2. If it is desired to plate an average thickness = 0.010 mm on the surface of each part, how long should the plating operation be allowed to run at a current = 80 amps? 
+Solution: From Table 29.1, C = 2.5 x 10-2 mm3/A-s, cathode efficiency E = 15%. Volume V = ECIt = 0.15(2.5 x 10-2 mm3/A-s)(80 A)t = 0.3t mm3 With Q = 40 pieces and average area per piece = 22.7 mm2, total area A = 40(22.7) = 908 cm2 = 90,800 mm2 Plating thickness d = V/A = (0.3 t mm3)/(90,800 mm2) = 0.03304(10-4) t mm Given that d = 0.010 mm, 0.03304(10-4) t = 0.010 Thus, t = 0.010/0.03304(10-4) = 0.3027 x 104 = 3027 s = 50.44 min. 
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 
+203 
+

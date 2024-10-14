@@ -1,0 +1,96 @@
+Problems 
+Buoyancy Force 
+11.1 An 92% aluminum-8% copper alloy casting is made in a sand mold using a sand core that weighs 20 kg. Determine the buoyancy force in Newtons tending to lift the core during pouring. 
+Solution: Sand density = 1.6 g/cm3 = 0.0016 kg/cm3 Core volume V = 20/0.0016 = 12,500 cm3 Density of aluminum-copper alloyU = 2.81 g/cm3 = 0.00281 kg/cm3 (Table 11.1). Weight of displaced Al-Cu W = 12,500(0.00281) = 35.125 kg Fb = Wm -Wc Difference = (35.125 -20) x 9.815 = 148.5 N 
+11.2 A sand core located inside a mold cavity has a volume of 157.0 in3. It is used in the casting of a cast iron pump housing. Determine the buoyancy force that will tend to lift the core during pouring. 
+Solution: Sand density = 0.058 lb/in3 Wc = 157(0.058) = 9.11 lb From Table 13.1, density of cast iron U = 0.26 lb/in3 Wm = 157(0.26) = 40.82 lb Fb = Wm -Wc Fb = 40.82 -9.11 = 31.71 lb 
+11.3 Caplets are used to support a sand core inside a sand mold cavity. The design of the caplets and the manner in which they are placed in the mold cavity surface allows each caplet to sustain a force of 10 lb. Several caplets are located beneath the core to support it before pouring; and several other caplets are placed above the core to resist the buoyancy force during pouring. If the volume of the core = 325 in.3, and the metal poured is brass, determine the minimum number of caplets that should be placed (a) beneath the core, and (b) above the core. 
+Solution: Sand density = 0.058 lb/in3. From Table 11.1, density of brass U = 0.313 lb/in3. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 03-19-09, 03-22-09 
+(a) 
+Wc = 325(0.058) = 18.85 lb At least 2 caplets are required beneath to support the weight of the core. Probably 3 or 4 caplets would be better to achieve stability. 
+
+(b) 
+Wm = 325(.313) = 101.73 lb Fb = 101.73 -18.85 = 82.88 lb A total of 9 caplets are required above the core to resist the buoyancy force. 
+
+
+11.4 A sand core used to form the internal surfaces of a steel casting experiences a buoyancy force of 23 kg. The volume of the mold cavity forming the outside surface of the casting = 5000 cm3. What is the weight of the final casting? Ignore considerations of shrinkage. 
+Solution: Sand density = 1.6 g/cm3, steel casting density U = 7.82 g/cm3 Fb = Wm -Wc = 7.82V -1.6V = 6.22V = 23 kg = 23,000 g V = 3698 cm3. Cavity volume V = 5000 cm3 Volume of casting V = 5000 -3698 = 1302 cm3. Weight of the final casting W = 1302(7.82) = 10,184 g = 10.184 kg 
+Centrifugal Casting 
+11.5 A horizontal true centrifugal casting operation will be used to make copper tubing. The lengths will be 1.5 m with outside diameter = 15.0 cm, and inside diameter = 12.5 cm. If the rotational speed of the pipe = 1000 rev/min, determine the G-factor. 
+Solution: From Eq. (11.4), GF = R(N/30)2/g = 7.5((1000)/30)2/981 = 83.8 
+11.6 A true centrifugal casting operation is to be performed in a horizontal configuration to make cast iron pipe sections. The sections will have a length = 42.0 in, outside diameter = 8.0 in, and wall thickness = 0.50 in. If the rotational speed of the pipe = 500 rev/min, determine the G-factor. Is the operation likely to be successful? 
+Solution: Using outside wall of casting, R = 0.5(8)/12 = 0.333 ft. v = RN/30 = (0.333)(500)/30 = 17.45 ft/sec. GF = v2/Rg = (17.45)2/(0.333 x 32.2) = 28.38 Since the G-factor is less than 60, the rotational speed is not sufficient, and the operation is likely to be unsuccessful. 
+11.7 A horizontal true centrifugal casting process is used to make brass bushings with the following dimensions: length = 10 cm, outside diameter = 15 cm, and inside diameter = 12 cm. (a) Determine the required rotational speed in order to obtain a G-factor of 70. (b) When operating at this speed, what is the centrifugal force per square meter (Pa) imposed by the molten metal on the inside wall of the mold? 
+Solution: (a) Using the outside wall diameter of the casting, which is equal to the inside wall diameter of the mold, D = 15 cm N = (30/)(2g x 70/15).5 = 913.7 rev/min. 
+(b) Use 1.0 cm of mold wall length as basis of area calculations. Area of this length of mold wall A = DoL = (15 cm)(1 cm) = 15S cm2 = 15(10-4) m2 Volume of cast metal V = (Ro 2-Ri 2)(1.0) = ((7.5)2 -(6)2)(1.0) = 63.62 cm3 Mass m = (8.62g/cm3)(63.62 cm3) = 548.4 g = 0.5484 kg v = RN/30 Use mean radius R = (7.5 + 6.0)/2 = 6.75 cm v = (6.75)(913.7)/30 = 645.86 cm/s = 6.4585 m/s Centrifugal force per square meter on mold wall = Fc/A where Fc = mv2/R Fc = (0.5484 kg)(6.4586 m/s)2/(6.75 x 10-2 m) = 338.9 kg-m/s2 Given that 1 N = 9.81 kg-m/s2, Fc = 338.9/9.81 = 34.55 N 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+03-19-09, 03-22-09 Fc/A = (34.55 N)/(15S x 10-4 m2) = 0.7331(104) N/m2 = 7331 Pa 
+11.8 True centrifugal casting is performed horizontally to make large diameter copper tube sections. The tubes have a length = 1.0 m, diameter = 0.25 m, and wall thickness = 15 mm. (a) If the rotational speed of the pipe = 700 rev/min, determine the G-factor on the molten metal. (b) Is the rotational speed sufficient to avoid "rain?" (c) What volume of molten metal must be poured into the mold to make the casting if solidification shrinkage and contraction after solidification are considered? Solidification shrinkage for copper = 4.5%, and solid thermal contraction = 7.5%. 
+Solution: (a) GF = v2/Rg g = 9.8 m/s2 v = RN/30 = (.125)(700)/30 = 9.163 m/s GF = (9.163)2/(0.125 x 9.8) = 68.54 
+(b) 
+G-factor is sufficient for a successful casting operation. 
+
+(c) 
+Volume of final product after solidification and cooling is V = (0.252 -(0.25-.03)2)S x 1.0/4 = 0.25(0.252 -0.222) = 0.011074 m3 Given: solidification shrinkage = 4.5% and solid thermal contraction = 7.5% for copper. Taking these factors into account, Volume of molten metal V = 0.011074/(1 -0.045)(1 -0.075) = 0.01254 m3 
+
+
+11.9 If a true centrifugal casting operation were to be performed in a space station circling the Earth, how would weightlessness affect the process? 
+Solution: The mass of molten metal would be unaffected by the absence of gravity, but its weight would be zero. Thus, in the G-factor equation (GF = v2/Rg), GF would theoretically go to infinity if g = 0. Thus, it should be possible to force the metal against the walls of the mold in centrifugal casting without the nuisance of “raining” inside the cavity. However, this all assumes that the metal is inside the mold and rotating with it. In the absence of gravity, there would be a problem in pouring the molten metal into the mold cavity and getting it to adhere to the mold wall as the mold begins to rotate. With no gravity the liquid metal would not be forced against the lower surface of the mold to initiate the centrifugal action. 
+11.10 A horizontal true centrifugal casting process is used to make aluminum rings with the following dimensions: length = 5 cm, outside diameter = 65 cm, and inside diameter = 60 cm. (a) Determine the rotational speed that will provide a G-factor = 60. (b) Suppose that the ring were made out of steel instead of aluminum. If the rotational speed computed in part (a) were used in the steel casting operation, determine the G-factor and (c) centrifugal force per square meter (Pa) on the mold wall. 
+(d) 
+Would this rotational speed result in a successful operation? 
+
+Solution: (a) Use inside diameter of mold in Eq. (11.5), D = Do = 65 cm. Use g = 981 cm/s2, N = 30(2g x GF/D).5/S = 30(2 x 981 x 60/65).5/S = 406.4 rev/min. 
+
+(b) 
+Rotational speed would be the same as in part (a) because mass does not enter the computation of rotational speed. N = 406.4 rev/min 
+
+(c) 
+Use 5 cm ring length as basis of area calculations. Area of this length of mold wall A = DoL = (65 cm)(5 cm) = 1021 cm2 = 0.1021 m2 Volume of cast metal V = (Ro 2-Ri 2)(L) = ((65/2)2 -(60/2)2)(5.0) = 2454.4 cm3 Density of steel U = 7.87 g/cm3 Mass m = (7.87g/cm3)(2454.4 cm3) = 19,315.9 g = 19.316 kg v = RN/30 Use mean radius R = (65 + 60)/4 = 31.25 cm = 0.3125 m v = (31.25)(406.4)/30 = 1329.9 cm/s = 13.299 m/s Centrifugal force per square meter on mold wall = Fc/A where Fc = mv2/R Fc = (19.316 kg)(13.299 m/s)2/(0.3125 m) = 10,932.1 kg-m/s2 Given that 1 N = 9.81 kg-m/s2, Fc = 10,932.1/9.81 = 1114.4 N 
+
+
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 03-19-09, 03-22-09 
+Fc/A = (1114.4 N)/(0.1021 m2) = 10,914.7 N/m2 = 10,914.7 Pa 
+(d) The G-factor of 60 would probably result in a successful casting operation. 
+11.11 For the steel ring of preceding Problem 11.10(b), determine the volume of molten metal that must be poured into the mold, given that the liquid shrinkage is 0.5%, solidification shrinkage = 3%, and solid contraction after freezing = 7.2%. 
+Solution: Volume of final casting V = (Ro 2-Ri 2)L = (32.52 -302)(5) = 2454.4 cm3 Given that the molten metal shrinkage = 0.5%, and from Table 10.1, the solidification shrinkage for steel = 3% and the solid contraction during cooling = 7.2%, the total volumetric contraction is (1-0.005)(1-0.03)(1-0.072) = 0.8957 The required starting volume of molten metal V = 2454.4/(0.8957) = 2740.2 cm3 
+11.12 A horizontal true centrifugal casting process is used to make lead pipe for chemical plants. The pipe has length = 0.5 m, outside diameter = 70 mm, and wall thickness = 6.0 mm. Determine the rotational speed that will provide a G-factor = 60. 
+Solution: D =70mm =0.07 m. g=9.8m/s2 
+N = 30(2g x GF/D).5/S = 30(2 x 9.8 x 60/.07).5/S = 1237.7 rev/min. 
+11.13 A vertical true centrifugal casting process is used to make tube sections with length = 10.0 in and outside diameter = 6.0 in. The inside diameter of the tube = 5.5 in at the top and 5.0 in at the bottom. At what speed must the tube be rotated during the operation in order to achieve these specifications? 
+2 2).5
+Solution: Use Eq. (11.6) to make the computation of N: N = (30/)(2gL/(Rt -Rb 
+L = 10 in = 0.8333 ft 
+Rt = 5.5/2 = 2.75 in = 0.22917 ft 
+Rb = 5.0/2 = 2.50 in = 0.20833 ft 
+N = (30/)(2 x 32.2 x .8333/(0.229172 -0.208332).5 = 9.5493(5888).5 = 732.7 rev/min 
+11.14 A vertical true centrifugal casting process is used to produce bushings that are 200 mm long and 200 mm in outside diameter. If the rotational speed during solidification is 500 rev/min, determine the inside diameter at the top of the bushing if the inside diameter at the bottom is 150 mm. 
+Solution: L = 200 mm = 0.2 m. Rb = 150/2 = 75 mm = 0.075 m. 
+2 2).5 2
+N = (30/)(2gL/(Rt -Rb = (30/)(2 x 9.8 x 0.2/(Rt -0.0752)).5 
+N = (30/)(3.92/(Rt 2 -0.005625)).5 = 500 rev/min 
+(3.92/(Rt 2-0.005625)).5 = 500/30 = 52.36 
+3.92/(Rt 2-.005625) = (52.36)2 = 2741.56 
+Rt 2-.005625 = 3.92/2741.56 = 0.00143 
+Rt 2 = .005625 + 0.001430 = 0.007055 
+Rt = (0.007055).5 = .08399 m = 83.99 mm. 
+Dt = 2(83.99) = 167.98 mm. 
+11.15 A vertical true centrifugal casting process is used to cast brass tubing that is 15.0 in long and whose outside diameter = 8.0 in. If the speed of rotation during solidification is 1000 rev/min, determine the inside diameters at the top and bottom of the tubing if the total weight of the final casting = 75.0 lbs. 
+Solution: For brass, density U = 0.313 lb/in3 (Table 11.1). Volume of casting V = 75.0/.313 = 239.6 in3 Assume the inside wall of the casting is straight from top to bottom (an approximation of the parabolic shape). The average inside radius Ri = (Rt + Rb)/2 Volume V = (Ro 2-Ri 2)L = (4.02 -Ri 2)(15.0) = 239.6 in3 (4.02 -Ri 2) = 239.6/15S = 5.085 Ri 2 = 16.0 -5.085 = 10.915 in2 Ri = 3.304 in 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 03-19-09, 03-22-09 
+Let Rt = Ri + y = 3.304 + y and Rb = Ri -y = 3.304 -y, where y = one-half the difference between Rt and Rb. 
+2 2).5
+N = (30/)(2gL/(Rt -Rb = (30/)(2 x 32.2 x 12 x 15/((3.304+y)2-(3.304-y)2)).5 Given N = 1000 rev/min, thus 1000/30 = (11592/((3.304+y)2-(3.304-y)2)).5 ((3.304+y)2-(3.304-y)2).5 = 30(11592).5/1000S = 1.02814 (3.3042 + 6.608y + y2 -(3.3042 -6.608y + y2)).5 = 1.02814 
+2 2).5
+(3.3042 + 6.608y + y -3.3042 + 6.608y -y = 1.02814 (2 x 6.608y).5 = (13.216y).5 = 1.02814 
+3.635 (y).5 = 1.02814 y = .080 in. 
+Rt = 3.304 + 0.080 = 3.384 in. Dt = 6.768 in. Rb = 3.304 -0.080 = 3.224 in. Db = 6.448 in. 
+Defects and Design Considerations 
+11.16 The housing for a certain machinery product is made of two components, both aluminum castings. The larger component has the shape of a dish sink, and the second component is a flat cover that is attached to the first component to create an enclosed space for the machinery parts. Sand casting is used to produce the two castings, both of which are plagued by defects in the form of misruns and cold shuts. The foreman complains that the parts are too thin, and that is the reason for the defects. However, it is known that the same components are cast successfully in other foundries. What other explanation can be given for the defects? 
+Solution: Misruns and cold shuts result from low fluidity. One possible reason for the defects in this case is that the thickness of the casting cross sections is too small. However, given that the casting of these parts is successfully accomplished at other foundries, two other possible explanations are (1) the pouring temperature is too low, and (2) the pouring operation is performed too slowly. 
+11.17 A large steel sand casting shows the characteristic signs of penetration defect: a surface consisting of a mixture of sand and metal. (a) What steps can be taken to correct the defect? (b) What other possible defects might result from taking each of these steps? 
+Solution: (a) What are the possible corrective steps? (1) Reduce pouring temperature. (2) Increase the packing of the mold sand to resist penetration. (3) Treat the mold cavity surface to make it harder. 
+(b) What possible defects might result from each of these steps? In the case of step (1), the risk is for cold shuts and misruns. Steps (2) and (3) would reduce permeability of the sand, thus increasing the risk of sand blows and pin holes. 
+
+

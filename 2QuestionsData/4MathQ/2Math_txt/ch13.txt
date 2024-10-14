@@ -1,0 +1,133 @@
+Problems 
+Extrusion 
+
+13.1 The diameter of an extruder barrel is 65 mm and its length = 1.75 m. The screw rotates at 55 rev/min. The screw channel depth = 5.0 mm, and the flight angle = 18. The head pressure at the die end of the barrel is 5.0 x 106 Pa. The viscosity of the polymer melt is given as 100 Pa-s. Find the volume flow rate of the plastic in the barrel. 
+Solution: Qd = 0.52(65x10-3)2(55/60)(5x10-3)sin 18 cos 18 = 95,560x10-9(0.3090)(0.9510) = 28.081 x 10-6 m3/s p = 5 MPa = 5x106 n/m2 Qb = (5x106)(65x10-3)(5x10-3)3(sin 18)2/12(100)(1.75) = 5.804(10-6) m3/s Qx = 28.081 -5.804 = 22.277 x 10-6 m3/s. 
+
+13.2 An extruder has a diameter of 5.0 in and a length to diameter ratio of 26. The barrel heats the polypropylene melt to 450°F, which provides a melt viscosity of 0.0025 lb-s/in2. The pitch of the screw is 4.2 in and the channel depth is 0.15 in. In operation the screw rotates at 50 rev/min and a head pressure of 450 lb/in2 is generated. What is the volume flow rate of polypropylene from the die at the end of the barrel? 
+
+Solution: 
+A = tan-1(p/()) = tan-1(4.2/(5)) = 15° Qd = 0.52 D2 N dc sinA cosA = 0.52 (5.02)(50/60) 0.15 sin 15 cos 15 = 3.9 in3/sec Qb = pDdc 3sin2A/(12L) = 450π(5.0)(0.153)sin215/(12(0.0025)(5.0)(26)) = 0.41 in3/sec Qx = Qd – Qb = 3.9 – 0.41 = 3.5 in3/sec 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 03-27-09, 04-28-09 
+13.3 An extruder barrel has a diameter of 110 mm and a length of 3.0 m. The screw channel depth = 7.0 mm, and its pitch = 95 mm. The viscosity of the polymer melt is 105 Pa-s, and the head pressure in the barrel is 4.0 MPa. What rotational speed of the screw is required to achieve a volumetric flow rate of 90 cm3/s? 
+Solution: A = tan-1(p/()) = tan-1(95/110) = 15.37q Qd = 0.52 D2 N dc sinAcosA = 0.52(0.110)2(N)(7.0x10-3)sin 15.37 cos 15.37 = 106.8 N x 10-6 m3/s Qb = (4x106)(0.110)(7x10-3)3(sin 15.37)2/12(105)(3.0) = 8.81 x 10-6 m3/s Qx = Qd -Qb = 106.8 N x 10-6 – 8.81 x 10-6 = 90 x 10-6 m3/s 
+106.8 N = 90.0 + 8.81 = 98.81 N = 98.81/106.8 = 0.9252 rev/s = 55.51 rev/min. 
+
+13.4 An extruder has a barrel diameter of 2.5 in and a length of 6.0 ft. The screw has a channel depth of 
+0.25 in, a flight angle of 20°, and rotates at 55 rev/min. The material being extruded is polypropylene. At the present settings, the volumetric flow rate of the polymer melt is 1.50 in3/sec and the head pressure is 500 lb/in2. (a) Under these operating characteristics, what is the viscosity of the polypropylene? (b) Using Figure 13.2, approximate the temperature in °F of the polypropylene. 
+
+Solution: (a) Qd = 0.52 D2 Ndc sinA cosA = 0.52(2.52)(55/60)(0.25)sin 20 cos 20 Qd = 2.27 in3/sec Qb = Qd – Qx = 2.27 – 1.50 = 0.78 in3/sec &#24; = pDdc 3 in2 A/(12 QbL) = 500(2.5)(0.253)sin2(20)/(12(0.78)(6)(12)) = 0.011 lb-s/in2 
+(b) X-axis is Log scale. Therefore LOG(0.011) = -1.96 This is very close to –2, which is at the 10-2 hash mark on the y-axis. This yields about 410°F. 
+
+13.5 An extruder has diameter = 80 mm and length = 2.0 m. Its screw has a channel depth = 5 mm, flight angle = 18 degrees, and it rotates at 1 rev/sec. The plastic melt has a shear viscosity = 150 Pa-s. Determine the extruder characteristic by computing Qmax and pmax and then finding the equation of the straight line between them. 
+
+Solution: Qmax = Qd = 0.52(0.08)2(1)(5x10-3)sin 18 cos 18 = 0.158 x 10-3(0.3090)(0.9510) = 46.4 x 10-6 m3/s pmax = 6(0.08)(1)(2)(150)(cot 18)/(5x10-3)2 = 452.4(3.077)/25x10-6 = 55 x 106 Pa = 55 MPa Qx = 46.4 x 10-6 -(46.4x10-6/55)p Qx = 46.4 x 10-6 -0.8436 x 10-6 p, where p has units of MPa 
+13.6 Determine the helix angle A such that the screw pitch p is equal to the screw diameter D. This is called the "square" angle in plastics extrusion -the angle that provides a flight advance equal to one diameter for each rotation of the screw. 
+
+Solution: Assume flight land = zero. From Eq. (15.4), tan A = pitch/D If pitch = D, then A = tan-1(1/) = 17.66q 
+13.7 An extruder barrel has a diameter of 2.5 in. The screw rotates at 60 rev/min; its channel depth = 0.20 in, and its flight angle = 17.5. The head pressure at the die end of the barrel is 800 lb/in2 and the length of the barrel is 50 in. The viscosity of the polymer melt is 122 x 10-4 lb-sec/in2. Determine the volume flow rate of the plastic in the barrel. 
+Solution: Qd = 0.52(2.5)2(1)(.2)sin 17.5 cos 17.5 = 0.5(12.337)(0.3007)(0.9537) = 1.769 in3/sec Qb = (800)(2.5)(.2)3(sin 17.5)2/12(122x10-4)(50) = 0.621 in3/sec Qx = 1.769 -0.621 = 1.148 in3/sec. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 03-27-09, 04-28-09 
+13.8 An extruder barrel has a diameter of 4.0 in and an L/D ratio of 28. The screw channel depth = 0.25 in, and its pitch = 4.8 in. It rotates at 60 rev/min. The viscosity of the polymer melt is 100 x 10-4 lb-sec/in2. What head pressure is required to obtain a volume flow rate = 150 in3/min? 
+Solution: A = tan-1(pitch/D) = tan-1(4.8/4) = 20.9q Qd = 0.52(4)2(1)(0.25)sin 20.9 cos 20.9 = 19.74(0.3567)(0.9342) = 6.578 in3/sec = 394.66 in3/min Qx = Qd -Qb = 394.66 -Qd = 150 Qb = 394.66 -150 = 244.66 in3/min = 4.078 in3/sec L = 4(28) = 112 in. Qb = p(4)(0.25)3(sin 20.9)2/(12(100x10-4)(112)) = 4.078 0.0018592 p = 4.078 
+p = 2193.4 lb/in2 
+
+13.9 An extrusion operation produces continuous tubing with outside diameter = 2.0 in and inside diameter = 1.7 in. The extruder barrel has a diameter = 4.0 in and length = 10 ft. The screw rotates at 50 rev/min; it has a channel depth = 0.25 in and flight angle = 16. The head pressure has a value of 350 lb/in2 and the viscosity of the polymer melt is 80 x 10-4 lb-sec/in2. Under these conditions, what is the production rate in length of tube/min, assuming the extrudate is pulled at a rate that eliminates the effect of die swell (i.e., the tubing has the same OD and ID as the die profile)? 
+Solution: Qd = 0.52(4)2(50/60)(.25)sin 16 cos 16 = 16.45(0.2756)(0.9613) = 4.358 in3/sec Qb = (350)(4)(.25)3(sin 16)2/(12(80x10-4)(120)) = 0.453 in3/sec Qx = 4.358 -0.453 = 3.905 in3/sec. Ax = 0.25(22 -1.72) = 0.872 in2 vx = 3.905/0.872 = 4.478 in/sec = 22.39 ft/min. 
+13.10 Continuous tubing is produced in a plastic extrusion operation through a die orifice whose outside diameter = 2.0 in and inside diameter = 1.5 in. The extruder barrel diameter = 5.0 in and length = 12 ft. The screw rotates at 50 rev/min; it has a channel depth = 0.30 in and flight angle = 16. The head pressure has a value of 350 lb/in2 and the viscosity of the polymer melt is 90 x 10-4 lb-sec/in2. Under these conditions, what is the production rate in length of tube/min, given that the die swell ratio is 1.25. 
+Solution: Qd = 0.52(5)2(50/60)(.3)sin 16 cos 16 = 30.84(0.2756)(0.9613) = 8.171 in3/sec Qb = (350)(5)(.3)3(sin 16)2/(12(90x10-4)(144)) = 0.725 in3/sec Qx = 8.171 -0.725 = 7.446 in3/sec Die swell ratio applied to OD and ID: OD = 2(1.25) = 2.5, ID = 1.5(1.25) = 1.875 Ax = 0.25(2.52 -1.8752) = 2.1476 in2 vx = 7.446/2.1476 = 3.467 in/sec = 17.34 ft/min 
+13.11 An extruder has barrel diameter and length of 100 mm and 2.8 m, respectively. The screw rotational speed = 50 rev/min, channel depth = 7.5 mm, and flight angle = 17. The plastic melt has a shear viscosity = 175 Pa-s. Determine: (a) the extruder characteristic, (b) the shape factor Ks for a circular die opening with diameter = 3.0 mm and length = 12.0 mm, and (c) the operating point (Q and p). 
+Solution: Qmax = Qd = 0.52(.1)2(50/60)(7.5x10-3) sin 17 cos 17 = 308.4 x 10-6(0.2924)(0.9563) 
+= 86.2 x 10-6 m3/s pmax = 6(.1)(50/60)(2.8)(175)(cot 17)/(7.5x10-3)2 = 44.75 x 106 Pa =44.75 MPa Qx = 86.2 x 10-6 -1.926 x 10-12 p, where p has units of Pa 
+(b) 
+Given: Dd = 3 mm, Ld = 12 mm. Ks = (3 x 10-3)4/(128(175)(12 x 10-3)) = 0.9467 x 10-12 
+
+(c) 
+0.9467 x 10-12 p = 86.2 x 10-6 -1.926 x 10-12 p 2.8727 x 10-12 p = 86.2 x 10-6 
+
+
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+03-27-09, 04-28-09 p = 30.0 x 106 Pa = 30 MPa Qx = 0.9467 x 10-12 (30 x 106) = 28.4 x 10-6 m3/s 
+Check with extruder characteristic: Qx = 86.2 x 10-6 -1.926 x 10-12 (30 x 106) = 28.4 x 10-6 m3/s. 
+13.12 For Problem 13.11, assume the material is acrylic. (a) Using Figure 13.2, determine the temperature of the polymer melt. (b) If the temperature is lowered 20°C, estimate the resulting viscosity of the polymer melt. (Hint: the y-axis of Figure 13.2 is a log scale, not linear). 
+Solution: (a) When viscosity = 175 Pa-s, Log(175) = 2.243, and temperature is approximately 260°C. 
+(b) At 240°C, Log(viscosity) is approximately 2.7 and viscosity = 102.7 = 500 Pa-s. (Note: due to the log scale, small changes in the estimate will result in large changes in viscosity. 
+13.13 Consider an extruder in which the barrel diameter = 4.5 in and length = 11 ft. The extruder screw rotates at 60 rev/min; it has channel depth = 0.35 in and flight angle = 20. The plastic melt has a shear viscosity = 125 x 10-4 lb-sec/in2. Determine: (a) Qmax and pmax; (b) the shape factor Ks for a circular die opening in which Dd = 0.312 in and Ld = 0.75 in; and (c) the values of Q and p at the operating point. 
+Solution: (a) Qmax = 0.52(4.5)2(1)(0.35)sin 20 cos 20 = 34.975(0.342)(0.9397) = 11.24 in3/sec pmax = 6(4.5)(1)(132)(0.0125)(cot 20)/(0.35)2 = 3139 lb/in2 
+(b) 
+Given: Dd = 0.312 in., Ld = 0.75 in. Ks = (0.312)4/128(0.0125)(0.75) = 0.024808 
+
+(c) 
+From (a), Qx = Qmax -(Qmax/pmax)p = 11.24 -0.003581p From (b), Qx = 0.024808p Combining, .024808p = 11.24 -.003581p 0.02839p = 11.24 p = 395.9 lb/in2 Qx = 11.24 -0.003581(395.9) = 9.82 in3/sec 
+
+
+13.14 An extruder has a barrel diameter = 5.0 in and length = 12 ft. The extruder screw rotates at 50 rev/min; it has channel depth = 0.30 in and flight angle = 17.7. The plastic melt has a shear viscosity = 100 x 10-4 lb-sec/in2. Find: (a) the extruder characteristic, (b) the values of Q and p at the operating point, given that the die characteristic is Qx = 0.00150 p. 
+Solution: (a) Qmax = 0.52(5)2(50/60)(0.3)sin 17.7 cos 17.7 = 30.84(0.3040)(0.9527) = 8.93 in3/sec pmax = 6(5)(50/60)(144)(0.01)(cot 17.7)/(0.3)2 = 3937.6 lb/in2 Qx = Qmax -(Qmax/pmax)p = 8.93 -0.002268p 
+(b) Given: die characteristic Qx = 0.0015p Qx = 8.93 -0.002268p = 0.0015p 0.00377p = 8.93 p = 2370 lb/in2 Qx = 8.93 -0.002268(2370) = 3.55 in3/sec 
+13.15 Given the data in Problem 13.14, except that the flight angle of the extruder screw is a variable instead of a constant 17.7. Use a spreadsheet calculator to determine the value of the flight angle that maximizes the volumetric flow rate Qx. Explore values of flight angle between 10q and 20. Determine the optimum value to the nearest tenth of a degree. 
+Solution: The author’s spreadsheet computations returned an optimum value of 13.5. 
+13.16 An extruder has a barrel diameter of 3.5 in and a length of 5.0 ft. It has a screw channel depth of 0.16 in and a flight angle of 22. The extruder screw rotates at 75 rev/min. The polymer melt has a shear viscosity = 65 x 10-4 lb-sec/in2 at the operating temperature of 525°F. The specific gravity of the polymer is 1.2 and its tensile strength is 8000 lb/in2. A T-shaped cross section is extruded at a rate of 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 03-27-09, 04-28-09 
+0.11 lb/sec. The density of water is 62.5 lb/ft3. (a) Find the equation for the extruder characteristic. 
+(b) Find the operating point (Q and p), and (c) the die characteristic that is indicated by the operating point. 
+Solution: (a) Qmax = 0.52 D2 Ndc sinA cosA 
+= 0.52(3.5)2(75/60)(0.16)sin 22 cos 22 = 4.199 in3/sec pmax = 6&#24; cot A/dc 2 =6(3.5)(75/60)(60)(0.0065)(cot 22)/(0.16)2 = 989.8 lb/in2 Qx = Qmax -(Qmax/pmax)p = 4.199 -0.004242p 
+(b) Given: T-shaped cross section extruded at 0.14 lb/sec. Density of polymer U = specific gravity of polymer x water =1.2(62.4 lb/ft3) = 75 lb/ft3 Convert to lb/in3: = 75 lb/ft3 /(123 in3/ft3) = 0.0433 lb/in3 Qx = 0.11/0.0433 = 2.540 in3/sec. 2.540 = 4.199 -0.004242p 0.004242p = 4.199 – 2.540 = 1.659 
+
+
+
+p = 391.1 lb/in2 
+(c) Qx = Ks p Ks = Qx/p = 2.540/391.1 = 0.00649 
+
+Qx = 0.00649 p 
+Injection Molding 
+13.17 Compute the percentage volumetric contraction of a polyethylene molded part, based on the value of shrinkage given in Table 13.1. 
+Solution: S = 0.025 for polyethylene from Table 13.1. Volumetric contraction = 1.0 -(1 -.025)3 = 1.0 -0.92686 = 0.07314 = 7.314% 
+Note that we are not using the parameter S from Table 13.1 in the way it was intended to be used. Its intended use is to compute the oversized dimension of a mold cavity in injection molding. Instead, we are using the shrinkage term to calculate the amount of (volumetric) reduction in size of the part after the polymer is injected into the cavity. In fact, a slightly different shrinkage parameter value may apply in this case. 
+13.18 The specified dimension = 225.00 mm for a certain injection molded part made of ABS. Compute the corresponding dimension to which the mold cavity should be machined, using the value of shrinkage given in Table 13.1. 
+Solution: S = 0.006 for ABS from Table 13.1. Dc = 225.00 + 225.00(0.006) + 225.00(0.006)2 = 225.00 + 1.35 + 0.0081 = 226.36 mm. 
+13.19 The part dimension for a certain injection molded part made of polycarbonate is specified as 3.75 in. Compute the corresponding dimension to which the mold cavity should be machined, using the value of shrinkage given in Table 13.1. 
+Solution: 
+S = 0.007 for polycarbonate from Table 13.1. Dc = 3.75 + 3.75(0.007) + 3.75 (0.007)2 = 3.75 + 0.0263 + 0.0002 = 3.7765 in. 
+
+13.20 The foreman in the injection molding department says that a polyethylene part produced in one of the operations has greater shrinkage than the calculations indicate it should have. The important dimension of the part is specified as 112.5 0.25 mm. However, the actual molded part measures 
+112.02 mm. (a) As a first step, the corresponding mold cavity dimension should be checked. Compute the correct value of the mold dimension, given that the shrinkage value for polyethylene is 
+0.025 (from Table 13.1). (b) What adjustments in process parameters could be made to reduce the amount of shrinkage? 
+
+Solution: 
+(a) Given: S = 0.025, Dc = 112.5 + 112.5(.025) + 112.5(.025)2 = 115.383 mm 
+(b) Adjustments to reduce shrinkage include: (1) increase injection pressure, (2) increase compaction time, and (3) increase molding temperatures. 
+
+13.21 An injection molded polyethylene part has a dimension of 2.500 in. A new material, polycarbonate, is used in the same mold. What is the expected corresponding dimension of the polycarbonate molding? 
+Solution: For polyethylene the shrinkage is 0.025 in/in (from Table 13.1). Die Cavity = Dc = Dp + DpS + DpS2 = 2.500 + 2.500(0.025) + 2.500(0.025)2 = 2.564 in For polycarbonate, the shrinkage is 0.007 in/in Part dimension = Dc/(1 + S + S2) = 2.564/(1 + 0.007 + 0.0072) = 2.546 in 
+Other Molding Operations and Thermoforming 
+
+13.22 The extrusion die for a polyethylene parison used in blow molding has a mean diameter of 18.0 mm. The size of the ring opening in the die is 2.0 mm. The mean diameter of the parison is observed to swell to a size of 21.5mm after exiting the die orifice. If the diameter of the blow molded container is to be 150 mm, determine (a) the corresponding wall thickness of the container and (b) the wall thickness of the parison. 
+
+Solution: 
+(a) rs = Dp/Dd = 21.5/18.0 = 1.194 tm = tp Dp/Dm = rstd Dp/Dm = (1.194)(2.0)(21.5)/150.0 = 0.342 mm 
+(b) tp = rs td = (1.194)(2.0) = 2.388 mm 
+
+13.23 A parison is extruded from a die with outside diameter = 11.5 mm and inside diameter = 7.5 mm. The observed die swell is 1.25. The parison is used to blow mold a beverage container whose outside diameter = 112 mm (a standard size 2-liter soda bottle). (a) What is the corresponding wall thickness of the container? (b) Obtain an empty 2-liter plastic soda bottle and (carefully) cut it across the diameter. Using a micrometer, measure the wall thickness to compare with your answer in (a). 
+Solution: (a) Dd = (11.5 + 7.5)/2 = 9.5 mm, and td = (11.5 -7.5)/2 = 2.0 mm tm = (1.25)2(2.0)(9.5)/112 = 0.265 mm (= 0.010 in) 
+(b) Measured value should be close to calculated value. Some wall thicknesses are less. 
+
+13.24 A blow-molding operation is used to produce a bottle with a diameter of 2.250 in and a wall thickness of 0.045 in. The parison has a thickness of 0.290 in. The observed die swell ratio is 1.30. 
+(a) What is the required diameter of the parison? (b) What is the diameter of the die? 
+
+Solution: 
+(a) Dp = tmDm/tp = (0.045)(2.250)/0.290 = 0.349 in 
+(b)Dd = Dp/rs = 0.349/1.30 = 0.268 in 
+
+
+13.25 An extrusion operation is used to produce a parison whose mean diameter = 27 mm. The inside and outside diameters of the die that produced the parison are 18 mm and 22 mm, respectively. If the minimum wall thickness of the blow-molded container is to be 0.40 mm, what is the maximum possible diameter of the blow mold? 
+Solution: Dd = (22 + 18)/2 = 20 mm, and td = (22 -18)/2 =2mm rs = 27/20 = 1.35 Rearranging Eq. (13.22) in text, Dm = rsd 3tdDd/tm = (1.35)2(2)(20)/(0.40) = 182.25 mm 
+13.26 A rotational molding operation is to be used to mold a hollow playing ball out of polypropylene. The ball will be 1.25 ft in diameter and its wall thickness should be 3/32 in. What weight of PP powder should be loaded into the mold in order to meet these specifications? The specific gravity of the PP grade is 0.90, and the density of water is 62.4 lb/ft3. 
+Solution: Density U = specific gravity of polymer x water = 0.90(62.4 lb/ft3) = 56.2 lb/ft3 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 03-27-09, 04-28-09 
+Convert to lb/in3: ! = 56.2 lb/ft3 /(1728 in3/ft3) = 0.0325 lb/in3 Volume = (Do 3-Di 3)/6 = 0.16667[(1.25x12)3 -(1.25x12 -3/16)3] = 10.91 in3 Weight W = (10.91)(0.0325) = 0.355 lb. 
+13.27 The problem in a certain thermoforming operation is that there is too much thinning in the walls of the large cup-shaped part. The operation is conventional pressure thermoforming using a positive mold, and the plastic is an ABS sheet with an initial thickness of 3.2 mm. (a) Why is thinning occurring in the walls of the cup? (b) What changes could be made in the operation to correct the problem? 
+Solution: (a) As the starting flat sheet is draped over the convex cup-shaped mold, the portion contacting the base of the cup experiences little stretching. However, the remaining portions of the sheet must be stretched significantly to conform to the sides of the cup. Hence, thinning in these sides results. 
+(b) The problem could be solved by either: (1) fabricating a negative mold to replace the current positive mold, since a negative mold will distribute the material more uniformly and result in approximately equal thinning throughout the sheet; or (2) prestretch the sheet as in Figure 13.38 in the text. 
+
+

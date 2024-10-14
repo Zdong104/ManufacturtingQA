@@ -1,0 +1,248 @@
+Problems 
+Strength and Ductility in Tension 
+3.1 A tensile test uses a test specimen that has a gage length of 50 mm and an area = 200 mm2. During the test the specimen yields under a load of 98,000 N. The corresponding gage length = 50.23 mm. This is the 0.2 percent yield point. The maximum load of 168,000 N is reached at a gage length = 
+64.2 mm. Determine (a) yield strength, (b) modulus of elasticity, and (c) tensile strength. (d) If fracture occurs at a gage length of 67.3 mm, determine the percent elongation. (e) If the specimen necked to an area = 92 mm2, determine the percent reduction in area. 
+Solution: (a) Y = 98,000/200 = 490 MPa. 
+(b) 
+s = E e Subtracting the 0.2% offset, e = (50.23 -50.0)/50.0 -0.002 = 0.0026 E = s/e = 490/0.0026 = 188.5 x 103 MPa. 
+
+(c) 
+TS = 168,000/200 = 840 MPa. 
+
+(d) 
+EL = (67.3 -50)/50 = 17.3/50 = 0.346 = 34.6% 
+
+(e) 
+AR = (200 -92)/200 = 0.54 = 54% 
+
+
+3.2 A test specimen in a tensile test has a gage length of 2.0 in and an area = 0.5 in2. During the test the specimen yields under a load of 32,000 lb. The corresponding gage length = 2.0083 in. This is the 0.2 percent yield point. The maximum load of 60,000 lb is reached at a gage length = 2.60 in. Determine 
+(a) yield strength, (b) modulus of elasticity, and (c) tensile strength. (d) If fracture occurs at a gage length of 2.92 in, determine the percent elongation. (e) If the specimen necked to an area = 0.25 in2, determine the percent reduction in area. 
+Solution: (a) Y = 32,000/0.5 = 64,000 lb/in2 
+(b) 
+s = E e Subtracting the 0.2% offset, e = (2.0083 -2.0)/2.0 -0.002 = 0.00215 E = s/e = 64,000/0.00215 = 29.77 x 106 lb/in2 
+
+(c) TS = 60,000/0.5 = 120,000 lb/in2 
+
+(d) 
+EL = (2.92 -2.0)/2.0 = 0.92/2.0 = 0.46 = 46% 
+
+(e) 
+AR = (0.5 -0.25)/0.5 = 0.50 = 50% 
+
+
+3.3 During a tensile test in which the starting gage length = 125.0 mm and the cross-sectional area = 62.5 mm2, the following force and gage length data are collected (1) 17,793 N at 125.23 mm, (2) 23,042 N at 131.25 mm, (3) 27,579 N at 140.05 mm, (4) 28, 913 N at 147.01 mm, (5) 27,578 N at 153.00 mm, and (6) 20,462 N at 160.10 mm. The maximum load is 28,913 N and the final data point occurred immediately prior to failure. (a) Plot the engineering stress strain curve. Determine (b) yield strength, 
+(c) 
+modulus of elasticity, and (d) tensile strength. 
+
+Solution: (a) Student exercise. 
+
+(b) 
+From the plot, Y = 310.27 MPa. 
+
+(c) 
+First data point is prior to yielding. Strain e = (125.23 -125)/125 = 0.00184, E = 310.27/0.00184 = 168,625 MPa. 
+
+(d) 
+From the plot, TS = 462.6 MPa. Also, TS = 28,913/62.5 = 462.6 MPa. 
+
+Flow Curve 
+3.4 In Problem 3.3, determine the strength coefficient and the strain-hardening exponent in the flow curve equation. Be sure not to use data after the point at which necking occurred. 
+Solution: Starting volume of test specimen V = 125(62.5) = 7812.5 mm3. Select two data points: (1) F = 23042 N and L = 131.25 mm; (2) F = 28913 N and L = 147.01 mm. 
+(1) 
+A = V/L = 7812.5/131.25 = 59.524 mm2. Stress V = 23042/59.524 = 387.1 MPa. Strain H = ln(131.25/125) = 0.0488 
+
+(2) 
+A = 7812.5/147.01 = 53.143 mm2. Stress V = 28913/53.143 = 544.1 MPa. Strain H = ln(147.01/125) = 0.1622 
+
+Substituting these values into the flow curve equation, we have 
+
+(1) 
+387.1 = K(0.0488)n and (2) 544.1 = K(0.1622)n 544.1/387.1 = (0.1622/0.0488)n 1.4056 = (3.3238)n ln(1.4056) = n ln(3.3238) 0.3405 = 1.2011 n n = 0.283 
+
+
+Substituting this value with the data back into the flow curve equation, we obtain the value of the strength coefficient K: K = 387.1/(0.0488).283 = 909.9 MPa K = 544.1/(0.1622).283 = 910.4 MPa Use average K = 910.2 MPa 
+The flow curve equation is: V = 910.2 0.283 
+3.5 In a tensile test on a metal specimen, true strain = 0.08 at a stress = 265 MPa. When true stress = 325 MPa, true strain = 0.27. Determine the strength coefficient and the strain-hardening exponent in the flow curve equation. 
+Solution: (1) 265 = K(0.08)n and (2) 325 = K(0.27)n 
+325/265 = (0.27/0.08)n 1.2264 = (3.375)n 
+n ln(3.375) = ln(1.2264) 1.2164 n = 0.2041 n = 0.1678 
+Substituting this value with the data back into the flow curve equation, we obtain the value of the strength coefficient K: 
+(1) 
+K = 265/(0.08).1678 = 404.85 MPa 
+
+(2) 
+K = 325/(0.27).1678 = 404.85 MPa 
+
+The flow curve equation is: V = 404.85 0.1678 
+
+3.6 During a tensile test, a metal has a true strain = 0.10 at a true stress = 37,000 lb/in2. Later, at a true stress = 55,000 lb/in2, true strain = 0.25. Determine the strength coefficient and strain-hardening exponent in the flow curve equation. 
+Solution: (1) 37,000 = K(0.10)n and (2) 55,000 = K(0.25)n 
+55,000/37,000 = (0.25/0.10)n 1.4865 = (2.5)n 
+n ln(2.5) = ln(1.4865) 0.9163 n = 0.3964 n = 0.4326 
+Substituting this value with the data back into the flow curve equation, we obtain the value of the strength coefficient K: (1) K = 37,000/(0.10)0.4326 = 100,191 lb/in2 (2) K = 55,000/(0.25)0.4326 = 100,191 lb/in2 
+The flow curve equation is: V = 100,191 0.4326 
+
+3.7 In a tensile test a metal begins to neck at a true strain = 0.28 with a corresponding true stress = 345.0 MPa. Without knowing any more about the test, can you estimate the strength coefficient and the strain-hardening exponent in the flow curve equation? 
+Solution: If we assume that n = H when necking starts, then n = 0.28. Using this value in the flow curve equation, we have K = 345/(0.28).28 = 492.7 MPa 
+The flow curve equation is: V = 492.7 0.28 
+3.8 A tensile test for a certain metal provides flow curve parameters: strain-hardening exponent is 0.3 and strength coefficient is 600 MPa. Determine (a) the flow stress at a true strain = 1.0 and (b) true strain at a flow stress = 600 MPa. 
+Solution: (a) Yf = 600(1.0).3 = 600 MPa 
+(b) H = (600/600)1/.3 = (1.0)3.33 = 1.00 
+3.9 The flow curve for a certain metal has a strain-hardening exponent of 0.22 and strength coefficient of 54,000 lb/in2. Determine (a) the flow stress at a true strain = 0.45 and (b) the true strain at a flow stress = 40,000 lb/in2. 
+Solution: (a) Yf = 54,000(0.45).22 = 45,300 lb/in2 
+(b) H = (40,000/54,000)1/.22 = (0.7407)4.545 = 0.256 
+3.10 A metal is deformed in a tension test into its plastic region. The starting specimen had a gage length = 
+2.0 in and an area = 0.50 in2. At one point in the tensile test, the gage length = 2.5 in, and the corresponding engineering stress = 24,000 lb/in2; at another point in the test prior to necking, the gage length = 3.2 in, and the corresponding engineering stress = 28,000 lb/in2. Determine the strength coefficient and the strain-hardening exponent for this metal. 
+Solution: Starting volume V = LoAo = 2.0(0.5) = 1.0 in3 
+(1) A = V/L = 1.0/2.5 = 0.4 in2 So, true stress V = 24,000(0.5)/0.4 = 31,250 lb/in2 and H = ln(2.5/2.0) = 0.223 
+(2) A = 1.0/3.2 = 0.3125 in2 So, true stress V = 28,000(0.5)/0.3125 = 44,800 lb/in2 and H = ln(3.2/2.0) = 0.470 
+These are two data points with which to determine the parameters of the flow curve equation. 
+(1) 
+31,250 = K(0.223)n and (2) 44,800 = K(0.470)n 44,800/31,250 = (0.470/0.223)n 1.4336 = (2.1076)n ln(1.4336) = n ln(2.1076) 0.3602 = .7455 n n = 0.483 
+
+(1) K = 31,250/(0.223).483 = 64,513 lb/in2 
+
+(2) 
+K = 44,800/(0.470).483 = 64,516 lb/in2 Use average K = 64,515 lb/in2 
+
+
+The flow curve equation is: V = 64,515 0.483 
+3.11 A tensile test specimen has a starting gage length = 75.0 mm. It is elongated during the test to a length = 110.0 mm before necking occurs. Determine (a) the engineering strain and (b) the true strain. 
+(c) 
+Compute and sum the engineering strains as the specimen elongates from: (1) 75.0 to 80.0 mm, 
+
+(2) 
+80.0 to 85.0 mm, (3) 85.0 to 90.0 mm, (4) 90.0 to 95.0 mm, (5) 95.0 to 100.0 mm, (6) 100.0 to 
+
+
+105.0 mm, and (7) 105.0 to 110.0 mm. (d) Is the result closer to the answer to part (a) or part (b)? Does this help to show what is meant by the term true strain? 
+Solution: (a) Engineering strain e = (110 -75)/75 = 35/75 = 0.4667 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 03-02-09, 03-02-09 
+(b) 
+True strain H = ln(110/75) = ln(1.4667) = 0.383 
+
+(c) 
+(1) L = 75 to 80 mm: e = (80 -75)/75 = 5/75 = 0.0667 
+
+(2) 
+L = 80 to 85 mm: e = (85 -80)/80 = 5/80 = 0.0625 
+
+(3) 
+L = 85 to 90 mm: e = (90 -85)/85 = 5/85 = 0.0588 
+
+(4) 
+L = 90 to 95 mm: e = (95 -90)/90 = 5/90 = 0.0556 
+
+(5) 
+L = 95 to 100 mm: e = (100 -95)/95 = 5/95 = 0.0526 
+
+(6) 
+L = 100 to 105 mm: e = (105 -100)/100 = 5/100 = 0.0500 
+
+(7) 
+L = 105 to 110 mm: e = (110 -105)/105 = 5/105 = 0.0476 
+
+Sum of incremental engineering strain values = 0.3938 
+
+(d) 
+The resulting sum in (c) is close to the true strain value in (b). The summation process is an approximation of the integration over the range from 75 to 110 mm in (b). As the interval size is reduced, the summation becomes closer to the integration value. 
+
+
+3.12 A tensile specimen is elongated to twice its original length. Determine the engineering strain and true strain for this test. If the metal had been strained in compression, determine the final compressed length of the specimen such that (a) the engineering strain is equal to the same value as in tension (it will be negative value because of compression), and (b) the true strain would be equal to the same value as in tension (again, it will be negative value because of compression). Note that the answer to part (a) is an impossible result. True strain is therefore a better measure of strain during plastic deformation. 
+Solution: Engineering strain e = (2.0 -1.0)/1.0 = 1.0 True strain H = ln(2.0/1.0) = ln(2.0) = 0.693 
+(a) 
+To be compressed to the same engineering strain (e = -1.0) the final height of the compression specimen would have to be zero, which is impossible. 
+
+(b) 
+To be compressed to the same true strain value (e = -0.693) the final height of the compression specimen can be determined as follows: H = -.693 = ln(Lf/Lo) Lf/Lo = exp.(-0.693) = 0.500 Therefore, Lf = 0.5 Lo 
+
+
+3.13 Derive an expression for true strain as a function of D and Do for a tensile test specimen of round cross section, where D = the instantaneous diameter of the specimen and Do is its original diameter. 
+Solution: Starting with the definition of true strain as H = ln(L/Lo) and assuming constant volume, we have V = AoLo = AL Therefore, L/Lo = Ao/A A = D2 and Ao = Do 2 
+2 /D2
+Ao/A = Do = (Do/D)2 
+H = ln(Do/D)2 = 2ln(Do/D) 
+
+3.14 Show that true strain = ln(1 + e), where e = engineering strain. 
+Solution: Starting definitions: (1) H = ln(L/Lo) and (2) e = (L -Lo)/Lo Consider definition (2): e = L/Lo -Lo/Lo = L/Lo -1 Rearranging, 1 + e = L/Lo Substituting this into definition (1), H = ln(1 + e) 
+3.15 Based on results of a tensile test, the flow curve strain-hardening exponent = 0.40 and strength coefficient = 551.6 MPa. Based on this information, calculate the (engineering) tensile strength for the metal. 
+
+Solution: Tensile strength occurs at maximum value of load. Necking begins immediately thereafter. At necking, n = .  Therefore, V = 551.6(0.4)0.4 = 382.3 MPa. This is a true stress. TS is defined as an engineering stress. From Problem 3.15, we know that H = 2 ln(Do/D). Therefore, 
+0.4 =2ln(Do/D) ln(Do/D) = .4/2 = 0.2 Do/D = exp(0.2) = 1.221 Area ratio = (Do/D)2 = (1.221)2 = 1.4918 The ratio between true stress and engineering stress would be the same ratio. Therefore, TS = 1.4918(382.3) = 570.3 MPa 
+3.16 A copper wire of diameter 0.80 mm fails at an engineering stress = 248.2 MPa. Its ductility is measured as 75% reduction of area. Determine the true stress and true strain at failure. 
+Solution: Area reduction AR = (Ao -Af)/Ao = 0.75 Ao -Af = 0.75 Ao Ao -0.75Ao = 0.25 Ao = Af If engineering stress = 248.2 MPa, then true stress V = 248.2/0.25 = 992.8 MPa True strain H = ln(Lf/Lo) = ln(Ao/Af) = ln(4) = 1.386.  However, it should be noted that these values are associated with the necked portion of the test specimen. 
+3.17 A steel tensile specimen with starting gage length = 2.0 in and cross-sectional area = 0.5 in2 reaches a maximum load of 37,000 lb. Its elongation at this point is 24%. Determine the true stress and true strain at this maximum load. 
+Solution: Elongation = (L -Lo)/Lo = 0.24 L -Lo = 0.24 Lo L = 1.24 Lo A = Ao/1.24 = 0.8065 Ao True stress V = 37,000/0.8065(0.5) = 91,754 lb/in2 True strain H = ln(1.24) = 0.215 
+Compression 
+3.18 A metal alloy has been tested in a tensile test with the following results for the flow curve parameters: strength coefficient = 620.5 MPa and strain-hardening exponent = 0.26. The same metal is now tested in a compression test in which the starting height of the specimen = 62.5 mm and its diameter = 25 mm. Assuming that the cross section increases uniformly, determine the load required to compress the specimen to a height of (a) 50 mm and (b) 37.5 mm. 
+Solution: Starting volume of test specimen V = hDo 2/4 = 62.5(25)2/4 = 30679.6 mm3. 
+(a) 
+At h = 50 mm, H = ln(62.5/50) = ln(1.25) = 0.223 Yf = 620.5(.223).26 = 420.1 MPa A = V/L = 30679.6/50 = 613.6 mm2 F = 420.1(613.6) = 257,770 N 
+
+(b) 
+At h = 37.5 mm, H = ln(62.5/37.5) = ln(1.667) = 0.511 Yf = 620.5(0.511).26 = 521.1 MPa A = V/L = 30679.6 /37.5 = 818.1 mm2 F = 521.1(818.1) = 426,312 N 
+
+
+3.19 The flow curve parameters for a certain stainless steel are strength coefficient = 1100 MPa and strain-hardening exponent = 0.35. A cylindrical specimen of starting cross-sectional area = 1000 mm2 and height = 75 mm is compressed to a height of 58 mm. Determine the force required to achieve this compression, assuming that the cross section increases uniformly. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+03-02-09, 03-02-09 Solution: For h = 58 mm, H = ln(75/58) = ln(1.293) = 0.257 Yf = 1100(.257).35 = 683.7 MPa Starting volume V = 75(1000) = 75,000 mm3 At h = 58 mm, A = V/L = 75,000/58 = 1293.1 mm2 F = 683.7(1293.1) = 884,095 N. 
+3.20 A steel test specimen (modulus of elasticity = 30 x 106 lb/in2) in a compression test has a starting height = 2.0 in and diameter = 1.5 in. The metal yields (0.2% offset) at a load = 140,000 lb. At a load of 260,000 lb, the height has been reduced to 1.6 in. Determine (a) yield strength and (b) flow curve parameters (strength coefficient and strain-hardening exponent). Assume that the cross-sectional area increases uniformly during the test. 
+Solution: (a) Starting volume of test specimen V = hD2/4 = 2(1.5)2/4 = 3.534 in3. Ao = Do/4 = (1.5)2/4 = 1.767 in2 Y = 140,000/1.767 = 79,224 lb/in2 
+(b) Elastic strain at Y = 79,224 lb/in2 is e = Y/E = 79,224/30,000,000 = 0.00264 Strain including offset = 0.00264 + 0.002 = 0.00464 Height h at strain = 0.00464 is h = 2.0(1 -0.00464) = 1.9907 in. Area A = 3.534/1.9907 = 1.775 in2. True strain V = 140,000/1.775 = 78,862 lb/in2. 
+At F = 260,000 lb, A = 3.534/1.6 = 2.209 in2. True stress V = 260,000/2.209 = 117,714 lb/in2. True strain H = ln(2.0/1.6) = 0.223 
+Given the two points: (1) V = 78,862 lb/in2 at H = 0.00464, and (2) V = 117,714 lb/in2 at H = 0.223. 117,714/78,862 = (0.223/0.00464)n 1.493 = (48.06)n ln(1.493) = n ln(48.06) 0.4006 = 3.872 nn = 0.103 K = 117,714/(0.223)0.103 = 137,389 lb/in2. 
+The flow curve equation is: V = 137,389 .103 
+Bending and Shear 
+3.21 A bend test is used for a certain hard material. If the transverse rupture strength of the material is known to be 1000 MPa, what is the anticipated load at which the specimen is likely to fail, given that its width = 15 mm, thickness = 10 mm, and length = 60 mm? 
+Solution: F = (TRS)(bt2)/1.5L = 1000(15 x 102)/(1.5 x 60) = 16,667 N. 
+3.22 A special ceramic specimen is tested in a bend test. Its width = 0.50 in and thickness = 0.25 in. The length of the specimen between supports = 2.0 in. Determine the transverse rupture strength if failure occurs at a load = 1700 lb. 
+Solution: TRS = 1.5FL/bt2 = 1.5(1700)(2.0)/(0.5 x 0.252) = 163,200 lb/in2. 
+3.23 A torsion test specimen has a radius = 25 mm, wall thickness = 3 mm, and gage length = 50 mm. In testing, a torque of 900 N-m results in an angular deflection = 0.3. Determine (a) the shear stress, (b) shear strain, and (c) shear modulus, assuming the specimen had not yet yielded. (d) If failure of the specimen occurs at a torque = 1200 N-m and a corresponding angular deflection = 10, what is the shear strength of the metal? 
+Solution: (a) W = T/(2R2t) = (900 x 1000)/(2(25)2(3)) = 76.39 MPa. 
+(b) J = R/L, D = 0.3(2/360) = 0.005236 radians 
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 03-02-09, 03-02-09 J = 25(0.005236)/50 = 0.002618 
+(c) 
+W = G, G = /J = 76.39/0.002618 = 29,179 MPa. 
+
+(d) 
+S = (1200(103))/(2(25)2(3)) = 101.86 MPa. 
+
+
+3.24 In a torsion test, a torque of 5000 ft-lb is applied which causes an angular deflection = 1q on a thin-walled tubular specimen whose radius = 1.5 in, wall thickness = 0.10 in, and gage length = 2.0 in. Determine (a) the shear stress, (b) shear strain, and (c) shear modulus, assuming the specimen had not yet yielded. (d) If the specimen fails at a torque = 8000 ft-lb and an angular deflection = 23, calculate the shear strength of the metal. 
+Solution: (a) W = T/(2R2t) = (5000 x 12)/(2(1.5)2(0.1)) = 42,441 lb/in2. 
+(b) 
+J = R/L, D = 1(2/360) = 0.01745 rad., J = 1.5(0.01745)/2.0 = 0.01309 
+
+(c) 
+W = G, G = /J = 42,441/0.01309 = 3.24 x 106 lb/in2. 
+
+(d) 
+S = (8000 x 12)/(2(1.5)2(0.1)) = 67,906 lb/in2. 
+
+
+Hardness 
+3.25 In a Brinell hardness test, a 1500-kg load is pressed into a specimen using a 10-mm-diameter hardened steel ball. The resulting indentation has a diameter = 3.2 mm. (a) Determine the Brinell hardness number for the metal. (b) If the specimen is steel, estimate the tensile strength of the steel. 
+Solution: (a) HB = 2(1500)/(10(10 -(102 -3.22).5) = 3000/(10S x 0.5258) = 182 BHN 
+(b) The estimating formula is: TS = 500(HB). For a tested hardness of HB = 182, TS = 500(182) = 91,000 lb/in2. 
+3.26 One of the inspectors in the quality control department has frequently used the Brinell and Rockwell hardness tests, for which equipment is available in the company. He claims that all hardness tests are based on the same principle as the Brinell test, which is that hardness is always measured as the applied load divided by the area of the impressions made by an indentor. (a) Is he correct? (b) If not, what are some of the other principles involved in hardness testing, and what are the associated tests? 
+Solution: (a) No, the claim is not correct. Not all hardness tests are based on the applied load divided by area, but many of them are. 
+(b) Some of the other hardness tests and operating principles include: (1) Rockwell hardness test, which measures the depth of indentation of a cone resulting from an applied load; (2) Scleroscope, which measures the rebound height of a hammer dropped from a certain distance against a surface specimen; and (3) Durometer, which measures elastic deformation by pressing an indentor into the surface of rubber and similar soft materials. 
+3.27 A batch of annealed steel has just been received from the vendor. It is supposed to have a tensile strength in the range 60,000 -70,000 lb/in2. A Brinell hardness test in the receiving department yields a value of HB = 118. (a) Does the steel meet the specification on tensile strength? (b) Estimate the yield strength of the material. 
+Solution: (a) TS = 500(HB) = 500(118) = 59,000 lb/in2. This lies outside the specified range of 60,000 to 70,000 lb/in2. However, from a legal standpoint, it is unlikely that the batch can be rejected on the basis of its measured Brinell hardness number without using an actual tensile test to measure TS. The formula for converting from Brinell hardness number to tensile strength is only an approximating equation. 
+(b) Based on Table 3.2 in the text, the ratio of Y to TS for low carbon steel = 25,000/45,000 = 
+0.555. Using this ratio, we can estimate the yield strength to be Y = 0.555(59,000) = 32,700 lb/in2. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 03-02-09, 03-02-09 
+
+
+
+Viscosity of Fluids 
+3.28 Two flat plates, separated by a space of 4 mm, are moving relative to each other at a velocity of 5 m/sec. The space between them is occupied by a fluid of unknown viscosity. The motion of the plates is resisted by a shear stress of 10 Pa due to the viscosity of the fluid. Assuming that the velocity gradient of the fluid is constant, determine the coefficient of viscosity of the fluid. 
+Solution: Shear rate = (5 m/s x 1000 mm/m)/(4 mm) = 1250 s-1 K = (10N/m2)/(1250 s-1) = 0.008 N-s/m2 = 0.008 Pa-s 
+3.29 Two parallel surfaces, separated by a space of 0.5 in that is occupied by a fluid, are moving relative to each other at a velocity of 25 in/sec. The motion is resisted by a shear stress of 0.3 lb/in2 due to the viscosity of the fluid. If the velocity gradient in the space between the surfaces is constant, determine the viscosity of the fluid. 
+Solution: Shear rate = (25 in/sec)/(0.5 in) = 50 sec-1 K = (0.3 lb/in2)/(50 sec-1) = 0.0006 lb-sec/in2. 
+3.30 A 125.0-mm-diameter shaft rotates inside a stationary bushing whose inside diameter = 125.6 mm and length = 50.0 mm. In the clearance between the shaft and the bushing is a lubricating oil whose viscosity = 0.14 Pa-s. The shaft rotates at a velocity of 400 rev/min; this speed and the action of the oil are sufficient to keep the shaft centered inside the bushing. Determine the magnitude of the torque due to viscosity that acts to resist the rotation of the shaft. 
+Solution: Bushing internal bearing area A = (125.6)2 x 50/4 = 19729.6 mm2 = 19729.2(10-6) m2 d = (125.6 -125)/2 = 0.3 mm v = (125S mm/rev)(400 rev/min)(1 min/60 sec) = 2618.0 mm/s Shear rate = 2618/0.3 = 8726.6 s-1 W = (0.14)(8726.6) = 1221.7 Pa = 1221.7 N/mm2 Force on surface between shaft and bushing = (1221.7 N/mm2)(19729.2(10-6)) = 24.1 N Torque T = 24.1 N x 125/2 mm = 1506.4 N-mm = 1.506 N-m 
+
+

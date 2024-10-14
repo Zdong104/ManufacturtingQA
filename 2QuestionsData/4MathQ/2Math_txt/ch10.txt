@@ -1,0 +1,164 @@
+Problems 
+Heating and Pouring 
+10.1 A disk 40 cm in diameter and 5 cm thick is to be cast of pure aluminum in an open mold casting operation. The melting temperature of aluminum = 660C, and the pouring temperature will be 800C. Assume that the amount of aluminum heated will be 5% more than what is needed to fill the mold cavity. Compute the amount of heat that must be added to the metal to heat it to the pouring temperature, starting from a room temperature of 25C. The heat of fusion of aluminum = 389.3 J/g. Other properties can be obtained from Tables 4.1 and 4.2 in the text. Assume the specific heat has the same value for solid and molten aluminum. 
+Solution: Volume V = D2h/4= (40)2(5)/4 = 6283.2 cm3 Volume of aluminum to be heated = 6283.2(1.05) = 6597.3 cm3 From Table 4.1 and 4.2, density U = 2.70 g/cm3 and specific heat C = 0.21 Cal/g-C = 0.88 J/g-C 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+03-13-09 Heat required = 2.70(6597.3){0.88(660-25) + 389.3 + 0.88(800-660)} = 17,812.71{558.8 + 389.3 + 123.2} = 19,082,756 J 
+10.2 A sufficient amount of pure copper is to be heated for casting a large plate in an open mold. The plate has dimensions: length = 20 in, width = 10 in, and thickness = 3 in. Compute the amount of heat that must be added to the metal to heat it to a temperature of 2150F for pouring. Assume that the amount of metal heated will be 10% more than what is needed to fill the mold cavity. Properties of the metal are: density = 0.324 lbm/in3, melting point = 1981F, specific heat of the metal = 0.093 Btu/lbm-F in the solid state and 0.090 Btu/lbm-F in the liquid state, and heat of fusion = 80 Btu/lbm. 
+Solution: Volume V = (20 x 10 x 3)(1 + 10%) = 600(1.1) = 660.0 in3 Assuming To = 75 F and using Eq. (10.1), H = 0.324 x 660{0.093(1981 -75) + 80 + 0.090(2150 -1981)} = 213.84{177.26 + 80 + 15.21} 
+H = 58,265 Btu 
+10.3 The downsprue leading into the runner of a certain mold has a length = 175 mm. The cross-sectional area at the base of the sprue is 400 mm2. The mold cavity has a volume = 0.001 m3. Determine (a) the velocity of the molten metal flowing through the base of the downsprue, (b) the volume rate of flow, and (c) the time required to fill the mold cavity. 
+Solution: (a) Velocity v = (2 x 9815 x 175)0.5 = (3,435,096)0.5 = 1853 mm/s 
+(b) 
+Volume flow rate Q = vA = 1853 x 400 = 741,200 mm3/s 
+
+(c) 
+Time to fill cavity TMF = V/Q = 1,000,000/741,200 = 1.35 s 
+
+
+10.4 A mold has a downsprue of length = 6.0 in. The cross-sectional area at the bottom of the sprue is 0.5 in2. The sprue leads into a horizontal runner which feeds the mold cavity, whose volume = 75 in3. Determine (a) the velocity of the molten metal flowing through the base of the downsprue, (b) the volume rate of flow, and (c) the time required to fill the mold cavity. 
+Solution: (a) Velocity v = (2 x 32.2 x 12 x 6.0)0.5 = (4636.8)0.5 = 68.1 in/sec 
+(b) 
+Volume flow rate Q = vA = 68.1 x 0.5 = 34.05 in3/sec 
+
+(c) 
+Time to fill cavity TMF = V/Q = 75.0/34.05 = 2.2 sec. 
+
+
+10.5 The flow rate of liquid metal into the downsprue of a mold = 1 liter/sec. The cross-sectional area at the top of the sprue = 800 mm2, and its length = 175 mm. What area should be used at the base of the sprue to avoid aspiration of the molten metal? 
+Solution: Flow rate Q = 1.0 l/s = 1,000,000 mm3/s Velocity v = (2 x 9815 x 175)0.5 = 1854 mm/s Area at base A = 1,000,000/1854 = 540 mm2 
+10.6 The volume rate of flow of molten metal into the downsprue from the pouring cup is 50 in3/sec. At the top where the pouring cup leads into the downsprue, the cross-sectional area = 1.0 in2. Determine what the area should be at the bottom of the sprue if its length = 8.0 in. It is desired to maintain a constant flow rate, top and bottom, in order to avoid aspiration of the liquid metal. 
+Solution: Velocity at base v = (2gh)0.5 = (2 x 32.2 x 12 x 8)0.5 = 78.6 in/sec Assuming volumetric continuity, area at base A = (50 in/sec)/(78.6 in/sec) = 0.636 in2 
+10.7 Molten metal can be poured into the pouring cup of a sand mold at a steady rate of 1000 cm3/s. The molten metal overflows the pouring cup and flows into the downsprue. The cross section of the sprue is round, with a diameter at the top = 3.4 cm. If the sprue is 25 cm long, determine the proper diameter at its base so as to maintain the same volume flow rate. 
+Solution: Velocity at base v = (2gh)0.5 = (2 x 981 x 25)0.5 = 221.5 cm/s Assuming volumetric continuity, area at base A = (1000 cm/s)/(221.5 cm/s) = 4.51 cm2 Area of sprue A = D2/4; rearranging, D2= 4A/S = 4(4.51)/S = 5.74 cm2 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 03-13-09 
+
+D = 2.39 cm 
+10.8 During pouring into a sand mold, the molten metal can be poured into the downsprue at a constant flow rate during the time it takes to fill the mold. At the end of pouring the sprue is filled and there is negligible metal in the pouring cup. The downsprue is 6.0 in long. Its cross-sectional area at the top = 
+0.8 in2 and at the base = 0.6 in2. The cross-sectional area of the runner leading from the sprue also = 
+0.6 in2, and it is 8.0 in long before leading into the mold cavity, whose volume = 65 in3. The volume of the riser located along the runner near the mold cavity = 25 in3. It takes a total of 3.0 sec to fill the entire mold (including cavity, riser, runner, and sprue. This is more than the theoretical time required, indicating a loss of velocity due to friction in the sprue and runner. Find (a) the theoretical velocity and flow rate at the base of the downsprue; (b) the total volume of the mold; (c) the actual velocity and flow rate at the base of the sprue; and (d) the loss of head in the gating system due to friction. 
+Solution: (a) Velocity v = (2 x 32.2 x 12 x 6.0)0.5 = 68.1 in/sec Flow rate Q = 68.1 x 0.60 = 40.8 in3/sec 
+(b) 
+Total V = 65.0 + 25.0 + 0.5(0.8 + 0.6)(6.0) + 0.6(8.0) = 99.0 in3 
+
+(c) 
+Actual flow rate Q = 99.0/3 = 33.0 in3/sec Actual velocity v = 33.0/0.6 = 55.0 in/sec 
+
+(d) 
+v = (2 x 32.2 x 12 x h)0.5 = 27.8 h0.5 = 55.0 in/sec. h0.5 
+
+
+= 55.0/27.8 = 1.978 h = 1.9782 = 3.914 in Head loss = 6.0 -3.914 = 2.086 in 
+Shrinkage 
+10.9 Determine the shrink rule to be used by pattern makers for white cast iron. Using the shrinkage value in Table 10.1, express your answer in terms of decimal fraction inches of elongation per foot of length compared to a standard one-foot scale. 
+Solution: For white cast iron, shrinkage 2.1% from Table 10.1. Thus, linear contraction = 1.0 – 0.021 = 0.979. Shrink rule elongation = (0.979)-1 = 1.02145 For a 12-inch rule, L = 1.02145(12) = 12.257 in Elongation per foot of length = 0.257 in 
+10.10 Determine the shrink rule to be used by mold makers for die casting of zinc. Using the shrinkage value in Table 10.1, express your answer in terms of decimal mm of elongation per 300 mm of length compared to a standard 300-mm scale. 
+Solution: For zinc, shrinkage 2.6% from Table 10.1. Thus, linear contraction = 1.0 – 0.026 = 0.974. Shrink rule elongation = (0.974)-1 = 1.0267 For a 300-mm rule, L = 1.0267(300) = 308.008 mm Elongation per 300 mm of length = 8.008 mm 
+10.11 A flat plate is to be cast in an open mold whose bottom has a square shape that is 200 mm by 200 mm. The mold is 40 mm deep. A total of 1,000,000 mm3 of molten aluminum is poured into the mold. Solidification shrinkage is known to be 6.0%. Table 10.1 lists the linear shrinkage due to thermal contraction after solidification to be 1.3%. If the availability of molten metal in the mold allows the square shape of the cast plate to maintain its 200 mm by 200 mm dimensions until solidification is completed, determine the final dimensions of the plate. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+03-13-09 Solution: The initial volume of liquid metal = 1,000,000 mm3. When poured into the mold it takes the shape of the open mold, which is 200 mm by 200 mm square, or 40,000 mm2. The starting height of the molten metal is 1,000,000 / 40,000 = 25 mm. Volumetric solidification shrinkage is 6%, so when the aluminum has solidified its volume = 1,000,000(0.94) = 940,000 mm3. Because its base still measures 200 mm by 200 mm due to the flow of liquid metal before solidification, its height has been reduced to 940,000 / 40,000 = 23.5 mm. Thermal contraction causes a further shrinkage of 1.6%. Thus the final dimensions of the plate are 200(0.984) by 200(0.984) by 23.5(0.984) = 196.8 mm by 196.8 mm by 23.124 mm. 
+Solidification Time and Riser Design 
+10.12 In the casting of steel under certain mold conditions, the mold constant in Chvorinov's rule is known to be 4.0 min/cm2, based on previous experience. The casting is a flat plate whose length = 30 cm, width = 10 cm, and thickness = 20 mm. Determine how long it will take for the casting to solidify. 
+Solution: Volume V = 30 x 10x2 =600cm3 Area A =2(30 x10+ 30 x2 +10x 2) =760 cm2 Chvorinov’s rule: TTS = Cm (V/A)2 = 4(600/760)2 = 2.49 min 
+10.13 Solve for total solidification time in the previous problem only using an exponent value of 1.9 in 
+Chvorinov's rule instead of 2.0. What adjustment must be made in the units of the mold constant? = Cm (V/A)1.9 
+Solution: Chvorinov’s rule: TTS = 4(600/760)1.9 = 2.55 min The units for Cm become min/in1.9 -strange units but consistent with Chvorinov’s empirical rule. 
+10.14 A disk-shaped part is to be cast out of aluminum. The diameter of the disk = 500 mm and its thickness = 20 mm. If the mold constant = 2.0 sec/mm2 in Chvorinov's rule, how long will it take the casting to solidify? 
+Solution: Volume V = D2t/4 = (500)2(20)/4 = 3,926,991 mm3 Area A = 2D2/4 + Dt = (500)2/2 + (500)(20) = 424,115 mm2 Chvorinov’s rule: TTS = Cm (V/A)2 = 2.0(3,926,991/424,115)2 = 171.5 s = 2.86 min 
+10.15 In casting experiments performed using a certain alloy and type of sand mold, it took 155 sec for a cube-shaped casting to solidify. The cube was 50 mm on a side. (a) Determine the value of the mold constant in Chvorinov's rule. (b) If the same alloy and mold type were used, find the total solidification time for a cylindrical casting in which the diameter = 30 mm and length = 50 mm. 
+Solution: (a) Volume V = (50)3 = 125,000 mm3 Area A = 6 x (50)2 = 15,000 mm2 (V/A) = 125,000/15,000 = 8.333 mm Cm = TTS /(V/A)2 = 155/(8.333)2 = 2.232 s/mm2 
+(b) Cylindrical casting with D = 30 mm and L = 50 mm. Volume V = D2L/4 = (30)2(50)/4 = 35,343 mm3 Area A = 2D2/4 + DL = (30)2/2 + (30)(50) = 6126 mm2 V/A = 35,343/6126 = 5.77 TTS = 2.232 (5.77)2 = 74.3 s = 1.24 min. 
+
+10.16 A steel casting has a cylindrical geometry with 4.0 in diameter and weighs 20 lb. This casting takes 
+6.0 min to completely solidify. Another cylindrical-shaped casting with the same diameter-to-length ratio weighs 12 lb. This casting is made of the same steel, and the same conditions of mold and pouring were used. Determine: (a) the mold constant in Chvorinov's rule, (b) the dimensions, and (c) the total solidification time of the lighter casting. The density of steel = 490 lb/ft3. 
+Solution: (a) For steel, U = 490 lb/ft3 = 0.2836 lb/in3 Weight W = V, V = W/U = 20/0.2836 = 70.53 in3 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 03-13-09 
+Volume V = D2L/4 = (4)2L/4 =4L = 70.53 in3 
+Length L = 70.53/4S = 5.61 in 
+Area A = 2D2/4 + DL = 2(4)2/4 + (4)(5.61) = 95.63 in2 
+(V/A) = 70.53/95.63 = 0.7375 
+Cm = 6.0/(0.7353)2 = 11.03 min/in2 
+(b) 
+Find dimensions of smaller cylindrical casting with same D/L ratio and w = 12 lb. Weight is proportional to volume: V = (12/20)(70.53) = 42.32 in3 D/L ratio = 4.0/5.61 = 0.713; thus L = 1.4025D Volume V = D2L/4 = (D)2(1.4025D)/4 = 1.1015D3 D3 = (42.32 in3)/1.1015 = 38.42 in3 D = (38.42)0.333 = 3.374 in L = 1.4025(3.374) = 4.732 in 
+
+(c) 
+V = D2L/4 = (3.374)2(4.732)/4 = 42.32 in3 A = 2D2/4 + DL = 0.5(3.374)2 + (3.374)(4.732) = 68.04 in2 V/A = 42.32/68.04 = 0.622 in. TTS = 11.03(.622)2 = 4.27 min. 
+
+
+10.17 The total solidification times of three casting shapes are to be compared: (1) a sphere with diameter = 10 cm, (2) a cylinder with diameter and length both = 10 cm, and (3) a cube with each side = 10 cm. The same casting alloy is used in the three cases. (a) Determine the relative solidification times for each geometry. (b) Based on the results of part (a), which geometric element would make the best riser? (c) If the mold constant = 3.5 min/cm2 in Chvorinov's rule, compute the total solidification time for each casting. 
+Solution: For ease of computation, make the substitution 10 cm = 1 decimeter (1 dm) 
+(a) 
+Chvorinov’s rule: TTS = Cm(V/A)2 
+
+(1) 
+Sphere volume V = D3/6 = (1)3/6 = /6 dm3 Sphere surface area A = D2 = (1)2 = S dm2 V/A = (/6)/S = 1/6 = 0.1667 dm Chvorinov’s rule TTS = (0.1667)2Cm = 0.02778Cm 
+
+(2) 
+Cylinder volume V = D2H/4 = (1)2(1)/4 = /4 = 0.25S dm3 Cylinder area A = 2D2/4 + DL = 2(1)2/4 + (1)(1) = /2 + S = 1.5S dm2 V/A = 0.25/1.5S = 0.1667 dm Chvorinov’s rule TTS = (0.1667)2Cm = 0.02778Cm 
+
+(3) 
+Cube: V = L3 = (1)3 = 1.0 dm3 Cube area = 6L2 = 6(1)2 = 6.0 dm2 V/A = 1.0/6.0 = 0.1667 dm Chvorinov’s rule TTS = (0.1667)2Cm = 0.02778Cm 
+
+(b) 
+All three shapes are equivalent as risers. 
+
+(c) 
+If Cm = 3.5 min/cm2 = 350 min/dm2, then TTS = 0.02778(350) = 9.723 min. Note, however, that the volumes of the three geometries are different: (1) sphere V = 0.524 dm3 = 524 cm3, cylinder V = 0.25S = 0.7854 dm3 = 785.4 cm3, and (3) cube V = 1.0 dm3 = 1000cm3. Accordingly, we might revise our answer to part (b) and choose the sphere on the basis that it wastes less metal than the other shapes. 
+
+
+10.18 The total solidification times of three casting shapes are to be compared: (1) a sphere, (2) a cylinder, in which the length-to-diameter ratio = 1.0, and (3) a cube. For all three geometries, the volume = 1000 cm3. The same casting alloy is used in the three cases. (a) Determine the relative solidification times for each geometry. (b) Based on the results of part (a), which geometric element would make 
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+03-13-09 the best riser? (c) If the mold constant = 3.5 min/cm2 in Chvorinov's rule, compute the total solidification time for each casting. 
+Solution: For ease of computation, make the substitution 10 cm = 1 decimeter (1 dm). Thus 1000 cm3 = 1.0 dm3. 
+(1) 
+Sphere volume V = D3/6 = 1.0 dm3. D3 = 6/S = 1.910 dm3. D = (1.910)0.333 = 1.241 dm Sphere area A = D2 = (1.241)2 = 4.836 dm2 V/A = 1.0/4.836 = 0.2067 dm Chvorinov’s rule TTS = (0.2067)2Cm = 0.0428Cm 
+
+(2) 
+Cylinder volume V = D2H/4 = D3/4 = 1.0 dm3. D3 = 4/S = 1.273 dm3 Therefore, D = H = (1.273)0.333 = 1.084 dm Cylinder area A = 2D2/4 + DL = 2(1.084)2/4 + (1.084)(1.084) = 5.536 dm2 V/A = 1.0/5.536 = 0.1806 dm Chvorinov’s rule TTS = (0.1806)2Cm = 0.0326Cm 
+
+(3) 
+Cube: V = L3 =1.0 dm3. L = 1.0 dm Cube area = 6L2 = 6(1)2 = 6.0 dm2 V/A = 1.0/6.0 = 0.1667 dm Chvorinov’s rule TTS = (0.1667)2Cm = 0.02778Cm 
+
+(b) 
+Sphere would be the best riser, since V/A ratio is greatest. 
+
+(c) 
+Given that Cm = 3.5 min/cm2 = 350 min/dm3 Sphere: TTS = 0.0428(350) = 14.98 min Cylinder: TTS = 0.0326(350) = 11.41 min Cube: TTS = 0.02778(350) = 9.72 min 
+
+
+10.19 A cylindrical riser is to be used for a sand-casting mold. For a given cylinder volume, determine the diameter-to-length ratio that will maximize the time to solidify. 
+Solution: To maximize TTS, the V/A ratio must be maximized. Cylinder volume V = D2L/4. L = 4V/D2 Cylinder area A = 2D2/4 + DL Substitute the expression for L from the volume equation in the area equation: A = D2/2 + DL = D2/2 + D(4V/D2) = D2/2 + 4 V/D Differentiate the area equation with respect to D: dA/dD = D –4 V/D2 = 0 Rearranging, D = 4V/D2 D3=4 V/S 
+D = (4 V/)0.333 
+From the previous expression for L, substituting in the equation for D that we have developed, 
+= 4V/(4V/)0.667 = (4V/)0.333 
+L = 4V/D2 Thus, optimal values are D = L = (4V/)0.333 , and therefore the optimal D/L ratio = 1.0 
+10.20 A riser in the shape of a sphere is to be designed for a sand casting mold. The casting is a rectangular plate, with length = 200 mm, width = 100 mm, and thickness = 18 mm. If the total solidification time of the casting itself is known to be 3.5 min, determine the diameter of the riser so that it will take 25% longer for the riser to solidify. 
+Solution: Casting volume V = LWt = 200(100)(18) = 360,000 mm3 Casting area A = 2(200 x 100 + 200 x 18 + 100 x 18) = 50,800 mm2 V/A = 360,000/50,800 = 7.0866 Casting TTS = Cm(7.0866)2 = 3.50 min Cm = 3.5/(7.0866)2 = 0.0697 min/mm2 Riser volume V = D3/6 = 0.5236D3 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+03-13-09 
+Riser area A = D2 = 3.1416D2 
+V/A = 0.5236D3/3.1416D2 = 0.1667D 
+TTS = 1.25(3.5) = 4.375 min = 0.0697(0.1667D)2 = 0.001936D2 
+D2 = 4.375/0.001936 = 2259.7 mm2 
+
+
+
+D = 47.5 mm 
+10.21 A cylindrical riser is to be designed for a sand casting mold. The length of the cylinder is to be 1.25 times its diameter. The casting is a square plate, each side = 10 in and thickness = 0.75 in. If the metal is cast iron, and the mold constant = 16.0 min/in2 in Chvorinov's rule, determine the dimensions of the riser so that it will take 30% longer for the riser to solidify. 
+Solution: Casting volume V = tL2 = 0.75(10.0)2 = 75 in3 
+Casting area A = 2L2+ 4Lt = 2(10.0)2 + 4(10.0)(0.75) = 230.0 in2 
+V/A = 75/230 = 0.3261 Casting TTS = 16(0.3261)2 = 1.70 min 
+Riser TTS = 1.30(1.70) = 2.21 min 
+Riser volume V = D2H/4 = 0.25D2(1.25D) = 0.3125D3 
+Riser area A = 2D2/4 + DH = 0.5D2 + 1.25D2 = 1.75D2 
+V/A = 0.3125D3/1.75D2 = 0.1786D 
+Riser TTS = 16.0(0.1786D)2 = 16.0(0.03189)D2 = 0.5102D2 = 2.21 min 
+D2 = 2.21/0.5102 = 4.3316 
+D = (4.3316)0.5 = 2.081 in 
+H = 1.25(2.081) = 2.602 in. 
+10.22 A cylindrical riser with diameter-to-length ratio = 1.0 is to be designed for a sand casting mold. The casting geometry is illustrated in Figure P10.25, in which the units are inches. If the mold constant in Chvorinov's rule = 19.5 min/in2, determine the dimensions of the riser so that the riser will take 0.5 min longer to freeze than the casting itself. 
+Solution: Casting volume V = V(5 in x 10 in rectangular plate) + V(5 in. half disk) + V(upright tube) -V(3 in x 6 in rectangular cutout). V(5 in x 10 in rectangular plate) = 5 x 12.5 x 1.0 = 62.5 in3 V(5 in. half disk) = 0.5(5)2(1)/4 = 9.817 in3 V(upright tube) = 3.0(2.5)2/4 -4(1.5)2/4) = 7.657 in3 V(3 in x 6 in rectangular cutout) = 3 x 6 x 1 = 18.0 in3 Total V = 62.5 + 9.817 + 7.657 -18.0 = 61.974 in3 Total A = 1x 5+1(12.5+2.5S + 12.5) + 2(6+3) + 2(5 x 12.5 -3 x 6) + 2(.5(5)2/4) -2(1.5)2/4 + 2.5(3) + 1.5(3+1) = 203.36 in2 V/A = 61.974/203.36 = 0.305 in Casting TTS = 19.5(0.305)2 = 1.81 min Riser design: specified TTS = 1.81 + 0.5 = 2.31 min Riser volume V = D2L/4 = D3/4 = 0.25D3 Riser area A = DL + 2D2/4 = D2 + 0.5D2 = 1.5D2 V/A = 0.25D3/1.5D2= D/6 TTS = Cm(V/A)2 2.31 = 19.5(D/6)2 = 0.5417D2 D2 = 2.31/0.5417 = 4.266 in2 D = 2.065 in and L = 2.065 in 
+
+
+

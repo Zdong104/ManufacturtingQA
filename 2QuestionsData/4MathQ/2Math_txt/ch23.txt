@@ -1,0 +1,351 @@
+Problems 
+Tool Life and the Taylor Equation 
+23.1 Flank wear data were collected in a series of turning tests using a coated carbide tool on hardened alloy steel at a feed of 0.30 mm/rev and a depth of 4.0 mm. At a speed of 125 m/min, flank wear = 0.12 mm at 1 min, 0.27 mm at 5 min, 0.45 mm at 11 min, 0.58 mm at 15 min, 0.73 at 20 min, and 
+0.97 mm at 25 min. At a speed of 165 m/min, flank wear = 0.22 mm at 1 min, 0.47 mm at 5 min, 
+0.70 mm at 9 min, 0.80 mm at 11 min, and 0.99 mm at 13 min. The last value in each case is when final tool failure occurred. (a) On a single piece of linear graph paper, plot flank wear as a function of time for both speeds. Using 0.75 mm of flank wear as the criterion of tool failure, determine the tool lives for the two cutting speeds. (b) On a piece of natural log-log paper, plot your results determined in the previous part. From the plot, determine the values of n and C in the Taylor Tool Life Equation. (c) As a comparison, calculate the values of n and C in the Taylor equation solving simultaneous equations. Are the resulting n and C values the same? 
+Solution: (a) and (b) Student exercises. For part (a), at v1 = 125 m/min, T1 = 20.4 min using criterion FW = 0.75 mm, and at v2 = 165 m/min, T2 = 10.0 min using criterion FW = 0.75 mm. In part (b), values of C and n may vary due to variations in the plots. The values should be approximately the same as those obtained in part (c) below. 
+
+(c) Two equations: (1) 125(20.4)n = C, and (2) 165(10.0)n = C (1) and (2) 125(20.4)n = 165(10.0)n ln 125 + n ln 20.4 = ln 165 + n ln 10.0 4.8283 + 3.0155 n = 5.1059 + 2.3026 n 0.7129 n = 0.2776 n = 0.3894 
+(1) C = 125(20.4)0.3894 = 404.46 
+(2) C = 165(10.0)0.3894 = 404.46 C = 404.46 
+
+
+23.2 Solve Problem 23.1 except that the tool life criterion is 0.50 mm of flank land wear rather than 0.75 mm. 
+Solution: (a) and (b) Student exercises. For part (a), at v1 = 125 m/min, T1 = 13.0 min using criterion FW = 0.50 mm, and at v2 = 165 m/min, T2 = 5.6 min using criterion FW = 0.50 mm. In part (b), values of C and n may vary due to variations in the plots. The values should be approximately the same as those obtained in part (c) below. 
+(c) Two equations: (1) 125(13.0)n = C, and (2) 165(5.6)n = C (1) and (2) 125(13.0)n = 165(5.6)n ln 125 + n ln 13.0 = ln 165 + n ln 5.6 4.8283 + 2.5649 n = 5.1059 + 1.7228 n 0.8421 n = 0.2776 n = 0.3296 
+
+(1) C = 125(13.0)0.3894 = 291.14 
+
+(2) C = 165(5.6)0.3894 = 291.15 C = 291.15 
+
+
+23.3 A series of turning tests were conducted using a cemented carbide tool, and flank wear data were collected. The feed was 0.010 in/rev and the depth was 0.125 in. At a speed of 350 ft/min, flank wear = 0.005 in at 1 min, 0.008 in at 5 min, 0.012 in at 11 min, 0.0.015 in at 15 min, 0.021 in at 20 min, and 0.040 in at 25 min. At a speed of 450 ft/min, flank wear = 0.007 in at 1 min, 0.017 in at 5 min, 0.027 in at 9 min, 0.033 in at 11 min, and 0.040 in at 13 min. The last value in each case is when final tool failure occurred. (a) On a single piece of linear graph paper, plot flank wear as a function of time. Using 0.020 in of flank wear as the criterion of tool failure, determine the tool lives for the two cutting speeds. (b) On a piece of natural log-log paper, plot your results determined in the previous part. From the plot, determine the values of n and C in the Taylor Tool Life Equation. (c) As a comparison, calculate the values of n and C in the Taylor equation solving simultaneous equations. Are the resulting n and C values the same? 
+Solution: (a) 
+
+Using the graph, at 350 ft/min the tool last about 6.2 min; at 450 ft/min, it lasts 19.0 min. 
+(b) The points are graphed in Excel and the line connecting the two points is extended to the axis. 
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 08-18-08 
+
+C is read from the Y-intercept and is approximately 680 ft/min. The slope, n, can be determined by taking the ln of the x and y &#3; because the Taylor tool life equation is derived assuming the slope is negative. Using the points (1,680) and (19,350) the slope is about 0.226. 
+(c) 
+Depending on the values of tool life read from the flank wear graph, the values of n and C will vary. Two equations: (1) 350(19.0)n = C, and (2) 450(6.2)n = C (1) and (2) 350(19.0)n = 450(6.2)n ln 350 + n ln 19.0 = ln 450 + n ln 6.2 5.8579 + 2.9444 n = 6.1092 + 1.8245 n 1.1199 n = 0.2513 n = 0.224 
+
+(1) C = 350(19.0)0.224 = 677 
+
+(2) C = 450(6.2)0.224 = 677 C = 677 
+
+
+23.4 Solve problem 23.3 except the tool life wear criterion is 0.015 in of flank wear. What cutting speed should be used to get 20 minutes of tool life? 
+Solution: Reading the time of tool failure on the Flank Wear vs Time plot yields the following data points. Note the values of n and C will change based on the estimates for time of failure. v1 = 350 ft/min, T1 = 15 min and v2 = 450 ft/min, T2 = 4.2 min 
+Two equations: (1) 350(15.0)n = C, and (2) 450(4.2)n = C (1) and (2) 350(15.0)n = 450(4.2)n ln 350 + n ln 15.0 = ln 450 + n ln 4.2 5.8579 + 2.7081 n = 6.1092 + 1.4351 n 1.2730 n = 0.2513 n = 0.197 
+(1) C = 350(15.0)0.197 = 597 
+
+(2) C = 450(4.2)0.197 = 597 C = 597 
+
+
+To achieve 20 min of tool life: v = C/Tn = 597/200.197 = 597/1.8065 = 330 ft/min 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 08-18-08 
+23.5 Tool life tests on a lathe have resulted in the following data: (1) at a cutting speed of 375 ft/min, the tool life was 5.5 min; (2) at a cutting speed of 275 ft/min, the tool life was 53 min. (a) Determine the parameters n and C in the Taylor tool life equation. (b) Based on the n and C values, what is the likely tool material used in this operation? (c) Using your equation, compute the tool life that corresponds to a cutting speed of 300 ft/min. (d) Compute the cutting speed that corresponds to a tool life T = 10 min. 
+Solution: (a) VTn = C; Two equations: (1) 375(5.5)n = C and (2) 275(53)n = C 375(5.5)n = 275(53)n 375/275 = (53/5.5)n 1.364 = (9.636)n ln 1.364 = n ln 9.636 0.3102 = 2.2655 n n = 0.137 C = 375(5.5)0.137 = 375(1.2629) C = 474 Check: C = 275(53)0.137 = 275(1.7221) = 474 
+(b) Comparing these values of n and C with those in Table 23.2, the likely tool material is high speed steel. 
+
+(c) At v = 300 ft/min, T = (C/v)1/n = (474/300)1/0.137 = (1.579)7.305 = 28.1 min 
+
+(d) For T = 10 min, v = C/Tn = 474/100.137 = 474/1.371 = 346 ft/min 
+
+
+23.6 Tool life tests in turning yield the following data: (1) when cutting speed is 100 m/min, tool life is 10 min; (2) when cutting speed is 75 m/min, tool life is 30 min. (a) Determine the n and C values in the Taylor tool life equation. Based on your equation, compute (b) the tool life for a speed of 110 m/min, and (c) the speed corresponding to a tool life of 15 min. 
+Solution: (a) Two equations: (1) 120(7)n = C and (2) 80(28)n = C. 120(7)n = 80(28)n ln 120 + n ln 7 = ln 80 + n ln 28 4.7875 + 1.9459 n = 4.3820 + 3.3322 n 4.7875 -4.3820 = (3.3322 – 1.9459) n 0.4055 = 1.3863 n n = 0.2925 C = 120(7)0.2925 = 120(1.7668) C = 212.0 Check: C = 80(28)0.2925 = 80(2.6503) = 212.0 
+(b) 110 T0.2925 = 212.0 
+T0.2925 
+= 212.0/110 = 1.927 
+T = 1.9271/0.2925 = 1.9273.419 
+= 9.42 min (c) v (15)0.2925 
+= 212.0 v = 212.0/(15)0.2925 = 212.0/2.2080 = 96.0 m/min 
+23.7 Turning tests have resulted in 1-min tool life at a cutting speed = 4.0 m/s and a 20-min tool life at a speed = 2.0 m/s. (a) Find the n and C values in the Taylor tool life equation. (b) Project how long the tool would last at a speed of 1.0 m/s. 
+Solution: (a) For data (1) T = 1.0 min, then C = 4.0 m/s = 240 m/min 
+For data (2) v = 2 m/s = 120 m/min 
+120(20)n = 240 
+20n = 240/120 = 2.0 
+n ln20 = ln2.0 
+2.9957 n = 0.6931 n = 0.2314 
+(b) At v = 1.0 m/s = 60 m/min 
+60(T)0.2314 
+= 240 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 08-18-08 
+(T)0.2314 
+= 240/60 = 4.0 
+T = (4.0)1/0.2314 = (4)4.3215 
+= 400 min 
+23.8 A 15.0-in-by-2.0-in-workpart is machined in a face milling operation using a 2.5 in diameter fly cutter with a single carbide insert. The machine is set for a feed of 0.010 in/tooth and a depth of 
+0.20 in. If a cutting speed of 400 ft/min is used, the tool lasts for 3 pieces. If a cutting speed of 200 ft/min is used, the tool lasts for 12 parts. Determine the Taylor tool life equation. 
+Solution: N1=v/πD = 400(12)/2.5π= 611 rev/min fr = Nfnt = 611(0.010)(1) = 6.11 in/min From Eq. (22.18) in the previous chapter, A = 0.5(2.5 – (2.52 – 2.02)0.5) = 0.5 in Tm = (L+A)/fr = (15 + 0.5))/6.11 = 2.537 min T1= 3Tm = 3(2.537) = 7.61 min when v1 = 400 ft/min N2 = 200(12)/2.5π = 306 rev/min fr = Nfnt = 306(0.010)(1) = 3.06 in/min Tm = (15 + 0.5))/3.06 = 5.065 min T2 = 12Tm = 12(5.065) = 60.78 min when v2 = 200 ft/min n = ln (v1/v2)/ln(T2/T1) = ln (400/200)/ln (60.78/7.61) = 0.3336 C = vTn = 400(7.61 )0.3336 = 787.2 
+23.9 In a production turning operation, the workpart is 125 mm in diameter and 300 mm long. A feed of 
+0.225 mm/rev is used in the operation. If cutting speed = 3.0 m/s, the tool must be changed every 5 workparts; but if cutting speed = 2.0 m/s, the tool can be used to produce 25 pieces between tool changes. Determine the Taylor tool life equation for this job. 
+Solution: (1) Tm = (125 mm)(0.3 m)/(3.0 m/s)(0.225 mm) = 174.53 s = 2.909 min T = 5(2.909) = 14.54 min 
+(2) 
+Tm = (125 mm)(0.3 m)/(2.0 m/s)(0.225 mm) = 261.80s = 4.363 min T = 25(4.363) = 109.08 min 
+
+(1) 
+v = 3 m/s = 180 m/min 
+
+(2) 
+v = 2 m/s = 120 m/min 
+
+(1) 
+180(14.54)n = C 
+
+(2) 
+120(109.08)n = C 180(14.54)n = 120(109.08)n ln 180 + n ln(14.54) = ln 120 + n ln(109.08) 5.1929 + 2.677 n = 4.7875 + 4.692 n 5.1929 -4.7875 = (4.692 -2.677) n 0.4054 = 2.0151 n n = 0.2012 C = 180 (14.54)0.2012 C = 308.43 
+
+
+23.10 For the tool life plot of Figure 23.5, show that the middle data point (v = 130 m/min, T = 12 min) is consistent with the Taylor equation determined in Example Problem 23.1. 
+Solution: Taylor equation calculated in Example 23.1 is: vT0.223 = 229. Consistency would be demonstrated by using the values from the middle data point (T = 12 min at v = 130 ft/min) in the equation and obtaining the same value of C as above (C = 229). 130(12)0.223 = 130(1.7404) = 226.3 This represents a difference of less than 1.2%, which is close enough and well within expected random variation in typical tool life data. 
+23.11 In the tool wear plots of Figure 23.4, complete failure of the cutting tool is indicated by the end of each wear curve. Using complete failure as the criterion of tool life instead of 0.50 mm flank wear, the resulting data are: (1) v = 160 m/min, T = 5.75 min; (2) v = 130 m/min, T = 14.25 min; and (3) v 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 08-18-08 
+= 100 m/min, T = 47 min. Determine the parameters n and C in the Taylor tool life equation for this data. 
+Solution: Let us use the two extreme data points to calculate the values of n and C, then check the resulting equation against the middle data point. 
+(1) 
+160(5.75)n = C and (3) 100(47)n = C 160(5.75)n = 100(47)n ln 160 + n ln 5.75 = ln 100 + n ln 47 5.0752 + 1.7492 n = 4.6052 + 3.8501 n 0.4700 = 2.1009 n n = 0.224 
+
+(1) 
+C = 160(5.75)0.224 = 236.7 
+
+(3) 
+C = 100(47)0.224 = 236.9 use average: C = 236.8 
+
+
+Check against data set (2): 130(14.25)0.224 = 235.7. This represents a difference of less than 0.5%, which would be considered good agreement for experimental data. Better results on determining the Taylor equation would be obtained by using regression analysis on all three data sets to smooth the variations in the tool life data. Note that the n value is very close to the value obtained in Example 
+23.1 (n = 0.224 here vs. n = 0.223 in Example 23.1), and that the C value is higher here (C = 236.8 here vs. C = 229 in Example 23.1). The higher C value here reflects the higher wear level used to define tool life (complete failure of cutting edge here vs. a flank wear level of 0.50 mm in Example 23.1). 
+23.12 The Taylor equation for a certain set of test conditions is vT.25 = 1000, where the U.S. customary units are used: ft/min for v and min for T. Convert this equation to the equivalent Taylor equation in the International System of units (metric), where v is in m/sec and T is in seconds. Validate the metric equation using a tool life = 16 min. That is, compute the corresponding cutting speeds in ft/min and m/sec using the two equations. 
+Solution: vT0.25 = 1000(Tref)0.25 C = 1000 ft/min for a 1.0 min tool life; ft/min converts to m/s as (1000 ft/min)(0.3048m/ft)(1 min/60 s) = 5.08 m/s Tref = 1 min = 60 s. 
+(Tref)0.25 
+= (60)0.25 = 2.78316 The converted value of C = 5.08(2.78316) = 14.14 The converted equation is: vT0.25 = 14.14, where v = m/s and T = s. 
+Check both equations at T = 16 min = 960 s. USCU: v = 1000/160.25 = 1000/2 = 500 ft/min SI: v = 14.14/9600.25 = 14.14/5.566 = 2.54 m/s Check: (500 ft/min)( 0.3048m/ft)(1 min/60 s) = 2.54 m/s Q.E.D. 
+23.13 A series of turning tests are performed to determine the parameters n, m, and K in the expanded version of the Taylor equation, Eq. (23.4). The following data were obtained during the tests: (1) cutting speed = 1.9 m/s, feed = 0.22 mm/rev, tool life = 10 min; (2) cutting speed = 1.3 m/s, feed = 
+0.22 mm/rev, tool life = 47 min; and (3) cutting speed = 1.9 m/s, feed = 0.32 mm/rev, tool life = 8 min. (a) Determine n, m, and K. (b) Using your equation, compute the tool life when the cutting speed is 1.5 m/s and the feed is 0.28 mm/rev. 
+Solution: Three equations to be solved simultaneously: 
+(1) 
+(1.9 x 60)(10)n(0.22)m = K 
+
+(2) 
+(1.3 x 60)(47)n(0.22)m = K 
+
+(3) 
+(1.9 x 60)(8)n(0.32)m = K 
+
+(1) 
+and (2): ln 114 + n ln 10 + m ln 0.22 = ln 78 + n ln 47 + m ln 0.22 ln 114 + n ln 10 = ln 78 + n ln 47 
+
+
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+08-18-08 
+4.7362 + 2.3026 n = 4.3567 + 3.8501 n 
+
+
+
+0.3795 = 1.548 n n = 0.245 
+(1) 
+and (3): ln 114 + 0.245 ln 10 + m ln0.22 = ln114+0.245ln8+ m ln 0.32 0.5646 + m (-1.5141) = 0.5099 + m (-1.1394) -0.3747 m = -0.0547 m = 0.146 
+
+(1) 
+K = 114(10)0..245(0.22)0.146 =114(1.7588)(0.8016) = K = 160.7 
+
+(b) 
+v = 1.5 m/s, f = 0.28 mm/rev (1.5 x 60)(T)0.245(0.28)0.146 = 160.7 90(T)0.245(0.8304) = 160.7 
+
+
+(T)0.245 
+= 2.151 
+T = 2.1511/0.245 
+= 22.7 min 
+23.14 Eq. (23.4) in the text relates tool life to speed and feed. In a series of turning tests conducted to determine the parameters n, m, and K, the following data were collected: (1) v = 400 ft/min, f = 
+0.010 in/rev, T = 10 min; (2) v = 300 ft/min, f = 0.010 in/rev, T = 35 min; and (3) v = 400 ft/min, f = 
+0.015 in/rev, T = 8 min. Determine n, m, and K. What is the physical interpretation of the constant K? 
+Solution: Three equations to be solved simultaneously: 
+(1) 
+400(10)n(0.010)m = K 
+
+(2) 
+300(35)n(0.010)m = K 
+
+(3) 
+400(8)n(0.015)m = K 
+
+(1) 
+and (2): ln 400 + n ln 10 + m ln 0.010 = ln 300 + n ln 35 + m ln 0.010 ln 400 + n ln 10 = ln 300 + n ln 35 5.9915 + 2.3026 n = 5.7038 + 3.5553 n 0.2877 = 1.2527 n n = 0.2297 
+
+(1) 
+and (3): ln 400 + n ln 10 + m ln 0.010 = ln 400 + n ln 8 + m ln 0.015 n ln 10 + m ln 0.010 = n ln 8 + m ln 0.015 0.2297(2.3026) + m (-4.6052) = 0.2297(2.0794) + m (-4.1997) 0.2297(2.3026 -2.0794) = m(-4.1997 + 4.6052) 0.05127 = 0.4055 m m = 0.1264 
+
+(1) 
+K = 400(10)0.2297(0.010)0.1264 = 400(1.6971)(0.5587) = 379.3 
+
+(2) 
+K = 300(35)0.2297(0.010)0.1264 = 300(2.2629)(0.5587) = 379.3 
+
+(3) 
+K = 400(8)0.2297(0.015)0.1264 = 400(1.6123)(0.5881) = 379.3 K = 379.3 
+
+
+The constant K represents the cutting speed (ft/min) for a 1.0 minute tool life at a feed rate of 1.0 in/rev. This feed is of course an extrapolation and not a real possible feed value. 
+23.15 The n and C values in Table 23.2 are based on a feed rate of 0.25 mm/rev and a depth of cut = 2.5 mm. Determine how many cubic mm of steel would be removed for each of the following tool materials, if a 10-min tool life were required in each case: (a) plain carbon steel, (b) high speed steel, (c) cemented carbide, and (d) ceramic. Use of a spreadsheet calculator is recommended. 
+Solution: (a) Plain carbon steel: n = 0.10, C = 20 m/min v = 20/100.1 = 20/1.259 = 15.886 m/min RMR = 15.886(103)(0.25)(2.50) = 9.9288(103) m3/min For 10 min, metal removed = 10(9.9288)(103) = 99.288(103) mm3 
+(b) HSS: n = 0.125, C = 70 m/min v = 70/100.125 = 70/1.333 = 52.513 m/min RMR = 52.513(103)(0.25)(2.50) = 32.821(103) mm3/min 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 08-18-08 For 10 min, metal removed = 10(32.821(103)) = 328.21(103) mm3 
+(c) 
+Cemented carbide: n = 0.25, C = 500 m/min v = 500/100.25 = 500/1.778 = 281.215 m/min RMR = 281.215(103)(0.25)(2.50) = 175.759(103) mm3/min For 10 min, metal removed = 10(175.759(103)) = 1,757.59(103)) mm3 
+
+(d) 
+Ceramic: n = 0.60, C = 3000 m/min v = 3000/100.6 = 3000/3.981 = 753.58 m/min RMR = 753.58 (103)(0.25)(2.50) = 470.987(103) mm3/min For 10 min, metal removed = 10(470.987 (103)) = 4,709.87(103) mm3 
+
+
+23.16 A drilling operation is performed in which 0.5 in diameter holes are drilled through cast iron plates that are 1.0 in thick. Sample holes have been drilled to determine the tool life at two cutting speeds. At 80 surface ft/min, the tool lasted for exactly 50 holes. At 120 surface ft/min, the tool lasted for exactly 5 holes. The feed of the drill was 0.003 in/rev. (Ignore effects of drill entrance and exit from the hole. Consider the depth of cut to be exactly 1.00 in, corresponding to the plate thickness.) Determine the values of n and C in the Taylor tool life equation for the above sample data, where cutting speed v is expressed in ft/min, and tool life T is expressed in min. 
+Solution: (1) v = 80 ft/min, N = (80)/(0.5/12) = 611 rev/min feed rate fr = (0.003)(611) = 1.833 in/min time per hole Tm = 1.0 in/(1.833 in/min) = 0.545 min for 50 holes, T = 50(0.545 min) = 27.25 min Formulating the data as vTn = C, we have: 80(27.25)n = C 
+(2) v = 120 ft/min, N = (120)/(.5/12) = 917 rev/min feed rate fr = (0.003)(917) = 2.75 in/min time per hole Tm = 1.0 in/(2.75 in/min) = 0.364 min for 5 holes, T = 5(0.364 min) = 1.82 min Formulating the data as vTn = C, we have: 120(1.82)n = C 
+Setting (1) = (2): 80(27.25)n = 120(1.82)n ln 80 + n ln 27.25 = ln 120 + n ln 1.82 
+4.382 + 3.3051 n = 4.7875 + 0.5978 n 2.7073 n = 0.4055 n = 0.15 C = 80(27.25)0.15 = 80(1.6417) = 131.34 C = 120(1.82)0.15 = 120(1.094) = 131.29 C = 131.32 
+23.17 The outside diameter of a cylinder made of titanium alloy is to be turned. The starting diameter is 400 mm and the length is 1100 mm. The feed is 0.35 mm/rev and the depth of cut is 2.5 mm. The cut will be made with a cemented carbide cutting tool whose Taylor tool life parameters are: n = 
+0.24 and C = 450. Units for the Taylor equation are min for tool life and m/min for cutting speed. Compute the cutting speed that will allow the tool life to be just equal to the cutting time for this part. 
+Solution: In this problem we want Tm = T, where Tm = machining time per piece and T = tool life. Both of these times must be expressed in terms of cutting speed. Tm = DL/fv and T = (C/v)1/n Tm = (400)(1100)(10-6)/0.35(10-3)v = 3949/v = 3949 (v)-1 
+T = (450/v)1/.24 = (450/v)4.1667 = 4504.1667(v)-4.1667 = 1135(108)(v)-4.1667 -1 = 1135(108)(v)-4.1667 
+Setting Tm = T: 3949 v 
+3.1667
+v = 0.2874(108) v = {0.2874(108)}1/3.1667 = {0.2874(108)}0.3158 = 226.6 m/min 
+Check: Tm = 3949 (226.6)-1 = 17.4 min 
+T = (450/226.6)1/.24 = (450/226.6)4.1667 = 17.4 min 
+
+23.18 The outside diameter of a roll for a steel rolling mill is to be turned. In the final pass, the starting diameter = 26.25 in and the length = 48.0 in. The cutting conditions will be: feed = 0.0125 in/rev, and depth of cut = 0.125 in. A cemented carbide cutting tool is to be used and the parameters of the Taylor tool life equation for this setup are: n = 0.25 and C = 1300. Units for the Taylor equation are min for tool life and ft/min for cutting speed. It is desirable to operate at a cutting speed so that the tool will not need to be changed during the cut. Determine the cutting speed that will make the tool life equal to the time required to complete the turning operation. 
+Solution: In this problem we want Tm = T, where Tm = machining time per piece and T = tool life. Both of these times must be expressed in terms of cutting speed. Tm = DL/12fv and T = (C/v)1/n Tm = (26.25)(48.0)/12(0.0125)v = 26,389.38/v = 26,389.38(v)-1 T = (1300/v)1/.25 = (1300/v)4.0 = 13004.0(v)-4.0 = 2.8561(1012)(v)-4.0 Setting Tm = T: 26,389.38(v)-1= 2.8561(1012)(v)-4.0 v3.0 = 1.08229(108) v = {1.08229(108)}1/3 = {1.08229(108)}0.3333 = 476.56 ft/min 
+Check: Tm = 26,389.38 (476.56)-1= 55.375 min 
+T = (1300/476.56)1/.25 = (1300/476.56)4.0 = 55.375 min 
+
+
+23.19 The workpart in a turning operation is 88 mm in diameter and 400 mm long. A feed of 0.25 mm/rev is used in the operation. If cutting speed = 3.5 m/s, the tool must be changed every 3 workparts; but if cutting speed = 2.5 m/s, the tool can be used to produce 20 pieces between tool changes. Determine the cutting speed that will allow the tool to be used for 50 parts between tool changes. 
+
+Solution: (1) v = 3.5 m/s = 210 m/min Tm = (0.088 m)(0.4 m)/(210 m/min)(0.00025 m) = 2.106 min T = 3(2.106) = 6.32 min 
+(2) v = 2.5 m/s = 150 m/min Tm = (0.088 m)(0.4 m)/(150 m/min)(0.00025 mm) = 2.949 min T = 20(2.949) = 58.98 min 
+
+(1) 210(6.32)n = C 
+
+(2) 150(58.98)n = C 210(6.32)n = 150(58.98)n ln 210 + n ln(6.32) = ln 150 + n ln(58.98) 
+
+
+5.347 + 1.844 n = 5.011 + 4.077 n 
+5.347 – 5.011 = (4.077 – 1.844) n 
+0.336 = 2.233 n n = 0.150 C = 210 (6.32)0.150 C = 277.15 
+Check: 150(58.98)0.150 = 277.03 ) Close enough. use C = 277.1 
+Set T = 50 Tm 
+vT0.15 6.646 = 277.1, T0.15 = 277.1/v, T = (277.1/v)1/0.15 = (277.1/v)6.646 = 1.711415(10)16/v Tm = (0.088)(0.4)/0.00025 v = 442.34/v 
+6.646 
+1.711415(10)16/v = 50(442.34/v) = 22116.8/v 
+5.646 
+1.711415(10)16/v = 22116.8 
+5.646
+v = 1.711415(10)16/22116.8= 7.738075(10)11 = 773,807,500,000 
+v = (773,807,500,000)1/5.646 = (773,807,500,000)0.177122 = 127.57 m/min 
+Check: Tm = 442.34/127.57 = 3.468 min, 50 Tm = 173.4 min T = (277.1/127.57)6.646 = (2.172)6.646 = 173.3 min (Close enough!) 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 08-18-08 
+23.20 In a production turning operation, the steel workpart has a 4.5 in diameter and is 17.5 in long. A feed of 0.012 in/rev is used in the operation. If cutting speed = 400 ft/min, the tool must be changed every four workparts; but if cutting speed = 275 ft/min, the tool can be used to produce 15 pieces between tool changes. A new order for 25 pieces has been received but the dimensions of the workpart have been changed. The new diameter is 3.5 in, and the new length is 15.0 in. The work material and tooling remain the same, and the feed and depth are also unchanged, so the Taylor tool life equation determined for the previous workparts is valid for the new parts. Determine the cutting speed that will allow one cutting tool to be used for the new order. 
+Solution: (1) v = 400 ft/min Tm = (4.5 in)(17.5 in)/(400 x 12 in/min)(0.012 in) = 4.295 min T = 4(4.295) = 17.18 min 
+(2) v = 275 ft/min Tm = (4.5 in)(17.5 in)/(275 x 12 in/min)(0.012 in) = 6.247 min T = 15(6.247) = 93.71 min 
+
+(1) 400(17.18)n = C 
+
+(2) 275(93.71)n = C 400(17.18)n = 275(93.71)n ln 400 + n ln(17.18) = ln 275 + n ln(93.71) 
+
+
+5.991 + 2.844 n = 5.617 + 4.540 n 5.991 -5.617 = (4.540 -2.844) n 
+0.374 = 1.696 n n = 0.2205 C = 400 (17.18)0.2205 C = 748.87 (ft/min) 
+Check: 275(93.71)0.2205 = 748.43, use C = 748.65 
+Set T = 25 Tm 
+vT0.2205 = 748.65/v, T = (748.65/v)1/0.2205 
+= 748.65, T0.2205 = (748.65/v)4.535 
+4.535 
+T = 10.8184(10)12/v 
+For the new part dimensions, Tm = (3.5 in)(15 in)/(12v in/min)(0.012 in) = 1145.37/v 
+4.535 
+10.8184(10)12/v = 25(1145.37/v) = 28634.25/v 
+3.535 
+10.8184(10)12/v = 28634.25 
+3.535
+v = 10.8184(10)12/28634.25= 377,813,096.3 v = (377,813,096.3)1/3.535 = (377,813,096.3)0.2829 = 267.025 ft/min 
+Check: Tm = 1145.37/267.025 = 4.289 min, 25 Tm = 107.23 min T = (748.65/267.025)4.535 = (2.804)4.535 = 107.23 min 
+23.21 The outside diameter of a cylinder made of a steel alloy is to be turned. The starting diameter is 300 mm and the length is 625 mm. The feed is 0.35 mm/rev and the depth of cut is 2.5 mm. The cut will be made with a cemented carbide cutting tool whose Taylor tool life parameters are: n = 0.24 and C = 450. Units for the Taylor equation are min for tool life and m/min for cutting speed. Compute the cutting speed that will allow the tool life to be just equal to the cutting time for three of these parts. 
+
+Solution: In this problem we want 3Tm = T, where Tm = machining time per piece and T = tool life. Both of these times must be expressed in terms of cutting speed. Tm = DL/fv and T = (C/v)1/n Tm = (300)(625)(10-6)/0.35(10-3)v = 1683/v = 1683 (v)-1 3Tm = 3(1683 (v)-1) = 5049(v)-1 
+T = (450/v)1/.24 = (450/v)4.1667 = 4504.1667(v)-4.1667 = 1135(108)(v)-4.1667 
+Setting 3Tm = T: 5049v-1 = 1135(108)(v)-4.1667 
+3.1667
+v = 0.2248(108) v = {0.2248(108)}1/3.1667 = {0.2248(108)}0.3158 = 209.747 m/min 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+08-18-08 Check: 3Tm = 5049 (209.747)-1 = 24.07 min T = (450/209.747)1/.24 = (450/209.747)4.1667 = 24.06 min (close enough) 
+Tooling Applications 
+23.22 Specify the ANSI C-grade or grades (C1 through C8 in Table 23.5) of cemented carbide for each of the following situations: (a) turning the diameter of a high carbon steel shaft from 4.2 in to 3.5 in, 
+(b) 
+making a final face milling pass using a shallow depth of cut and feed on a titanium part, (c) boring out the cylinders of an alloy steel automobile engine block prior to honing, and (d) cutting the threads on the inlet and outlet of a large brass valve. 
+
+Solution: (a) High carbon steel limits choice to grades C5-C8. A large amount of material is being removed so it is a roughing cut. C5 or C6 could be used, depending on the finish required after the process is complete. 
+
+(b) 
+Titanium limits the choice of grades to C1-C4. Small feed and depth of cut indicate a finish pass. Depending on the finish requirements, C3 or C4 would be selected. 
+
+(c) 
+Alloy steel limits the choice of grades to C5-C8. Boring cylinders requires precision finishing. Choose either C7 or C8 
+
+(d) 
+Brass limits the choice of grades to C1-C4. This is a finishing operation that could use C3 or C4. 
+
+
+23.23 A certain machine shop uses four cemented carbide grades in its operations. The chemical composition of these grades are as follows: Grade 1 contains 95% WC and 5% Co; Grade 2 contains 82% WC, 4% Co, and 14% TiC; Grade 3 contains 80% WC, 10% Co, and 10% TiC; and Grade 4 contains 89% WC and 11% Co. (a) Which grade should be used for finish turning of unhardened steel? (b) Which grade should be used for rough milling of aluminum? (c) Which grade should be used for finish turning of brass? (d) Which of the grades listed would be suitable for machining cast iron? For each case, explain your recommendation. 
+Solution: (a) Finish turning of unhardened steel. Specify a steel-cutting grade suitable for finishing. This is a grade with TiC and low cobalt. Choose grade 2. 
+(b) Rough milling of aluminum. Specify a non-steel roughing grade. This is a grade with no TiC and high cobalt. Choose grade 4. 
+
+(c) Finish turning of brass. Specify a non-steel finishing grade. This is a grade with no TiC and low cobalt. Choose grade 1. 
+
+(d) Machining cast iron. Cast iron is included with the non-steel grades. Specify grade 1 for finishing and grade 4 for roughing. 
+
+
+23.24 List the ISO R513-1975(E) group (letter and color in Table 23.6) and whether the number would be toward the lower or higher end of the ranges for each of the following situations: (a) milling the head gasket surface of an aluminum cylinder head of an automobile (cylinder head has a hole for each cylinder and must be very flat and smooth to mate up with the block), (b) rough turning a hardened steel shaft, (c) milling a fiber-reinforced polymer composite that requires a precise finish, and (d) milling the rough shape in a die made of steel before it is hardened. 
+Solution: (a) Aluminum would be the K (red) group. Milling the surface with large holes in it will create shock loading on the tool. This will require higher toughness. Because it is a finish cut, it will require higher hardness. A mid-range number will provide both. Move towards the low numbers for higher hardness if possible. 
+(b) Hardened steel shaft would indicate group P (blue). Rough cut would require higher toughness so choose a higher number 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 08-18-08 
+(c) Composite is a nonmetallic and would use group K (red). Precise machining would require a high hardness (lower number). 
+
+(d) Steel would indicate the P (blue) group. Rough milling would indicate a higher toughness and thus a high number. 
+
+
+23.25 A turning operation is performed on a steel shaft with diameter = 5.0 in and length = 32 in. A slot or keyway has been milled along its entire length. The turning operation reduces the shaft diameter. For each of the following tool materials, indicate whether it is a reasonable candidate to use in the operation: (a) plain carbon steel, (b) high-speed steel, (c) cemented carbide, (d) ceramic, and (e) sintered polycrystalline diamond. For each material that is not a good candidate, give the reason why it is not. 
+Solution: The lengthwise slot results in an interrupted cut, so toughness is important in the tool material. 
+(a) Plain carbon steel: not economical because of low cutting speeds. 
+
+(b) HSS: this is a reasonable candidate; it has good toughness for the interrupted cut. 
+
+(c) Cemented carbide: this is a reasonable candidate; it must be a steel cutting grade with high toughness (high cobalt content). 
+
+(d) Ceramic: this is not a good candidate because of its low toughness; it is likely to fracture during interrupted cutting. 
+
+(e) Sintered polycrystalline diamond: SPD is not suitable for cutting steel. 
+
+Cutting Fluids 
+
+
+23.26 In a milling operation with no coolant, a cutting speed of 500 ft/min is used. The current cutting conditions (dry) yield Taylor tool life equation parameters of n = 0.25 and C = 1300 (ft/min). When a coolant is used in the operation, the cutting speed can be increased by 20% and still maintain the same tool life. Assuming n does not change with the addition of coolant, what is the resulting change in the value of C? 
+Solution: Find the present tool life T vTn = C; T = (C/v)(1/n) T = (1300/500)(1/.25) = 2.604.0 = 45.7 min After coolant, the new cutting speed would be 500(1+.20) = 600 If the tool life stays the same, C = vTn = 600(45.7).25 = 1560 % increase in C = (1560-1500)/1500 = 20% 
+Note: When viewing the log-log plot of the Taylor tool life curve, it is a straight line. Since n, the slope, is not affected by the coolant, the coolant effectively raises the line on the graph. Raising the curve so that it increases the value of v by a certain percentage will increase C by the same percentage. This is true independent of the values of n and C. 
+23.27 In a turning operation using high-speed steel tooling, cutting speed = 110 m/min. The Taylor tool life equation has parameters n = 0.140 and C = 150 (m/min) when the operation is conducted dry. When a coolant is used in the operation, the value of C is increased by 15%. Determine the percent increase in tool life that results if the cutting speed is maintained at 110 m/min. 
+Solution: Dry: 110(T)0.14 = 150 T = (150/110)1/.14 = (1.364)7.143 = 9.18 min With coolant: 110(T)0.14 = 150(1 + 15%) = 150(1.15) = 172.5 T = (172.5/110)1/.14 = (1.568)7.143 = 24.85 min Increase = (24.85 – 9.18)/9.18 = 1.71 = 171% 
+
+
+23.28 A production turning operation on a steel workpiece normally operates at a cutting speed of 125 ft/min using high-speed steel tooling with no cutting fluid. The appropriate n and C values in the Taylor equation are given in Table 23.2 in the text. It has been found that the use of a coolant type cutting fluid will allow an increase of 25 ft/min in the speed without any effect on tool life. If it can be assumed that the effect of the cutting fluid is simply to increase the constant C by 25, what would be the increase in tool life if the original cutting speed of 125 ft/min were used in the operation? 
+Solution: From Table 23.2, n = 0.125 and C = 200 for dry cutting. With cutting fluid, C = 200 + 25 = 225. Dry: at v = 125 ft/min, T = (200/125)1/.125 = (1.6)8 = 42.95 min With cutting fluid: at v = 125 ft/min, T = (225/125)1/.125 = (1.8)8 = 110.2 min Increase = (110.2 -42.95) = 67.25 min = 156.6% 
+
+23.29 A high speed steel 6.0 mm twist drill is being used in a production drilling operation on mild steel. A cutting oil is applied by the operator by brushing the lubricant onto the drill point and flutes prior to each hole. The cutting conditions are: speed = 25 m/min, and feed = 0.10 mm/rev, and hole depth = 40 mm. The foreman says that the "speed and feed are right out of the handbook" for this work material. Nevertheless, he says, "the chips are clogging in the flutes, resulting in friction heat, and the drill bit is failing prematurely due to overheating." What's the problem? What do you recommend to solve it? 
+Solution: There are several problems here. First, the depth-to-diameter ratio is 1.75:0.25 = 7:1, which is greater than the 4:1 which is usually recommended. As a consequence the chips produced in the hole are having difficulty exiting, thus causing overheating of the drill. Second, the manual method of applying the cutting oil may not be particularly effective. Third, with overheating as a problem, the cutting oil may not be removing heat from the operation effectively. 
+Recommendation: The 7:1 depth-to-diameter ratio is a given, a requirement of the drilling operation, and we assume it cannot be changed. The twist drill might be operated in a peck-drilling mode to solve the chip clogging problem. Peck-drilling means drilling for a distance approximately equal to one drill diameter, then retract the drill, then drill some more, etc. A twist drill with a fluid hole could be used to more effectively deliver the cutting fluid to the drill point to help extract the chips. Finally, an emulsified oil might be tried in the operation, one with good lubricating qualities, as a substitute for the cutting oil. Since overheating is a problem, it makes sense to try a coolant. 
+
+
+
+
+

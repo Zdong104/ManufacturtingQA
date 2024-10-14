@@ -1,0 +1,92 @@
+Problems 
+Manual Assembly Lines 
+39.1 A manual assembly line is being designed for a product with annual demand = 100,000 units. The line will operate 50 wks/year, 5 shifts/wk, and 7.5 hr/shift. Work units will be attached to a continuously moving conveyor. Work content time = 42.0 min. Assume line efficiency = 0.97, balancing efficiency = 0.92, and repositioning time = 6 sec. Determine (a) hourly production rate to meet demand, (b) number of workers required, and (c) the number of workstations required if the estimated manning level is 1.4. 
+Solution: (a) Rp = 100,000/(50 x 5 x 7.5) = 53.33 units/hr 
+(b) 
+Tc = E/Rp = 60(.97)/53.33 = 1.09125 min Ts = Tc -Tr = 1.09125 -0.1 = 0.99125 min w = Min Int t 42.0/(.92 x 0.99125) = 46.06 o 47 workers 
+
+(c) 
+n = w/M = 47/1.4 = 33.6 o 34 stations 
+
+
+39.2 A manual assembly line produces a small appliance whose work content time = 25.9 min. Desired production rate = 50 units/hr. Repositioning time = 6 sec, line efficiency = 95%, and balancing efficiency is 93%. How many workers are on the line? 
+Solution: Tc = E/Rp = 60(0.95)/50 = 1.14 min Ts = Tc -Tr = 1.14 -0.1 = 1.04 min w = Min Int t 25.9/(0.93 x 1.04) = 26.78 o 27 workers 
+39.3 A single model manual assembly line produces a product whose work content time = 47.8 min. The line has 24 workstations with a manning level = 1.25. Available shift time per day = 8 hr, but downtime during the shift reduces actual production time to 7.6 hr on average. This results in an average daily production of 256 units/day. Repositioning time per worker is 8% of cycle time. Determine (a) line efficiency, (b) balancing efficiency, and (c) repositioning time. 
+Solution: (a) E = 7.6/8.0 = 0.95 
+(b) 
+Rp = 256/8 = 32 units/hr on average which includes line stops Rc = 256/7.6 = 33.684 units/hr when line is running; thus, E = 32/33.68 = 0.95 Tc = 60(0.95)/33.684 = 1.6922 min Ts = Tc -Tr = Tc -0.08Tc = 0.92 Tc = 0.92(1.6922) = 1.5568 min w = 24(1.25) = 32 workers Eb = Twc/wTs = 47.8/(32 x 1.5568) = 0.9595 
+
+(c) 
+Tr = 0.08(1.6922) = 0.1354 min = 8.12 sec 
+
+
+39.4 A final assembly plant for a certain automobile model is to have a capacity of 240,000 units annually. The plant will operate 50 weeks/yr, 2 shifts/day, 5 days/week, and 8.0 hours/shift. It will be divided into three departments: (1) body shop, (2) paint shop, (3) trim-chassis-final department. The body shop welds the car bodies using robots, and the paint shop coats the bodies. Both of these departments are highly automated. Trim-chassis-final has no automation. There are 15.5 hours of direct labor content on each car in this department, where cars are moved by a continuous conveyor. Determine (a) hourly production rate of the plant, (b) number of workers and workstations required in trim-chassis-final if no automated stations are used, the average manning level is 2.5, balancing efficiency = 93%, proportion uptime = 95%, and a repositioning time of 0.15 min is allowed for each worker. 
+Solution: (a) Rp = 240,000/(50 x 10 x 8) = 60.0 units/hr 
+(b) Tc = E/Rp = 60(0.95)/60 = 0.95 min 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 11-04-08 
+Ts = Tc -Tr = 0.95 -0.15 = 0.8 min w = Min Int t Twc/EbTs = 15.5 x 60/(0.93 x .8) = 1250 workers n = w/M = 1250/2.5 = 500 stations 
+39.5 A product whose total work content time = 50 minutes is to be assembled on a manual production line. The required production rate is 30 units per hour. From previous experience with similar products, it is estimated that the manning level will be close to 1.5. Assume that the uptime proportion and line balancing efficiency are both = 1.0. If 9 seconds will be lost from the cycle time for repositioning, determine (a) the cycle time and (b) the numbers of workers and stations that will be needed on the line. 
+Solution: (a) Tc = E/Rp = 1.0(60)/30 = 2.0 min/unit 
+(b) Ts = Tc -Tr = 2.0 -0.15 = 1.85 min w = Min Int t Twc/EbTs = 50/(1.0 x 1.85) = 27.03 o 28 workers 
+n = 28/1.5 = 18.67 o 19 stations 
+39.6 A manual assembly line has 17 workstations with one operator per station. Total work content time to assemble the product = 22.2 minutes. The production rate of the line = 36 units per hour. A synchronous transfer system is used to advance the products from one station to the next, and the transfer time = 6 seconds. The workers remain seated along the line. Proportion uptime = 0.90. Determine the balance efficiency. 
+Solution: Tc = E/Rp = 60(0.90)/36 = 1.50 min Ts = Tc -Tr = 1.50 -0.1 = 1.40 min Eb = Twc/wTs = 22.2/(17 x 1.40) = 0.933 = 93.3% 
+39.7 A production line with four automatic workstations (the other stations are manual) produces a certain product whose total assembly work content time = 55.0 min of direct manual labor. The production rate on the line is 45 units/hr. Because of the automated stations, uptime efficiency = 89%. The manual stations each have one worker. It is known that 10% of the cycle time is lost due to repositioning. If the balancing efficiency = 0.92 on the manual stations, find (a) cycle time, (b) number of workers and (c) workstations on the line. (d) What is the average manning level on the line, where the average includes the automatic stations? 
+Solution: (a) Tc = E/Rp = 60(0.89)/45 = 1.1867 min 
+(b) 
+Ts = Tc -Tr = 0.9Tc = 0.9(1.1867) = 1.068 min w = Twc/EbTs = 55.0/(0.92 x 1.068) = 55.97 o 56 workers 
+
+(c) 
+n = 56+4 = 60 stations 
+
+(d) 
+M = 56/60 = 0.933 
+
+
+39.8 Production rate for a certain assembled product is 47.5 units per hour. The total assembly work content time = 32 minutes of direct manual labor. The line operates at 95% uptime. Ten workstations have two workers on opposite sides of the line so that both sides of the product can be worked on simultaneously. The remaining stations have one worker. Repositioning time lost by each worker is 0.2 min/cycle. It is known that the number of workers on the line is two more than the number required for perfect balance. Determine (a) number of workers, (b) number of workstations, (c) the balancing efficiency, and (d) average manning level. 
+Solution: (a) Tc = E/Rp = 0.95(60)/47.5 = 1.2 min Ts = Tc -Tr = 1.2 -0.2 = 1.0 min If perfect balance, then Eb = 1.0 and w = Min Int t Twc/EbTs = 32/(1.0 x 1.0) = 32 workers But with 2 additional workers, w = 32 +2 = 34 workers 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 11-04-08 
+(b) 
+n =10 +(34 -2 x10) =10+14 = 24 stations 
+
+(c) 
+Eb = Twc/wTs = 32/(34 x 1.0) = 0.941 
+
+(d) 
+M = w/n = 34/24 = 1.417 
+
+
+39.9 The total work content for a product assembled on a manual production line is 48 min. The work is transported using a continuous overhead conveyor that operates at a speed of 3 ft/min. There are 24 workstations on the line, one-third of which have two workers; the remaining stations each have one worker. Repositioning time per worker is 9 sec, and uptime efficiency of the line is 95%. (a) What is the maximum possible hourly production rate if line is assumed to be perfectly balanced? (b) If the actual production rate is only 92% of the maximum possible rate determined in part (a), what is the balance efficiency on the line? 
+Solution: (a) Eb = 1.0, w = 0.333(24) x 2 + 0.667(24) x 1 = 32 workers w = Twc/EbTs, Ts = Twc/wEb = 48/32 = 1.5 min Tc = Ts + Tr = 1.5 + .15 = 1.65 min Tp = Tc/E = 1.65/.95 = 1.737 min Rp = 60/Tp = 60/1.737 = 34.55 units/hr 
+(b) Actual Rp = 0.92(34.55) = 31.78 units/hr Tc = 60E/Rp = 60(.95)/31.78 = 1.7935 min Ts = 1.7935 -.15 = 1.6435 min Eb = Twc/wTs = 48/(32 x 1.6435) = 0.9127 
+
+Automated Production Lines 
+39.10 An automated transfer line has 20 stations and operates with an ideal cycle time of 1.50 min. Probability of a station failure = 0.008 and average downtime when a breakdown occurs is 10.0 minutes. Determine (a) the average production rate and (b) the line efficiency. 
+Solution: (a) F = np = 20(0.008) = 0.16 Tp = 1.50 + 0.16(10.0) = 1.50 + 1.60 = 3.10 min Rp = 60/Tp = 60/3.1 = 19.35 units/hr 
+(b) E = Tc/Tp = 1.5/3.1 = 0.484 
+39.11 A dial-indexing table has 6 stations. One station is used for loading and unloading, which is accomplished by a human worker. The other five perform processing operations. The longest process takes 25 sec and the indexing time = 5 sec. Each station has a frequency of failure = 0.015. When a failure occurs it takes an average of 3.0 min to make repairs and restart. Determine (a) hourly production rate and (b) line efficiency. 
+Solution: (a) Assume p = 0 at the manual station F = np = 1(0) + 5(.015) = 0.075 Tp = 0.5 + 0.075(3.0) = 0.5 + .225 = 0.725 min Rp = 60/0.725 = 82.76 units/hr 
+(b) E = Tc/Tp = 0.5/0.725 = 0.690 
+39.12 A 7-station transfer line has been observed over a 40-hour period. The process times at each station are as follows: station 1, 0.80 min; station 2, 1.10 min; station 3, 1.15 min; station 4, 0.95 min; station 5, 1.06 min; station 6, 0.92 min; and station 7, 0.80 min. The transfer time between stations = 6 sec. The number of downtime occurrences = 110, and hours of downtime = 14.5 hours. Determine (a) the number of parts produced during the week, (b) the average actual production rate in parts/hour, and (c) the line efficiency. (d) If the balancing efficiency were computed for this line, what would its value be? 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+11-04-08 Solution: (a) Tc = 1.15 + 0.10 = 1.25 min EH = 40E = 40 -14.5 = 25.5 hrs Q = 25.5(60)/1.25 = 1224 pc during the 40 hour period. 
+(b) 
+Rp = 1224/40 = 30.6 pc/hr 
+
+(c) 
+40E = 25.5 E = 25.5/40 = 0.6375 
+
+(d) 
+Twc = 6 Ts = 0.80 + 1.10 + 1.15 + 0.95 + 1.06 + 0.92 + 0.80 = 6.78 min n(maximum Ts) = 7(1.15) = 8.05 min Eb = 6.78/8.05 = 0.842 
+
+
+39.13 A 12-station transfer line was designed to operate with an ideal production rate = 50 parts/hour. However, the line does not achieve this rate, since the line efficiency = 0.60. It costs $75/hour to operate the line, exclusive of materials. The line operates 4000 hours per year. A computer monitoring system has been proposed that will cost $25,000 (installed) and will reduce downtime on the line by 25%. If the value added per unit produced = $4.00, will the computer system pay for itself within one year of operation? Use expected increase in revenues resulting from the computer system as the criterion. Ignore material costs in your calculations. 
+Solution: Tc = 60/Rc = 60/50 = 1.2 min Tp = Tc/E = 1.2/.6 = 2.0 min Rp = 60/Tp = 60/2.0 = 30 pc/hr 
+In the current system: Annual production Q = 4000Rp = 4000(30) = 120,000 units/yr Revenues = $4.00Q = $4.00(120,000) = $480,000/yr. Cost to operate line = $75H = $75(4000) = $300,000/yr 
+With computer monitoring system: Tc = 1.2 min and Tp = 2.0 min. FTd = Tp -Tc. This is reduced by 25% with new system. FTd = (1 -25%)(2.0 -1.2) = 0.75(0.8) = 0.6 min Tp = 1.2 + 0.6 = 1.8 min Rp = 60/1.8 = 33.33 pc/hr Annual production Q = 4000(33.33) = 133,333 units/yr Revenues = $4.00(133,333) = $533,333/yr. Cost to operate line = same as in current system (neglecting increased cost of new system) 
+Difference in revenues = $533,333 -$480,000 = $53,333. This is more than enough to justify the $25,000 investment. 
+39.14 An automated transfer line is to be designed. Based on previous experience, the average downtime per occurrence = 5.0 min, and the probability of a station failure that leads to a downtime occurrence p = 0.01. The total work content time = 9.8 min and is to be divided evenly amongst the workstations, so that the ideal cycle time for each station = 9.8/n. Determine (a) the optimum number of stations on the line n that will maximize production rate, and (b) the production rate and proportion uptime for your answer to part (a). 
+Solution: (a) Maximizing Rp is equivalent to minimizing Tp. Tp = Tc + Ftd = 9.8/n + n(0.01)(5.0) = 9.8/n + 0.05n dTp/dn = -9.8/n2 + 0.05 = zero at minimum point n2 = 9.8/0.05 = 196 n = (196).5 = 14 stations 
+(b) Tp = 9.8/14 + 0.05(14) = 0.7 + 0.7 = 1.4 min Rp = 60/1.4 = 42.86 pc/hr E = 0.7/1.4 = 0.50 
+
+

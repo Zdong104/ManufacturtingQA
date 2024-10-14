@@ -1,8 +1,0 @@
-Question,Answer
-What are the two principal aspects of product quality?,"Answer. The two quality aspects are: (1) product features, and (2) freedom from deficiencies."
-How is a process operating in statistical control distinguished from one that is not?,"Answer. The process in statistical control is characterized by only random variations. A process that is out of control exhibits additional variation that is not normal, called assignable variation. This indicates that something is wrong with the process."
-Define process capability.,Answer. Process capability is the limits of the random variations of the process when it is in statistical control. The limits are defined as the process mean  3 standard deviations.
-What is the difference between control charts for variables and control charts for attributes?,"Answer. In control charts for variables, measurements of the characteristic of interest are made. In control charts for attributes, the characteristic of interest is identified as being acceptable of not acceptable."
-Identify the two types of control charts for variables.,Answer. The two charts are: (1) x chart for sample means and (2) R chart for ranges.
-What are the two basic types of control charts for attributes?,"Answer. The two charts are: (1) p chart for proportion of defects in a sample, and (2) c chart for count of defects in a sample."
-"When interpreting a control chart, what does one look for to identify problems?",Answer. Problems are indicated by the following: (1) x or R lie outside the LCL or UCL limits; (2) trends or cyclical patterns in the data; (3) sudden changes in average; and (4) points consistently near the upper or lower limits.

@@ -1,0 +1,165 @@
+Problems 
+Open-Loop Positioning Systems 
+38.1 A leadscrew with a 7.5 mm pitch drives a worktable in an NC positioning system. The leadscrew is powered by a stepping motor which has 200 step angles. The worktable is programmed to move a distance of 120 mm from its present position at a travel speed of 300 mm/min. Determine (a) the number of pulses required to move the table the specified distance and (b) the required motor speed and pulse rate to achieve the desired table speed. 
+Solution: (a) D = 360/ns = 360/200 = 1.8q np = 360x/pD = 360(120)/(7.5 x 1.8) = 3200 pulses 
+(b) Nm = vt/p = (300 mm/min)/(7.5 mm/rev) = 40 rev/min fp = vtns/60p = 300(200)/(60 x 7.5) = 133.33 Hz 
+38.2 Referring to Problem 38.1, the mechanical inaccuracies in the open-loop positioning system can be described by a normal distribution whose standard deviation = 0.005 mm. The range of the worktable axis is 500 mm, and there are 12 bits in the binary register used by the digital controller to store the programmed position. For the positioning system, determine (a) control resolution, (b) accuracy, and (c) repeatability. (d) What is the minimum number of bits that the binary register should have so that the mechanical drive system becomes the limiting component on control resolution? 
+Solution: (a) CR1= p/ns = 7.5 mm/200 = 0.0375 mm. CR2= L/2B = 500/212 – 1 = 500/4095 = 0.122 mm. CR = Max{CR1, CR2} = Max{0.0375, 0.122} = 0.122 mm. 
+(b) 
+Accuracy = 0.5 CR + 3V = 0.5(0.122) + 3(0.005) = 0.076 mm. 
+
+(c) 
+Repeatability = r 3V = r 3(0.005) = r 0.015 mm. 
+
+(d) 
+In order for the mechanical errors to be the limiting factor in control resolution in this problem, set CR1= CR2. Thus, 0.0375 = 500/(2B –1) 2B – 1 = 500/0.0375 = 13,333.33 2B = = 13,334.33 B ln 2 = ln 13,334.33 0.69315 B = 9.498 B = 13.703 Use B = 14 bits 
+
+
+38.3 A stepping motor has 200 step angles. Its output shaft is directly coupled to leadscrew with pitch = 
+0.250 in. A worktable is driven by the leadscrew. The table must move a distance of 5.00 in from its present position at a travel speed of 20.0 in/min. Determine (a) the number of pulses required to move the table the specified distance and (b) the required motor speed and pulse rate to achieve the specified table speed. 
+Solution: (a) D = 360/ns = 360/200 = 1.8q np = 360x/pD = 360(5.0)/(0.25 x 1.8) = 4000 pulses 
+(b) Nm = vt/p = (20 in/min)/(0.25 in/rev) = 80 rev/min fp = vtns/60p = 20(200)/(60 x 0.25) = 266.67 Hz 
+38.4 A stepping motor with 100 step angles is coupled to a leadscrew through a gear reduction of 9:1 (9 rotations of the motor for each rotation of the leadscrew). The leadscrew has 5 threads/in. The worktable driven by the leadscrew must move a distance = 10.00 in at a feed rate of 30.0 in/min. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 12-02-08 
+Determine (a) number of pulses required to move the table, and (b) the required motor speed and pulse rate to achieve the desired table speed. 
+Solution: (a) D = 360/ns = 360/100 = 3.6q np = 360 rg x/pD = 360(9)(10)/(0.2 x 3.6) = 45,000 pulses 
+(b) Nm = rg fr/p = 9(30 in/min)/(0.2 in/rev) = 1350 rev/min fp = rgfrns/60p = 9(30)(100)/(60 x 0.2) = 2250 Hz 
+38.5 The drive unit for a positioning table is driven by a leadscrew directly coupled to the output shaft of a stepping motor. The pitch of the leadscrew = 0.18 in. The table must have a linear speed = 35 in/min, and a positioning accuracy = 0.001 in. Mechanical errors in the motor, leadscrew, and table connection are characterized by a normal distribution with standard deviation = 0.0002 in. Determine (a) the minimum number of step angles in the stepping motor to achieve the accuracy, 
+(b) the associated step angle, and (c) the frequency of the pulse train required to drive the table at the desired speed. 
+Solution: (a) Accuracy = 0.5 CR + 3 V 
+0.001 = 0.5 CR + 3(0.0002) = 0.5 CR + 0.0006 0.001 -0.0006 = 0.0004 = 0.5 CR CR = 0.0008 in Assume CR = CR1 CR1 = 0.0008 = p/ns = 0.18/ns ns = 0.18/0.0008 = 225 step angles 
+(b) 
+D = 360/225 = 1.6q 
+
+(c) 
+fp = vt ns/60p = 35(225)/(60 x 0.18) = 729.167 Hz 
+
+
+38.6 The positioning table for a component insertion machine uses a stepping motor and leadscrew mechanism. The design specifications require a table speed of 40 in/min and an accuracy = 0.0008 in. The pitch of the leadscrew = 0.2 in, and the gear ratio = 2:1 (2 turns of the motor for each turn of the leadscrew). The mechanical errors in the motor, gear box, leadscrew, and table connection are characterized by a normal distribution with standard deviation = 0.0001 in. Determine (a) the minimum number of step angles in the stepping motor, and (b) the frequency of the pulse train required to drive the table at the desired maximum speed. 
+Solution: (a) Accuracy = 0.5 CR + 3V 0.0008 = 0.5 CR + 3(0.0001) = 0.5 CR + 0.0003 0.0008 -0.0003 = 0.0005 = 0.5 CR CR = 0.001 in Assume CR = CR1 CR1 = 0.001 = p/(rgns) = 0.2/2ns Minimum ns = 0.2/(2 x 0.001) = 100 step angles 
+(b) fp = rgvtns/60p = 2(40)(100)/(60 x 0.2) = 667.67 Hz 
+38.7 The drive unit of a positioning table for a component insertion machine is based on a stepping motor and leadscrew mechanism. The specifications are for the table speed to be 25 mm/s over a 600 mm range and for the accuracy to be 0.025 mm. The pitch of the leadscrew = 4.5 mm, and the gear ratio = 5:1 (5 turns of the motor for each turn of the leadscrew). The mechanical errors in the motor, gear box, leadscrew, and table connection are characterized by a normal distribution with standard deviation = 0.005 mm. Determine (a) the minimum number of step angles in the stepping motor, and (b) the frequency of the pulse train required to drive the table at the desired maximum speed for the stepping motor in part (a). 
+Solution: (a) Accuracy = 0.5 CR + 3V 
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 12-02-08 
+0.025 = 0.5 CR + 3(0.005) = 0.5 CR + 0.015 0.025 -0.015 = 0.010 = 0.5 CR CR = 0.02 mm. Assume CR = CR1 CR1= p/(rgns) Minimum ns = 4.5/(5 x 0.02) = 45 step angles 
+(b) fp = rgvtns/60p = 5(25)(45)/4.5 = 1250 Hz 
+38.8 The two axes of an x-y positioning table are each driven by a stepping motor connected to a leadscrew with a 10:1 gear reduction. The step angle on each stepping motor is 7.5. Each leadscrew has a pitch = 5.0 mm and provides an axis range = 300.0 mm. There are 16 bits in each binary register used by the controller to store position data for the two axes. (a) What is the control resolution of each axis? (b) What are the required rotational speeds and corresponding pulse train frequencies of each stepping motor in order to drive the table at 600 mm/min in a straight line from point (25, 25) to point (100, 150)? Ignore acceleration. 
+Solution: (a) ns = 360/7.5 = 48 step angles CR1= p/rgns = 5.0/(10 x 48) = 0.0104 mm CR2= L/(2B – 1)= 300/(216 – 1) = 300/65,535 = 0.00458 mm CR = Max{0.0104, 0.00458} = 0.0104 mm 
+(b) vt = 600 mm/min from (25, 25) to (100, 150) x = 100 -25 = 75 mm, y = 150 -25 = 125 mm Angle A = tan-1(125/75) = 59q vtx = 600 cos 59 = 308.7 mm/min Nmx = rgvtx/p = 10(308.7)/5.0 = 617.4 rev/min fpx = Nmxns/60 = 617.4(48)/60 = 493.92 Hz vty = 600 sin 59 = 514.5 mm/min Nmy = rgvty/p = 10(514.5)/5.0 = 1029 rev/min fpx = Nmyns/60 = 1029(48)/60 = 823.2 Hz 
+38.9 The y-axis of an x-y positioning table is driven by a stepping motor that is connected to a leadscrew with a 3:1 gear reduction (3 turns of the motor for each turn of the leadscrew). The stepping motor has 72 step angles. The leadscrew has 5 threads per inch and provides an axis range = 30.0 in. There are 16 bits in each binary register used by the controller to store position data for the axis. (a) What is the control resolution of the y-axis? Determine (b) the required rotational speed of the y-axis stepping motor and (c) the corresponding pulse train frequency to drive the table in a straight line from point (x = 20 in, y = 25 in) to point (x = 4.5 in, y = 7.5 in) in exactly 30 sec. Ignore acceleration. 
+Solution: (a) pitch p = 1/5 = 0.200 in. CR1= p/rgns = 0.20/(3 x 72) = 0.000926 in CR2= L/(2B – 1)= 30.0/(216 – 1) = 30/65,535 = 0.000458 in CR = Max{0.000926, 0.000458} = 0.000926 in 
+(b) 
+x = 20 – 4.5 = 15.5 in, y = 25 – 7.5 = 17.5 in vfy = 17.5 in /0.5 min = 35 in/min Nmy = rgvty/p = 3(35)/0.20 = 525 rev/min 
+
+(c) 
+fpx = Nmyns/60 = 525(72)/60 = 630 Hz 
+
+
+38.10 The two axes of an x-y positioning table are each driven by a stepping motor connected to a leadscrew with a 4:1 gear reduction. The number of step angles on each stepping motor is 200. Each leadscrew has a pitch = 5.0 mm and provides an axis range = 400.0 mm. There are 16 bits in each binary register used by the controller to store position data for the two axes. (a) What is the control 
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 12-02-08 
+resolution of each axis? (b) What are the required rotational speeds and corresponding pulse train frequencies of each stepping motor in order to drive the table at 600 mm/min in a straight line from point (25,25) to point (300,150)? Ignore acceleration. 
+Solution: (a) CR1= p/rgns = 5.0/(4 x 200) = 0.00625 mm CR2= L/(2B – 1)= 400/(216 – 1) = 400/65,535 = 0.00610 mm CR = Max{0.00625, 0.00610} = 0.00625 mm 
+(b) vt = 600 mm/min from (25, 25) to (300, 150) x = 300 -25 = 275 mm, y =150 -25 =125 mm Angle A = tan-1(125/275) = 24.44q vtx = 600 cos 24.44 = 546.22 mm/min Nmx = rgvtx/p = 4(546.22)/5.0 = 436.98 rev/min fpx = Nmxns/60 = 436.98(200)/60 = 1456.6.8 Hz vty = 600 sin 24.44 = 248.28 mm/min Nmy = rgvty/p = 4(248.28)/5.0 = 198.63 rev/min fpx = Nmyns/60 = 198.63(200)/60 = 662.1 Hz 
+Closed-Loop Positioning Systems 
+38.11 An NC machine tool table is powered by a servomotor, leadscrew, and optical encoder. The leadscrew has a pitch = 5.0 mm and is connected to the motor shaft with a gear ratio of 16:1 (16 turns of the motor for each turn of the leadscrew). The optical encoder is connected directly to the leadscrew and generates 200 pulses/rev of the leadscrew. The table must move a distance = 100 mm at a feed rate = 500 mm/min. Determine (a) the pulse count received by the control system to verify that the table has moved exactly 100 mm; and (b) the pulse rate and (c) motor speed that correspond to the feed rate of 500 mm/min. 
+Solution: (a) x = pnp/ns ; rearranging, np = xns/p = 100(200)/5 = 4000 pulses 
+(b) 
+fp = frns/60p = 500(200)/60(5) = 333.3 Hz 
+
+(c) 
+Nm = rgfr/p = 16 x 500/5 = 1600 rev/min 
+
+
+38.12 The worktable of a numerical control machine tool is driven by a closed-loop positioning system which consists of a servomotor, leadscrew, and optical encoder. The leadscrew has 4 threads/in and is coupled directly to the motor shaft (gear ratio = 1:1). The optical encoder generates 200 pulses per motor revolution. The table has been programmed to move a distance of 7.5 in at a feed rate = 
+20.0 in/min. (a) How many pulses are received by the control system to verify that the table has moved the programmed distance? What are (b) the pulse rate and (c) motor speed that correspond to the specified feed rate? 
+Solution: (a) x = pnp/ns ;Rearranging, np = xns/p = 7.5(200)/0.25 = 6000 pulses. 
+(b) 
+fp = frns/60p = 20(200)/60(0.25) = 266.67 Hz 
+
+(c) 
+Nm = fr/p = 20/0.25 = 80 rev/min 
+
+
+38.13 A leadscrew coupled directly to a dc servomotor is used to drive one of the table axes of an NC milling machine. The leadscrew has 5 threads/in. The optical encoder attached to the leadscrew emits 100 pulses/rev of the leadscrew. The motor rotates at a maximum speed of 800 rev/min. Determine (a) the control resolution of the system, expressed in linear travel distance of the table axis; (b) the frequency of the pulse train emitted by the optical encoder when the servomotor operates at maximum speed; and (c) the travel speed of the table at the maximum rpm of the motor. 
+Solution: (a) CR = p/ns = 0.2/100 = 0.002 in 
+(b) Nm = Nls = 800 rev/min because the motor is connected directly to the leadscrew. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 12-02-08 fp = Nlsns/60 = 800(100)/60 = 1333.3 Hz 
+(c) vt = Nls p = 800(0.2) = 160 in/min 
+38.14 Solve the previous problem only the servomotor is connected to the leadscrew through a gear box whose reduction ratio = 12:1 (12 revolutions of the motor for each revolution of the leadscrew). 
+Solution: (a) CR = p/ns = 0.2/100 = 0.002 in 
+(b) 
+fp = Nm ns/60rg = 800(100)/60(12) = 111.1 Hz 
+
+(c) 
+vt = Nm p/rg = 800(0.2)/12 = 13.33 in/min 
+
+
+38.15 A leadscrew connected directly to a DC servomotor is the drive system for a positioning table. The leadscrew pitch = 4 mm. The optical encoder attached to the leadscrew emits 250 pulses/rev of the leadscrew. Determine (a) the control resolution of the system, expressed in linear travel distance of the table axis, (b) the frequency of the pulse train emitted by the optical encoder when the servomotor operates at 14 rev/s, and (c) the travel speed of the table at the operating speed of the motor. 
+
+
+Solution: (a) CR1= p/ns = 4/250 = 0.016 mm. 
+(b) 
+Nm = Nls = 14 rev/sec because the motor is connected directly to the leadscrew. fp = Nm ns = 14(250) = 3500 Hz 
+
+(c) 
+vt = Nm p = 14(4) = 56 mm/s 
+
+
+38.16 A milling operation is performed on an NC machining center. Total travel distance = 300 mm in a direction parallel to one of the axes of the worktable. Cutting speed = 1.25 m/s and chip load = 0.05 mm. The end milling cutter has four teeth and its diameter = 20.0 mm. The axis uses a DC servomotor whose output shaft is coupled to a leadscrew with pitch = 6.0 mm. The feedback sensing device connected to the leadscrew is an optical encoder that emits 250 pulses per revolution. Determine (a) feed rate and time to complete the cut, and (b) rotational speed of the motor and the pulse rate of the encoder at the feed rate indicated. 
+Solution: (a) Spindle speed N = (1.25 x 103 mm/s)/(20S mm/rev) = 19.89 rev/s fr = N f nt = 19.89(0.05)(4) = 3.978 mm/s. Tm = 300/3.978 = 75.4 s = 1.26 min 
+(b) Nm = fr/p = (3.978 mm/s)/(6 mm/rev) = 0.663 rev/s fp = ns Nm = 250(0.663) = 165.75 Hz 
+38.17 An end milling operation is carried out along a straight line path that is 325 mm long. The cut is in a direction parallel to the x-axis on an NC machining center. Cutting speed = 30 m/min and chip load = 0.06 mm. The end milling cutter has two teeth and its diameter = 16.0 mm. The x-axis uses a DC servomotor connected directly to a leadscrew whose pitch = 6.0 mm. The feedback sensing device is an optical encoder that emits 400 pulses per revolution. Determine (a) feed rate and time to complete the cut, and (b) rotational speed of the motor and the pulse rate of the encoder at the feed rate indicated. 
+Solution: (a) Spindle speed N = (30 x 103 mm/min)/(16S mm/rev) = 596.8 rev/min fr = N f nt = 596.8(0.06)(2) = 71.62 mm/min Tm = 325/71.62 = 4.54 min 
+(b) Nm = fr/p = (71.62 mm/min)/(6.0 mm/rev) = 11.94 rev/min fp = Nm ns/60 = 400(11.94)/60 = 79.58 Hz 
+38.18 A DC servomotor drives the x-axis of a NC milling machine table. The motor is coupled to the table lead screw using a 4:1 gear reduction (4 turns of the motor for each turn of the lead screw). The lead 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+12-02-08 screw pitch = 6.25 mm. An optical encoder is connected to the lead screw. The optical encoder emits 500 pulses per revolution. To execute a certain programmed instruction, the table must move from point (x = 87.5 mm, y = 35.0) to point (x = 25.0 mm, y = 180.0 mm) in a straight-line trajectory at a feed rate = 200 mm/min. Determine (a) the control resolution of the system for the x-axis only, (b) the corresponding rotational speed of the motor, and (c) frequency of the pulse train emitted by the optical encoder at the desired feed rate. 
+Solution: (a) CR1= p/ns = (6.25 mm/rev)/(500 pulse/rev) = 0.0125 mm 
+(b) Move from (87.5, 35.0) to (25.0, 180.0) at fr = 200 mm/min x = 25.0 -87.5 = -62.5, y = 180.0 -35.0 = 145.0, Angle A = tan-1(145/-62.5) = 113.32q 
+frx = 200 cos 113.32 = 200(-0.3958) = -79.19 mm/min Nm = rg frx/p = 4(-79.17 mm/min)/(6.25 mm/rev) = -50.677 rev/min 
+500 50 677
+.
+(c) fp = nsNls/60 = nsNm/60rg = = 105.58 Hz 60 4 
+38.19 A DC servomotor drives the y-axis of a NC milling machine table. The motor is coupled to the table lead screw with a gear reduction of 2:1 (2 turns of the motor shaft for each single rotation of the lead screw). There are 2 threads per cm in the lead screw. An optical encoder is directly connected to the lead screw (1:1 gear ratio). The optical encoder emits 100 pulses per revolution. To execute a certain programmed instruction, the table must move from point (x = 25.0 mm, y = 28.0) to point (x = 155.0 mm, y = 275.0 mm) in a straight-line trajectory at a feed rate = 200 mm/min. For the y-axis only, determine: (a) the control resolution of the mechanical system, (b) rotational speed of the motor, and (c) frequency of the pulse train emitted by the optical encoder at the desired feed rate. 
+Solution: (a) With 2 threads per cm, pitch p = 0.5cm = 5 mm. One pulse of the optical encoder = 1/ns rotation of the leadscrew. CR1= p/ns = 5.0/100 = 0.050 mm 
+(b) 
+Move from (25, 28) to (155, 275) at 200 mm/min x = 155– 25=130mm, y = 275 –28 =247mm Angle A = tan-1(247/130) = tan-1(1.9) = 62.24q 
+
+fry = 200 sin 62.24 = 200(0.8849) = 176.98 mm/min Leadscrew Nlsy = fry/p = 176.98/5 = 35.396 rev/min Motor Nmy = rgfry/p = 2(176.98)/5 = 70.792 rev/min 
+
+(c) 
+Pulse frequency corresponds to rotational speed of leadscrew: fp = nsNlsy/60 = 100(35.396)/60 = 58.99 Hz 
+
+
+
+Industrial Robotics 
+38.20 The largest axis of a Cartesian coordinate robot has a total range of 750 mm. It is driven by pulley system capable of a mechanical accuracy = 0.25 mm and repeatability = 0.15 mm. Determine the minimum number of bits required in the binary register for the axis in the robot's control memory. 
+Solution: Repeatability = r 3V = 0.15 mm V = 0.15/3 = 0.05 mm Accuracy = 0.25 mm = 0.5 CR + 3V = 0.5 CR + 0.15 0.5 CR = 0.25 -0.15 = 0.10 CR = 0.20 CR = CR2= L/(2B – 1)= 750/(2B – 1) 750/(2B – 1)= 0.20 2B – 1 = 750/0.20 = 3750 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+12-02-08 
+2B = 3751 
+B ln 2 = ln 3751 
+0.69315 B = 8.22978 B = 11.87 o 12 bits 
+38.21 A stepper motor serves as the drive unit for the linear joint of an industrial robot. The joint must have an accuracy of 0.25 mm. The motor is attached to a leadscrew through a 2:1 gear reduction (2 turns of the motor for 1 turn of the leadscrew). The pitch of the leadscrew is 5.0 mm. The mechanical errors in the system (due to backlash of the leadscrew and the gear reducer) can be represented by a normal distribution with standard deviation = 0.05 mm. Specify the number of step angles that the motor must have in order to meet the accuracy requirement. 
+Solution: Repeatability = r 3V = r 3(0.05) = r 0.15 mm 
+Accuracy = 0.25 mm = 0.5 CR + 3V = 0.5 CR + 0.15 
+0.5 CR = 0.25 -0.15 = 0.10 
+CR = 0.20 mm 
+Assume CR = CR1= p/rgns 
+ns = p/(rg CR) = 5.0/(2 x 0.20) = 12.5 o ns = 13 step angles 
+38.22 The designer of a polar configuration robot is considering a portion of the manipulator consisting of a rotational joint connected to its output link. The output link is 25 in long and the rotational joint has a range of 75. The accuracy of the joint-link combination, expressed as a linear measure at the end of the link which results from rotating the joint, is specified as 0.030 in. The mechanical inaccuracies of the joint result in a repeatability error = 0.030q of rotation. It is assumed that the link is perfectly rigid, so there are no additional errors due to deflection. (a) Show that the specified accuracy can be achieved, given the repeatability error. (b) Determine the minimum number of bits required in the binary register of the robot's control memory to achieve the specified accuracy. 
+Solution: (a) Repeatability = r 3V = r 0.030. 
+
+
+0.030q = 2(0.030)/360 = 0.0005236 rad. 
+End-of-link movement = L A where A = angle of movement in radians 
+L A = 25(0.0005236) = 0.0131 in 
+Accuracy = 0.5 CR + 3V = 0.5 CR + 0.0131 
+Specified accuracy = 0.030 
+0.030 = 0.5 CR + 0.0131 0.5 CR = 0.030 -0.0131 = 0.0169 CR = 0.0169/0.5 = 0.0338 in Since CR is positive, the specified accuracy should be possible to achieve. 
+(b) Given CR = 0.0338 from part (a), total range = 75q Converting this to an arc distance, range = (2(75)/360) x 25 = 32.725 in CR = L/(2B – 1) = 0.0338 32.725/(2B – 1) = 0.0338 2B – 1 = 32.725/0.0338 = 968.2 2B = 969.2 B ln 2 = ln 969.2 0.6931 B = 6.876 B = 9.92 o 10 bits 
+
+
+

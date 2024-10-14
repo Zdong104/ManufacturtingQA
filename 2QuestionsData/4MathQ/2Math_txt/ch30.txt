@@ -1,0 +1,121 @@
+Problems 
+Arc Welding 
+30.1 A SMAW operation is accomplished in a work cell using a fitter and a welder. The fitter takes 5.5 min to place the unwelded components into the welding fixture at the beginning of the work cycle, and 2.5 min to unload the completed weldment at the end of the cycle. The total length of the several weld seams to be made is 2000 mm, and the travel speed used by the welder averages 400 mm/min. Every 750 mm of weld length, the welding stick must be changed, which takes 0.8 min. While the fitter is working, the welder is idle (resting); and while the welder is working, the fitter is idle. (a) Determine the average arc time in this welding cycle. (b) How much improvement in arc time would result if the welder used FCAW (manually operated), given that the spool of flux-cored weld wire must be changed every five weldments, and it takes the welder 5.0 min to accomplish the change? (c) What are the production rates for these two cases (weldments completed per hour)? 
+Solution: (a) SMAW cycle time Tc = 5.5 + 2000/400 + (2000/750)(0.8) + 2.5 = 5.5 + 5.0 + 2.133 + 2.5 = 15.133 min Arc time = 5.0/15.133 = 33.0% 
+(b) 
+FCAW cycle time Tc = 5.5 + 2000/400 + (1/5)(5.0) + 2.5 
+
+= 5.5 + 5.0 + 1.0 + 2.5 = 14.0 min Arc time = 5.0/14.0 = 35.7% 
+
+(c) 
+SMAW Rp = 60/15.133 = 3.96 pc/hr FCAW Rp = 60/14.0 = 4.29 pc/hr. 
+
+
+30.2 In the previous problem, suppose an industrial robot cell were installed to replace the welder. The cell consists of the robot (using GMAW instead of SMAW or FCAW), two welding fixtures, and the fitter who loads and unloads the parts. With two fixtures, fitter and robot work simultaneously, the robot welding at one fixture while the fitter unloads and loads at the other. At the end of each work cycle, they switch places. The electrode wire spool must be changed every five workparts, which task requires 5.0 minutes and is accomplished by the fitter. Determine (a) arc time and (b) production rate for this work cell. 
+Solution: (a) Fitter: Tc = 5.5 + 2.5 + (1/5)(5.0) = 9.0 min Robot: Tc = 2000/400 = 5.0 min Limiting cycle is the fitter: arc time = 5.0/9.0 = 55.5% 
+(b) Rp = 60/9.0 = 6.67 pc/hr. 
+30.3 A shielded metal arc-welding operation is performed on steel at a voltage = 30 volts and a current = 225 amps. The heat transfer factor = 0.85 and melting factor = 0.75. The unit melting energy for steel = 10.2 J/mm3. Determine (a) the rate of heat generation at the weld and (b) the volume rate of metal welded. 
+Solution: (a) RHW = f1f2EI = (0.85)(0.75)(30)(225) = 4303.1 W 
+(b) RWV = (4303.1 W)/(10.2 J/mm3) = 421.9 mm3/sec. 
+30.4 A GTAW operation is performed on low carbon steel, whose unit melting energy is 10.3 J/mm3. The welding voltage is 22 volts and the current is 135 amps. The heat transfer factor is 0.7 and the melting factor is 0.65. If filler metal wire of 3.5 mm diameter is added to the operation, the final weld bead is composed of 60% volume of filler and 40% volume base metal. If the travel speed in the operation is 5 mm/sec, determine (a) cross-sectional area of the weld bead, and (b) the feed rate (mm/sec) at which the filler wire must be supplied. 
+Solution: (a) RHW = f1f2EI = UmAwv Aw = f1f2EI/(Umv) = 0.7(0.65)(22)(135)/(10.3x5.0) = 26.24 mm2 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 12-12-08 
+(b) Volume of weld = Awv = 26.24(5.0) = 131.2 mm3/s Filler wire A = D2/4 = (3.5)2/4 = 9.62 mm2 At 60% filler metal, feed rate of filler wire = 131.2(0.60)/9.62 = 8.18 mm/s 
+30.5 A flux-cored arc-welding operation is performed to butt weld two austenitic stainless steel plates together. The welding voltage is 21 volts and the current is 185 amps. The cross-sectional area of the weld seam = 75 mm2 and the melting factor of the stainless steel is assumed to be 0.60. Using tabular data and equations given in this and the preceding chapter, determine the likely value for travel speed v in the operation. 
+Solution: From Table 30.1, f1 = 0.9 for FCAW. From Table 29.2, Tm = 1670K for austenitic stainless steel. Um = 3.33 x 10-6 (1670)2 = 9.29 J/mm3 f1f2EI = UmAwv v = f1f2EI/UmAw = 0.9(0.6)(21)(185)/(9.29 x 75) = 3.01 mm/s 
+30.6 A flux-cored arc-welding process is used to join two low alloy steel plates at a 90° angle using an outside fillet weld. The steel plates are ½ in thick. The weld bead consists of 55% metal from the electrode and the remaining 45% from the steel plates. The melting factor of the steel is 0.65 and the heat transfer factor is 0.90. The welding current is 75 amps and the voltage is 16 volts. The velocity of the welding head is 40 in/min. The diameter of the electrode is 0.10 in. There is a core of flux running through the center of the electrode that has a diameter of 0.05 in and contains flux (compounds that do not become part of the weld bead). (a) What is the cross-sectional area of the weld bead? (b) How fast must the electrode be fed into the workpiece? 
+Solution: (a) Tm from Table 29.2 is 3060°R Um = KTm 2 = 1.467x10-5(30602) = 137.4 Btu/in3 RHW = f1f2EI = UmAwv, rearranging, Aw = f1f2EI/Umv f1f2EI = 0.90(0.65)(16)(75) = 702 J/sec Umv = (137.4 Btu/in3 )(40 in/min) = 5496 Btu/in2-min Conversions: 1 Btu = 1055 J and 1 min = 60 sec Umv = 5496 Btu/in2-min(1055 J/Btu)(min/60 sec) = 96,638 J/in2-sec Aw = (702 J/sec) / (96,638 J/in2-sec) = 0.00726 in2 
+(b) Volume of weld = Awv = 0.00726(40) = 0.2906 in3/min Electrode A = D2/4 = (0.10)2/4 = 78.5x10-4 in2 Flux A = D2/4 = (0.05)2/4 = 19.6x10-4 in2 Metal in electrode A = 78.5x10-4 -19.6x10-4 in2 = 58.9x10-4 in2 = 0.00589 in2 At 55% electrode metal, feed rate of electrode = 0.2906 in3/min (0.55) / 0.00589 = 27.13 in/min (0.452 in/sec) 
+30.7 A gas metal arc-welding test is performed to determine the value of melting factor f2 for a certain metal and operation. The welding voltage = 25 volts, current = 125 amps, and heat transfer factor is assumed to be = 0.90, a typical value for GMAW. The rate at which the filler metal is added to the weld is 0.50 in3 per minute, and measurements indicate that the final weld bead consists of 57% filler metal and 43% base metal. The unit melting energy for the metal is known to be 75 Btu/in3. 
+(a) Find the melting factor. (b) What is the travel speed if the cross-sectional area of the weld bead = 0.05 in2? 
+Solution: (a) f1f2EI = UmAwv Awv = welding volume rate = RWV = (0.50 in3/min)/0.57 = 0.877 in3/min = 0.01462 in3/sec. Therefore, f1f2EI = Um(RWV) 1 Btu/sec = 1055 J/s = 1055 W, so 75 Btu/sec = 79,125 W f2= Um(RWV)/f1EI = 79,125(0.01462)/(0.9 x 25 x 125) = 0.41 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 12-12-08 
+(b) Given that Aw = 0.05 in2, v = (RWV)/Aw = 0.877/0.05 = 17.54 in/min 
+30.8 A continuous weld is to be made around the circumference of a round steel tube of diameter = 6.0 ft, using a submerged arc welding operation under automatic control at a voltage of 25 volts and current of 300 amps. The tube is slowly rotated under a stationary welding head. The heat transfer factor for SAW is = 0.95 and the assumed melting factor = 0.7. The cross-sectional area of the weld bead is 0.12 in2. If the unit melting energy for the steel = 150 Btu/in3, determine (a) the rotational speed of the tube and (b) the time required to complete the weld. 
+Solution: (a) f1f2EI = UmAwv v = f1f2EI/UmAw 1 Btu/sec = 1055 J/s = 1055 W, so 150 Btu/sec = 158,250 W v = 0.95(0.7)(25)(300)/(158,250 x 0.120) = 0.263 in/sec = 15.76 in/min Circumference C = D = 12 x 6S = 226.2 in/rev. Rotational speed N = (15.76 in/min)/(226.2 in/rev) = 0.06967 rev/min 
+(b) Time to weld around circumference = C/v = (226.2 in/rev)/(15.76 in/min) = 14.35 min 
+Resistance Welding 
+30.9 An RSW operation is used to make a series of spot welds between two pieces of aluminum, each 
+2.0 mm thick. The unit melting energy for aluminum = 2.90 J/mm3. Welding current = 6,000 amps, and time duration = 0.15 sec. Assume that the resistance = 75 micro-ohms. The resulting weld nugget measures 5.0 mm in diameter by 2.5 mm thick. How much of the total energy generated is used to form the weld nugget? 
+Solution: H = I2Rt = (6000)2(75 x 10-6)(0.15) = 405 W-sec = 405 J 
+Weld nugget volume V = D2d/4 = (5)2(2.5)/4 = 49.1 mm3 
+Heat required for melting = UmV = (2.9 J/mm3)(49.1 mm3) = 142.4 J 
+Proportion of heat for welding =142.4/405 = 0.351 = 35.1% 
+30.10 An RSW operation is used to join two pieces of sheet steel having a unit melting energy of 130 Btu/in3. The sheet steel has a thickness of 1/8 in. The weld duration will be set at 0.25 sec with a current of 11,000 amp. Based on the electrode diameter, the weld nugget will have a diameter of 
+0.30 in. Experience has shown that 40% of the supplied heat melts the nugget and the rest is dissipated by the metal. If the electrical resistance between the surfaces is 130 micro-ohms, what is the thickness of the weld nugget assuming it has a uniform thickness? 
+Solution: H = I2Rt = 11,0002(0.000130)(0.25) = 3,930 J = 3,930/1055 = 3.727 Btu 
+V = Hw/Um = (0.4)(3.727/130) = 0.0115 in3 
+V = (d)πD2/4; d = V/(πD2/4) = 0.0115/(0.25π(0.302)) = 0.162 in 
+30.11 The unit melting energy for a certain sheet metal is 9.5 J/mm3. The thickness of each of the two sheets to be spot welded is 3.5 mm. To achieve required strength, it is desired to form a weld nugget that is 5.5 mm in diameter and 5.0 mm thick. The weld duration will be set at 0.3 sec. If it is assumed that the electrical resistance between the surfaces is 140 micro-ohms, and that only one-third of the electrical energy generated will be used to form the weld nugget (the rest being dissipated), determine the minimum current level required in this operation. 
+Solution: Hm = UmV V = D2d/4 = (5.5)2(5.0)/4 = 118.8 mm3 Hw = 9.5(118.8) = 1129 J Required heat for the RSW operation H = 1129/(1/3) = 3386 J H = I2Rt = I2(140 x 10-6)(0.3) = 42 x 10-6 I2 = 3386 J I2 = 3386/(42 x 10-6) = 80.6 x 106 A2 I = 8.98 x 103 = 8,980 A 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 12-12-08 
+30.12 A resistance spot-welding operation is performed on two pieces of 0.040 in thick sheet steel (low carbon). The unit melting energy for steel = 150 Btu/in3. Process parameters are: current = 9500 A and time duration = 0.17 sec. This results in a weld nugget of diameter = 0.19 in and thickness = 
+0.060 in. Assume the resistance = 100 micro-ohms. Determine (a) the average power density in the interface area defined by the weld nugget, and (b) the proportion of energy generated that went into formation of the weld nugget. 
+Solution: (a) PD = I2R/A A = D2/4 = (0.19)2/4 = 0.02835 in2 I2R = (9500)2 (100 x 10-6) = 9025 W 1 Btu/sec = 1055 W, so 9025 W = 8.554 Btu/sec PD = 8.554/0.02835 = 302 Btu/sec-in2 
+(b) H = I2Rt = (9500)2 (100 x 10-6)(0.17) = 1534 W-sec = 1.454 Btu Weld nugget volume V = D2d/4 = (0.19)2(0.060)/4 = 0.0017 in3 Heat required for melting = UmV = (150 Btu/in3)(0.0017) = 0.255 Btu Proportion of heat for welding = 0.255/1.454 = 0.175 = 17.5% 
+30.13 A resistance seam-welding operation is performed on two pieces of 2.5-mm-thick austenitic stainless steel to fabricate a container. The weld current in the operation is 10,000 amps, the weld duration = 0.3 sec, and the resistance at the interface is 75 micro-ohms. Continuous motion welding is used, with 200-mm-diameter electrode wheels. The individual weld nuggets formed in this RSEW operation have diameter = 6 mm and thickness = 3 mm (assume the weld nuggets are disc-shaped). These weld nuggets must be contiguous to form a sealed seam. The power unit driving the process requires an off-time between spot welds of 1.0 s. Given these conditions, determine (a) the unit melting energy of stainless steel using the methods of the previous chapter, 
+(b) 
+the proportion of energy generated that goes into the formation of each weld nugget, and (c) the rotational speed of the electrode wheels. 
+
+Solution: (a) From Table 29.2, Tm = 1670K for austenitic stainless steel. Um = 3.33 x 10-6 (1670)2 = 9.29 J/mm3. 
+
+(b) 
+Hw = UmV V = D2d/4 = (6.0)2(3.0)/4 = 84.82 mm3 Hw = (9.29 J/mm3)(84.82 mm3) = 788 J H = I2Rt = (10,000)2(75 x 10-6)(0.3) = 2225 J Proportion of heat for welding =788/2225= 0.354 = 35.4% 
+
+(c) 
+Total cycle time per weld Tc = 0.3 + 1.0 = 1.3 sec. Distance moved per spot weld in order to have contiguous spot welds for the seam = D = 0.6 mm. Therefore, surface speed of electrode wheel v = 6.00 mm/1.3 sec = 4.61 mm/s = 276.9 mm/min. N = v/D = (276.9 mm/min)/(200S mm/rev) = 0.441 rev/min 
+
+
+30.14 Suppose in the previous problem that a roll spot-welding operation is performed instead of seam welding. The interface resistance increases to 100 micro-ohms, and the center-to-center separation between weld nuggets is 25 mm. Given the conditions from the previous problem, with the changes noted here, determine (a) the proportion of energy generated that goes into the formation of each weld nugget, and (b) the rotational speed of the electrode wheels. (c) At this higher rotational speed, how much does the wheel move during the current on-time, and might this have the effect of elongating the weld nugget (making it elliptical rather than round)? 
+Solution: (a) Um = 3.33 x 10-6 (1670)2 = 9.29 J/mm3 from previous problem. Hw = (9.29 J/mm3)(84.82 mm3) = 788 J from previous problem. H = I2Rt = (10,000)2(100 x 10-6)(0.3) = 3000 J Proportion of heat for welding =788/3000 = 0.263 = 26.3% 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 12-12-08 
+(b) 
+Total cycle time per spot weld Tc = 1.3 sec as in previous problem. Distance moved per spot weld = 25 mm as given. Surface speed of electrode wheel v = 25 mm/1.3 sec = 19.23 mm/s = 1153.8 mm/min N = v/D = (1153.8 mm/min)/(200S in/rev) = 1.836 rev/min 
+
+(c) 
+Power-on time during cycle = 0.3 sec. Movement of wheel during 0.3 sec = (0.3 sec)(19.23 mm/s) = 5.77 mm. This movement is likely to make the weld spot elliptical in shape. 
+
+
+30.15 Resistance projection welding is used to simultaneously weld two thin, steel plates together at four locations. One of the pieces of steel plate is preformed with projections that have a diameter of 0.25 in and a height of 0.20 in. The duration of current flow during the weld is 0.30 sec and all four projections are welded simultaneously. The plate steel has a unit melting energy of 140 Btu/in3 and a resistance between plates of 90.0 micro-ohms. Experience has shown that 55% of the heat is dissipated by the metal and 45% melts the weld nugget. Assume the volume of the nuggets will be twice the volume of the projections because metal from both plates is melted. How much current is required for the process? 
+Solution: Volume single projection = dπD2/4 = 0.00982 in3 
+Volume of one nugget V = 2*0.00982 = 0.01964 in3 
+Volume of 4 nuggets = 4(0.01964) = 0.07854 in3 
+Hm = UmV = 140(0.07854) = 11.00 Btu 
+Total H required = Hw/(% used to melt plate) = 11.00/0.45 = 24.43 Btu 
+Total H in Joules = 24.43(1055) = 25,780 J 
+I22
+= H/(Rt) = 25,780/(90x10-6*0.3) = 9.55x108 amp I = (9.55x108)0.5 = 30,900 amp 
+30.16 An experimental power source for spot welding is designed to deliver current as a ramp function of time: I = 100,000 t, where I = amp and t = sec. At the end of the power-on time, the current is stopped abruptly. The sheet metal being spot welded is low carbon steel whose unit melting energy = 10 J/mm3. The resistance R = 85 micro-ohms. The desired weld nugget diameter = 4 mm and thickness = 2 mm (assume a disc-shaped nugget). It is assumed that 1/4 of the energy generated from the power source will be used to form the weld nugget. Determine the power-on time the current must be applied in order to perform this spot-welding operation. 
+Solution: Hw = UmV V = D2d/4 = (4)2(2)/4 = 25.14 mm3 Hw = (10 J/mm3)(25.14 mm3) = 251.4 J H = 251.4/0.25 = 1005.6 J Power P = ³ I2R dt = (100,000t)2 R dt = 100,000R ³ t2 dt = (105)2(85 x 10-6)t3/3 evaluated between 0 and t. H = 850,000t3/3 = 31481.5 t3 = 1005.6 t3 = 1005.6/31481.5 = 0.031943 t = (0.031943)1/3 = 0.317 s. 
+Oxyfuel Welding 
+30.17 Suppose in Example 30.3 in the text that the fuel used in the welding operation is MAPP instead of acetylene, and the proportion of heat concentrated in the 9 mm circle is 60% instead of 75 %. Compute (a) rate of heat liberated during combustion, (b) rate of heat transferred to the work surface, and (c) average power density in the circular area. 
+Solution: (a) Rate of heat generated by the torch RH = (0.3 m3/hr)(91.7 x 106 J/m3) = 27.5 x 106 J/hr = 7642 J/s 
+(b) Rate of heat received at work surface = f1RH = 0.25(7642) = 1910 J/s 
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 12-12-08 
+(c) Area of circle in which 60% of heat is concentrated A = D2/4 = (9.0)2/4 = 63.6 mm2 Power density PD = 0.60(1910)/63.6 = 18.0 W/mm2 
+30.18 An oxyacetylene torch supplies 8.5 ft3 of acetylene per hour and an equal volume rate of oxygen for an OAW operation on 1/4 in steel. Heat generated by combustion is transferred to the work surface with a heat transfer factor of 0.3. If 80% of the heat from the flame is concentrated in a circular area on the work surface whose diameter = 0.40 in, find: (a) rate of heat liberated during combustion, (b) rate of heat transferred to the work surface, and (c) average power density in the circular area. 
+Solution: (a) Rate of heat generated by the torch RH = (8.5 ft3/hr)(1470 Btu/ft3) = 12,500 Btu/hr = 3.47 Btu/sec 
+(b) 
+Rate of heat received at work surface = f1RH = 0.30(3.47 Btu/sec) = 1.04 Btu/sec 
+
+(c) 
+Area of circle in which 80% of heat is concentrated A = D2/4 = (0.4)2/4 = 0.1257 in2 Power density PD = 0.80(1.04 Btu/sec)/(0.1257 in2) = 6.63 Btu/sec-in2 
+
+
+Electron Beam Welding 
+30.19 The voltage in an EBW operation is 45 kV. The beam current is 60 milliamp. The electron beam is focused on a circular area that is 0.25 mm in diameter. The heat transfer factor is 0.87. Calculate the average power density in the area in watt/mm2. 
+Solution: Power density PD = f1EI/A Power P = f1EI = 0.87(45 x 103)(60 x 10-3) = 2349 W Area A = D2/4 = (0.25)2/4 = 0.0491 mm3 PD = 2349/0.0491 = 47,853 W/mm2 
+30.20 An electron-beam welding operation is to be accomplished to butt weld two sheet-metal parts that are 3.0 mm thick. The unit melting energy = 5.0 J/mm3. The weld joint is to be 0.35 mm wide, so that the cross section of the fused metal is 0.35 mm by 3.0 mm. If accelerating voltage = 25 kV, beam current = 30 milliamp, heat transfer factor f1 = 0.85, and melting factor f2 = 0.75, determine the travel speed at which this weld can be made along the seam. 
+Solution: Available heat for welding RHW = f1f2EI = UmAwv Travel velocity v = f1f2EI/UmAw Cross sectional area of weld seam Aw = (0.35)(3.0) = 1.05 mm2 v = 0.85(0.75)(25 x 103)(30 x 10-3)/(5.0 x 1.05) = 91.05 mm/s 
+30.21 An electron-beam welding operation will join two pieces of steel plate together. The plates are 1.00 in thick. The unit melting energy is 125 Btu/in3. The diameter of the work area focus of the beam is 
+0.060 in, hence the width of the weld will be 0.060 in. The accelerating voltage is 30 kV and the beam current is 35 milliamp. The heat transfer factor is 0.70 and the melting factor is 0.55. If the beam moves at a speed of 50 in/min, will the beam penetrate the full thickness of the plates? 
+Solution: Assume the melted portion of the weld bead has a rectangular cross-section with a width of 0.060 in and a depth, d. Therefore Aw = 0.060d or d = Aw/0.060 Aw = f1f2EI/Umv = (0.70)(0.55)(30000)(0.035)/(125(50)) = 0.065 in2 d = Aw/D = (0.065)/(0.060) = 1.08 in The electron beam should penetrate the full thickness of the material. 
+30.22 An electron-beam welding operation uses the following process parameters: accelerating voltage = 25 kV, beam current = 100 milliamp, and the circular area on which the beam is focused has a diameter = 0.020 in. If the heat transfer factor = 90%, determine the average power density in the area in Btu/sec in2. 
+Solution: Power density PD = f1EI/A Area in which beam is focused A = D2/4 = (0.020)2/4 = 0.000314 in3 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 12-12-08 
+Power P = 0.90(25 x 103)(100 x 10-3)/1055 = 2.133 Btu/sec 
+PD = 2.133/0.000314 = 6792 Btu/sec-in2 
+
+
+

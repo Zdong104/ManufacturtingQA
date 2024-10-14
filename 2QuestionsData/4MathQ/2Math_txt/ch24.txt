@@ -1,0 +1,334 @@
+Problems 
+Machinability 
+24.1 A machinability rating is to be determined for a new work material using the cutting speed for a 60min tool life as the basis of comparison. For the base material (B1112 steel), test data resulted in Taylor equation parameter values of n = 0.29 and C = 500, where speed is in m/min and tool life is min. For the new material, the parameter values were n = 0.21 and C = 400. These results were obtained using cemented carbide tooling. (a) Compute a machinability rating for the new material. 
+(b) 
+Suppose the machinability criterion were the cutting speed for a 10-min tool life rather than the present criterion. Compute the machinability rating for this case. (c) What do the results of the two calculations show about the difficulties in machinability measurement? 
+
+Solution: (a) Base material: v60 = 500/600.29 = 152.5 m/min New material: v60 = 400/600.21 = 169.3 m/min MR = 169.3/152.5 = 1.11 = 111% 
+
+(b) 
+Base material: v10 = 500/100.29 = 256.4 m/min New material: v10 = 400/100.21 = 246.6 m/min MR = 246.6/256.4 = 0.96 = 96% 
+
+(c) 
+Different test conditions often result in different machinability results. 
+
+
+24.2 A small company uses a band saw to cut through 2-inch metal bar stock. A material supplier is pushing a new material that is supposed to be more machinable while providing similar mechanical properties. The company does not have access to sophisticated measuring devices, but they do have a stopwatch. They have acquired a sample of the new material and cut both the present material and the new material with the same band saw settings. In the process, they measured how long it took to cut through each material. To cut through the present material, it took an average of 2 minutes, 20 seconds. To cut through the new material, it took an average of 2 minutes, 6 seconds. (a) Develop a machinability rating system based on time to cut through the 2.0-inch bar stock, using the present material as the base material. (b) Using your rating system, determine the machinability rating for the new material. 
+Solution: (a) Since a material with a shorter cutting time is better, it should have a higher machinability rating. To achieve this the cutting time of the base material needs to be in the numerator and the time of the tested material needs to be in the denominator. Therefore, if the test material has a shorter cutting time, the rating will be greater than 100%. The appropriate MR equation is the following: MR = Tm(base material)/Tm(test material) x 100% 
+(b) Convert times to minutes For the base material, Tm = 2 + 20/60 = 2.333 min 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+08-22-09, 05-11-09 For the test material, Tm = 2+ 6/60 = 2.1 min MR = 2.333/2.1 = 1.11 = 111 % 
+24.3 A machinability rating is to be determined for a new work material. For the base material (B1112), test data resulted in a Taylor equation with parameters n = 0.29 and C = 490. For the new material, the Taylor parameters were n = 0.23 and C = 430. Units in both cases are: speed in m/min and tool life in min. These results were obtained using cemented carbide tooling. (a) Compute a machinability rating for the new material using cutting speed for a 30-min tool life as the basis of comparison. (b) If the machinability criterion were tool life for a cutting speed of 150 m/min, what is the machinability rating for the new material? 
+Solution: (a) Base material: v30 = 490/30.29 = 182.7 m/min New material: v30 = 430/30.23 = 196.7 m/min MR = 196.7/182.7 = 1.08 = 108% 
+(b) Base material: T150 = (490/150)1/.29 = (3.27)3.448= 59.3 min New material: v10 = (430/150)1/.23 = (2.87)4.348 = 97.4 min MR = 97.4/59.3 = 1.64 = 164% 
+24.4 Tool life turning tests have been conducted on B1112 steel with high-speed steel tooling, and the resulting parameters of the Taylor equation are: n = 0.13 and C = 225. B1112 is the base metal and has a machinability rating = 1.00 (100%). During the tests, feed = 0.010 in/rev, and depth of cut = 
+0.100 in. Based on this information, and machinability data given in Table 24.1, determine the cutting speed you would recommend for the following work materials, if the tool life desired in operation is 30 min (the same feed and depth of cut are to be used): (a) C1008 low carbon steel with 150 Brinell hardness, (b) 4130 alloy steel with 190 Brinell hardness, and (c) B1113 steel with 170 Brinell hardness. 
+Solution: First determine v30 for the base material: v30 = 225/30.13 = 225/1.556 = 144.6 ft/min 
+(a) 
+From Table 24.1, MR for C1008 = 0.50. Recommended v30 = 0.50(144.6) = 72 ft/min 
+
+(b) 
+From Table 24.1, MR for 4130 = 0.65. Recommended v30 = 0.65(144.6) = 94 ft/min 
+
+(c) 
+From Table 24.1, MR for B1113 = 1.35. Recommended v30 = 1.35(144.6) = 195 ft/min 
+
+
+Surface Roughness 
+24.5 In a turning operation on cast iron, the nose radius on the tool = 1.5 mm, feed = 0.22 mm/rev, and speed = 1.8 m/s. Compute an estimate of the surface roughness for this cut. 
+Solution: Ri = f2/32NR = (0.22)2/(32 x 1.5) = 0.00101 mm. = 1.01 m. From Fig. 24.2, rai = 1.25 Ra = 1.01 x 1.25 = 1.26 m. 
+24.6 A turning operation uses a 2/64 in nose radius cutting tool on a free machining steel with a feed rate = 0.010 in/rev and a cutting speed = 300 ft/min. Determine the surface roughness for this cut. 
+Solution: Ri = f2/32NR = (0.010)2/(32 x 2/64) = 0.0001 in = 100 in From Fig. 24.2, rai = 1.02 Ra = 1.02 x 100 = 102 in 
+24.7 A single-point HSS tool with a 3/64 in nose radius is used in a shaping operation on a ductile steel workpart. The cutting speed is 120 ft/min. The feed is 0.014 in/pass and depth of cut is 0.135 in. Determine the surface roughness for this operation. 
+Solution: Ri = f2/32NR = (0.014)2/(32 x 3/64) = 0.000131 in = 131 in From Fig. 24.2, rai = 1.8 Ra = 1.8 x 131 = 235 in 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 08-22-09, 05-11-09 
+24.8 A part to be turned in an engine lathe must have a surface finish of 1.6 m. The part is made of a free-machining aluminum alloy. Cutting speed = 150 m/min, and depth of cut = 4.0 mm. The nose radius on the tool = 0.75 mm. Determine the feed that will achieve the specified surface finish. 
+Solution: For free-machining aluminum at 150 m/min, from Figure 24.2 ratio rai = 1.0 in Eq. (24.3), so Ra = Ri Ra = Ri = f2/32NR Rearranging, f2= Ri(32NR) = 1.6(10-6)(32)(0.75)(10-3) = 38.4(10-9) = 3.84(10-8) m2 f = (3.84(10-8) m2)0.5 = 1.96(10-4) m = 0.196 mm (mm is interpreted mm/rev) 
+24.9 Solve previous Problem 24.8 except that the part is made of cast iron instead of aluminum and the cutting speed is reduced to 100 m/min. 
+Solution: For cast iron at 150 m/min, extrapolating Figure 24.2 ratio rai = 1.2 in Eq. (24.3), so Ra = 1.2 Ri = 1.2f2/32NR Rearranging, f2= Ri(32NR)/1.2 = 1.6(10-6)(32)(0.75)(10-3)/1.2 = 31.96(10-9) = 3.196(10-8) m2 f = 3.196(10-8) m2)0.5 = 1.79(10-4) m = 0.179 mm (mm is interpreted mm/rev) 
+24.10 A part to be turned in an engine lathe must have a surface finish of 1.5 m. The part is made of a aluminum. The cutting speed is 1.5 m/s and the depth is 3.0 mm. The nose radius on the tool = 1.0 mm. Determine the feed that will achieve the specified surface finish. 
+Solution: For aluminum, a ductile material at 90 m/min, from Figure 24.2 ratio rai = 1.25. Therefore, the theoretical requirement is Ri = Ra /rai = 1.5 / 1.25 = 1.2 m Ri = f2/32NR; f = (32 (NR) Ri )0.5 = (32(10-3)(1.2x10-6))0.5 = 3.84x10-8 m2 f = (3.84(10-8) m2)0.5 = 1.96(10-4) m = 0.196 mm (here, mm is interpreted mm/rev) 
+24.11 The surface finish specification in a turning job is 0.8 m. The work material is cast iron. Cutting speed = 75 m/min, feed = 0.3 mm/rev, and depth of cut = 4.0 mm. The nose radius of the cutting tool must be selected. Determine the minimum nose radius that will obtain the specified finish in this operation. 
+Solution: For cast iron at 75 m/min, from Figure 24.2 ratio rai = 1.35 in Eq. (24.3), so Ra = 1.35Ri = 1.35f2/32NR Rearranging, NR = 1.35f2/(32Ra) NR = 1.35(0.3 x 10-3)2/(32)(0.8)(10-6) = 0.00475 m = 4.75 mm 
+24.12 A face milling operation is to be performed on a cast iron part to finish the surface to 36 -in. The cutter uses four inserts and its diameter is 3.0 in. The cutter rotates at 475 rev/min. To obtain the best possible finish, a type of carbide insert with 4/64 in nose radius is to be used. Determine the required feed rate (in/min) that will achieve the 36 -in finish. 
+Solution: v = πDN = π(3/12)(475) = 373 ft/min For cast iron at 373 ft/min, from Figure 24.2 ratio rai = 1.26, so Ra = 1.26 Ri Ri = Ra/1.26 = 36/1.26 = 28.6 in Ri = f2/32 NR Rearranging, f2 = 32Ra(NR) = 32(28.6 x 10-6)(4/64) = 57.1 x 10-6 in2 f = (57.1 x 10-6).5 = 7.56 x 10-3 = 0.00756 in/tooth. fr = Nntf = 475(4)(0.00756) = 14.4 in/min 
+24.13 A face milling operation is not yielding the required surface finish on the work. The cutter is a four-tooth insert type face milling cutter. The machine shop foreman thinks the problem is that the work material is too ductile for the job, but this property tests well within the ductility range for the material specified by the designer. Without knowing any more about the job, what changes in (a) cutting conditions and (b) tooling would you suggest to improve the surface finish? 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 08-22-09, 05-11-09 
+Solution: (a) Changes in cutting conditions: (1) decrease chip load f, (2) increase cutting speed v, 
+(3) 
+use cutting fluid. 
+
+(b) 
+Changes in tooling: (1) increase nose radius NR, (2) increase rake angle, and (3) increase relief angle. Items (2) and (3) will have a marginal effect. 
+
+
+24.14 A turning operation is to be performed on C1010 steel, which is a ductile grade. It is desired to achieve a surface finish of 64 -in, while at the same time maximizing the metal removal rate. It has been decided that the speed should be in the range 200 ft/min to 400 ft/min, and that the depth of cut will be 0.080 in. The tool nose radius = 3/64 in. Determine the speed and feed combination that meets these criteria. 
+Solution: Increasing feed will increase both RMR and Ra. Increasing speed will increase RMR and reduce Ra. Therefore, it stands to reason that we should operate at the highest possible v. 
+Try v = 400 ft/min. From Fig. 25.45, rai = 1.15. Ra = 1.15 Ri Ri = Ra/1.15 = 64/1.15 = 55.6 in Ri = f2/32NR f2 = 32Ra(NR) = 32(55.6 x 10-6)(3/64) = 83.4 x 10-6 in2 f = (83.4 x 10-6).5 = 0.0091 in/rev RMR = 3.51 in3/min 
+Compare at v = 300 ft/min. From Fig. 25.45, rai = 1.26. Ra = 1.26 Ri Ri = Ra/1.26 = 64/1.26 = 50.8 in Ri = f2/32NR f2 = 32Ra(NR) = 32(50.8)(10-6)(3/64) = 76.2(10-6)in2 f = (76.2 x 10-6).5 = 0.0087 in/rev RMR = 2.51 in3/min 
+Optimum cutting conditions are: v = 400 ft/min and f = 0.0091 in/rev, which maximizes RMR = 3.51 in3/min 
+Machining Economics 
+24.15 A high-speed steel tool is used to turn a steel workpart that is 300 mm long and 80 mm in diameter. The parameters in the Taylor equation are: n = 0.13 and C = 75 (m/min) for a feed of 0.4 mm/rev. The operator and machine tool rate = $30.00/hr, and the tooling cost per cutting edge = $4.00. It takes 2.0 min to load and unload the workpart and 3.50 min to change tools. Determine (a) cutting speed for maximum production rate, (b) tool life in min of cutting, and (c) cycle time and cost per unit of product. Solution: (a) Co = $30/hr = $0.50/min vmax = 75/[(1/0.13 -1)(3.5)].13 = 75/[6.692 x 3.5].27 = 49.8 m/min 
+(b) 
+Tmax = (75/49.8)1/.13 = (1.506)7.692 = 23.42 min 
+
+(c) 
+Tm = DL/fv = (80)(300)/(.4 x 49.8 x 103) = 3.787 min np = 23.42/3.787 = 6.184 pc/tool life Use np = 6 pc/tool life Tc = Th + Tm + Tt/np = 2.0 + 3.787 + 3.5/6 = 6.37 min/pc. Cc = 0.50(6.37) + 4.00/6 = $3.85/pc 
+
+
+24.16 Solve Problem 24.15 except that in part (a), determine cutting speed for minimum cost. 
+Solution: (a) Co = $30/hr = $0.50/min vmin = 75[0.50/((1/0.13 -1)(.50 x 3.5 + 4.00))].13 = 75[.50/(6.692 x 5.75)].13 = 42.6 m/min 
+(b) Tmin = (75/42.6)1/.13 = (1.76)7.692 = 76.96 min 
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 08-22-09, 05-11-09 
+(c) Tm = DL/fv = (80)(300)/(.4 x 42.6 x 103) = 4.42 min/pc. np = 76.96/4.42 = 17.41 pc/tool life Use np = 17 pc/tool life Tc = Th + Tm + Tt/np = 2.0 + 4.42 + 3.5/17 = 6.63 min/pc. Cc = 0.50(6.63) + 4.0/17 = $3.55/pc 
+24.17 A cemented carbide tool is used to turn a part with a length of 14.0 in and diameter = 4.0 in. The parameters in the Taylor equation are: n = 0.25 and C = 1000 (ft/min). The rate for the operator and machine tool = $45.00/hr, and the tooling cost per cutting edge = $2.50. It takes 2.5 min to load and unload the workpart and 1.50 min to change tools. The feed = 0.015 in/rev. Determine (a) cutting speed for maximum production rate, (b) tool life in min of cutting, and (c) cycle time and cost per unit of product. 
+Solution: (a) vmax = C/((1/n-1)Tt)n = 1000/[(1/0.25 -1)(1.5)].25 = 1000/[(4.0-1) x 1.5].25 = 687 ft/min 
+(b) 
+Tmax = (1000/687)1/.25 = (1.456)4.0 = 4.5 min or (1/n -1) Tt = (4-1)1.5 = 4.5 min 
+
+(c) 
+Tm = DL/fv = (4)(14)/(.015 x 687 x 12) = 1.42 min np = 4.5/1.42 = 3.17 pc/tool Use np = 3 pc/tool life Tc = Th + Tm + Tt/np = 2.5 + 1.42 + 1.5/3 = 4.42 min/pc. Co = $45/hr = $0.75/min Cc = Co (Th + Tm + Tt/np) + Ct/np = 0.75(4.42 ) + 2.5/3 = $4.15/pc 
+
+
+
+24.18 Solve Problem 24.17 except that in part (a), determine cutting speed for minimum cost. 
+Solution: (a) Co = $45/hr = $0.75/min vmin = C[(n/(1-n))(Co/(CoTt + Ct))]n = 1000[(0.25/(1-0.25))(0.75/(0.75(1.5) + 2.5))]0.25 = 1000[.3333*0.75/(1.125+2.5)].25 = 1000[ .333*0.75/3.625]0.25 = 1000 [ 0.06897]0.25 = 512 ft/min 
+(b) 
+Tmin = (1000/512)1/.25 = (1.953)4.0 = 14.55 min 
+
+(c) 
+Tm = DL/fv = (4)(14)/(0.015 x 512 x 12) = 1.91 min np = 14.55/1.91 = 7.62 pc/tool Use np = 7 pc/tool life Tc = Th + Tm + Tt/np = 2.5 + 1.91 + 1.5/7 = 4.62 min/pc. Cc = Co (Th + Tm + Tt/np) + Ct/np = 0.75(4.62) + 2.5/7 = $3.83/pc 
+
+
+24.19 Compare disposable and regrindable tooling. The same grade of cemented carbide tooling is available in two forms for turning operations in a certain machine shop: disposable inserts and brazed inserts. The parameters in the Taylor equation for this grade are: n = 0.25 and C = 300 (m/min) under the cutting conditions considered here. For the disposable inserts, price of each insert = $6.00, there are four cutting edges per insert, and the tool change time = 1.0 min (this is an average of the time to index the insert and the time to replace it when all edges have been used). For the brazed insert, the price of the tool = $30.00 and it is estimated that it can be used a total of 15 times before it must be scrapped. The tool change time for the regrindable tooling = 3.0 min. The standard time to grind or regrind the cutting edge is 5.0 min, and the grinder is paid at a rate = $20.00/hr. Machine time on the lathe costs $24.00/hr. The workpart to be used in the comparison is 375 mm long and 62.5 mm in diameter, and it takes 2.0 min to load and unload the work. The feed = 0.30 mm/rev. For the two tooling cases, compare (a) cutting speeds for minimum cost, (b) tool lives, (c) cycle time and cost per unit of production. Which tool would you recommend? 
+Solution: Disposable inserts: (a) Co = $24/hr = $0.40/min, Ct = $6/4 = $1.50/edge vmin = 300[0.40/((1/0.25 -1)(0.40 x 1.0 + 1.50))].25 = 300[0.40/(3 x 1.9)].25 = 154.4 m/min 
+(b) 
+Tmin = (1/0.25 -1)(0.4 + 1.5)/0.4 = 3(1.9/0.4) = 14.25 min 
+
+(c) 
+Tm = (62.5)(375)/(0.30)(10-3)(154.4) = 1.59 min/pc np = 14.25/1.59 = 8.96 pc/tool life Use np = 8 pc/tool 
+
+
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+08-22-09, 05-11-09 Tc = 2.0 + 1.59 + 1.0/8 = 3.72 min/pc. Cc = 0.40(3.72) + 1.50/8 = $1.674/pc 
+Regrindable tooling: (a) Co = $24/hr = $0.40/min, Ct = $30/15 + 5($20/60) = $3.67/edge vmin = 300[0.40/((1/0.25 -1)(0.40 x 3.0 + 3.67))].25 = 300[0.40/(3 x 4.87)].25 = 122.0 m/min 
+(b) 
+Tmin = (1/0.25 -1)(0.4 x 3 + 3.67)/0.4 = 3(4.87/0.4) = 36.5 min 
+
+(c) 
+Tm = (62.5)(375)/(0.30)(10-3)(122) = 2.01 min/pc np = 36.5/2.01 = 18.16 pc/tool life Use np = 18 pc/tool Tc = 2.0 + 2.01 + 3.0/18 = 4.18 min/pc Cc = 0.40(4.18) + 3.67/18 = $1.876/pc 
+
+
+Disposable inserts are recommended. Cycle time and cost per piece are less. 
+24.20 Solve Problem 24.19 except that in part (a), determine the cutting speeds for maximum production rate. 
+Solution: Disposable inserts: (a) Co = $24/hr = $0.40/min, Ct = $6/4 = $1.50/edge vmax = 300[1.0/((1/0.25 -1)(1.0)].25 = 300[1.0/(3 x 1.0)].25 = 228.0 m/min 
+(b) 
+Tmax = (1/0.25 -1)(1.0) = 3(1.0) = 3.0 min 
+
+(c) 
+Tm = (62.5)(375)/(0.30)(10-3)(228) = 1.08 min/pc np = 3.0/1.08 = 2.78 pc/tool life Use np = 2 pc/tool Tc = 2.0 + 1.08 + 1.0/2 = 3.58 min/pc. Cc = 0.40(3.58) + 1.50/2 = $2.182/pc 
+
+Regrindable tooling: (a) Co = $24/hr = $0.40/min, Ct = $30/15 + 5($20/60) = $3.67/edge vmax = 300[1.0/((1/0.25 -1)(3.0))].25 = 300[1.0/(3 x 3.0)].25 = 173.2 m/min 
+
+(b) 
+Tmax = (1/0.25 -1)(3) = 3(3.0) = 9.0 min 
+
+(c) 
+Tm = (62.5)(375)/(0.30)(10-3)(173.2) = 1.42 min/pc np = 9.0/1.42 = 6.34 pc/tool life Use np = 6 pc/tool Tc = 2.0 + 1.42 + 3.0/6 = 3.92 min/pc. Cc = 0.40(3.92) + 3.67/6 = $2.180/pc 
+
+
+Disposable inserts are recommended. Cycle time and cost per piece are less. Comparing the results in this problem with those of the previous problem, note that with the maximum production rate objective in the current problem, cycle times are less, but that unit costs are less in the previous problem where the objective is minimum cost per piece. 
+24.21 Three tool materials are to be compared for the same finish turning operation on a batch of 150 steel parts: high-speed steel, cemented carbide, and ceramic. For the high-speed steel tool, the Taylor equation parameters are: n = 0.130 and C = 80 (m/min). The price of the HSS tool is $20.00 and it is estimated that it can be ground and reground 15 times at a cost of $2.00 per grind. Tool change time is 3 min. Both carbide and ceramic tools are in insert form and can be held in the same mechanical toolholder. The Taylor equation parameters for the cemented carbide are: n = 0.30 and C = 650 (m/min); and for the ceramic: n = 0.6 and C = 3,500 (m/min). The cost per insert for the carbide is $8.00 and for the ceramic is $10.00. There are 6 cutting edges per insert in both cases. Tool change time is 1.0 min for both tools. The time to change a part is 2.5 min. The feed is 0.30 mm/rev, and depth of cut is 3.5 mm. The cost of machine time is $40/hr. The part is 73.0 mm in diameter and 250 mm in length. Setup time for the batch is 2.0 hr. For the three tooling cases, compare: (a) cutting speeds for minimum cost, (b) tool lives, (c) cycle time, (d) cost per production unit, (e) total time to complete the batch and production rate. (f) What is the proportion of time spent actually cutting metal for each tooling? Use of a spreadsheet calculator is recommended. 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+08-22-09, 05-11-09 Solution: HSS tooling: (a) Ct = $20/15 + 2.00 = $3.33/edge. Co = $40/hr = $0.667/min vmin = 80[0.667/((1/.13 -1)(0.667 x 3.0 + 3.33))].130 = 47.7 m/min 
+(b) 
+Tmin = (1/.13 -1)(0.667 x 3 + 3.33)/0.667 = 6.69(5.33/.667) = 53.4 min 
+
+(c) 
+Tm = (73)(250(10-6))/(0.30(10-3)47.7) = 4.01min/pc np = 53.4/4.01 = 13.3 pc/tool life Use np = 13 pc/tool life Tc = 2.5 + 4.01 + 3.0/13 = 6.74 min/pc. 
+
+(d) 
+Cc = 0.667(6.74) + 3.33/13 = $4.75/pc 
+
+(e) 
+Time to complete batch = 2.5(60) + 150(6.74) = 1161 min = 19.35 hr. Production rate Rp = 100 pc/13.8 hr = 7.75 pc/hr. 
+
+(f) 
+Proportion of time spent cutting = 100(4.81)/828 = 0.518 = 51.8% 
+
+Cemented carbide tooling: (a) Ct = $8/6 = $1.33/edge. Co = $40/hr = $0.667/min vmin = 650[0.667/((1/.30 -1)(0.667 x 1.0 + 1.333))].30 = 363 m/min 
+
+(b) 
+Tmin = (1/.30 -1)(0.667 x 1 + 1.333)/0.667 = 2.333(2.0/0.667) = 7 min 
+
+(c) 
+Tm = (73)(250(10-6))/(0.30(10-3)363) = 0.53 min/pc np = 7/0.53 = 13.2 pc/tool life Use np = 13 pc/tool life Tc = 2.5 + 0.53 + 1.0/13 = 3.11 min/pc. 
+
+(d) 
+Cc = 0.667(3.11) + 1.333/13 = $2.18/pc 
+
+(e) 
+Time to complete batch = 2.5(60) + 150(3.11) = 616.5 min = 10.28 hr. Production rate Rp = 150 pc/10.28 hr = 14.59 pc/hr. 
+
+(f) 
+Proportion of time spent cutting = 150(0.53)/616.5 = 0.129 = 12.9% 
+
+Ceramic tooling: (a) Ct = $10/6 = $1.67/edge. Co = $40/hr = $0.667/min vmin = 3,500[0.667/((1/.6 -1)(0.667 x 1.0 + 1.67))].6 = 2105 m/min 
+
+(b) 
+Tmin = (1/0.6 -1)(0.667 x 1 + 1.67)/0.667 = 0.667(2.33/0.667) = 2.33 min 
+
+(c) 
+Tm = (73)(250(10-6))/(0.30(10-3)2105) = 0.091 min/pc 
+
+np = 2.33/0.091 = 25.6 pc/tool life Use np = 25 pc/tool life Tc = 2.5 + 0.091 + 1.0/25 = 2.63 min/pc. 
+
+(d) 
+Cc = 0.667(2.63) + 1.67/25 = $1.82/pc 
+
+(e) 
+Time to complete batch = 2.5(60) + 150(2.63) = 544 min = 9.08 hr. Production rate Rp = 150 pc/9.08 hr = 16.52 pc/hr. 
+
+(f) 
+Proportion of time spent cutting = 150(0.091)/544 = 0.025 = 2.5% 
+
+
+Comment: One might conclude that such a low proportion of time spent cutting would argue against the use of the calculated cutting speed for ceramic tooling. However, note that ceramic tooling provides a significant advantage in terms of unit cost, batch time, and production rate compared to HSS tooling and even carbide tooling. The very small cutting time Tm and resulting low proportion of time spent cutting for ceramic tooling focuses attention on the nonproductive work elements in the batch time, specifically, setup time and workpart handling time; and puts pressure on management to seek ways to reduce these nonproductive elements. 
+24.22 Solve Problem 24.21 except that in parts (a) and (b), determine the cutting speeds and tool lives for maximum production rate. Use of a spreadsheet calculator is recommended. 
+Solution: HSS tooling: (a) Ct = $20/15 + 2.00 = $3.33/edge. Co = $40/hr = $0.667/min 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 08-22-09, 05-11-09 
+vmax = 80/[(1/.13 -1)(3.0)].130 = 80/[6.69 x 3)].130 = 54 m/min 
+(b) 
+Tmax = (1/0.13 -1)(3) = 6.69(3) = 20.0 min 
+
+(c) 
+Tm = (73)(250(10-6))/(0.30(10-3)54) = 3.53 min/pc np = 20.0/3.53 = 5.66 pc/tool life Use np = 5 pc/tool life Tc = 2.5 + 3.53 + 3.0/5 = 6.63 min/pc. 
+
+(d) 
+Cc = 0.667(6.63) + 3.33/5 = $5.09/pc 
+
+(e) 
+Time to complete batch = 2.5(60) + 150(6.63) = 1144.5 min = 19.08 hr. Production rate Rp = 150 pc/19.08 hr = 7.86 pc/hr. 
+
+(f) 
+Proportion of time spent cutting = 150(3.53)/1144.5 = 0.463 = 46.3% 
+
+Cemented carbide tooling: (a) Ct = $8/6 = $1.33/edge. Co = $40/hr = $0.667/min vmax = 650/[(1/.30 -1)(1.0)].30 = 650/[(2.33 x 1.0)].30 = 504 m/min 
+
+(b) 
+Tmax = (1/0.30 -1)(1.0) = 2.33(1.0) = 2.33 min 
+
+(c) 
+Tm = (73)(250(10-6))/(0.30(10-3)504) = 0.38 min/pc np = 2.33/0.38 = 6.13 pc/tool life Use np = 6 pc/tool life Tc = 2.5 + 0.38 + 1.0/6 = 3.05 min/pc. 
+
+(d) 
+Cc = 0.667(3.05) + 1.33/6 = $2.25/pc 
+
+(e) 
+Time to complete batch = 2.5(60) + 150(3.05) = 607 min = 10.12 hr. Production rate Rp = 150 pc/10.12 hr = 14.82 pc/hr. 
+
+(f) 
+Proportion of time spent cutting = 150(0.38)/607 = 0.094 = 9.4% 
+
+Ceramic tooling: (a) Ct = $10/6 = $1.67/edge. Co = $40/hr = $0.667/min vmax = 3,500/[(1/.6 -1)(1.0)].6 = 3,500/[.667 x 1.0].6 = 4464 m/min 
+
+(b) 
+Tmax = (1/0.6 -1)(1) = 0.667(1) = .667 min 
+
+(c) 
+Tm = (73)(250(10-6))/(0.30(10-3)4464) = 0.043 min/pc 
+
+np = 0.667/0.043 = 15.58 pc/tool life Use np = 15 pc/tool life Tc = 2.5 + 0.043 + 1.0/15 = 2.61 min/pc. 
+
+(d) 
+Cc = 0.667(2.61) + 1.67/15 = $1.85/pc 
+
+(e) 
+Time to complete batch = 2.5(60) + 150(2.61) = 541 min = 9.02 hr. Production rate Rp = 150 pc/9.02 hr = 16.63 pc/hr. 
+
+(f) 
+Proportion of time spent cutting = 150(0.043)/541 = 0.012 = 1.2% 
+
+
+Comment: One might conclude that such a low proportion of time spent cutting would argue against the use of the calculated cutting speed for ceramic tooling. However, note that ceramic tooling provides a significant advantage in terms of unit cost, batch time, and production rate compared to HSS tooling and even carbide tooling. The very small cutting time Tm and resulting low proportion of time spent cutting for ceramic tooling focuses attention on the nonproductive work elements in the batch time, specifically, setup time and workpart handling time; and puts pressure on management to seek ways to reduce these nonproductive elements. 
+24.23 A vertical boring mill is used to bore the inside diameter of a large batch of tube-shaped parts. The diameter = 28.0 in and the length of the bore = 14.0 in. Current cutting conditions are: speed = 200 ft/min, feed = 0.015 in/rev, and depth = 0.125 in. The parameters of the Taylor equation for the cutting tool in the operation are: n = 0.23 and C = 850 (ft/min). Tool change time = 3.0 min, and tooling cost = $3.50 per cutting edge. The time required to load and unload the parts = 12.0 min, 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+08-22-09, 05-11-09 
+and the cost of machine time on this boring mill = $42.00/hr. Management has decreed that the 
+production rate must be increased by 25%. Is that possible? Assume that feed must remain 
+unchanged in order to achieve the required surface finish. What is the current production rate and 
+the maximum possible production rate for this job? 
+Solution: At the current operating speed v = 200 ft/min: T = (850/200)1/.23 = 540 min Tm = (28)(14)/(200 x 12 x 0.015) = 34.2 min/pc np = 540/34.2 = 15 pc/tool life Tc = 12 + 34.2 + 3/15 = 46.4 min Rc = 60/46.4 = 1.293 pc/hr 
+Find vmax to compare with current operating speed. vmax = 850/[(1/.23 -1)(3.0)].23 = 850/[(3.348 x 3.0)].23 = 500 ft/min Tmax = (1/.23 -1)(3.0) = 3.348(3.0) = 10.0 min Tm = (28)(14)/(500 x 12 x 0.015) = 13.7 min/pc np = 10/13.7 = 0.73 pc/tool life Tc = 12 + 13.7 + 3/.73 = 29.8 min Rc = 60/29.8 = 2.01 pc/hr This is a 56% increase in production rate relative to the 200 ft/min cutting speed. 
+24.24 An NC lathe cuts two passes across a cylindrical workpiece under automatic cycle. The operator loads and unloads the machine. The starting diameter of the work is 3.00 in and its length = 10 in. The work cycle consists of the following steps (with element times given in parentheses where applicable): 1 -Operator loads part into machine, starts cycle (1.00 min); 2 -NC lathe positions tool for first pass (0.10 min); 3 -NC lathe turns first pass (time depends on cutting speed); 4 -NC lathe repositions tool for second pass (0.4 min); 5 -NC lathe turns second pass (time depends on cutting speed); and 6 -Operator unloads part and places in tote pan (1.00 min). In addition, the cutting tool must be periodically changed. This tool change time takes 1.00 min. The feed rate = 0.007 in/rev and the depth of cut for each pass = 0.100 in. The cost of the operator and machine = $39/hr and the tool cost = $2.00/cutting edge. The applicable Taylor tool life equation has parameters: n = 0.26 and C = 900 (ft/min). Determine (a) the cutting speed for minimum cost per piece, (b) the average time required to complete one production cycle, (c) cost of the production cycle. (d) If the setup time for this job is 3.0 hours and the batch size = 300 parts, how long will it take to complete the batch? 
+Solution: (a) Co = $39/hr = $0.65/min vmin = 900[.65/((1/.26 -1)(.65 x 1.0 + 2.00))].26 = 900[.65/(2.846 x 2.65)].26 = 476 ft/min 
+(b) 
+Tmin = (1/.26 -1)(.65 x 1 + 2.0)/.65 = 2.846(2.65/.65) = 11.6 min Tm = (3)(10)/(476 x 12 x 0.007) = 2.36 min/pc. Assume both passes have equal Tm. np = 11.6/2.36 = 4.9 passes/tool life Since there are two passes/workpiece, np = 2.45 pc/tool life Tc = 2.5 + 2 x 2.36 + 1.0/2.45 = 7.63 min/pc. 
+
+(c) 
+Cc = 0.65(2.5 + 2 x 2.36) + (0.65 x 1 + 2.00)/2.45 = $5.77/pc 
+
+(d) 
+Time to complete batch Tb = 3.0(60) + 300(7.63) = 2469 min = 41.15 hr. 
+
+
+24.25 As indicated in Section 23.4, the effect of a cutting fluid is to increase the value of C in the Taylor tool life equation. In a certain machining situation using HSS tooling, the C value is increased from C = 200 to C = 225 due to the use of the cutting fluid. The n value is the same with or without fluid at n = 0.125. Cutting speed used in the operation is v = 125 ft/min. Feed = 0.010 in/rev and depth = 
+0.100 in. The effect of the cutting fluid can be to either increase cutting speed (at the same tool life) or increase tool life (at the same cutting speed). (a) What is the cutting speed that would result from using the cutting fluid if tool life remains the same as with no fluid? (b) What is the tool life that 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 08-22-09, 05-11-09 
+would result if the cutting speed remained at 125 ft/min? (c) Economically, which effect is better, given that tooling cost = $2.00 per cutting edge, tool change time = 2.5 min, and operator and machine rate = $30/hr? Justify you answer with calculations, using cost per cubic in of metal machined as the criterion of comparison. Ignore effects of workpart handling time. 
+Solution: Cutting dry, the Taylor tool life equation parameters are n = 0.125 and C = 200. At v = 125 ft/min, tool life T = (200/125)1/.125 = (1.6)8 = 43 min With a cutting fluid, the Taylor tool life equation parameters are n = 0.125 and C = 225. The corresponding cutting speed for a 43 min tool life v = 225/430.125 = 140.6 ft/min 
+(b) 
+Cutting at v = 125 ft/min with a cutting fluid gives a tool life T = (225/125)8.0 = 110 min 
+
+(c) 
+Which is better, (1) cutting at a speed of 140.6 ft/min to give a 43 min tool life, or (2) cutting at 125 ft/min to give a 110 min tool life. Use 1.0 in3 of metal cut as the basis of comparison, with cost and time parameters as follows: Ct = $2.00/cutting edge, Tt = 2.5 min, and Co = $30/hr = $0.50/min 
+
+(1) 
+At v =140.6 ft/min, Tm = 1.0 in3/RMR = 1.0/(140.6 x 12 x 0.010 x 0.100) = 0.5927 min For T = 43 min, volume cut per tool life = 43/0.5927 = 72.5 in3 between tool changes. Ignoring work handling time, cost/in3 = 0.50(.5927) + (0.50 x 2.5 + 2.00)/72.5 = $0.341/in3. 
+
+(2) 
+At 125 ft/min, Tm = 1.0 in3/RMR = 1.0/(125 x 12 x 0.010 x 0.100) = 0.6667 min For T = 110 min, volume cut per tool life = 110/0.6667 = 164.9 in3 between tool changes. Ignoring work handling time, cost/in3 = 0.50(.6667) + (0.50 x 2.5 + 2.00)/164.9 = $0.353/in3. 
+
+
+Conclusion: it is better to take the benefit of a cutting fluid in the form of increased cutting speed. 
+24.26 In a turning operation on ductile steel, it is desired to obtain an actual surface roughness of 63 -in with a 2/64 in nose radius tool. The ideal roughness is given by Eq. (24.1) and an adjustment will have to be made using Figure 24.2 to convert the 63 -in actual roughness to an ideal roughness, taking into account the material and cutting speed. Disposable inserts are used at a cost of $1.75 per cutting edge (each insert costs $7.00 and there are four edges per insert). Average time to change each insert = 1.0 min. The workpiece length = 30.0 in and its diameter = 3.5 in. The machine and operator’s rate = $39.00 per hour including applicable overheads. The Taylor tool life equation for this tool and work combination is given by: vT0.23 f0.55 = 40.75, where T = tool life, min; v = cutting speed, ft/min; and f = feed, in/rev. Solve for (a) the feed in in/rev that will achieve the desired actual finish, (b) cutting speed for minimum cost per piece at the feed determined in (a). Hint: To solve (a) and (b) requires an iterative computational procedure. Use of a spreadsheet calculator is recommended for this iterative procedure. 
+Solution: Cost and time parameters: Co = $39/hr = $0.65/min, Ct = $1.75/cutting edge, Tt = 1.0 min 
+Iteration 1: assume Ri = Ra = 63 -in = 63 x 10-6 in Rearranging Eq. (24.1), f2= 32NR(Ri) = 32(2/64)(63 x 10-6) in2 = 63(10-6) in2 f = (63 x 10-6)0.5 = 0.00794 in (interpreted as in/rev for turning) 
+C = vT0.23 
+= 40.75/f0.55 = 40.75/0.007940.55 = 582.5 vmin = 582.5{(0.23/(1-0.23))(0.65/(0.65 x 1.0 + 1.75)}0.23 = 582.5{0.0809}0.23 = 326.8 ft/min 
+Iteration 2: At v = 326.8 ft/min, the ratio from Figure 24.2 rai = 1.24. Thus, Ri = Ra/1.24 = 63/1.24 = 52.5 -in = 50.8(10-6) in f2 = 32NR(Ri) = 32(2/64)(50.8 x 10-6) in2 = 50.8(10-6) in2 f = (50.8 x 10-6)0.5 = 0.00713 in 
+C = vT0.23 
+= 40.75/f0.55 = 40.75/0.007130.55 = 617.9 vmin = 617.9{(0.23/(1-0.23))(0.65/(0.65 x 1.0 + 1.75)}0.23 = 617.9{0.0809}0.23 = 346.5 ft/min 
+Iteration 3: At v = 346.5 ft/min, the ratio from Figure 24.2 rai = 1.21. Thus, Ri = Ra/1.2 = 63/1.21 = 52.1 -in = 52.1(10-6) in 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+08-22-09, 05-11-09 f2 = 32NR(Ri) = 32(2/64)(52.1 x 10-6) in2 = 52.1(10-6) in2 f = (52.1 x 10-6)0.5 = 0.00722 in 
+C = vT0.23 
+= 40.75/f0.55 = 40.75/0.007220.55 = 613.9 vmin = 613.9{(0.23/(1-0.23))(0.65/(0.65 x 0.5 + 1.75)}0.23 = 613.9{0.0809}0.23 = 344.3 ft/min 
+Select v = 344.3 ft/min and f = 0.0072 in/rev. 
+The author’s spreadsheet calculator (Excel) returned values of v = 344.3 ft/min and f = 0.00722 in/rev after three iterations. The challenge in these calculations is reading the ratio values from Figure 24.2 with sufficient precision. 
+24.27 Solve Problem 24.26 only using maximum production rate as the objective rather than minimum piece cost. Use of a spreadsheet calculator is recommended. 
+Solution: The author’s spreadsheet calculator (Excel) returned values of v = 451.8 ft/min and f = 0.0076 in/rev after two iterations. The challenge in these calculations is reading the ratio values from Figure 24.2 with sufficient precision. 
+
+24.28 Verify that the derivative of Eq. (24.6) results in Eq. (24.7). 
+Solution: Starting with Eq. (24.6): Tc = Th + DL/fv + Tt(DLv1/n-1)/fC1/n 
+1/n-1 
+Tc = Th + (DL/f)v-1 + (TtDL/fC1/n)v 
+1/n-2 
+dTc/dv = 0-(DL/f)v-2 + (1/n – 1)(TtDL/fC1/n)v = 0 
+-2 1/n-2 
+(DL/f)v = (1/n – 1)(TtDL/fC1/n)v = 0 (DL/f) = (1/n – 1)(Tt DL/fC1/n)v1/n 1 = (1/n – 1)(Tt /C1/n)v1/n v1/n = C1/n/[(1/n-1)Tt] 
+vmax = C/[(1/n-1)Tt]n Q.E.D 
+
+24.29 Verify that the derivative of Eq. (24.12) results in Eq. (24.13). 
+Solution: Starting with Eq. (24.12): Tc = Th + DL/fv + (CoTt + Ct)(DLv1/n-1)/fC1/n 
+1/n-1 
+Tc = Th + (DL/f)v-1 + (CoTt + Ct)(DL/fC1/n)v 
+1/n-2 
+dTc/dv = 0-(DL/f)v-2 + (1/n – 1)(CoTt + Ct)(DL/fC1/n)v = 0 
+-2 1/n-2 
+(DL/f)v = (1/n – 1)(CoTt + Ct)(DL/fC1/n)v = 0 (DL/f) = (1/n – 1)(CoTt + Ct)DL/fC1/n)v1/n 1 = (1/n – 1)((CoTt + Ct)/C1/n)v1/n v1/n = C1/n/[(1/n-1)(CoTt + Ct)] 
+vmax = C/[(1/n-1)(CoTt + Ct)]n Q.E.D 
+
+
+

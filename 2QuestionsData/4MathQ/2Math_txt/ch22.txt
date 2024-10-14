@@ -1,0 +1,175 @@
+Problems 
+Turning and Related Operations 
+22.1 A cylindrical workpart 200 mm in diameter and 700 mm long is to be turned in an engine lathe. Cutting speed = 2.30 m/s, feed = 0.32 mm/rev, and depth of cut = 1.80 mm. Determine (a) cutting time, and (b) metal removal rate. 
+Solution: (a) N = v(πD) = (2.30 m/s)/0.200S = 3.66 rev/s fr = Nf = 6.366(.3) = 1.17 mm/s Tm = L/fr = 700/1.17 = 598 s = 9.96 min 
+Alternative calculation using Eq. (22.5), Tm (&#19;&#12; π(&#21;&#12; &#3; &#3; Q 
+(b) RMR = vfd = (2.30 m/s)(103)(0.32 mm)(1.80 mm) = 1320 mm3/s 
+22.2 In a production turning operation, the foreman has decreed that a single pass must be completed on the cylindrical workpiece in 5.0 min. The piece is 400 mm long and 150 mm in diameter. Using a feed = 0.30 mm/rev and a depth of cut = 4.0 mm, what cutting speed must be used to meet this machining time requirement? 
+Solution: Starting with Eq. (22.5): Tm = DoL/vf. Rearranging to determine cutting speed: v = DoL/fTm v = (0.4)(0.15)/(0.30)(10-3)(5.0) = 0.1257(103) m/min = 125.7 m/min 
+22.3 A facing operation is performed on an engine lathe. The diameter of the cylindrical part is 6 in and the length is 15 in. The spindle rotates at a speed of 180 rev/min. Depth of cut = 0.110 in, and feed = 0.008 in/rev. Assume the cutting tool moves from the outer diameter of the workpiece to exactly the center at a constant velocity. Determine (a) the velocity of the tool as it moves from the outer diameter towards the center and (b) the cutting time. 
+Solution: (a) fr = fN = (0.008 in/rev)(180 rev/min) = 1.44 in/min 
+(b) L = distance from outside to center of part = D/2; Tm = L/fr = D/(2fr) = 6/(2 x 1.44) = 2.083 min 
+22.4 A tapered surface is to be turned on an automatic lathe. The workpiece is 750 mm long with minimum and maximum diameters of 100 mm and 200 mm at opposite ends. The automatic controls on the lathe permit the surface speed to be maintained at a constant value of 200 m/min by adjusting the rotational speed as a function of workpiece diameter. Feed = 0.25 mm/rev and depth of cut = 3.0 mm. The rough geometry of the piece has already been formed, and this operation will be the final cut. Determine (a) the time required to turn the taper and (b) the rotational speeds at the beginning and end of the cut. 
+Solution: (a) RMR = vfd = (200 m/min)(103 mm/m)(0.25 mm)(3.0 mm) = 150,000 mm3/min Area of frustrum of cone A = (R1+ R2){h2+ (R1– R2)2}0.5 Given R1 = 100 mm, R2 = 50 mm, and h = 750 mm, A = (100 + 50){7502 + (100 – 50)2}0.5 = 150(565,000)0.5 = 354,214 mm2 Given depth of cut d = 3.0 mm, volume cut V = Ad = (354,214 mm2)(3.0 mm) = 1,062,641 mm3 Tm = V/RMR = (1,062,641 mm3)/(150,000 mm3/min) = 7.084 min 
+(b) At beginning of cut (D1 = 100 mm), N = v/D = 200,000/100S = 636.6 rev/min At end of cut (D2 = 200 mm), N = 200,000/200S = 318.3 rev/min 
+22.5 In the taper turning job of Problem 22.4, suppose that the automatic lathe with surface speed control is not available and a conventional lathe must be used. Determine the rotational speed that would be required to complete the job in exactly the same time as your answer to part (a) of that problem. 
+Solution: At a constant rotational speed and feed, feed rate fr is constant and Eqs. (22.3) and (22.4) can be used. Combining, Tm = L/Nf and then rearranging to obtain rotational speed N = L/fTm Given L = 750 mm, f = 0.25 mm/rev, and Tm = 7.084 min from Problem 22.3, N = 750/(0.25)(7.084) = 423.5 rev/min 
+22.6 A cylindrical work bar with 4.5 in diameter and 52 in length is chucked in an engine lathe and supported at the opposite end using a live center. A 46.0 in portion of the length is to be turned to a diameter of 4.25 in one pass at a speed of 450 ft/min. The metal removal rate should be 6.75 in3/min. Determine (a) the required depth of cut, (b) the required feed, and (c) the cutting time. 
+Solution: (a) depth d = (4.50 -4.25)/2 = 0.125 in 
+(b) 
+RMR = vfd; f = RMR/(12vd) = 6.75/(12 x 450 x 0.125) = 0.010 in f = 0.010 in/rev 
+
+(c) 
+N = v/πD = 450 x 12/4.5S = 382 rev/min fr = 382(0.010) = 3.82 in/min Tm = 46/3.82 = 12.04 min 
+
+
+22.7 A 4.00-in-diameter workpiece that is 25 in long is to be turned down to a diameter of 3.50 in, using two passes on an engine lathe using a cutting speed = 300 ft/min, feed = 0.015 in/rev, and depth of cut = 0.125 in. The bar will be held in a chuck and supported on the opposite end in a live center. With this workholding setup, one end must be turned to diameter; then the bar must be reversed to turn the other end. Using an overhead crane available at the lathe, the time required to load and unload the bar is 5.0 minutes, and the time to reverse the bar is 3.0 minutes. For each turning cut an allowance must be added to the cut length for approach and overtravel. The total allowance (approach plus overtravel) = 0.50 in. Determine the total cycle time to complete this turning operation. 
+Solution: First end: cut 15 in of 25 in length. N = 300 x 12/4S = 286.4 rev/min, fr = 286.4(0.015) = 4.297 in/min Tm = (15 + 0.5)/4.297 = 3.61 min; this reduces diameter to 3.75 in N = 300 x 12/3.75S = 305.5 rev/min, fr = 305.5(0.015) = 4.583 in/min Tm = 15.5/4.583 = 3.38 min to reduce the diameter to 3.50 in 
+Reverse bar, which takes 3.0 min and cut remaining 10 in of 25 in length. N = 300 x 12/4S = 286.4 rev/min, fr = 286.4(0.015) = 4.297 in/min Tm = (10 + 0.5)/4.297 = 2.44 min; this reduces diameter to 3.75 in N = 300 x 12/3.75S = 305.5 rev/min, fr = 305.5(0.015) = 4.583 in/min Tm = 10.5/4.583 = 2.29 min to reduce the diameter to 3.50 in 
+Loading and unloading bar takes 5.0 min. 
+Total cycle time = 5.0 + 3.61 + 3.38 + 3.0 + 2.44 + 2.29 = 19.72 min 
+22.8 The end of a large tubular workpart is to be faced on a NC vertical boring mill. The part has an outside diameter of 38.0 in and an inside diameter of 24.0 in. If the facing operation is performed at a rotational speed of 40.0 rev/min, feed of 0.015 in/rev, and depth of cut of 0.180 in, determine (a) the cutting time to complete the facing operation and the cutting speeds and metal removal rates at the beginning and end of the cut. 
+Solution: (a) Distance traveled L = (Do -Di)/2 =(38 -24)/2 = 7.0 in fr = (40 rev/min)(0.015 in/rev) = 0.60 in/min Tm = 7.0/0.60 = 11.67 min 
+(b) At Do = 38 in, N = v/πD, v = NπD = (40 rev/min)(38/12) = 398 ft/min RMR = vfd = (398 x 12)(0.015)(0.18) = 12.89 in3/min 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+02-07-09 At Di = 24 in, N=v/πD, v = NπD = (40 rev/min)(24/12) = 251 ft/min RMR = vfd = (251 x 12)(0.015)(0.18) = 8.14 in3/min 
+22.9 Solve Problem 22.8 except that the machine tool controls operate at a constant cutting speed by continuously adjusting rotational speed for the position of the tool relative to the axis of rotation. The rotational speed at the beginning of the cut = 40 rev/min, and is continuously increased thereafter to maintain a constant cutting speed. 
+Solution: (a) Total metal removed VMR = 0.25d(Do 2-Di 2) = 0.25(0.180)(38.02 – 24.02) 
+= 122.7 in3 RMR is constant throughout cutting if v is constant. N=v/πD; v = NπD = (40 rev/min)(38/12) = 398 ft/min RMR = vfd = (398 x 12)(0.015)(0.18) = 12.89 in3/min Tm = VMR/RMR = 122.7/12.89 = 9.52 min 
+Drilling 
+22.10 A drilling operation is to be performed with a 12.7 mm diameter twist drill in a steel workpart. The hole is a blind hole at a depth of 60 mm and the point angle is 118. The cutting speed is 25 m/min and the feed is 0.30 mm/rev. Determine (a) the cutting time to complete the drilling operation, and 
+(b) 
+metal removal rate during the operation, after the drill bit reaches full diameter. 
+
+Solution: (a) N = v/πD = 25(103) / (12.7) = 626.6 rev/min fr = Nf = 626.6(0.30) = 188 mm/min A = 0.5D tan (90 – /2) = 0.5(12.7)tan(90 – 118/2) = 3.82 mm Tm = (d + A)/fr = (60 + 3.82)/188 = 0.339 min 
+
+(b) 
+RMR = 0.25πD2fr = 0.25(12.7)2(188) = 23,800 mm3/min 
+
+
+22.11 A two-spindle drill simultaneously drills a ½ in hole and a ¾ in hole through a workpiece that is 1.0 inch thick. Both drills are twist drills with point angles of 118°. Cutting speed for the material is 230 ft/min. The rotational speed of each spindle can be set individually. The feed rate for both holes must be set to the same value because the 2 spindles lower at the same rate. The feed rate is set so the total metal removal rate does not exceed 1.50 in3/min. Determine (a) the maximum feed rate (in/min) that can be used, (b) the individual feeds (in/rev) that result for each hole, and (c) the time required to drill the holes. 
+Solution: (a) Total RMR &#3; πD12fr πD22fr π(D12 + D22 )fr &#3; π(2 + 0.752 )fr = 0.638fr fr = 1.50/0.638 = 2.35 in/min 
+(b) 
+For 1/2 in hole, N = vπD (π&#21;&#12; &#3; &#26; For 3/4 in hole, N = vπD (π&#21;&#12; &#3; &#20; f = fr/N. For 1/2 hole, f = 2.35/1757 = 0.0013 in/rev For 3/4 hole, f = 2.35/1171 = 0.0020 in/rev 
+
+(c) 
+Must use maximum Allowance for the 2 drills. For 1/2 in hole, A = 0.5D tan (90 – /2) = 0.5(0.50) tan(90 – 118/2) = 0.150 in For 3/4 in hole, A = 0.5D tan (90 – /2) = 0.5(0.75) tan (90 – 118/2) = 0.225 in Tm = (t + A)/fr = (1.00 + 0.225)/2.35 = 0.522 min = 31.2 seconds 
+
+
+22.12 A NC drill press is to perform a series of through-hole drilling operations on a 1.75 in thick aluminum plate that is a component in a heat exchanger. Each hole is 3/4 in diameter. There are 100 holes in all, arranged in a 10 by 10 matrix pattern, and the distance between adjacent hole centers (along the square) = 1.5 in. The cutting speed = 300 ft/min, the penetration feed (z-direction) = 
+0.015 in/rev, and the traverse rate between holes (x-y plane) = 15.0 in/min. Assume that x-y moves are made at a distance of 0.50 in above the work surface, and that this distance must be included in 
+Excerpts from this work may be reproduced by instructors for distribution on a not-for-profit basis for testing or instructional purposes only to students enrolled in courses for which the textbook has been adopted. Any other reproduction or translation of this work beyond that permitted by Sections 107 or 108 of the 1976 United States Copyright Act without the permission of the copyright owner is unlawful. 
+the penetration feed rate for each hole. Also, the rate at which the drill is retracted from each hole is twice the penetration feed rate. The drill has a point angle = 100. Determine the time required from the beginning of the first hole to the completion of the last hole, assuming the most efficient drilling sequence will be used to accomplish the job. 
+Solution: Time to drill each hole: N = 300 x 12/0.75S = 1527.7 rev/min fr = 1527.7(0.015) = 22.916 in/min Distance per hole = 0.5 + A + 1.75 A = 0.5(0.75) tan(90 – 100/2) = 0.315 in Tm = (0.5 + 0.315 + 1.75)/22.916 = 0.112 min 
+Time to retract drill from hole = 0.112/2 = 0.056 min 
+All moves between holes are at a distance = 1.5 in using a back and forth path between rows of holes. Time to move between holes = 1.5/15 = 0.1 min. With 100 holes, the number of moves between holes = 99. 
+Total cycle time to drill 100 holes = 100(0.112 + 0.056) + 99(0.1) = 26.7 min 
+22.13 A gundrilling operation is used to drill a 9/64-in diameter hole to a certain depth. It takes 4.5 minutes to perform the drilling operation using high pressure fluid delivery of coolant to the drill point. The current spindle speed = 4000 rev/min, and feed = 0.0017 in/rev. In order to improve the surface finish in the hole, it has been decided to increase the speed by 20% and decrease the feed by 25%. How long will it take to perform the operation at the new cutting conditions? 
+Solution: fr = Nf = 4000 rev/min (0.0017 in/rev) = 6.8 in/min Hole depth d = 4.5 min (6.8 in/min) = 30.6 in New speed v = 4000(1 + 0.20) = 4800 rev/min New feed f = 0.0017(1-0.25) = 0.001275 in/min New feed rate fr = 4800(0.001275) = 6.12 in/min New drilling time Tm = 30.6/6.12 in/min = 5.0 min 
+Milling 
+22.14 A peripheral milling operation is performed on the top surface of a rectangular workpart which is 400 mm long by 60 mm wide. The milling cutter, which is 80 mm in diameter and has five teeth, overhangs the width of the part on both sides. Cutting speed = 70 m/min, chip load = 0.25 mm/tooth, and depth of cut = 5.0 mm. Determine (a) the actual machining time to make one pass across the surface and (b) the maximum material removal rate during the cut. 
+Solution: (a) N = v/πD = 70,000 mm/80S = 279 rev/min fr = Nntf = 279(5)(0.25) = 348 mm/min 
+A = (d(D-d))0.5 
+= (5(80-5))0.5 = 19.4 mm Tm = (400 + 19.4)/348 = 1.20 min 
+(b) RMR = wdfr = 60(5)(348) = 104,400 mm3/min 
+22.15 A face milling operation is used to machine 6.0 mm from the top surface of a rectangular piece of aluminum 300 mm long by 125 mm wide in a single pass. The cutter follows a path that is centered over the workpiece. It has four teeth and is 150 mm in diameter. Cutting speed = 2.8 m/s, and chip load = 0.27 mm/tooth. Determine (a) the actual machining time to make the pass across the surface and (b) the maximum metal removal rate during cutting. 
+Solution: (a) N = vπD = (2800 mm/s)/150S = 5.94 rev/s fr = Nntf = 5.94(4)(0.27) = 6.42 mm/s 
+22 
+22
+A 0.5 D&#16; 
+D &#16; w = 0.5 150 &#16; 150 125 = 0.5(150 – 82.9) = 33.5 mm 
+Tm = (L + A)/fr = (300 + 33.5))/6.42 = 52 s = 0.87 min 
+(b) RMR = wdfr = 125(6)(6.42) = 4813 mm3/s 
+22.16 A slab milling operation is performed on the top surface of a steel rectangular workpiece 12.0 in long by 2.5 in wide. The helical milling cutter, which has a 3.0 in diameter and ten teeth, is set up to overhang the width of the part on both sides. Cutting speed is 125 ft/min, feed is 0.006 in/tooth, and depth of cut = 0.300 in. Determine (a) the actual machining time to make one pass across the surface and (b) the maximum metal removal rate during the cut. (c) If an additional approach distance of 0.5 in is provided at the beginning of the pass (before cutting begins), and an overtravel distance is provided at the end of the pass equal to the cutter radius plus 0.5 in, what is the duration of the feed motion. 
+Solution: (a) N= vπD = 125(12)/3S = 159.15 rev/min fr = Nntf = 159.15(10)(0.006) = 9.55 in/min 
+A = (d(D-d))0.5 
+= (0.30(3.0-0.30))0.5 = 0.90 in Tm = (L + A)/fr = (12.0 + 0.9)/9.55 = 1.35 min 
+(b) 
+RMR = wdfr = 2.5(0.30)(9.55) = 7.16 in3/min 
+
+(c) 
+The cutter travels 0.5 in before making contact with the work. It moves 0.90 in before reaching full depth of cut. It then feeds the length of the work (12.0 in). The overtravel consists of the cutter radius (1.5 in) plus an additional 0.5 in. Thus, Tf = (0.5 + 0.9 + 12.0 + 1.5 + 0.5)/9.55 = 1.56 min 
+
+
+22.17 A face milling operation is performed on the top surface of a steel rectangular workpiece 12.0 in long by 2.5 in wide. The milling cutter follows a path that is centered over the workpiece. It has five teeth and a 3.0 in diameter. Cutting speed = 250 ft/min, feed = 0.006 in/tooth, and depth of cut = 
+0.150 in. Determine (a) the actual cutting time to make one pass across the surface and (b) the maximum metal removal rate during the cut. (c) If an additional approach distance of 0.5 in is provided at the beginning of the pass (before cutting begins), and an overtravel distance is provided at the end of the pass equal to the cutter radius plus 0.5 in, what is the duration of the feed motion. 
+Solution: (a) N = v/πD = 250(12)/3S = 318.3 rev/min fr = 318.3(5)(0.006) = 9.55 in/min 
+22 
+22
+A 0.5 D&#16; 
+D &#16; w = 0.5 3 &#16; 3 &#16; 2.5 0.671 in 
+Tm = (12.0 + 0.671)/9.55 = 1.33 min 
+(b) RMR = 2.5(0.150)(9.55) = 3.58 in3/min 
+(c) The cutter travels 0.5 in before making contact with the work. It moves 1.50 in before its center is aligned with the starting edge of the 12.0 in workpiece. It then feeds the length of the work (12.0 in). The overtravel consists of the cutter radius (1.5 in) plus an additional 0.5 in. Thus, Tf = (0.5 + 1.5 + 12.0 + 1.5 + 0.5)/9.55 = 1.68 min 
+22.18 Solve Problem 22.17 except that the workpiece is 5.0 in wide and the cutter is offset to one side so that the swath cut by the cutter = 1.0 in wide. This is called partial face milling, Figure 22.20(b). 
+Solution: (a) N = 250(12)/3S = 318.3 rev/min fr = 318.3(5)(0.006) = 9.55 in/min A = (1(3-1)).5 = 1.414 in Tm = (12.0 + 1.414)/9.55 = 1.405 min 
+(b) RMR = 1.0(.150)(9.55) = 1.43 in3/min (c) The cutter travels 0.5 in before making contact with the work. It moves 1.414 in before reaching full width of cut. It then feeds the length of the work (12.0 in). The overtravel consists of the cutter radius (1.5 in) plus an additional 0.5 in. Thus, Tf = (0.5 + 1.414 + 12.0 + 1.5 + 0.5)/9.55 = 1.67 min 
+22.19 A face milling operation removes 0.32 in depth of cut from the end of a cylinder that has a diameter of 3.90 in. The cutter has a 4-in diameter with 4 teeth, and its feed trajectory is centered over the circular face of the work. The cutting speed is 375 ft/min and the chip load is 0.006 in/tooth. Determine (a) the time to machine, (b) the average metal removal rate (considering the entire machining time), and (c) the maximum metal removal rate. 
+Solution: (a) N = v/πD = 375(12)/4π= 358 rev/min fr = Nntf = 358(4)(0.006) = 8.59 in/min Tm = L/fr = 3.9/8.59 = 0.454 min 
+(b) 
+RMRaverage &#3; πD2d/Tm π(&#28;&#12; 2(0.32)/0.454 = 8.42 in3/min 
+
+(c) 
+RMRmax = point where the cutter just about covers the entire cylinder. In this case it would be the same as milling a rectangle so RMR = wdfr RMR = wdfr = 3.9(0.32)8.59 = 10.73 in3/min 
+
+
+22.20 The top surface of a rectangular workpart is machined using a peripheral milling operation. The workpart is 735 mm long by 50 mm wide by 95 mm thick. The milling cutter, which is 60 mm in diameter and has five teeth, overhangs the width of the part equally on both sides. Cutting speed = 80 m/min, chip load = 0.30 mm/tooth, and depth of cut = 7.5 mm. (a) Determine the time required to make one pass across the surface, given that the setup and machine settings provide an approach distance of 5 mm before actual cutting begins and an overtravel distance of 25 mm after actual cutting has finished. (b) What is the maximum material removal rate during the cut? 
+Solution: (a) N = v/πD = 80,000 mm/60S = 424.4 rev/min fr = Nntf = 424.4(5)(0.3) = 636.6 mm/min 
+A = (d(D-d))0.5 
+= (7.5(60-7.5))0.5 = 19.84 mm Tm = (735 + 5 + 19.84 + 25)/636.6 = 1.233 min 
+(b) RMR = wdfr = 60(7.5)(636.6) = 286,470 mm3/min 
+
+Machining and Turning Centers 
+22.21 A three-axis CNC machining center is tended by a worker who loads and unloads parts between machining cycles. The machining cycle takes 5.75 min, and the worker takes 2.80 min using a hoist to unload the part just completed and load and fixture the next part onto the machine worktable. A proposal has been made to install a two-position pallet shuttle at the machine so that the worker and the machine tool can perform their respective tasks simultaneously rather than sequentially. The pallet shuttle would transfer the parts between the machine worktable and the load/unload station in 15 sec. Determine (a) the current cycle time for the operation and (b) the cycle time if the proposal is implemented. What is the percentage increase in hourly production rate that would result from using the pallet shuttle? 
+Solution: (a) The current cycle time is the machine cycle time plus the load unload time. Tc = 5.75 + 2.80 = 8.55 min 
+(b) 
+The cycle time under the proposal is Tc = Max{5.75, 2.80} + 0.25 = 6.00 min 
+
+(c) 
+The current hourly production rate Rp = 60/8.55 = 7.02 pc/hr The production rate under the proposal Rp = 60/6.0 = 10 pc/hr This is an increase of (10 – 7.02)/7.02 = 0.425 = 42.5% 
+
+
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 02-07-09 
+22.22 A part is produced using six conventional machine tools consisting of three milling machines and three drill presses. The machine cycle times on these machines are 4.7 min, 2.3 min, 0.8 min, 0.9 min, 3.4 min, and 0.5 min. The average load/unload time for each of these operations is 1.25 min. The corresponding setup times for the six machines are 1.55 hr, 2.82 hr, 57 min, 45 min, 3.15 hr, and 36 min, respectively. The total material handling time to carry one part between the machines is 20 min (consisting of five moves between six machines). A CNC machining center has been installed, and all six operations will be performed on it to produce the part. The setup time for the machining center for this job is 1.0 hr. In addition, the machine must be programmed for this part (called “part programming”), which takes 3.0 hr. The machine cycle time is the sum of the machine cycle times for the six machines. Load/unload time is 1.25 min. (a) What is the total time to produce one of these parts using the six conventional machines if the total consists of all setups, machine cycle times, load/unload times, and part transfer times between machines? (b) What is the total time to produce one of these parts using the CNC machining center if the total consists of the setup time, programming time, machine cycle time, and load/unload time, and what are the percent savings in total time compared to your answer in (a)? (c) If the same part is produced in a batch of 20 pieces, what is the total time to produce them under the same conditions as in (a) except that the total material handling time to carry the 20 parts in one unit load between the machines is 40 min? (d) If the part is produced in a batch of 20 pieces on the CNC machining center, what is the total time to produce them under the same conditions as in part (b), and what are the percent savings in total time compared to your answer in (c)? (e) In future orders of 20 pieces of the same part, the programming time will not be included in the total time because the part program has already been prepared and saved. In this case, how long does it take to produce the 20 parts using the machining center, and what are the percent savings in total time compared to your answer in (c)? 
+Solution: (a) TT = Tsu + Tm + TL + TMH Tsu = 60(1.55 + 2.82 + 3.15) + 57 + 45 + 36 = 589.2 min Tm =4.7+2.3+0.8+0.9+3.4+ 0.5 = 12.6min TL + TMH = 6(1.25 )+ 20 = 27.5 min TT = 589.2 + 12.6 + 27.5 = 629.3 min = 10.49 hr 
+(b) 
+TT = Tpp + Tsu + Tm + TL TT = 180 + 60 + 12.6 + 1.25 = 253.85 min = 4.23 hr % savings = (10.49 – 4.23)/10.49 = 6.26/10.49 = 0.597 = 59.7% 
+
+(c) 
+TT = Tsu + 20Tm + 20TL + TMH Tsu = 60(1.55 + 2.82 + 3.15) + 57 + 45 + 36 = 589.2 min 20Tm = 20(4.7 + 2.3 + 0.8 + 0.9 + 3.4 + 0.5) = 20(12.6) = 252 min 20TL + TMH = 20(6)(1.25) + 40 = 150 + 40 = 190 min TT = 589.2 + 252 + 190 = 1031.2 min = 17.19 hr 
+
+(d) 
+TT = Tpp + Tsu + 20Tm + 20TL TT = 180 + 60 + 20(12.6) + 20(1.25) = 517 min = 8.62 hr % savings = (17.19 – 8.62)/17.19 = 8.57/17.19 = 0.499 = 49.9% 
+
+(e) 
+TT = Tsu + 20Tm + 20TL TT = 60 + 20(12.6) + 20(1.25) = 337 min = 5.62 hr % savings = (17.19 – 5.62)/17.19 = 11.57/17.19 = 0.673 = 67.3% 
+
+
+Other Operations 
+22.23 A shaper is used to reduce the thickness of a 50 mm part to 45 mm. The part is made of cast iron and has a tensile strength of 270 MPa and a Brinell hardness of 165 HB. The starting dimensions of the part are 750 mm x 450 mm x 50 mm. The cutting speed is 0.125 m/sec and the feed is 0.40 
+Solutions for Fundamentals of Modern Manufacturing, 4/e (published by Wiley)  MPGroover 2010 
+02-07-09 mm/pass. The shaper ram is hydraulically driven and has a return stroke time that is 50% of the cutting stroke time. An extra 150 mm must be added before and after the part for acceleration and deceleration to take place. Assuming the ram moves parallel to the long dimension of the part, how long will it take to machine? 
+Solution: Time per forward stroke = (150 + 750 + 150)/(0.125 x 1000) = 8.4 sec Time per reverse stroke = 0.50(8.4) = 4.2 sec Total time per pass = 8.4 + 4.2 = 12.6 sec = 0.21 min Number of passes = 450/0.40 = 1125 passes Total time Tm = 1125(0.21) = 236 min 
+22.24 An open side planer is to be used to plane the top surface of a rectangular workpart, 20.0 in by 45.0 in. The cutting speed is 30 ft/min, the feed is 0.015 in/pass, and the depth of cut is 0.250 in. The length of the stroke across the work must be set up so that 10 in are allowed at both the beginning and end of the stroke for approach and overtravel. The return stroke, including an allowance for acceleration and deceleration, takes 60% of the time for the forward stroke. The workpart is made of carbon steel with a tensile strength of 50,000 lb/in2 and a Brinell hardness of 110 HB. How long will it take to complete the job, assuming that the part is oriented in such a way as to minimize the time? 
+Solution: Orient work so that its length (L = 45 in) is in direction of stroke. This will minimize the number of passes required which will minimize time in this case. Time per forward stroke = (10 + 45 + 10)/(30 x 12) = 0.18 min Time per reverse stroke = 0.60(.18) = 0.11 min Total time per pass = 0.18 + 0.11 = 0.29 min Number of passes = 20.0/0.015 = 1333 passes Total time Tm = 1333(0.29) = 387 min 
+Check: orient work so that its width (w = 20 in) is in direction of stroke. Time per forward stroke = (10 + 20 + 10)/(30 x 12) = 0.11 min Time per reverse stroke = 0.60(.11) = 0.067 min Total time per pass = 0.11 + 0.067 = 0.177 min Number of passes = 45.0/0.015 = 3000 passes Total time = 3000(0.177) = 531 min 
+22.25 High-speed machining (HSM) is being considered to produce the aluminum part in Problem 
+22.15. All cutting conditions remain the same except for the cutting speed and the type of insert used in the cutter. Assume the cutting speed will be at the limit given in Table 22.1. Determine 
+(a) 
+the new time to machine the part and (b) the new metal removal rate. (c) Is this part a good candidate for high-speed machining? Explain. 
+
+Solution: Assume the same indexable tool (face mill with appropriate inserts) will be used in the new operation. For aluminum, the HSM cutting speed will be 3,600 m/min 
+
+(a) 
+N = vπD = (3600(103) mm/min)/(150S mm/rev) = 7639 rev/min fr = Nntf = 7639(4)(0.27) = 8250.6 mm/min A = D/2 = 150/2 = 75 mm Tm = (L+A)/fr = (300 + 75)/8250.6 = 0.0454 min = 2.73 sec 
+
+(b) 
+RMR = wdfr = 125(6)(8250.6) = 5.157 x 106 mm3/min = 6,187,950 mm3/sec 
+
+(c) 
+This is probably not a good candidate because the machining time is so small and it is a single, simple-geometry operation. The time to load and unload the part will be about as long as the machining time and the machine will be idle while that is happening. It would become a better choice if another part could be loaded and unloaded while the machining was taking place. Then the only delay would be bringing the new part into position. Generally, HSM is justified by at 
+
+
+least one of the following conditions: (1) large volumes of metal removed from large parts, (2) multiple cutting operations requiring many different tools, and (3) complex shapes and hard materials (as in the die and mold industry). 
+
+
