@@ -29,7 +29,6 @@ print(args)
 print()
 print()
 
-
 # Function to load all .csv files from a folder into a single dataframe
 def load_csv_files_from_folder(folder_path):
     csv_files = [f for f in os.listdir(folder_path) if f.endswith('.csv')]
