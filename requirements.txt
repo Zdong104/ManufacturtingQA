@@ -7,9 +7,9 @@ ftfy
 regex 
 tqdm
 openai
-re
 torch 
 torchvision
 matplotlib 
 scikit-image
 qdrant_client
+git+https://github.com/openai/CLIP.git

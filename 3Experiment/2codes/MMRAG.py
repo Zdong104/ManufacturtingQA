@@ -20,10 +20,9 @@ def extract_image_links(text):
 def full_image_paths(image_links, base_folder):
     text_extracted_images = []
     for img_path in image_links:
-        # Remove 'images/' from the beginning of the path if it exists
-        if img_path.startswith('images/'):
-            img_path = img_path[len('images/'):]  # Remove 'images/' from the path
-            full_path = os.path.join(base_folder, img_path)
+        img_path = os.path.basename(img_path)
+        full_path = os.path.join(base_folder, img_path)
+
         if not os.path.isfile(full_path):
             print(f"File not found: {full_path}")
         text_extracted_images.append(full_path)
@@ -43,17 +42,17 @@ def retrive_document(args, img_from_text_only) -> str:
     try:
         retrieval_results = retriever.retrieve(args.question)
         images_link = []
-        retrieved_images = []
+        retrieved_images_todo = []
         context_str = ""
         for res_node in retrieval_results:
             if isinstance(res_node.node, ImageNode):
-                retrieved_images.append(res_node.node.metadata["file_path"])
+                retrieved_images_todo.append(res_node.node.metadata["file_path"])
             else:
                 text = res_node.node.text
                 context_str += text
                 images_link += extract_image_links(text)
-
-        text_extracted_images = full_image_paths(images_link, base_folder="1Book/3Book_txt_images")
+        retrieved_images = full_image_paths(retrieved_images_todo, base_folder="./1Book/3Book_txt_images")
+        text_extracted_images = full_image_paths(images_link, base_folder="./1Book/3Book_txt_images")
         all_images = retrieved_images + text_extracted_images
 
         if args.verbose:

@@ -4,26 +4,6 @@ from llama_index.llms.openai import OpenAI
 
 from utils import get_prompt_by_type, extract_context_and_paths1
 
-
-def load_index_from_storage(args):
-    from llama_index.core import StorageContext, load_index_from_storage
-    # rebuild storage context
-    storage_context = StorageContext.from_defaults(persist_dir=args.MMVectorDB_path)
-    # load index
-    index = load_index_from_storage(storage_context)
-    args.index = index
-    return
-
-def build_index(args):
-    from llama_index.core import VectorStoreIndex, SimpleDirectoryReader
-    required_exts = [".txt"]
-    documents = SimpleDirectoryReader(args.document,required_exts=required_exts,recursive=True).load_data()
-    print(f"Loaded {len(documents)} docs")
-    index = VectorStoreIndex.from_documents(documents, chunk_size=args.chunk_size, chunk_overlap=args.chunk_overlap)
-    index.storage_context.persist(persist_dir=args.MMVectorDB_path) # Save the index to disk
-    args.index = index
-    return
-
 def retrive_document(args) -> str:
     retriever = args.index.as_retriever(similarity_top_k=args.top_k)
     if args.interactive:
