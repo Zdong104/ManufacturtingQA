@@ -1,6 +1,7 @@
 #RAG.py
 import os
 from llama_index.llms.openai import OpenAI
+import pdb
 
 from utils import get_prompt_by_type, extract_context_and_paths1
 
@@ -23,7 +24,10 @@ def answer_question(args) -> str:
     query_engine.update_prompts({"response_synthesizer:text_qa_template": new_summary_tmpl})
     prompts_dict = query_engine.get_prompts()
     if args.verbose:
+        print('Rag Prompt:\n')
+        # print(prompts_dict['response_synthesizer:text_qa_template'].default_template.template)
         print(prompts_dict['response_synthesizer:text_qa_template'].template)
+        print()
     args.results = query_engine.query(args.question)
     return args.results
 

@@ -9,11 +9,10 @@ from MMRAG import MMRAG, MMRAG_text, MMRAG_all
 import pdb
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--QAType", default = 4, type = int, help = "Which Type of Question to be asked, we have 1.MCQ, 2.ResponseQ, 3.ImageQ, 4.MathQ")
-parser.add_argument("--verbose", default = False, type = bool, help = "Print the output or not")
+parser.add_argument("--QAType", default = 1, type = int, help = "Which Type of Question to be asked, we have 1.MCQ, 2.ResponseQ, 3.ImageQ, 4.MathQ")
+parser.add_argument("--verbose", default = True, type = bool, help = "Print the output or not")
 parser.add_argument("--plot", default = False, type = bool, help = "Plot the output or not")
 parser.add_argument("--evidence", default = False, type = bool, help = "Print and Plot the source of the answer")
-parser.add_argument("--api_key", default=os.getenv("OPENAI_API_KEY"), type=str, help="OpenAI API Key")
 parser.add_argument("--top_k", default = 3, type = int, help = "Top k answer to be generated")
 parser.add_argument("--image_top_k", default = 3, type = int, help = "Top k image to be generated")
 parser.add_argument("--retrive", default = False, type = bool, help = "Retrive the document or answer_question, depend on if want to test or question answering")
@@ -28,6 +27,8 @@ args = parser.parse_args()
 print(args)
 print()
 print()
+# Set the API key
+args.api_key=os.getenv("OPENAI_API_KEY")
 
 # Function to load all .csv files from a folder into a single dataframe
 def load_csv_files_from_folder(folder_path):
@@ -86,7 +87,6 @@ def experiment(args):
         MMRAG_all_results.append(MMRAG_all_result)
 
   
-
     # Define a dictionary to loop over results and process/save them
     results_mapping = {
         "GPT_results": GPT_results,
@@ -104,8 +104,6 @@ def experiment(args):
 
 if __name__ == "__main__":
     os.chdir("../../") # change to main directory
-    # Set VectorDB path
-    args.MMVectorDB_path = "1Book/4.High_Quality_WholeBook_storage"
     # list of all question folders
     RQfolder = "2QuestionsData/1RQ/"
     MCQfolder = "2QuestionsData/2MCQ/"
@@ -121,7 +119,7 @@ if __name__ == "__main__":
         load_csv_files_from_folder(MathQfolder)
     else:
         raise ValueError("Invalid QAType. Please specify a valid QAType from 1 to 4.")
-    args.questions_df = args.questions_df[:3]
+    args.questions_df = args.questions_df[:30]
 
     experiment(args)
 

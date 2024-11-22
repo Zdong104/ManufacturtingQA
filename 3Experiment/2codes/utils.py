@@ -33,10 +33,10 @@ def plot_images(image_paths):
 
 # Build and load embeddings
 def load_index_from_storage(args):
-    from llama_index.core import load_index_from_storage, StorageContext, load_index_from_storage
+    from llama_index.core import load_index_from_storage, StorageContext
     openai.api_key = args.api_key
 
-    # Create a local Qdrant vector store
+    # Load local Qdrant vector store
     ## RAG
     storage_context = StorageContext.from_defaults(persist_dir="3Experiment/3storage/storage")
     args.index = load_index_from_storage(storage_context)

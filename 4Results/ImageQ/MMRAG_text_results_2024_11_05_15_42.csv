@@ -1,0 +1,736 @@
+Question,Answer,OutputAnswers,Context,Context_path,Confident_Score,image_filename
+"""Q1"": ""Which figure shows the components involved in a welding process, including the consumable electrode and the protective gas?"",","""A1"": ""Figure 29.3 shows the components involved in a welding process, including the consumable electrode, electrode coating, protective gas from electrode coating, slag, base metal, molten weld metal, and solidified weld metal. This figure is essential for understanding the Shielded Metal Arc Welding (SMAW) process.""","""Explanation"": ""Figure 29.1 shows the basic configuration and electrical circuit of an arc-welding process, incorporating components like the electrode and protective mechanisms."", ""YourChoice"": ""Figure 29.1""","As the electrode is moved along the joint,  the molten weld pool solidiﬁ  es in its wake.  
+
+![](images/b4f956fef1b35f4c4572c229cccdd5d28a23c1366dd471f70d6c37cce7644a15.jpg)  
+FIGURE 29.1  The  basic conﬁ  guration and  electrical circuit of an  arc-welding process.  
+
+Movement of the electrode relative to the work is accomplished by either a  human welder (manual welding) or by mechanical means (i.e., machine welding,  automatic welding, or robotic welding). One of the troublesome aspects of manual  arc welding is that the quality of the weld joint depends on the skill and work ethic  of the human welder. Productivity is also an issue. It is often measured as  arc time   (also called  arc-on time )—the proportion of hours worked that arc welding is being  accomplished:  
+
+$$
+\mathrm{arc\;time}=(\mathrm{time}\;\mathrm{arc\;is\;on})/(\mathrm{hours\;worked})
+$$  
+
+This deﬁ  nition can be applied to an individual welder or to a mechanized worksta- tion. For manual welding, arc time is usually around $20\%$ . Frequent rest periods are  needed by the welder to overcome fatigue in manual arc welding, which requires  hand–eye coordination under stressful conditions. Arc time increases to about  $50\%$ (more or less, depending on the operation) for machine, automatic, and robotic  welding.  
+
+# 29.1.1  GENERAL TECHNOLOGY OF ARC WELDING  
+
+Before describing the individual AW processes, it is instructional to examine some of  the general technical issues that apply to these processes.  
+
+Electrodes  Electrodes used in AW processes are classiﬁ  ed as consumable or non- consumable.  Consumable electrodes  provide the source of the ﬁ  ller metal in arc  welding. These electrodes are available in two principal forms: rods (also called  sticks) and wire. The problem with consumable welding rods, at least in production  welding operations, is that they must be changed periodically, reducing arc time of  the welder. Consumable weld wire has the advantage that it can be continuously fed  into the weld pool from spools containing long lengths of wire, thus avoiding the  frequent interruptions that occur when using welding sticks. In both rod and wire  forms, the electrode is consumed by the arc during the welding process and added to  the weld joint as ﬁ  ller metal.  
+
+Nonconsumable electrodes  are made of tungsten (or carbon, rarely), which resists  melting by the arc. Despite its name, a nonconsumable electrode is gradually deplet- ed during the welding process (vaporization is the principal mechanism), analogous  to the gradual wearing of a cutting tool in a machining operation. For AW processes  that utilize nonconsumable electrodes, any ﬁ  ller metal used in the operation must be  supplied by means of a separate wire that is fed into the weld pool.  
+
+Arc Shielding  At the high temperatures in arc welding, the metals being joined are  chemically reactive to oxygen, nitrogen, and hydrogen in the air. The mechanical prop- erties of the weld joint can be seriously degraded by these reactions. Thus, some means  to shield the arc from the surrounding air is provided in nearly all AW processes. Arc  shielding is accomplished by covering the electrode tip, arc, and molten weld pool with  a blanket of gas or ﬂ  ux, or both, which inhibit exposure of the weld metal to air.  
+
+Common shielding gases include argon and helium, both of which are inert. In  the welding of ferrous metals with certain AW processes, oxygen and carbon dioxide  are used, usually in combination with Ar and/or He, to produce an oxidizing atmos- phere or to control weld shape.  
+
+A  ﬂ  ux  is a substance used to prevent the formation of oxides and other unwanted  contaminants, or to dissolve them and facilitate removal. During welding, the ﬂ  ux  melts and becomes a liquid slag, covering the operation and protecting the molten  weld metal. The slag hardens upon cooling and must be removed later by chipping or  brushing. Flux is usually formulated to serve several additional functions: (1) provide  a protective atmosphere for welding, (2) stabilize the arc, and (3) reduce spattering.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec29.txt,0.8628933077916252,0008488b1bf3badaef68e63f4898ac73ae5cf0c72a2c86e0af183587e93c5225.jpg
+"""Q1"": ""Is there a figure that demonstrates the microstructure of cemented carbide materials used in manufacturing?"",","""A1"": ""Yes, Figure 9.8 shows a photomicrograph (about 1500X) of cemented carbide with 85% WC and 15% Co. This figure illustrates the microstructure of the material, highlighting the distribution and morphology of the carbide particles within the cobalt binder matrix. The image helps in understanding the composite nature of cemented carbides and how the binder affects the mechanical properties of the material.""","""Explanation"": ""The context does not mention a figure showing the microstructure of cemented carbide materials. Figure 7.1 relates to ceramic components and does not demonstrate microstructure."", ""YourChoice"": ""None""","# 22.2.3  CEMENTED CARBIDES, CERMETS, AND COATED CARBIDES  
+
+Cermets  are deﬁ  ned as composites of  cer amic and  met allic materials (Section 9.2.1).  Technically speaking, cemented carbides are included within this deﬁ  nition; how- ever, cermets based on WC–Co, including WC–TiC–TaC–Co, are known as carbides  (cemented carbides) in common usage. In cutting-tool terminology, the term cer- met is applied to ceramic-metal composites containing TiC, TiN, and certain other  ceramics not including WC. One of the advances in cutting-tool materials involves  the application of a very thin coating to a WC–Co substrate. These tools are called  coated carbides. Thus, there are three important and closely related tool materials to  discuss: (1) cemented carbides, (2) cermets, and (3) coated carbides.  
+
+Cemented Carbides  Cemented carbides (also called  sintered carbides ) are a  class of hard tool material formulated from tungsten carbide (WC, Section 7.3.2)  using powder metallurgy techniques (Chapter 15) with cobalt (Co) as the binder  (Sections 9.2.1 and 16.3.1). There may be other carbide compounds in the mixture,  such as titanium carbide (TiC) and/or tantalum carbide (TaC), in addition to WC.  
+
+The ﬁ  rst cemented carbide cutting tools were made of WC–Co (Historical  Note 7.2) and could be used to machine cast irons and nonsteel materials at cut- ting speeds faster than those possible with high-speed steel and cast cobalt alloys.  However, when the straight WC–Co tools were used to cut steel, crater wear oc- curred rapidly, leading to early failure of the tools. A strong chemical afﬁ  nity exists  between steel and the carbon in WC, resulting in accelerated wear by diffusion  and chemical reaction at the tool–chip interface for this work-tool combination.  Consequently, straight WC–Co tools cannot be used effectively to machine steel. It  was subsequently discovered that additions of titanium carbide and tantalum car- bide to the WC–Co mix signiﬁ  cantly retarded the rate of crater wear when cutting  steel. These new WC–TiC–TaC–Co tools could be used for steel machining. The re- sult is that cemented carbides are divided into two basic types: (1) nonsteel-cutting  grades, consisting of only WC–Co; and (2) steel-cutting grades, with combinations  of TiC and TaC added to the WC–Co.  
+
+The general properties of the two types of cemented carbides are similar: (1) high  compressive strength but low-to-moderate tensile strength; (2) high hardness (90 to  95 HRA); (3) good hot hardness; (4) good wear resistance; (5) high thermal conduc- tivity; (6) high modulus of elasticity $\cdot\!-\!E$  values up to around  $600\times10^{3}$  MPa ( $(90\times$ $10^{6}\mathrm{lb/in}^{2}$ ); and (7) toughness lower than high-speed steel.  
+
+Nonsteel-cutting grades  refer to those cemented carbides that are suitable for  machining aluminum, brass, copper, magnesium, titanium, and other nonferrous  metals; anomalously, gray cast iron is included in this group of work materials. In  the nonsteel-cutting grades, grain size and cobalt content are the factors that inﬂ  u- ence properties of the cemented carbide material. The typical grain size found in  conventional cemented carbides ranges between 0.5 and $5\,\mu\mathrm{m}$  (20 and $200\,\mu$ -in). As  grain size is increased, hardness and hot hardness decrease, but transverse rupture  strength increases.  The typical cobalt content in cemented carbides used for cutting  tools is 3 to  $12\%$ . The effect of cobalt content on hardness and transverse rupture  strength is shown in Figure 9.9. As cobalt content increases, TRS improves at the  expense of hardness and wear resistance. Figure 7.1  shows a collection of new ceramic parts, most of which are made of alumina.  
+
+# 7.3.2  CARBIDES  
+
+The carbide ceramics include silicon carbide (SiC), tungsten carbide (WC), titani-  um carbide (TiC), tantalum carbide (TaC), and chromium carbide  $\left({\mathrm{Cr}}_{3}{\mathrm{C}}_{2}\right)$ . Silicon  carbide was discussed previously. A part made of SiC is also shown in Figure 7.1.  Although it is a man-made ceramic, the methods for its production were developed  a century ago, and therefore it is generally included in the traditional ceramics group.  In addition to its use as an abrasive, other SiC applications include resistance heating  elements and additives in steelmaking.  
+
+![](images/f5f36028180e4b0ceb11e5fe234d2085c9e1778955f3d5e7016c513388803fdf.jpg)  
+FIGURE  7.1   A collection of ceramic  components. The white  parts are alumina and  the black parts are  silicon carbide and  silicon nitride. (Photo  courtesy of Insaco Inc.)  
+
+WC, TiC, and TaC are valued for their hardness and wear resistance in cutting  tools and other applications requiring these properties.  Tungsten carbide  was the  first to be developed (Historical Note 7.2) and is the most important and widely used  material in the group. WC is typically produced by carburizing tungsten powders  that have been reduced from tungsten ores such as  wolframite  $(\mathrm{FeMnWO_{4}})$ ) and  scheelite  $(\mathrm{CaWO4})$ .  Titanium carbide  is produced by carburizing the minerals  rutile  $(\mathrm{TiO}_{2})$  or  ilmenite  $\left(\mathrm{FeTiO}_{3}\right)$ ). And  tantalum carbide  is made by carburizing either  pure tantalum powders or tantalum pentoxide  $(\mathrm{Ta}_{2}\mathrm{O}_{5})$  [11].  Chromium carbide  is  more suited to applications where chemical stability and oxidation resistance are  important. $\mathrm{Cr}_{3}\mathrm{C}_{2}$  is prepared by carburizing chromium oxide $\left(\mathrm{Cr}_{2}\mathrm{O}_{3}\right)$  as the starting  compound. Carbon black is the usual source of carbon in all of these reactions.  
+
+# Historical Note 7.2  Tungsten carbide  
+
+The compound WC does not occur in nature. It was  used WC powders mixed with about  $10\%$  of a metal  first fabricated in the late 1890s by the Frenchman from the iron group, finally settling on cobalt as the  Henri Moissan. However, the technological and com- best binder, and sintering the mixture at a temperature  mercial importance of the development was not rec- close to the melting point of the metal. The hard mate-  
+
+ognized for two decades.    rial was first marketed in Germany as “Widia” in 1926.  Tungsten became an important metal for incandes-  The Schroter patents were assigned to the General  cent lamp filaments in the early 1900s. Wire drawing Electric Company under the trade name “Carboloy”—   was required to produce the filaments. The traditional  first produced in the United States around 1928.   tool steel draw dies of the period were unsatisfactory   Widia and Carboloy were used as cutting tool  for drawing tungsten wire due to excessive wear.  There materials, with cobalt content in the range $4\%$  to  $13\%$ .  was a need for a much harder material. The compound They were effective in the machining of cast iron and  WC was known to possess such hardness. In 1914 in many nonferrous metals, but not in the cutting of steel.  Germany, H. Voigtlander and H. Lohmann developed a  When steel was machined, the tools would wear rap-  fabrication process for hard carbide draw dies by sin- idly by cratering.","/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec22.txt, /Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/Sec7.txt","0.8328079966013348, 0.8328025062277673",000903b4b6519f0f31857f409c0020e8bb08461e4d7091d124c070ba33d274f1.jpg
+"""Q1"": ""Which figure shows the different adaptations of a butt joint for brazing?"",","""A1"": ""Figure 30.1 shows the different adaptations of a butt joint for brazing. It includes (a) a conventional butt joint, (b) a scarf joint, (c) a stepped butt joint, and (d) an increased cross-section of the part at the joint."",","""Explanation"": ""The question asks for the figure showing adaptations of a butt joint for brazing. The context describes adaptations for lap joints in Figure 30.2, but no specific figure for butt joints is mentioned."", ""YourChoice"": ""None""","Some adaptations of  the lap joint for brazing are illustrated in Figure 30.2. An advantage of brazing over  welding in lap joints is that the ﬁ  ller metal is bonded to the base parts throughout  the entire interface area between the parts, rather than only at the edges (as in ﬁ  llet  welds made by arc welding) or at discrete spots (as in resistance spot welding).  
+
+Clearance between mating surfaces of the base parts is important in brazing. The  clearance must be large enough so as not to restrict molten ﬁ  ller metal from ﬂ  owing  throughout the entire interface. Yet if the joint clearance is too great, capillary action  will be reduced and there will be areas between the parts where no ﬁ  ller metal is  present. Joint strength is affected by clearance, as depicted in Figure 30.3. There is an  
+
+![](images/ee3c550f55bdc7e3f663c2ad69b05a85fa9953e5bc03e07e80d11559aa70cc2f.jpg)  
+FIGURE 30.3  Joint strength  as a function of joint clearance.  
+
+optimum clearance value at which joint strength is maximized. The issue is compli- cated by the fact that the optimum depends on base and ﬁ  ller metals, joint conﬁ  gu- ration, and processing conditions. Typical brazing clearances in practice are 0.025 to  $0.25~\mathrm{mm}$  (0.001–0.010 in). These values represent the joint clearance at the brazing  temperature, which may be different from room temperature clearance, depending  on thermal expansion of the base metal(s).  
+
+Cleanliness of the joint surfaces prior to brazing is also important. Surfaces  must be free of oxides, oils, and other contaminants in order to promote wetting  and capillary attraction during the process, as well as bonding across the entire  interface. Chemical treatments such as solvent cleaning (Section 28.1.1) and  mechanical treatments such as wire brushing and sand blasting (Section 28.1.2)  are used to clean the surfaces. After cleaning and during the brazing operation,  ﬂ  uxes are used to maintain surface cleanliness and promote wetting for capillary  action in the clearance between faying surfaces.  
+
+# 30.1.2  FILLER METALS AND FLUXES  
+
+Common ﬁ  ller metals used in brazing are listed in Table 30.1 along with the principal  base metals on which they are typically used. To qualify as a brazing metal, the fol- lowing characteristics are needed: (1) melting temperature must be compatible with  the base metal, (2) surface tension in the liquid phase must be low for good wettabil- ity, (3) ﬂ  uidity of the molten metal must be high for penetration into the interface,  (4) the metal must be capable of being brazed into a joint of adequate strength for  the application, and (5) chemical and physical interactions with base metal (e.g., gal- vanic reaction) must be avoided. Filler metals are applied to the brazing operation in  various ways, including wire, rod, sheets and strips, powders, pastes, preformed parts  made of braze metal designed to ﬁ  t a particular joint conﬁ  guration, and cladding  on one of the surfaces to be brazed. Several of these techniques are illustrated in  Figures 30.4 and 30.5. Braze metal pastes, shown in Figure 30.5, consist of ﬁ  ller metal  powders mixed with ﬂ  uid ﬂ  uxes and binders.  
+
+Brazing ﬂ  uxes serve a similar purpose as in welding; they dissolve, combine with,  and otherwise inhibit the formation of oxides and other unwanted byproducts in the  
+
+TABLE  •  30.1  Common ﬁ  ller metals used in brazing and the base metals on which they are used. 
+![](images/f1a7f3a40f273dbbc01e46cae3c1c4bff395ad894a893d25bb8ab31fc688ba36.jpg)  
+
+!",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec30.txt,0.8392112378319355,00443c52a71a0562c0bfe5dee1ba81b15c3c06016a70f56f2d669db6ac389ef1.jpg
+"""Q1"": ""Which figure shows the different types of material handling methods and equipment associated with various layout types in manufacturing?"",","""A1"": ""Figure 38.2 shows the different types of material handling methods and equipment associated with various layout types in manufacturing. It summarizes the layout types, their features, and the typical methods and equipment used, such as cranes, hoists, fork lift trucks, conveyors, and automated guided vehicles.""","""Explanation"": ""This figure illustrates the types of plant layout and the associated material handling methods and equipment in manufacturing."", ""YourChoice"": ""Figure 38.2""","Material handling equipment and methods used in manufacturing can be  divided into the following general categories: (1) material transport, (2) storage,  and (3) unitizing.  
+
+Material transport equipment is used to move parts and materials between work- stations in the factory. This movement may include intermediate stops for temporary  storage of work-in-process. There are ﬁ  ve main types of material transport equip- ment: (1) industrial trucks, the most important of which are fork lift trucks, (2) auto- mated guided vehicles, (3) rail-guided vehicles, (4) conveyors, and (5) hoists and  cranes. This equipment is brieﬂ  y described in Table 38.1.  
+
+Two general categories of material transport equipment can be distinguished,  according to the type of routing between workstations: ﬁ  xed and variable. In  ﬁ  xed  routing , all of the work units are moved through the same sequence of stations. This  implies that the processing sequence required on all work units is either identical or  very similar. Fixed routing is used on manual assembly lines and automated production  lines. Typical material handling equipment used in ﬁ  xed routing includes conveyors  and rail-guided vehicles. In  variable routing , different work units are moved through  different workstation sequences, meaning that the manufacturing system processes or  
+
+TABLE •  38.1  Five types of material transport equipment. 
+![](images/27c7b7f1402726d6b6018d1eb96be0a00c830362c4e961e2d407ea97b6bb1bdd.jpg)  
+
+![](images/8318e3c1666795bf35cce56e08b405f91109ee209adcba26c911475a558a16ec.jpg)  
+FIGURE 38.1  Several types of  material handling  equipment: (a) fork lift  truck, (b) automated  guided vehicle, and  (c) roller conveyor.  
+
+assembles different types of parts or products. Manufacturing cells and ﬂ  exible manu- facturing systems usually operate this way. Typical handling equipment found in varia- ble routing includes industrial trucks, automated guided vehicles, and hoists and cranes.  
+
+Storage systems in factories are used for temporary storage of raw materials, work- in-process, and ﬁ  nished products. Storage systems can be classiﬁ  ed into two general cat- egories: (1) conventional storage methods and equipment, which include bulk storage  in an open area, rack systems, and shelves; and (2) automated storage systems, which  include rack systems served by automatic cranes that store and retrieve pallet loads.  
+
+Finally, unitizing refers to containers used to hold individual items during trans- port and storage, as well as equipment used to make up such unit loads. Containers  include pallets, tote pans, boxes, and baskets that hold parts during handling. Uni- tizing equipment includes palletizers that are used to load and stack cartons onto  pallets and depalletizers that are used to accomplish the unloading operation. Pal- letizers and depalletizers are generally associated with cartons of ﬁ  nished product  leaving a facility and boxes of raw materials coming into the facility, respectively.  
+
+Section 1.4.1 describes four types of plant layout: (1) ﬁ  xed position layout, (2)  process layout, (3) cellular layout, and (4) product layout. In general, different types  of material handling methods and equipment are associated with these four types, as  summarized in Table 38.2.  
+
+TABLE •  38.2  Types of material handling methods and systems generally associated with the four types of  plant layout. 
+![](images/006d4d9494f1cde279d132c6aaf503ea9d95ad981d56b63f5e47807790473016.jpg)  
+
+#  Fundamentals of Production Lines  
+
+Production lines are an important class of manufacturing system when large quan- tities of identical or similar products are to be made. They are suited to situations  where the total work to be performed on the product or part consists of many sepa- rate steps. Examples include assembled products (e.g., automobiles and appliances)  and mass-produced machined parts on which multiple machining operations are  required (e.g., engine blocks and transmission housings).",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec38.txt,0.8829609237632303,006d4d9494f1cde279d132c6aaf503ea9d95ad981d56b63f5e47807790473016.jpg
+"""Q1"": ""Which figure shows the difference between a fully anisotropic etch and a partially anisotropic etch in the context of semiconductor manufacturing?"",","""A1"": ""Figure 33.16 shows the difference between a fully anisotropic etch and a partially anisotropic etch. In part (a), it illustrates a fully anisotropic etch with $A = \infty$, where the etching is highly directional, resulting in vertical sidewalls. In part (b), it shows a partially anisotropic etch with $A \approx 1.3$, where the etching is less directional, leading to sloped sidewalls.""","""Explanation"": ""The explanation for a fully anisotropic etch would be no undercutting, while a partially anisotropic etch would show some degree of lateral etching or undercutting. Figure 33.14 shows a properly etched layer, while Figure 33.15 shows under-etching and over-etching, indicating different anisotropy levels."", ""YourChoice"": ""Figure 33.15""","Note that the etching re- action is  isotropic  (it proceeds equally in all directions), resulting in an undercut  below the protective mask. In general, wet chemical etching is isotropic, and so  the mask pattern must be sized to compensate for this effect, just as in chemical  machining (Section 25.4).  
+
+Note also that the etchant does not attack the layer below the target material in  this illustration. In the ideal case, an etching solution can be formulated that will  react only with the target material and not with other materials in contact with it.  In practical cases, the other materials exposed to the etchant may be attacked but  to a lesser degree than the target material. The  etch selectivity  of the etchant is the  ratio of etching rates between the target material and some other material, such as  a mask or substrate. For example, etch selectivity of hydroﬂ  uoric acid for  $\mathrm{SiO}_{2}$  over  Si is inﬁ  nite.  
+
+TABLE  •  33.2  Some common chemical etchants used in semiconductor processing. 
+![](images/d3fd329615968a6f0e0c31bb7ffb890877d6812d1119b9d92cb25e3ad025c2bd.jpg)  
+
+![](images/0c4b9a46e0f6082804315fd11cf943714b62cc6338d07646faf3f6b609381837.jpg)  
+FIGURE 33.14  Proﬁ  le of a properly  etched layer.  
+
+If process control is inadequate, either under-etching or over-etching can occur, as  in Figure 33.15. Underetching, in which the target layer is not completely removed,  results when the etching time is too short and/or the etching solution is too weak.  Over-etching involves too much of the target material being removed, resulting in  loss of pattern deﬁ  nition and possible damage to the layer beneath the target layer.  Over-etching is caused by overexposure to the etchant.  
+
+Dry Plasma Etching   This etching process uses an ionized gas to etch a target  material. The ionized gas is created by introducing an appropriate gas mixture into  a vacuum chamber and using radio frequency (RF) electrical energy to ionize a  portion of the gas, thus creating a plasma. The high-energy plasma reacts with the  target surface, vaporizing the material to remove it. There are several ways in which  a plasma can be used to etch a material; the two principal processes in IC fabrication  are plasma etching and reactive ion etching.  
+
+In  plasma etching , the function of the ionized gas is to generate atoms or molecules  that are chemically very reactive, so that the target surface is chemically etched upon  exposure. The plasma etchants are usually based on ﬂ  uorine or chlorine gases. Etch  selectivity is generally more of a problem in plasma etching than in wet chemical etch- ing. For example, etch selectivity for $\mathrm{SiO}_{2}$  over Si in a typical plasma etching process is  15 at best [4], compared with inﬁ  nity when HF chemical etching is used.  
+
+An alternative function of the ionized gas can be to physically bombard the target  material, causing atoms to be ejected from the surface. This is the process of sputter- ing, one of the techniques in physical vapor deposition. When used for etching, the  process is called  sputter etching . Although this form of etching has been applied in  semi  conductor processing, it is much more common to combine sputtering with plasma  
+
+![](images/97e9b7bf168cc293b8745850c901a5ba5e15e26db81c8e004bdd4cb4ab0b0f74.jpg)  
+FIGURE 33.15  Two problems in etching: (a) under-etching and (b) over-etching.  
+
+!",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec33.txt,0.8377934617353613,007e51675e24e472a1c80c4dc924e2fabbdb828e7c9f7077b877b14b5fd701e5.jpg
+"""Q1"": ""Which figure shows the activities involved in a production planning and control system?"",","""A1"": ""Figure 39.7 shows the activities in a production planning and control system. It includes aggregate production planning, detailed planning, and purchasing and shop floor control. The figure illustrates how these activities are interconnected, starting from aggregate planning to detailed planning, and finally to purchasing and shop floor control, leading to the finished product.""","""Explanation"": ""The figure that shows the activities involved in a production planning and control system is Figure 39.7, which outlines the interconnections between different components like aggregate planning, master production schedule, material requirements planning, and capacity planning."", ""YourChoice"": ""Figure 39.7""","Our discussion of production planning and control in this section is organized  around this framework.  
+
+# 39.3.1  AGGREGATE PLANNING AND THE MASTER PRODUCTION SCHEDULE  
+
+Any manufacturing ﬁ  rm must have a business plan, and the plan must include what  products will be produced, how many, and when. The manufacturing plan should take  into account current orders and sales forecasts, inventory levels, and plant capacity.  
+
+![](images/00fc74d3124ec1945d0ed1006c841ef57a56c28de19aa094f6d85495afc4db67.jpg)  
+FIGURE 39.7  Activities in a production planning and control system.  
+
+The  aggregate production plan  indicates production output levels for major  product lines rather than speciﬁ  c products. It must be coordinated with the sales  and marketing plan of the company. Aggregate planning is therefore a high-level  corporate planning activity, although details of the planning process are delegated  to staff. The aggregate plan must reconcile the marketing plans for current products  and new products under development against the capacity resources available to  make those products.  
+
+The planned output levels of the major product lines in the aggregate schedule  must be converted into a speciﬁ  c schedule of individual products. This is called the  master production schedule  (or  master schedule , for short), and it lists the products  to be manufactured, when they should be completed, and in what quantities.  
+
+Three categories of items are listed in the master schedule: (1) ﬁ  rm customer  orders, (2) forecasted demand, and (3) spare parts. Customer orders for speciﬁ  c  products usually obligate the company to a delivery date that has been promised to  a customer by the sales department. The second category consists of production out- put levels based on forecasted demand, in which statistical forecasting techniques  are applied to previous demand patterns, estimates by the sales staff, and other  sources. The third category is demand for individual component parts—repair parts  to be stocked in the ﬁ  rm’s service department. Some companies exclude this third  category from the master schedule because it does not represent end products.  
+
+The master production schedule must consider the lead times required to order  raw materials and components, fabricate parts in the factory, and then assemble and  test the ﬁ  nal products. Depending on type of product, these lead times can run from  several months to more than a year. It is usually considered to be ﬁ  xed in the near  term, meaning that changes are not allowed within about a six-week horizon. How- ever, adjustments in the schedule beyond six weeks are possible to cope with shifts in  demand or new product opportunities. It should therefore be noted that the aggre- gate production plan is not the only input to the master schedule. Other drivers that  may cause it to deviate from the aggregate plan include new customer orders and  changes in sales over the near term.  
+
+# 39.3.2  MATERIAL REQUIREMENTS PLANNING  
+
+Two techniques for planning and controlling production are used in industry, depend- ing on product variety and production quantities. This section covers procedures for  job shop and midrange production of assembled products. Section 39.4 examines  procedures appropriate for high production.  
+
+Material requirements planning (MRP) is a computational procedure used to con- vert the master production schedule for end products into a detailed schedule for raw  materials and components used in the end products. The detailed schedule indicates  the quantities of each item, when it must be ordered, and when it must be delivered  to implement the master schedule.  Capacity requirements planning  (Section 39.3.3)  coordinates labor and equipment resources with material requirements.  
+
+MRP is most appropriate for job shop and batch production of products that have  multiple components, each of which must be purchased and/or fabricated. It is a tech- nique that determines the quantities of items used in end products. Once the number  of end products has been decided and included in the master production schedule,  then the numbers of each component can be directly computed. For example, each  car listed in the master schedule needs four tires (ﬁ  ve, if the spare is included). Thus,  if the production schedule calls for 1000 cars to be produced in a certain week, the  plant needs to order 4000 tires for those cars. Demand for the end products may be  forecasted, but materials and parts used in the end products are not.  
+
+MRP is relatively straightforward in concept.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec39.txt,0.8453243653475335,00fc74d3124ec1945d0ed1006c841ef57a56c28de19aa094f6d85495afc4db67.jpg
+"""Q1"": ""Which figure demonstrates how the hardness of different materials changes with temperature?"",","""A1"": ""Figure 3.16 shows the hot hardness of several materials as a function of temperature. The graph illustrates how the hardness of ceramic, high-alloy steel, high carbon steel (HT), and low carbon steel (HT) decreases as the temperature increases.""","""Explanation"": ""Figure 3.16 demonstrates the hot hardness, showing how the hardness of different materials changes with temperature."", ""YourChoice"": ""Figure 3.16""","Table 3.7 lists hardness  values for several ceramics and hard materials. For comparison, the Rockwell C  hardness for hardened tool steel is 65 HRC. The HRC scale does not extend high  enough to be used for the harder materials.  
+
+Polymers  Polymers have the lowest hardness among the three types of engineer- ing materials. Table 3.8 lists several of the polymers on the Brinell hardness scale, al- though this testing method is not normally used for these materials. It does, however,  allow comparison with the hardness of metals.  
+
+# 3.3 3.3  Effect of Temperature on Properties  
+
+Temperature has a signiﬁ  cant effect on nearly all properties of a material. It is im- portant for the designer to know the material properties at the operating tempera- tures of the product when in service. It is also important to know how temperature  affects mechanical properties in manufacturing. At elevated temperatures, materials  are lower in strength and higher in ductility. The general relationships for metals are  depicted in Figure 3.15. Thus, most metals can be formed more easily at elevated  temperatures than when they are cold.  
+
+![](images/5fea3b91d530155c8ea560b5a37ca6938b3ccf1c15cb1af3272687bd8f075480.jpg)  
+FIGURE 3.15  General effect of  temperature on strength and ductility.  
+
+Hot Hardness  A property often used to characterize strength and hardness at el- evated temperatures is hot hardness.  Hot hardness  is simply the ability of a material  to retain hardness at elevated temperatures; it is usually presented as either a listing  of hardness values at different temperatures or as a plot of hardness versus tempera- ture, as in Figure 3.16. Steels can be alloyed to achieve signiﬁ  cant improvements in  hot hardness, as shown in the ﬁ  gure. Ceramics exhibit superior properties at elevated  temperatures compared with other materials. They are often selected for high tem- perature applications, such as turbine parts, cutting tools, and refractory applications.  Good hot hardness is also desirable in the tooling materials used in many manu- facturing operations. Signiﬁ  cant amounts of heat energy are generated in most met- alworking processes, and the tools must be capable of withstanding the high tem- peratures involved.  
+
+Recrystallization Temperature  Most metals behave at room temperature ac- cording to the ﬂ  ow curve in the plastic region. As the metal is strained, it increases in  strength because of strain hardening (the strain-hardening exponent  $n>0$ ). How- ever, if the metal is heated to a sufﬁ  ciently elevated temperature and then   deformed,  
+
+![](images/014fc747f1ea967f342c73d77fb862743e35935a97e64a576069c9340a634694.jpg)  
+FIGURE 3.16  Hot hardness—typical  hardness as a function of temperature for  several materials.  
+
+strain hardening does not occur. Instead, new grains are formed that are free of  strain, and the metal behaves as a perfectly plastic material, that is, with a strain- hardening exponent  $n\,=\,0$ . The formation of new strain-free grains is a process  called  recrystallization , and the temperature at which it occurs is about one-half  the melting point  $(0.5~T_{m})$ , as measured on an absolute scale (R or K). This is called  the  recrystallization temperature . Recrystallization takes time. The recrystallization  temperature for a particular metal is usually speciﬁ  ed as the temperature at which  complete formation of new grains requires about 1 hour.  
+
+Recrystallization is a temperature-dependent characteristic of metals that can be  exploited in manufacturing. By heating the metal to the recrystallization tempera- ture before deformation, the amount of straining that the metal can endure is sub- stantially increased, and the forces and power required to carry out the process are  signiﬁ  cantly reduced. Forming metals at temperatures above the recrystallization  temperature is called  hot working  (Section 17.3).  
+
+Fluids behave quite differently than solids.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec3.txt,0.8602999657768695,014fc747f1ea967f342c73d77fb862743e35935a97e64a576069c9340a634694.jpg
+"""Q1"": ""Which figure shows the relationship between wheel speed and grinding ratio in a manufacturing process?"",","""A1"": ""Figure 24.6 shows the relationship between wheel speed and grinding ratio. It illustrates how the grinding ratio decreases and the surface finish is impaired as the wheel speed increases. The figure also shows the surface finish in terms of micrometers and microinches as a function of wheel speed in meters per second (m/s) and feet per minute (ft/min)."",","{""Explanation"": ""The relationship between wheel speed and grinding ratio is shown in the graph depicting changes in grinding ratio and surface finish as wheel speed varies."", ""YourChoice"": ""Figure 24.6""}","This region is characterized by attritious wear, with some grain  and bond fracture. In the third region of the wheel wear curve, the grains become  dull, and the amount of plowing and rubbing increases relative to cutting. In addi- tion, some of the chips become clogged in the pores of the wheel. This is called  wheel  loading , and it impairs the cutting action and leads to higher heat and work surface  
+
+![](images/b594679cbe1ba68ac3180e0eb94d192fc126a0928ecfbe93951fb887271bf7a6.jpg)  
+FIGURE 24.5  Typical wear curve  of a grinding wheel. Wear is  conveniently plotted as a function  of volume of material removed,  rather than as a function of time.  (Based on [16].)  
+
+temperatures. As a consequence, grinding efﬁ  ciency decreases, and the volume of  wheel removed increases relative to the volume of metal removed.  
+
+The  grinding ratio  is a term used to indicate the slope of the wheel wear curve.  Speciﬁ cally,  
+
+$$
+G R={\frac{V_{w}}{V_{g}}}
+$$  
+
+where  $G R\,=$  the grinding ratio,  $V_{w}=$  the volume of work material removed, and  $V_{g}=$  the corresponding volume of the grinding wheel that is worn in the process.  The grinding ratio has the most signiﬁ  cance in the linear wear region of Figure 24.5.  Typical values of  $G R$  range between 95 and 125 [5], which is about ﬁ  ve orders of  magnitude less than the analogous ratio in conventional machining. Grinding ratio  is generally increased by increasing wheel speed $\nu$ . The reason for this is that the size  of the chip formed by each grit is smaller with higher speeds, so the amount of grain  fracture is reduced. Because higher wheel speeds also improve surface ﬁ  nish, there  is a general advantage in operating at high grinding speeds. However, when speeds  become too high, attritious wear and surface temperatures increase. As a result, the  grinding ratio is reduced and the surface ﬁ  nish is impaired. This effect was originally  reported by Krabacher [14], as in Figure 24.6.  
+
+When the wheel is in the third region of the wear curve, it must be resharpened  by a procedure called  dressing , which consists of (1) breaking off the dulled grits on  
+
+![](images/019552de9dfb7387e676a9b5fb91496f6f1880430d1b33dbd2b19a7635c34729.jpg)  
+FIGURE 24.6  Grinding  ratio and surface ﬁ  nish  as a function of wheel  speed. (Based on data  in Krabacher [14].)  
+
+the outside periphery of the grinding wheel in order to expose fresh sharp grains  and (2) removing chips that have become clogged in the wheel. It is accomplished  by a rotating disk, an abrasive stick, or another grinding wheel operating at high  speed, held against the wheel being dressed as it rotates. Although dressing sharp- ens the wheel, it does not guarantee the shape of the wheel.  Truing  is an alterna- tive procedure that not only sharpens the wheel, but also restores its cylindrical  shape and insures that it is straight across its outside perimeter. The procedure uses  a diamond-pointed tool (other types of truing tools are also used) that is fed slowly  and precisely across the wheel as it rotates. A very light depth is taken ( $0.025\:\mathrm{mm}$  or  less) against the wheel.  
+
+# 24.1.3  APPLICATION CONSIDERATIONS IN GRINDING  
+
+This section attempts to bring together the previous discussion of wheel parameters  and theoretical analysis of grinding and consider their practical application. Also  considered are grinding ﬂ  uids, which are commonly used in grinding operations.  
+
+Application Guidelines  There are many variables in grinding that affect the per- formance and success of the operation. The guidelines listed in Table 24.5 are helpful  in sorting out the many complexities and selecting the proper wheel parameters and  grinding conditions.  
+
+Grinding Fluids  The proper application of cutting ﬂ  uids has been found to be ef- fective in reducing the thermal effects and high work surface temperatures described  previously.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec24.txt,0.8492985835579455,019552de9dfb7387e676a9b5fb91496f6f1880430d1b33dbd2b19a7635c34729.jpg
+"""Q1"": ""Is there a figure that demonstrates how to achieve a more uniform wall thickness in a drawn cup?"",","""A1"": ""Yes. Figure 19.25 shows the ironing process to achieve a more uniform wall thickness in a drawn cup. It illustrates the start of the process and the stage during the process, highlighting the thinning and elongation of the walls."",","""Explanation"": ""The context does not provide a specific figure related to achieving a more uniform wall thickness in a drawn cup. However, given the discussion on drawing operations, it is likely that the process or corrective measures might be illustrated in the figures provided. For a complete answer, the reference section of the text would need to be examined to determine which figure corresponds to achieving uniform wall thickness."", ""YourChoice"": ""N/A""","As the metal in this portion of the blank is drawn toward the  center, the outer perimeter becomes smaller. Because the volume of metal remains  constant, the metal is squeezed and becomes thicker as the perimeter is reduced.  This often results in wrinkling of the remaining ﬂ  ange of the blank, especially when  thin sheet metal is drawn, or when the blankholder force is too low. It is a condition  which cannot be corrected once it has occurred. The friction and compression effects  are illustrated in Figure 19.20(4).  
+
+The holding force applied by the blankholder is now seen to be a critical factor  in deep drawing. If it is too small, wrinkling occurs. If it is too large, it prevents the  metal from ﬂ  owing properly toward the die cavity, resulting in stretching and pos- sible tearing of the sheet metal. Determining the proper holding force involves a  delicate balance between these opposing factors.  
+
+Progressive downward motion of the punch results in a continuation of the metal  ﬂ  ow caused by drawing and compression. In addition, some  thinning  of the cylinder  wall occurs, as in Figure 19.20(5). The force being applied by the punch is opposed  by the metal in the form of deformation and friction in the operation. A portion of  the deformation involves stretching and thinning of the metal as it is pulled over the  edge of the die opening. Up to $25\%$  thinning of the side wall may occur in a success- ful drawing operation, mostly near the base of the cup.  
+
+# 19.3.2  ENGINEERING ANALYSIS OF DRAWING  
+
+It is important to assess the limitations on the amount of drawing that can be accom- plished. This is often guided by simple measures that can be readily calculated for a  given operation. In addition, drawing force and holding force are important process  variables. Finally, the starting blank size must be determined.  
+
+Measures of Drawing  One of the measures of the severity of a deep drawing op- eration is the  drawing ratio $D R$ .  This is most easily deﬁ  ned for a cylindrical shape as  the ratio of blank diameter  $D_{b}$  to punch diameter  $D_{p}$ .  In equation form,  
+
+$$
+D R=\frac{D_{b}}{D_{p}}
+$$  
+
+The drawing ratio provides an indication, albeit a crude one, of the severity of a  given drawing operation. The greater the ratio, the more severe the operation. An  approximate upper limit on the drawing ratio is a value of 2.0. The actual limiting  value for a given operation depends on punch and die corner radii ( ${\cal R}_{p}$  and $R_{d,}$ ), fric- tion conditions, depth of draw, and characteristics of the sheet metal (e.g., ductility,  degree of directionality of strength properties in the metal).  
+
+Another way to characterize a given drawing operation is by the  reduction   $r$ ,  where  
+
+$$
+r=\frac{D_{b}-D_{p}}{D_{b}}
+$$  
+
+It is very closely related to drawing ratio. Consistent with the previous limit on  $D R$ ( $(D R=2.0\$ ), the value of reduction $r$  should be less than 0.50.  
+
+A third measure in deep drawing is the  thickness-to-diameter ratio   $t/D_{b}$  (thick- ness of the starting blank $t$  divided by the blank diameter $D_{b}$ ). Often expressed as  a percent, it is desirable for the  $\mathit{t}/D_{b}$  ratio to be greater than  $1\%$ . As  $\mathit{t}/D_{b}$  decreases,  tendency for wrinkling (Section 19.3.4) increases.  
+
+In cases where these limits on drawing ratio, reduction, and  $\mathit{t}/D_{b}$  ratio are exceeded  by the design of the drawn part, the blank must be drawn in two or more steps, some- times with annealing between the steps.  
+
+# Example 19.3  Cup drawing  
+
+A drawing operation is used to form a cylindrical cup with inside diameter $=$ $75\,\mathrm{mm}$  and height $=50\:\mathrm{mm}$ . The starting blank size $=138\,\mathrm{mm}$  and the stock  thickness $=2.4\:\mathrm{mm}$ . Based on these data, is the operation feasible?",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec19.txt,0.8395518690195068,01a5ef5e3ad506101c78f8b7206eb70b63347a5ca436bd573e34be72c751d216.jpg
+"""Q1"": ""Which figure demonstrates how certain material properties are tested or evaluated in manufacturing?"",","""A1"": ""Figure 3.14 shows various hardness testing methods. Specifically, it illustrates the Brinell, Rockwell, Vickers, and Knoop hardness tests. Each subfigure (a, b, c, d) details the type of indenter used, the shape of the indentation, and the application of loads during the testing process. For example, subfigure (a) shows the Brinell test using a 10-mm ball indenter, while subfigure (b) details the Rockwell test with both minor and major loads applied using a cone-shaped indenter.""","""Explanation"": ""The question requires identifying a figure related to testing or evaluating material properties in manufacturing. The context mentions surface texture, visual examination, microstructural examination, microhardness profile, and residual stress profile, which are methods for evaluating material properties. However, the displayed table focuses on typical tolerances for manufacturing processes, not the evaluation of material properties."", ""YourChoice"": ""None""","$\succcurlyeq$   Surface texture . Surface roughness, designation of lay, and other measures pro- vide  superficial data on surface integrity. This type of testing is relatively simple  to  perform and is always included in the evaluation of surface integrity.  
+
+ $\succcurlyeq$   Visual examination . Visual examination can reveal various surface flaws such as  cracks, craters, laps, and seams. This type of assessment is often augmented by  fluorescent and photographic techniques.  
+
+ $\succcurlyeq$   Microstructural examination . This involves standard metallographic tech-  niques for preparing cross sections and obtaining photo micrographs for exami-  nation of microstructure in the surface layers compared with the substrate.  
+
+ ➢   Microhardness profile . Hardness differences near the surface can be detected  using microhardness measurement techniques such as Knoop and Vickers  (Section 3.2.1). The part is sectioned, and hardness is plotted against distance  below the surface to obtain a hardness profile of the cross section.  
+
+ ➢   Residual stress profile . X-ray diffraction techniques can be employed to meas-  ure residual stresses in the surface layers of a part.  
+
+# Effect of Manufacturing Processes  
+
+The ability to achieve a certain tolerance or surface is a function of the manufactur-  ing process. This section describes the general capabilities of various processes in  terms of tolerance and surface roughness and surface integrity.  
+
+Some manufacturing processes are inherently more accurate than others. Most  machining processes are quite accurate, capable of tolerances of  $\pm0.05\ \mathrm{mm}$   $(\pm0.002\$  in)  or better. By contrast, sand castings are generally inaccurate, and tolerances of 10 to 20  times those used for machined parts should be specified. In Table 5.4, we list a variety  
+
+processes.   
+![](images/231967a35f66a2ab671081ea830583f255271c840520c5206f540b5dc1784600.jpg)  
+b  Compiled from [4], [5], and other sources. For each process category, tolerances vary depending on process parameters. Also,  tolerances increase with part size.  
+
+TABLE  •  5.5   Surface roughness values produced by the various manufacturing processes.  
+
+a  Compiled from [1], [2], and other sources.   b  Roughness range values are given,  m m ( $m$ -in). Roughness can vary significantly for a given process, depending on  process parameters.  
+
+of manufacturing processes and indicate the typical tolerances for  each process. Toler- ances are based on the process capability for the  particular manufacturing operation, as defined in Section 40.2. The  tolerance that should be specified is a function of part size; larger  parts require more generous tolerances. The table lists tolerances for  moderately  sized parts in each processing category.  
+
+The manufacturing process determines surface finish and surface  integrity. Some  processes are capable of producing better  surfaces than others. In general, process- ing cost increases  with improvement in surface finish. This is because additional  operations and more time are usually required to obtain increasingly  better surfaces.  Processes noted for providing superior finishes  include honing, lapping, polishing,  and superfinishing (Chapter  24). Table 5.5 indicates the usual surface roughness that  can be  expected from various manufacturing processes.  
+
+#  
+
+6.1 Alloys and Phase Diagrams  
+
+6.1.1   6.1.2  
+
+# 6.2 Ferrous Metals  
+
+6.2.1 6.2.2   6.2.3   6.2.4  
+
+# 6.3 Nonferrous Metals  
+
+6.3.1   6.3.2 Magnesium and Its Alloys   6.3.3   6.3.4   6.3.5   6.3.6   6.3.7   6.3.8   6.3.9  
+
+# 6.4 Superalloys  
+
+Part II covers the four types of engineering materials:   (1) metals, (2) ceramics, (3) polymers, and (4) composites.  Metals are the most important engineering materials and  the topic of this chapter.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec12456.txt,0.834992749780177,0207650a84486fd151f65d3351be12ec7735d70d9b1a45e832ee8b9777e04117.jpg
+"""Q1"": ""Is there a figure that shows how adhesive is manually applied during assembly?"",","""A1"": ""Yes, Figure 30.13 shows adhesive being dispensed by a manually controlled dispenser to bond parts during assembly. The image depicts a person using a manual dispenser to apply adhesive to small components on a table."",","{""Explanation"": ""Figure 30.13 shows adhesive being applied manually using a dispenser during assembly."", ""YourChoice"": ""Figure 30.13""}","Figure 30.13 illustrates the  use of a dispenser for assembly.  
+
+![](images/033a99022e386d2539b4cc18cf2dafad3a6496108e331fef51dd695b832b3c78.jpg)  
+FIGURE 30.13  Adhesive is  dispensed by a manually controlled  dispenser to bond parts during  assembly. (Courtesy of Nordson, Inc.)  
+
+![](images/a37df881a75c3178aadd4159ec9c812d22e9d4db0453a69a01c90a23139d81a4.jpg)  
+FIGURE 30.14  Roll coating of adhesive  onto thin, ﬂ  exible material such as paper,  cloth, or ﬂ  exible polymer.  
+
+➢   Roll coating  is a mechanized technique in which a rotating roller is partially sub- mersed in a pan of liquid adhesive and picks up a coating of the adhesive, which  is then transferred to the work surface. Figure 30.14 shows one possible appli- cation, in which the work is a thin, ﬂ  exible material (e.g., paper, cloth, leather,  plastic). Variations of the method are used for coating adhesive onto wood, wood  composite, cardboard, and similar materials with large surface areas.  
+
+Advantages and Limitations  Advantages of adhesive bonding are (1) the proc- ess is applicable to a wide variety of materials; (2) parts of different sizes and cross  sections can be joined—fragile parts can be joined by adhesive bonding; (3) bond- ing occurs over the entire surface area of the joint, rather than in discrete spots or  along seams as in fusion welding, thereby distributing stresses over the entire area;  (4) some adhesives are ﬂ  exible after bonding and are thus tolerant of cyclical load- ing and differences in thermal expansion of adherends; (5) low temperature curing  avoids damage to parts being joined; (6) sealing as well as bonding can be achieved;  and (7) joint design is often simpliﬁ  ed (e.g., two ﬂ  at surfaces can be joined without  providing special part features such as screw holes).  
+
+Principal limitations of this technology include (1) joints are generally not as  strong as other joining methods; (2) adhesive must be compatible with materials  being joined; (3) service temperatures are limited; (4) cleanliness and surface prepa- ration prior to application of adhesive are important; (5) curing times can impose a  limit on production rates; and (6) inspection of the bonded joint is difﬁ  cult.  
+
+# References  
+
+[1] Adams, R. S. (ed.).  Adhesive Bonding: Science,  Technology, and Applications . CRC Taylor &  Francis, Boca Raton, Florida, 2005.
+
+  [2] Bastow, E. “Five Solder Families and How  They Work,”  Advanced Materials & Processes ,  December 2003, pp. 26–29.
+
+  [3] Bilotta, A. J.  Connections in Electronic Assem- blies . Marcel Dekker, New York, 1985.  
+
+[4] Bralla, J. G. (ed.).  Design for Manufactur- ability Handbook , 2nd ed. McGraw-Hill, New  York, 1998.
+
+  [5]  Brazing Manual , 3rd ed. American Welding  Society, Miami, Florida, 1976.
+
+  [6] Brockman, W., Geiss, P . L., Klingen, J., and  Schroeder, K. B.  Adhesive Bonding: Materials,",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec30.txt,0.8613683349709205,033a99022e386d2539b4cc18cf2dafad3a6496108e331fef51dd695b832b3c78.jpg
+"""Q1"": ""Which figure demonstrates the concept of twinning in metals, including the formation of an atomic mirror image?"",","""A1"": ""Figure 2.13 shows the concept of twinning in metals. It illustrates the formation of an atomic mirror image (a 'twin') on the opposite side of the twinning plane. The figure includes two parts: (a) before twinning and (b) after twinning, highlighting the changes in atomic arrangement due to shear stress along the twinning plane."",","""Explanation"": ""Figure 2.13 clearly demonstrates the concept of twinning in metals, showing an atomic mirror image on the opposite side of the twinning plane."", ""YourChoice"": ""Figure 2.13""","Besides structure, another  factor in twinning is the rate of deformation. The slip mechanism requires more  time than twinning, which can occur almost instantaneously. Thus, when the  deformation rate is very high, metals twin that would otherwise slip. Low carbon  steel is an example that illustrates this rate sensitivity; when subjected to high strain  rates it twins, whereas at moderate rates it deforms by slip.  
+
+![](images/034406fac463011237f06c6763fcca92ad2f0f78eae3c50e8b166372028236b2.jpg)  
+FIGURE 2.13  Twinning  involves the formation  of an atomic mirror  image (i.e., a “twin”)  on the opposite side   of   the   twinning   plane:   (a) before and (b) after  twinning.  
+
+![](images/ac33140477e9902c2928180aa2c240eb5a054dad15756d969a60123d70e9712b.jpg)  
+
+# 2.3.4  GRAINS AND GRAIN BOUNDARIES IN METALS  
+
+A given block of metal may contain millions of individual crystals, called  grains .  Each grain has its own unique lattice orientation; but collectively, the grains are ran-  domly oriented within the block. Such a structure is referred to as  polycrystalline . It  is easy to understand how such a structure is the natural state of the material. When  the block is cooled from the molten state and begins to solidify, nucleation of indi-  vidual crystals occurs at random positions and orientations throughout the liquid.  As  these crystals grow they finally interfere with each other, forming at their interface a  surface defect—a  grain boundary . The grain boundary consists of a transition zone,  perhaps only a few atoms thick, in which the atoms are not aligned with either grain.  The size of the grains in the metal block is determined by the number of nucleation  sites in the molten material and the cooling rate of the mass, among other factors. In  a casting process, the nucleation sites are often created by the relatively cold walls   of the mold, which motivates a somewhat preferred grain orientation at these walls.  
+
+Grain size is inversely related to cooling rate: Faster cooling promotes smaller  grain size, whereas slower cooling has the opposite effect. Grain size is important  in metals because it affects mechanical properties. Smaller grain size is generally  preferable from a design viewpoint because it means higher strength and hard-  ness. It is also desirable in certain manufacturing operations (e.g., metal forming),  because it means higher ductility during deformation and a better surface on the  finished product.  
+
+Another factor influencing mechanical properties is the presence of grain  boundaries in the metal. They represent imperfections in the crystalline structure  that interrupt the continued movement of dislocations. This helps to explain why  smaller grain size—therefore more grains and more grain boundaries—increases the  strength of the metal. By interfering with dislocation movement, grain boundaries  also contribute to the characteristic property of a metal to become stronger as it is  deformed. The property is called  strain hardening , and it is examined more closely  in Chapter 3 on mechanical properties.  
+
+# Noncrystalline (Amorphous) Structures  
+
+Many important materials are noncrystalline—liquids and gases, for example. Water  and air have noncrystalline structures. A metal loses its crystalline structure when  it is melted. Mercury is a liquid metal at room temperature, with its melting point  of $-38^{\circ}\mathrm{C}$   $(-37^{\circ}\mathrm{F})$ ). Important classes of engineering materials have a noncrystalline  form in their solid state; the term  amorphous  is often used to describe these materi-  als. Glass, many plastics, and rubber fall into this category. Many important plastics  are mixtures of crystalline and noncrystalline forms. Even metals can be amorphous  rather  than crystalline, given that the cooling rate during transformation from liquid to solid  is fast enough to inhibit the atoms from arranging themselves into their pre- ferred  regular patterns. This can happen, for instance, if the molten metal is poured  between cold, closely spaced, rotating rolls.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec12456.txt,0.8313133566265605,034406fac463011237f06c6763fcca92ad2f0f78eae3c50e8b166372028236b2.jpg
+"""Q1"": ""Which figure demonstrates the process of continuous casting in steel manufacturing, including the distribution of molten steel and its solidification?"",","""A1"": ""Figure 6.11 shows the continuous casting process. In this figure, steel is poured into a tundish and distributed to a water-cooled continuous casting mold. The molten steel solidifies as it travels down through the mold, and the thickness of the slab is exaggerated for clarity. The figure also illustrates components such as the ladle, submerged entry nozzle, guide rolls, cooling chamber, withdrawal rolls, bending rolls, slab straightening rolls, and cutoff torch.""","""Explanation"": ""The provided figure, Figure 10.1, shows the classification of solidification processes but does not specifically demonstrate the process of continuous casting in steel manufacturing."", ""YourChoice"": ""None""","# Part III   Solidiﬁ  cation  Processes  
+
+# 10 Fundamentals  of Metal Casting  
+
+# Chapter Contents  
+
+10.1 Overview of Casting Technology  
+
+10.1.1 Casting Processes 10.1.2 Sand-Casting Molds  
+
+# 10.2 Heating and Pouring  
+
+10.2.1 Heating the Metal 10.2.2 Pouring the Molten Metal 10.2.3 Engineering Analysis of Pouring 10.2.4 Fluidity  
+
+# 10.3 Solidiﬁ  cation and Cooling  
+
+10.3.1 Solidiﬁ  cation of Metals 10.3.2 Solidiﬁ  cation Time 10.3.3 Shrinkage 10.3.4 Directional Solidiﬁ  cation 10.3.5 Riser Design  
+
+This part of the book covers those manufacturing  processes in which the starting work material is either  a liquid or is in a highly plastic condition, and a part  is created through solidiﬁ  cation of the material. Cast- ing and molding processes dominate this category of  shaping operations. With reference to Figure 10.1, the  solidiﬁ  cation processes can be classiﬁ  ed according to  the engineering material that is processed: (1) metals,  (2) ceramics, speciﬁ  cally glasses,  and (3) polymers and  polymer matrix composites (PMCs). Casting of metals  is covered in this and the following chapter. Glasswork- ing is covered in Chapter 12, and the processing of poly- mers and PMCs is treated in Chapters 13 and 14.  
+
+Casting  is a process in which molten metal ﬂ  ows by  gravity or other force into a mold where it solidiﬁ  es in  the shape of the mold cavity. The term  casting  is also  applied to the part that is made by this process. It is one  of the oldest shaping processes, dating back 6000 years  (Historical Note 10.1). The principle of casting seems  simple: melt the metal, pour it into a mold, and let it  cool and solidify; yet there are many factors and vari- ables that must be considered in order to accomplish a  successful casting operation.  
+
+Casting includes both the casting of ingots and the  casting of shapes. The term  ingot  is usually associ- ated with the primary metals industries; it describes a  large casting that is simple in shape and intended for  
+
+![](images/a004ef6a006b91d6379175ed32739720d6f55dd64b21fbc7f5bfb66820e008f3.jpg)  
+FIGURE 10.1  Classiﬁ  cation of solidiﬁ  cation processes.  
+
+# Historical Note 10.1  Origins of casting  
+
+Casting of metals can be traced back to around 4000  B . C . E . Gold was the ﬁ  rst metal to be discovered and  used by the early civilizations; it was malleable and  could be readily hammered into shape at room tem- perature. There seemed to be no need for other ways  to shape gold. It was the subsequent discovery of cop- per that gave rise to the need for casting. Although  copper could be forged to shape, the process was  more difﬁ  cult (due to strain hardening) and limited to  relatively simple forms. Historians believe that hun- dreds of years elapsed before the process of cast- ing copper was ﬁ  rst performed, probably by accident  during the reduction of copper ore in preparation for  hammering the metal into some useful form. Thus,  through serendipity, the art of casting was born. It is  likely that the discovery occurred in Mesopotamia, and  the “technology” quickly spread throughout the rest  of the ancient world.  
+
+It was an innovation of signiﬁ  cant importance  in the history of mankind. Shapes much more intri- cate could be formed by casting than by hammering.  More sophisticated tools and weapons could be fab- ricated. More detailed implements and ornaments  could be fashioned. Fine gold jewelry could be made  more beautiful and valuable than by previous meth- ods. Alloys were ﬁ  rst used for casting when it was  discovered that mixtures of copper and tin (the alloy  thus formed was bronze) yielded much better cast- ings than copper alone.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec10.txt,0.8608958633838424,03e0579fb66f5a4929d9e60faa1d06c990e38b7e0205adb93092d7539aea48c6.jpg
+"""Q1"": ""Which figure shows the components involved in ultrasonic machining, including the tool and the workpiece?"",","""A1"": ""Figure 25.1 shows the components involved in ultrasonic machining. It illustrates the tool, the workpiece, and the slurry flow. The figure highlights the high-frequency oscillation of the tool and how it interacts with the workpiece through the slurry.""","""Explanation"": ""The text indicates that Figure 25.1 illustrates ultrasonic machining, showing the tool, workpiece, and slurry arrangement in the process."", ""YourChoice"": ""Figure 25.1""","In chemical machining, chemicals selectively  remove material from portions of the work part, while other portions of the sur- face are protected by a mask.  
+
+#  Mechanical Energy Processes  
+
+This section examines several of the nontraditional processes that use mechanical  energy other than a sharp cutting tool: (1) ultrasonic machining, (2) water jet processes,  and (3) other abrasive processes.  
+
+# 25.1.1  ULTRASONIC MACHINING  
+
+Ultrasonic machining (USM) is a nontraditional machining process in which abrasives  contained in a slurry are driven at high velocity against the work by a tool vibrating  at low amplitude and high frequency. The amplitudes are around $0.075\:\mathrm{mm}$  (0.003 in),  and the frequencies are approximately  $20{,}000~\mathrm{Hz}$ . The tool oscillates in a direction  perpendicular to the work surface, and is fed slowly into the work, so that the shape  of the tool is formed in the part. However, it is the action of the abrasives, impinging  against the work surface, that performs the cutting. The general arrangement of the  USM process is depicted in Figure 25.1.  
+
+Common tool materials used in USM include soft steel and stainless steel. Abrasive  materials in USM include boron nitride, boron carbide, aluminum oxide, silicon carbide,  and diamond. Grit size (Section 16.1.1) ranges between 100 and 2000. The vibration  amplitude should be set approximately equal to the grit size, and the gap size should be  maintained at about two times grit size. To a signiﬁ  cant degree, grit size determines the  surface ﬁ  nish on the new work surface. In addition to surface ﬁ  nish, material removal  rate is an important performance variable in ultrasonic machining. For a given work  material, the removal rate in USM increases with increasing frequency and amplitude  of vibration.  
+
+![](images/03f93df347519ad65ab9705b0db0714926c67c93eb90c78afa26da13c0217ebc.jpg)  
+FIGURE 25.1  Ultrasonic machining.  
+
+The cutting action in USM operates on the tool as well as the work. As the abrasive  particles erode the work surface, they also erode the tool, thus affecting its shape. It is  therefore important to know the relative volumes of work material and tool material  removed during the process—similar to the grinding ratio (Section 25.1.2). This ratio  of stock removed to tool wear varies for different work materials, ranging from around  100:1 for cutting glass down to about 1:1 for cutting tool steel.  
+
+The slurry in USM consists of a mixture of water and abrasive particles. Concentra- tion of abrasives in water ranges from $20\%$  to $60\%$  [5]. The slurry must be continuously  circulated to bring fresh grains into action at the tool–work gap. It also washes away  chips and worn grits created by the cutting process.  
+
+The development of ultrasonic machining was motivated by the need to machine  hard, brittle work materials, such as ceramics, glass, and carbides. It is also success- fully used on certain metals such as stainless steel and titanium. Shapes obtained by  USM include nonround holes, holes along a curved axis, and coining operations, in  which an image pattern on the tool is imparted to a ﬂ  at work surface.  
+
+# 25.1.2  PROCESSES USING WATER JETS  
+
+The two processes described in this section remove material by means of high-velocity  streams of water or a combination of water and abrasives.  
+
+Water Jet Cutting   Water jet cutting (WJC) uses a ﬁ  ne, high-pressure, high- velocity stream of water directed at the work surface to cause cutting of the work,  as illustrated in Figure 25.2. To obtain the ﬁ  ne stream of water a small nozzle  opening of diameter 0.1 to $0.4\:\mathrm{mm}$  (0.004–0.016 in) is used.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec25.txt,0.8382214651579203,03f93df347519ad65ab9705b0db0714926c67c93eb90c78afa26da13c0217ebc.jpg
+"""Q1"": ""Which figure shows the standard geometry of a twist drill, including components like the cutting edge, chisel edge, and flute?"",","""A1"": ""Figure 22.12 shows the standard geometry of a twist drill. It includes detailed labels for the cutting edge, chisel edge, flute, rake face, point angle, and other key components essential for understanding the design and function of a twist drill.""","""Explanation"": ""The standard geometry of a twist drill, including components like the cutting edge, chisel edge, and flute, is shown in Figure 22.12."", ""YourChoice"": ""Figure 22.12""","![](images/6221de57c2963a26c9b50da86ce630e1aa8ba0933c66037ceb6ade8b0806c60c.jpg)  
+FIGURE 22.11  Three types of edge preparation that are applied to the cutting edge of an insert: (a) radius,  (b) chamfer, (c) land, and (d) perfectly sharp edge (no edge preparation).  
+
+# 22.3.2  MULTIPLE-CUTTING-EDGE TOOLS  
+
+Most multiple-cutting-edge tools are used in machining operations in which the tool is  rotated. Primary examples are drilling and milling. On the other hand, broaching and  some sawing operations (hack sawing and band sawing) use multiple-cutting-edge  tools that operate with a linear motion. Other sawing operations (circular sawing) use  rotating saw blades.  
+
+Drills  Various cutting tools are available for hole making, but the  twist drill  is by  far the most common. It comes in diameters ranging from about $0.15\;\mathrm{mm}$  (0.006 in)  to as large as $75\,\mathrm{mm}$  (3.0 in). Twist drills are widely used in industry to produce holes  rapidly and economically.  
+
+The standard twist drill geometry is illustrated in Figure 22.12. The body of the drill  has two spiral  ﬂ  utes  (the spiral gives the twist drill its name). The angle of the spiral  ﬂ  utes is called the  helix angle , a typical value of which is around  $30^{\mathrm{o}}$ . While drilling,  the ﬂ  utes act as passageways for extraction of chips from the hole. Although it is de- sirable for the ﬂ  ute openings to be large to provide maximum clearance for the chips,  the body of the drill must be supported over its length. This support is provided by the  web , which is the thickness of the drill between the ﬂ  utes.  
+
+The point of the twist drill has a conical shape. A typical value for the  point angle   is  $118^{\circ}$ . The point can be designed in various ways, but the most common design is  a  chisel edge , as in Figure 22.12. Connected to the chisel edge are two cutting edges  (sometimes called lips) that lead into the ﬂ  utes. The portion of each ﬂ  ute adjacent to  the cutting edge acts as the rake face of the tool.  
+
+The cutting action of the twist drill is complex. The rotation and feeding of the  drill bit result in relative motion between the cutting edges and the workpiece to  form the chips. The cutting speed along each cutting edge varies as a function of the  distance from the axis of rotation. Accordingly, the efﬁ  ciency of the cutting action  varies, being most efﬁ  cient at the outer diameter of the drill and least efﬁ  cient at the  center. In fact, the relative velocity at the drill point is zero, so no cutting takes place.  Instead, the chisel edge of the drill point pushes aside the material at the center as  it penetrates into the hole; a large thrust force is required to drive the twist drill for- ward into the hole. Also, at the beginning of the operation, the rotating chisel edge  tends to wander on the surface of the work part, causing loss of positional accuracy.  Various alternative drill point designs have been developed to address this problem.  
+
+Chip removal can be a problem in drilling. The cutting action takes place inside  the hole, and the ﬂ  utes must provide sufﬁ  cient clearance throughout the length of  
+
+![](images/043ee42b930d2c08f72bd22fcd8954c3761b40fc8f478daef8902c521f86e87e.jpg)  
+FIGURE 22.12  Standard geometry of a twist drill.  
+
+![](images/bb24ea21d37429c90c4edae05685e5b9b7d8e5cca351357afb6dc3f03e7e045d.jpg)  
+FIGURE 22.13  Straight-ﬂ  ute drill that  uses indexable inserts.  
+
+the drill to allow the chips to be extracted from the hole.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec22.txt,0.866110587610019,043ee42b930d2c08f72bd22fcd8954c3761b40fc8f478daef8902c521f86e87e.jpg
+"""Q1"": ""Which figure shows the components of a machine, such as the spindle, headstock, or feed controls?"",","""A1"": ""Figure 33.5 shows the components involved in the Czochralski process for growing single-crystal ingots of silicon. It includes the furnace chamber, seed shaft, crucible, and other essential parts of the setup.""","""Explanation"": ""The figure showing the components of a machine, such as the spindle, headstock, or feed controls, is Figure 21.7."", ""YourChoice"": ""Figure 21.7""","Engine Lathe Technology   Figure 21.7 is a sketch of an engine lathe showing its  principal components. The  headstock  contains the drive unit to rotate the spindle,  which rotates the work. Opposite the headstock is the  tailstock , in which a center is  mounted to support the other end of the workpiece.  
+
+![](images/ed595687bb3fd9a1f8cdb7606bcbb50d129aceac0f6d6ffb748563290d217d5e.jpg)  
+FIGURE 21.7  Diagram  of an engine lathe,  indicating its principal  components.  
+
+The cutting tool is held in a  tool post  fastened to the  cross-slide , which is assembled  to the  carriage . The carriage is designed to slide along the  ways  of the lathe in order  to feed the tool parallel to the axis of rotation. The ways are like tracks along which  the carriage rides, and they are made with great precision to achieve a high degree  of parallelism relative to the spindle axis. The ways are built into the  bed  of the lathe,  providing a rigid frame for the machine tool.  
+
+The carriage is driven by a leadscrew that rotates at the proper speed to obtain the  desired feed rate. The cross-slide is designed to feed in a direction perpendicular to  the carriage movement. Thus, by moving the carriage, the tool can be fed parallel to  the work axis to perform straight turning; or by moving the cross-slide, the tool can  be fed radially into the work to perform facing, form turning, or cutoff operations.  
+
+The conventional engine lathe and most other machines described in this section are  horizontal turning machines ; that is, the spindle axis is horizontal. This is appropriate  for the majority of turning jobs, in which the length is greater than the diameter. For  jobs in which the diameter is large relative to length and the work is heavy, it is more  convenient to orient the work so that it rotates about a vertical axis; these are  vertical  turning machines .  
+
+The size of a lathe is designated by swing and maximum distance between centers.  The  swing  is the maximum work part diameter that can be rotated in the spindle,  determined as twice the distance between the centerline of the spindle and the  ways of the machine. The actual maximum size of a cylindrical workpiece that  can be accommodated on the lathe is smaller than the swing because the carriage  and cross-slide assembly are in the way. The  maximum distance between centers   indicates the maximum length of a workpiece that can be mounted between head- stock and tailstock centers. For example, a  $350~\mathrm{mm}\times1.2~\mathrm{m}$ ( $14~\mathrm{in}\times48$  in) lathe  designates that the swing is  $350~\mathrm{mm}$  (14 in) and the maximum distance between  centers is $1.2\:\mathrm{m}$  (48 in).  
+
+Methods of Holding the Work in a Lathe   There are four common methods  used to hold work parts in turning. These workholding methods consist of various  mechanisms to grasp the work, center and support it in position along the spindle  axis, and rotate it. The methods, illustrated in Figure 21.8, are (a) mounting the work  between centers, (b) chuck, (c) collet, and (d) face plate.  
+
+Holding the work  between centers  refers to the use of two centers, one in the head- stock and the other in the tailstock, as in Figure 21.8(a). This method is appropriate  for parts with large length-to-diameter ratios. At the headstock center, a device called  a  dog  is attached to the outside of the work and is used to drive the rotation from the  spindle. The tailstock center has a cone-shaped point which is inserted into a tapered  hole in the end of the work. The tailstock center is either a “live” center or a “dead”  center. A  live center  rotates in a bearing in the tailstock, so that there is no relative  rotation between the work and the live center, hence, no friction between the center  and the workpiece. In contrast, a  dead center  is ﬁ  xed to the tailstock, so that it does  not rotate; instead, the workpiece rotates about it. Because of friction and the heat  buildup that results, this setup is normally used at lower rotational speeds.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec21.txt,0.8490043872598037,0484b48c2765e487ae89a184f42102bf6a9bd783ac9134b462796e03653313a8.jpg
+"""Q1"": ""Which figure shows the terminology for a conventional impression-die in forging?"",","""A1"": ""Figure 18.21 shows the terminology for a conventional impression-die in forging. It includes labels for various parts such as the upper die, lower die, parting line, flash, land, web, rib, fillet, corner, gutter, and draft angles. This figure is essential for understanding the different components and their roles in the forging process."",","""Explanation"": ""The context doesn't include or describe any figures, so I'm unable to determine which one shows the terminology for a conventional impression-die in forging."", ""YourChoice"": ""N/A""","be cut away from the part in a subsequent trimming operation, it actually serves  an important function during impression-die forging. As the ﬂ  ash begins to form  in the die gap, friction resists continued ﬂ  ow of metal into the gap, thus constrain- ing the bulk of the work material to remain in the die cavity. In hot forging, metal  ﬂ  ow is further restricted because the thin ﬂ  ash cools quickly against the die plates,  thereby increasing its resistance to deformation. Restricting metal ﬂ  ow in the gap  causes the compression pressures on the part to increase signiﬁ  cantly, thus forc- ing the material to ﬁ  ll the sometimes intricate details of the die cavity to ensure a  high-quality product.  
+
+Several forming steps are often required in impression die forging to transform  the starting blank into the desired ﬁ  nal geometry. Separate cavities in the die are  needed for each step. The beginning steps are designed to redistribute the metal in  the work part to achieve a uniform deformation and desired metallurgical struc- ture in the subsequent steps. The ﬁ  nal steps bring the part to its ﬁ  nal geometry. In  addition, when drop forging is used, several blows of the hammer may be required  for each step. When impression-die drop forging is done manually, as it often is,  considerable operator skill is required under adverse conditions to achieve con- sistent results.  
+
+Because of ﬂ  ash formation in impression die forging and the more complex part  shapes made with these dies, forces in this process are signiﬁ  cantly greater and more  difﬁ  cult to analyze than in open-die forging. Relatively simple formulas and design  factors are often used to estimate forces in impression-die forging. The force formula  is the same as previous Equation (18.16) for open-die forging, but its interpretation  is slightly different:  
+
+$$
+\textstyle F=K_{f}Y_{f}A
+$$  
+
+where  $F=$  maximum force in the operation,  $\mathbf{N}$  (lb);  $A\,=$ projected area of the  part including ﬂ  ash, $\mathrm{mm}^{2}$   $(\mathrm{in}^{2})$ );  $Y_{f}=$  ﬂ  ow stress of the material, MPa  $\mathrm{(lb/in^{2})}$ ; and  $K_{f}=$  forging shape factor. In hot forging, the appropriate value of  $Y_{f}$  is the yield  
+
+TABLE  •  18.1  Typical $K_{t}$ values for various part shapes in impression-die and ﬂ  ashless forging. 
+![](images/f3462a064ca9e804c94054fd079f674a2139533c2fb2fedc7c7ae49b33790501.jpg)  
+
+strength of the metal at the elevated temperature. In other cases, selecting the  proper value of ﬂ  ow stress is difﬁ  cult because the strain varies throughout the  workpiece for complex shapes.  $K_{f}$  in Equation (18.18) is a factor intended to  account for increases in force required to forge part shapes of various complexi- ties. Table 18.1 indicates the range of values of  $K_{f}$ for different part geometries.  Obviously, the problem of specifying the proper  $K_{f}$ value for a given work part  limits the accuracy of the force estimate.  
+
+Equation (18.18) applies to the maximum force during the operation, since this  is the load that will determine the required capacity of the press or hammer used in  the operation. The maximum force is reached at the end of the forging stroke, when  the projected area is greatest and friction is maximum.  
+
+Impression-die forging is not capable of close tolerance work, and machining  is often required to achieve the accuracies needed. The basic geometry of the  part is obtained from the forging process, with machining performed on those  portions of the part that require precision ﬁ  nishing (e.g., holes, threads, and sur- faces that mate with other components). The advantages of forging, compared  to machining the part completely, are higher production rates, conservation of  metal, greater strength, and favorable grain orientation of the metal that results  from forging. A comparison of the grain ﬂ  ow in forging and machining is illus- trated in Figure 18.15.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec18.txt,0.8504244121908586,05148abcfc7a763451858b7876608be680ae332ef2a07111eb21a5c2e3a31d61.jpg
+"""Q1"": ""Which figure demonstrates how a retaining ring is assembled into a groove on a shaft?"",","""A1"": ""Figure 31.14 shows the assembly of a retaining ring into a groove on a shaft. The figure illustrates the groove in the shaft, the shaft itself, and the retaining ring that snaps into the groove to form a shoulder.""","""Explanation"": ""The context describes retaining rings and their assembly, but the provided figures (31.15, 31.16) illustrate wire stitches and cotter pins, not retaining rings."", ""YourChoice"": ""None""","The assembly  can be used to locate or restrict the movement of parts mounted on the shaft. Retain- ing rings are available for both external (shaft) and internal (bore) applications. They  are made from either sheet metal or wire stock, heat treated for hardness and stiff- ness. To assemble a retaining ring, a special pliers tool is used to elastically deform the  ring so that it ﬁ  ts over the shaft (or into the bore) and then is released into the groove.  
+
+#  Other Mechanical Fastening Methods  
+
+In addition to the mechanical assembly techniques discussed above, there are sev- eral additional methods that involve the use of fasteners. These include stitching,  stapling, sewing, and cotter pins.  
+
+Stitching, Stapling, and Sewing   Industrial stitching and stapling are similar oper- ations involving the use of U-shaped metal fasteners.  Stitching  is a fastening operation  in which a stitching machine is used to form the U-shaped stitches one at a time from  steel wire and immediately drive them through the two parts to be joined. Figure 31.15  illustrates several types of wire stitches. The parts to be joined must be relatively thin,  consistent with the stitch size, and the assembly can involve various combinations of  metal and nonmetal materials. Applications of industrial stitching include light sheet- metal assembly, metal hinges, electrical connections, magazine binding, corrugated  boxes, and ﬁ  nal product packaging. Conditions that favor stitching in these applica- tions are (1) high-speed operation, (2) elimination of the need for prefabricated holes  in the parts, and (3) desirability of using fasteners that encircle the parts.  
+
+In  stapling , preformed U-shaped staples are punched through the two parts to  be attached. The staples are supplied in convenient strips. The individual staples are  lightly stuck together to form the strip, but they can be separated by the stapling tool  for driving. The staples come with various point styles to facilitate their entry into the  work. Staples are usually applied by means of portable pneumatic guns, into which  strips containing several hundred staples can be loaded. Applications of industrial sta- pling include: furniture and upholstery, assembly of car seats, and various light-gage  sheet-metal and plastic assembly jobs.  
+
+Sewing  is a common joining method for soft, ﬂ  exible parts such as cloth and  leather. The method involves the use of a long thread or cord interwoven with the  
+
+![](images/7ab88ebd7964870cc4962811a3623c6a3edc219991d0cb84561368168487e549.jpg)  
+FIGURE 31.15  Common types of wire  stitches: (a) unclinched,  (b) standard loop,  (c) bypass loop, and  (d) ﬂ  at clinch.  
+
+![](images/3da3219c69c851d42348b6e25fb1fa1749de5d064cf827d61130bde0269b16e0.jpg)  
+FIGURE 31.16  Cotter pins: (a) offset  head, standard point;  (b) symmetric head,  hammerlock point;  (c) square point;  (d) mitered point; and  (e) chisel point.  
+
+parts so as to produce a continuous seam between them. The process is widely used  in the needle trades industry for assembling garments.  
+
+Cotter Pins   Cotter pins are fasteners formed from half-round wire into a single  two-stem pin, as in Figure 31.16. They vary in diameter, ranging between  $0.8\ \mathrm{mm}$   (0.031 in) and $19\,\mathrm{mm}\,(3/4\,\mathrm{in})$ , and in point style, several of which are shown in the ﬁ  g- ure. Cotter pins are inserted into holes in the mating parts and their legs are split to  lock the assembly. They are used to secure parts onto shafts and similar applications.  
+
+#  Molding Inserts and Integral Fasteners  
+
+These assembly methods form a permanent joint between parts by shaping or re- shaping one of the components through a manufacturing process such as casting,  molding, or sheet-metal forming.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec31.txt,0.8443301470377164,058b12c86962fe57845711ef41130d3c91a6a551b4c3df6c534754e35ffb9085.jpg
+"""Q1"": ""Which figure demonstrates the different types of line defects in a crystal structure?"",","""A1"": ""Figure 2.10 demonstrates the different types of line defects in a crystal structure. It shows (a) edge dislocation and (b) screw dislocation. The edge dislocation is depicted by an extra half-plane of atoms inserted in a crystal, distorting the lattice structure. The screw dislocation is shown as a helical ramp resulting from shear stress, where the atoms are displaced in a spiral manner around the dislocation line."",","""Explanation"": ""The types of line defects in a crystal structure, such as edge dislocation and screw dislocation, are illustrated in Figure 2.10. These defects are not shown in Figure 2.11, which depicts deformation in a crystal structure."", ""YourChoice"": ""Figure 2.10""","A  line defect  is a connected group of point defects that forms a line in the lat-  tice structure. The most important line defect is the  dislocation , which can take two  forms: (a) edge dislocation and (b) screw dislocation. An  edge dislocation  is the edge  of an extra plane of atoms that exists in the lattice, as illustrated in Figure 2.10(a).  A  screw dislocation , Figure 2.10(b), is a spiral within the lattice structure wrapped  around an imperfection line, like a screw is wrapped around its axis. Both types of  dislocations can arise in the crystal structure during solidification (e.g., casting), or  they can be initiated during a deformation process (e.g., metal forming) performed  on the solid material. Dislocations are useful in explaining certain aspects of me-  chanical behavior in metals.  
+
+Surface defects  are imperfections that extend in two directions to form a boundary.  The  most obvious example is the external surface of a crystalline object that defines its  shape. The surface is an interruption in the lattice structure. Surface boundaries can  also lie inside the material. Grain boundaries are the best example of these in- ternal  surface interruptions. Metallic grains are discussed in a moment, but first let  consider how deformation occurs in a crystal lattice, and how the process is aided by  the presence of dislocations.  
+
+# 2.3.3  DEFORMATION IN METALLIC CRYSTALS  
+
+When a crystal is subjected to a gradually increasing mechanical stress, its initial  response is to deform  elastically . This can be likened to a tilting of the lattice struc-  ture without any changes of position among the atoms in the lattice, in the manner  depicted in Figure 2.11(a) and (b). If the force is removed, the lattice structure (and  therefore the crystal) returns to its original shape. If the stress reaches a high value  relative to the electrostatic forces holding the atoms in their lattice positions, a per-  manent shape change occurs, called  plastic deformation . What has happened is that  the atoms in the lattice have permanently moved from their previous locations, and  a new equilibrium lattice has been formed, as suggested by Figure 2.11(c).  
+
+![](images/0d9aabf1cc01b4d825f9cb88be43a3087a1384dbd5a0144323c778ca20613527.jpg)  
+FIGURE 2.11   Deformation of a crystal structure: (a) original lattice; (b) elastic deformation,  with no permanent change in positions of atoms; and (c) plastic deformation, in which atoms  in the lattice are forced to move to new “homes.”  
+
+The lattice deformation shown in (c) of the figure is one possible mechanism, called  slip, by which plastic deformation can occur in a crystalline structure. The other is  called twinning, discussed later.  
+
+Slip  involves the relative movement of atoms on opposite sides of a plane in the  lattice, called the  slip plane . The slip plane must be somehow aligned with the lattice  structure (as indicated in the sketch), and so there are certain preferred directions  along which slip is more likely to occur. The number of these  slip directions  de-  pends on the lattice type. The three common metal crystal structures are somewhat  more complicated, especially in three dimensions, than the square lattice depicted in  Figure  2.11. It turns out that HCP has the fewest slip directions, BCC the most, and FCC  falls in between. HCP metals show poor ductility and are generally difficult to  deform at room temperature. Metals with BCC structure would figure to have the  highest ductility, if the number of slip directions were the only criterion. However,  nature is not so simple. These metals are generally stronger than the others, which  complicates the issue, and the BCC metals usually require higher stresses to cause  slip. In fact, some of the BCC metals exhibit poor ductility. Low carbon steel is a  notable exception; although relatively strong, it is widely used with great commer-  cial success in sheet-metal-forming operations, where it exhibits good ductility. The  FCC metals are generally the most ductile of the three crystal structures, combining  a good number of slip directions with (usually) relatively low to moderate strength.  All three of these metal structures become more ductile at elevated temperatures,  and this fact is often exploited in shaping them.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec12456.txt,0.8604394833592544,05cb1a6a5576160efe663bccb5086810b04eb426c7c40efebc271403f91cfceb.jpg
+"""Q1"": ""Which figure shows the different shear zones involved in chip formation during a machining process?"",","""A1"": ""Figure 20.8 shows the different shear zones involved in chip formation during a machining process. It illustrates the primary shear zone where the initial deformation occurs and the secondary shear zone resulting from friction between the chip and the tool as the chip slides along the rake face. This figure provides a more realistic view of chip formation, showing shear zones rather than a shear plane."",","""Explanation"": ""Figure 20.8 illustrates the primary and secondary shear zones involved in chip formation during the machining process."", ""YourChoice"": ""Figure 20.8""","First, the shear deformation process does not occur  along a plane, but within a zone. If shearing were to take place across a plane of  zero thickness, it would imply that the shearing action must occur instantaneously  as it passes through the plane, rather than over some ﬁ  nite (although brief) time  period. For the material to behave in a realistic way, the shear deformation must  occur within a thin shear zone. This more realistic model of the shear deformation  process in machining is illustrated in Figure 20.8. Metal-cutting experiments have  indicated that the thickness of the shear zone is only a few thousandths of an inch.  Since the shear zone is so thin, there is not a great loss of accuracy in most cases by  referring to it as a plane.  
+
+Second, in addition to shear deformation that occurs in the shear zone, another  shearing action occurs in the chip after it has been formed. This additional shear is  referred to as secondary shear to distinguish it from primary shear. Secondary shear  results from friction between the chip and the tool as the chip slides along the rake  
+
+![](images/064528c4454ce68e9fe70bbd50f9eb7bc7b95f21af0d34869567572ef4951bf9.jpg)  
+FIGURE 20.8  More  realistic view of chip  formation, showing  shear zone rather  than shear plane. Also  shown is the secondary  shear zone resulting  from tool–chip friction.  
+
+face of the tool. Its effect increases with increased friction between the tool and chip.  The primary and secondary shear zones can be seen in Figure 20.8.  
+
+Third, formation of the chip depends on the type of material being machined and  the cutting conditions of the operation. Four basic types of chip can be distinguished,  illustrated in Figure 20.9:  
+
+$\gg$ Discontinuous chip . When relatively brittle materials (e.g., cast irons) are  machined at low cutting speeds, the chips often form into separate segments  (sometimes the segments are loosely attached). This tends to impart an irregu- lar texture to the machined surface. High tool–chip friction and large feed and  depth of cut promote the formation of this chip type.  
+
+$\gg$ Continuous chip . When ductile work materials are cut at high speeds and  relatively small feeds and depths, long continuous chips are formed. A good  surface ﬁ  nish typically results when this chip type is formed. A sharp cutting  edge on the tool and low tool–chip friction encourage the formation of con- tinuous chips. Long, continuous chips (as in turning) can cause problems with  regard to chip disposal and/or tangling about the tool. To solve these prob- lems, turning tools are often equipped with chip breakers (Section 22.3.1).  
+
+![](images/9ddd2ea59ba1797aac291ef0d949a94ed190ad021fb58817cc41bd74ed90752c.jpg)  
+FIGURE 20.9  Four types of chip formation in metal cutting: (a) discontinuous, (b) continuous, (c) continuous with  built-up edge, (d) serrated.  
+
+➢   Continuous chip with built-up edge . When machining ductile materials at low- to-medium cutting speeds, friction between tool and chip tends to cause por- tions of the work material to adhere to the rake face of the tool near the cutting  edge. This formation is called a built-up edge (BUE). The formation of a BUE is  cyclical; it forms and grows, then becomes unstable and breaks off. Much of the  detached BUE is carried away with the chip, sometimes taking portions of the  tool rake face with it, which reduces the life of the cutting tool. Portions of the  detached BUE that are not carried off with the chip become imbedded in the  newly created work surface, causing the surface to become rough.  
+
+The preceding chip types were ﬁ  rst classiﬁ  ed by Ernst in the late 1930s [13]. Since  then, the available metals used in machining, cutting tool materials, and cutting  speeds have all increased, and a fourth chip type has been identiﬁ  ed:  
+
+➢   Serrated chips  (the term  shear-localized  is also used for this fourth chip type).",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec20.txt,0.8840753315053592,064528c4454ce68e9fe70bbd50f9eb7bc7b95f21af0d34869567572ef4951bf9.jpg
+"""Q1"": ""Is there a figure that demonstrates how symmetrical parts can be inserted and assembled with different rotational orientations?"",","""A1"": ""Yes. Figure 31.19 illustrates how symmetrical parts are generally easier to insert and assemble. It shows four different scenarios: (a) only one rotational orientation possible for insertion, (b) two possible orientations, (c) four possible orientations, and (d) infinite rotational orientations.""","""Explanation"": ""Figure 31.19 demonstrates how symmetrical parts can be inserted and assembled with different rotational orientations."", ""YourChoice"": ""Figure 31.19""","Crimping , in which the edges of one part are deformed over a mating component,  is another example of integral assembly. A common example involves squeezing the  barrel of an electrical terminal onto a wire (Section 34.5.1).  
+
+Design for assembly (DFA) has received much attention in recent years because  assembly operations constitute a high labor cost for many manufacturing compa- nies. The key to successful design for assembly can be simply stated [3]: (1) design  the product with as few parts as possible, and (2) design the remaining parts so they  are easy to assemble. The cost of assembly is determined largely during product  design, because that is when the number of separate components in the product  is determined, and decisions are made about how these components will be as- sembled. Once these decisions have been made, there is little that can be done in  manufacturing to inﬂ  uence assembly costs (except, of course, to manage the opera- tions well).  
+
+This section considers some of the principles that can be applied during product  design to facilitate assembly. Most of the principles have been developed in the con- text of mechanical assembly, although some of them apply to the other assembly and  joining processes. Much of the research in design for assembly has been motivated  by the increasing use of automated assembly systems in industry. Accordingly, our  discussion is divided into two sections, the ﬁ  rst dealing with general principles of  DFA, and the second concerned speciﬁ  cally with design for automated assembly.  
+
+# 31.6.1  GENERAL PRINCIPLES OF DFA  
+
+Most of the general principles apply to both manual and automated assembly. Their  goal is to achieve the required design function by the simplest and lowest cost means.  The following recommendations have been compiled from [1], [3], [4], and [6]:  
+
+$\gg$ Use the fewest number of parts possible to reduce the amount of assembly re- quired  . This principle is implemented by combining functions within the same  part that might otherwise be accomplished by separate components (e.g., using  a plastic molded part instead of an assembly of sheet metal parts).
+
+ ➢   Reduce the number of threaded fasteners required  . Instead of using separate  threaded fasteners, design the component to utilize snap ﬁ  ts, retaining rings,  integral fasteners, and similar fastening mechanisms that can be accomplished  more rapidly. Use threaded fasteners only where justiﬁ  ed (e.g., where disassem- bly or adjustment is required).
+
+ ➢   Standardize fasteners . This is intended to reduce the number of sizes and styles  of fasteners required in the product. Ordering and inventory problems are  reduced, the assembly worker does not have to distinguish between so many  
+
+![](images/0662ec93c77d53246c3edd552639fb259915abffb506e762af8730d605c076c6.jpg)  
+FIGURE 31.19  Symmetrical parts are  generally easier to  insert and assemble:  (a) only one rotational  orientation possible for  insertion; (b) two possi- ble orientations; (c) four  possible orientations;  and (d) inﬁ  nite rotational  orientations.  
+
+separate fasteners, the workstation is simpliﬁ  ed, and the variety of separate fas- tening tools is reduced.  
+
+➢   Reduce parts orientation difﬁ  culties  . Orientation problems are generally re- duced by designing a part to be symmetrical and minimizing the number of  asymmetric features. This allows easier handling and insertion during assembly.  This principle is illustrated in Figure 31.19.
+
+ ➢   Avoid parts that tangle  . Certain part conﬁ  gurations are more likely to become  entangled in parts bins, frustrating assembly workers or jamming automatic  feeders. Parts with hooks, holes, slots, and curls exhibit more of this tendency  than parts without these features (see Figure 31.20).  
+
+# 31.6.2  DESIGN FOR AUTOMATED ASSEMBLY  
+
+Methods suitable for manual assembly are not necessarily the best methods for  automated assembly. Some assembly operations readily performed by a human  worker are quite difﬁ  cult to automate (e.g., assembly using bolts and nuts). To auto- mate the assembly process, parts fastening methods must be speciﬁ  ed during prod- uct design that lend themselves to machine insertion and joining techniques and  do not require the senses, dexterity, and intelligence of human assembly workers.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec31.txt,0.8071421718460111,0662ec93c77d53246c3edd552639fb259915abffb506e762af8730d605c076c6.jpg
+"""Q1"": ""Is there a figure that explains the effect of temperature and time on the hardness of an alloy during the aging process?"",","""A1"": ""Yes. Figure 26.6 demonstrates the effect of temperature and time during the precipitation treatment (aging) on the hardness of an alloy. It shows two curves: (a) represents high precipitation temperature, where hardness peaks in a relatively short time, and (b) represents lower precipitation temperature, where more time is required to harden the alloy, but its maximum hardness is likely to be greater.""","""Explanation"": ""Figure 26.6 shows the effect of temperature and time on the hardness of an alloy during the aging process, with graphs depicting hardness in relation to aging at different temperatures."", ""YourChoice"": ""Figure 26.6""","![](images/4cd53fe53dbab8fce7892af8aeac5f6caebc89b6d00986e805f31964f6ee4b3b.jpg)  
+
+The necessary condition that determines whether an alloy system can be strength- ened by precipitation hardening is the presence of a sloping solvus line, as shown in  the phase diagram of Figure 26.5(a). A composition that can be precipitation hard- ened is one that contains two phases at room temperature, but which can be heated to  a temperature that dissolves the second phase. Composition C satisﬁ  es this require- ment. The heat treatment process consists of three steps, illustrated in Figure 26.5(b):  (1)  solution treatment , in which the alloy is heated to a temperature  $T_{s}$  above the  solvus line into the alpha phase region and held for a period sufﬁ  cient to dissolve the  beta phase; (2)  quenching  to room temperature to create a supersaturated solid solu- tion; and (3)  precipitation treatment , in which the alloy is heated to a temperature  $T_{p}$ , below  $T_{s}$ , to cause precipitation of ﬁ  ne particles of the beta phase. This third step  is called  aging , and for this reason the whole heat treatment is sometimes called  age  hardening . However, aging can occur in some alloys at room temperature, and so the  term  precipitation hardening  seems more precise for the three-step heat treatment  process under discussion here. When the aging step is performed at room tempera- ture, it is called  natural aging . When it is accomplished at an elevated temperature,  as in the ﬁ  gure, the term  artiﬁ  cial aging  is often used.  
+
+It is during the aging step that high strength and hardness are achieved in the  alloy. The combination of temperature and time during the precipitation treat- ment (aging) is critical in bringing out the desired properties in the alloy. At higher  precipitation treatment temperatures, as in Figure 26.6(a), the hardness peaks in  a relatively short time; whereas at lower temperatures, as in (b), more time is re- quired to harden the alloy but its maximum hardness is likely to be greater than  
+
+![](images/069208572608804f435085cf0f88f0e670f2d6ba60fe0cea27a83a7c13930388.jpg)  
+FIGURE 26.6  Effect of  temperature and time  during precipitation  treatment (aging):  (a) high precipitation  temperature; and  (b) lower precipitation  temperature.  
+
+in the ﬁ  rst case. As seen in the plot, continuation of the aging process results in a  reduction in hardness and strength properties, called  overaging . Its overall effect  is similar to annealing.  
+
+#  Surface Hardening  
+
+Surface hardening refers to any of several thermochemical treatments applied to  steels in which the composition of the part surface is altered by addition of carbon,  nitrogen, or other elements. The most common treatments are carburizing, nitriding,  and carbonitriding. These processes are commonly applied to low carbon steel parts  to achieve a hard, wear-resistant outer shell while retaining a tough inner core. The  term  case hardening  is often used for these treatments.  
+
+Carburizing  is the most common surface-hardening treatment. It involves heat- ing a part of low carbon steel in the presence of a carbon-rich environment so that C  is diffused into the surface. In effect the surface is converted to a high carbon steel,  capable of higher hardness than the low-C core. The carbon-rich environment can be  created in several ways. One method involves the use of carbonaceous materials such  as charcoal or coke packed in a closed container with the parts. This process, called  pack carburizing , produces a relatively thick layer on the part surface, ranging from  around 0.6 to $4\;\mathrm{mm}$  (0.025–0.150 in). Another method, called  gas carburizing , uses  hydrocarbon fuels such as propane  $\left(\mathrm{C}_{3}\mathrm{H}_{8}\right)$  inside a sealed furnace to diffuse carbon  into the parts. The case thickness in this treatment is thin, 0.13 to $0.75\;\mathrm{mm}$  (0.005 to  0.030 in).",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec26.txt,0.856861029293177,069208572608804f435085cf0f88f0e670f2d6ba60fe0cea27a83a7c13930388.jpg
+"""Q1"": ""Which figure shows the process of shaping a flat glass piece using a plunger?"",","""A1"": ""Figure 12.3 shows the pressing of a flat glass piece. It illustrates the following steps: (1) a gob of glass is fed into the mold from the furnace, (2) the glass is pressed into shape by the plunger, and (3) the plunger is retracted and the finished product is removed."",","""Explanation"": ""The provided figures illustrate the rolling and float processes, which do not involve the use of a plunger for shaping flat glass pieces. Therefore, none of the figures show shaping using a plunger."", ""YourChoice"": ""None""","Reheating is sometimes required between blowing steps. Duplicate and triplicate  molds are sometimes used along with matching gob feeders to increase production  rates. Press-and-blow and blow-and-blow methods are used to make jars, beverage  bottles, incandescent light bulb enclosures, and similar geometries.  
+
+Casting  If the molten glass is sufﬁ  ciently ﬂ  uid, it can be poured into a mold. Rela- tively massive objects, such as astronomical lenses and mirrors, are made by this  method. These pieces must be cooled very slowly to avoid internal stresses and pos- sible cracking owing to temperature gradients that would otherwise be set up in  the glass. After cooling and solidifying, the piece must be ﬁ  nished by lapping and  polishing. Casting is not much used in glassworking except for these kinds of special  jobs. Not only is cooling and cracking a problem, but also molten glass is relatively  viscous at normal working temperatures, and does not ﬂ  ow through small oriﬁ  ces or  into small sections as well as molten metals or heated thermoplastics. Smaller lenses  are usually made by pressing, discussed above.  
+
+# 12.2.2  SHAPING OF FLAT AND TUBULAR GLASS  
+
+Two methods for making plate glass and one method for producing tube stock are  described here. They are continuous processes, in which long sections of ﬂ  at window  glass or glass tubing are made and later cut into appropriate sizes and lengths. They  are modern technologies in contrast to the ancient method described in Historical  Note 12.1.  
+
+# Historical Note 12.1  Ancient methods of making ﬂ  at glass  [7]  
+
+Glass windows have been used in buildings for many  centuries. The oldest process for making ﬂ  at window  glass was by manual glass blowing. The procedure  consisted of the following: (1) a glass globe was blown  on a blowpipe; (2) a portion of the globe was made  to stick to the end of a “punty, ” a metal rod used by  glassblowers, and then detached from the blowpipe;  and (3) after reheating the glass, the punty was rotated  with sufﬁ  cient speed for centrifugal force to shape the  open globe into a ﬂ  at disk. The disk, whose maximum  possible size was only about  $1\,\mathrm{~m~}$  (3 ft), was later cut  into small panes for windows.  
+
+At the center of the disk, where the glass was  attached to the punty during the third step in the  process, a lump would tend to form that had the ap- pearance of a crown. The name “crown glass” was  derived from this resemblance. Lenses for spectacles  were ground from glass made by this method. Today,  the name crown glass is still used for certain types  of optical and ophthalmic glass, even though the an- cient method has been replaced by modern produc- tion technology.  
+
+Rolling of Flat Plate  Flat plate glass can be produced by rolling, as illustrated in  Figure 12.6. The starting glass, in a suitably plastic condition from the furnace, is  squeezed through opposing rolls whose separation determines the thickness of the  sheet. The rolling operation is usually set up so that the ﬂ  at glass is moved directly  into an annealing furnace. The rolled glass sheet must later be ground and polished  for parallelism and smoothness.  
+
+![](images/cc1a5e10e9e7dbca830c11fcca7f4b9e668f50a92629d28a66ace3dbf67dc511.jpg)  
+FIGURE 12.6  Rolling  of ﬂ  at glass.  
+
+![](images/172df44a91c285bf0e2441356b9b373a54b5a7a723e52b5b9fdc348b51e147b6.jpg)  
+FIGURE 12.7  The ﬂ  oat  process for producing  sheet glass.  
+
+Float Process  This process was developed in the late 1950s. Its advantage over  other methods such as rolling is that it obtains smooth surfaces that need no sub- sequent ﬁ  nishing.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec12.txt,0.8575409621353003,080848414730b1ef5028cddc440ae059475667441a4f9115e591a3df4aed042b.jpg
+"""Q1"": ""Which figure shows the components involved in the coating of electrical wire by extrusion?"",","""A1"": ""Figure 13.11 shows the side view cross-section of a die used for coating electrical wire by extrusion. It includes components such as the vertical extruder barrel, screen pack, breaker plate, core tube, and die sections. The figure also illustrates the flow of the polymer melt and the path of the bare wire in and coated wire out."",","""Explanation"": ""The process related to the coating of electrical wire by extrusion isn't depicted in the provided figures. Instead, wire and cable coating by extrusion is discussed in the context but not shown visually here."", ""YourChoice"": ""None""","Wire and cable coating has already been  covered (Section 13.2.3); it is basically an extrusion process. The other two catego- ries are surveyed in the following paragraphs. In addition, there is the technology of  applying paints, varnishes, lacquers, and other similar coatings (Section 27.6).  
+
+Planar coating  is used to coat fabrics, paper, cardboard, and metal foil; these  items are major products for some plastics. The important polymers include poly- ethylene and polypropylene, with lesser applications for nylon, PVC, and polyester.  In most cases, the coating is only 0.01 to  $0.05~\mathrm{mm}$  (0.0005–0.002 in) thick. The two  major planar coating techniques are illustrated in Figure 13.19. In the  roll method ,  
+
+![](images/2889c25534dfc52c33f58e805fe99d8515e213a5a767a1b2a226dc51a989bc55.jpg)  
+FIGURE 13.19  Planar coating processes: (a) roll method, and (b) doctor-blade method.  
+
+the polymer coating material is squeezed against the substrate by means of opposing  rolls. In the  doctor blade method , a sharp knife edge controls the amount of polymer  melt that is coated onto the substrate. In both cases, the coating material is supplied  either by a slit-die extrusion process or by calendering.  
+
+Contour coating  of three-dimensional objects can be accomplished by dipping or  spraying.  Dipping  involves submersion of the object into a suitable bath of polymer  melt or solution, followed by cooling or drying.  Spraying  (such as spray-painting) is  an alternative method for applying a polymer coating to a solid object.  
+
+#  Injection Molding  
+
+Injection molding is a process in which a polymer is heated to a highly plastic state  and forced to ﬂ  ow under high pressure into a mold cavity, where it solidiﬁ  es. The  molded part, called a  molding , is then removed from the cavity. The process pro- duces discrete components that are almost always net shape. The production cycle  time is typically in the range of 10 to 30 sec, although cycles of  $1\;\mathrm{{min}}$  or longer are  not uncommon for large parts. Also, the mold may contain more than one cavity,  so that multiple moldings are produced each cycle. A collection of plastic injection  moldings is displayed in Figure 13.20.  
+
+Complex and intricate shapes are possible with injection molding. The challenge  in these cases is to fabricate a mold whose cavity is the same geometry as the part  and that also allows for part removal. Part size can range from about $50\;\mathrm{g}\;(2\;\mathrm{or})$  up  to about $25~\mathrm{kg}$  (more than $50\,\mathrm{lb}$ ), the upper limit represented by components such  as refrigerator doors and automobile bumpers. The mold determines the part shape  and size and is the special tooling in injection molding. For large, complex parts, the  mold can cost hundreds of thousands of dollars. For small parts, the mold can be  built to contain multiple cavities, also making the mold expensive. Thus, injection  molding is economical only for large production quantities.  
+
+![](images/3c0dbeeb3da38476fa8478c92cbc5420445d5a15b200030de2be5cec406dd0d7.jpg)  
+FIGURE 13.20  A collection of plastic  injection-molded parts.  (Courtesy of George E.  Kane Manufacturing  Technology Laboratory,  Lehigh University.)  
+
+![](images/bbbec17b418e6e7e2fd6e51fd81f55cfec71375ffca06d143d67169dd4123035.jpg)  
+FIGURE 13.21  A large  (3000-ton capacity)  injection molding  machine. (Courtesy of  Cincinnati Milacron.)  
+
+Injection molding is the most widely used molding process for thermoplastics.  Some thermosets and elastomers are injection molded, with modiﬁ  cations in equip- ment and operating parameters to allow for cross-linking of these materials. These  and other variations of injection molding are discussed in Section 13.6.5.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec13.txt,0.8418516595415539,08e2a2905e752c6bc29e678996a9e99f805cac44f5500afd2241f88e2d1ee8c3.jpg
+"""Q1"": ""Which figure shows the position of manufacturing systems within the larger production system?"",","""A1"": ""Figure 37.1 shows the position of the manufacturing systems within the larger production system. It illustrates how manufacturing systems are integrated with manufacturing support systems, quality control systems, and the overall production system. The figure also indicates the flow of engineering materials into manufacturing processes and assembly operations, leading to finished products.""","""Explanation"": ""The context provided focuses on the configuration of work cells in manufacturing, specifically referring to Figure 39.10. There is no mention of a figure that represents the position of manufacturing systems within the larger production system. To find the correct figure, one would typically refer to a different section or figure noted in the document, but based solely on the given context, this information is not provided."", ""YourChoice"": ""N/A""","Production is often organized within work cells, which are teams of workers and  machines arranged in sequential order to produce parts in small batch sizes. The  cells are often U-shaped as shown in Figure 39.10 rather than straight line. This con- ﬁ  guration is said to promote teamwork and camaraderie amongst the workers. Each  worker may operate more than one machine in the cell, as suggested in the ﬁ  gure,  and the tasks are assigned to workers so that their workloads are balanced and the  production cycle time is consistent with the demand rate for the part.  
+
+# References  
+
+[1] Bakerjian, R., and Mitchell, P .  Tool and Manu- facturing Engineers Handbook , 4th ed., Vol.  VI,  Design for Manu fact ur ability . Society of  Manufacturing Engineers, Dearborn, Michi- gan, 1992.
+
+  [2] Bedworth, D. D., and Bailey, J. E.  Integrated  Production Control Systems , 2nd ed. John  Wiley & Sons, New York, 1987.
+
+  [3] Black, J T., and Kohser, R. A.  DeGarmo’s  Materials and Processes in Manufacturing ,  11th ed. John Wiley & Sons, Hoboken, New  Jersey, 2012.
+
+  [4] Chang, C-H, and Melkanoff, M. A.  NC Machine  Programming and Software Design , 3rd ed.  Prentice Hall, Upper Saddle River, New Jersey,  2005.  
+
+[5] Eary, D. F., and Johnson, G. E.  Process Engi- neering for Manufacturing . Prentice-Hall, Inc.,  Englewood Cliffs, New Jersey, 1962.
+
+  [6] Groover, M. P .  Automation, Production Sys- tems, and Computer Integrated Manufactur- ing , 3rd ed. Pearson Prentice Hall, Upper Sad- dle River, New Jersey, 2008.
+
+  [7] Groover, M. P .  Work Systems and the Meth- ods, Measurement, and Management of Work ,  Pearson Prentice-Hall, Upper Saddle River,  New Jersey, 2007.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec39.txt,0.8499310040767888,08f0c5c5e7a7ad91613b7c55cdd244565121cb9018935183a5010f2e9d7dbb3c.jpg
+"""Q1"": ""Which figure shows the components of a machine, such as the spindle, headstock, or feed controls?"",","""A1"": ""Figure 1.1 shows the components of a machine, including the spindle, headstock, and feed controls. This figure provides a detailed illustration of each part and its function within the machine setup.""","""Explanation"": ""The image with Figure 21.7 shows the diagram of an engine lathe with its principal components such as the spindle, headstock, and feed controls."", ""YourChoice"": ""Figure 21.7""","Engine Lathe Technology   Figure 21.7 is a sketch of an engine lathe showing its  principal components. The  headstock  contains the drive unit to rotate the spindle,  which rotates the work. Opposite the headstock is the  tailstock , in which a center is  mounted to support the other end of the workpiece.  
+
+![](images/ed595687bb3fd9a1f8cdb7606bcbb50d129aceac0f6d6ffb748563290d217d5e.jpg)  
+FIGURE 21.7  Diagram  of an engine lathe,  indicating its principal  components.  
+
+The cutting tool is held in a  tool post  fastened to the  cross-slide , which is assembled  to the  carriage . The carriage is designed to slide along the  ways  of the lathe in order  to feed the tool parallel to the axis of rotation. The ways are like tracks along which  the carriage rides, and they are made with great precision to achieve a high degree  of parallelism relative to the spindle axis. The ways are built into the  bed  of the lathe,  providing a rigid frame for the machine tool.  
+
+The carriage is driven by a leadscrew that rotates at the proper speed to obtain the  desired feed rate. The cross-slide is designed to feed in a direction perpendicular to  the carriage movement. Thus, by moving the carriage, the tool can be fed parallel to  the work axis to perform straight turning; or by moving the cross-slide, the tool can  be fed radially into the work to perform facing, form turning, or cutoff operations.  
+
+The conventional engine lathe and most other machines described in this section are  horizontal turning machines ; that is, the spindle axis is horizontal. This is appropriate  for the majority of turning jobs, in which the length is greater than the diameter. For  jobs in which the diameter is large relative to length and the work is heavy, it is more  convenient to orient the work so that it rotates about a vertical axis; these are  vertical  turning machines .  
+
+The size of a lathe is designated by swing and maximum distance between centers.  The  swing  is the maximum work part diameter that can be rotated in the spindle,  determined as twice the distance between the centerline of the spindle and the  ways of the machine. The actual maximum size of a cylindrical workpiece that  can be accommodated on the lathe is smaller than the swing because the carriage  and cross-slide assembly are in the way. The  maximum distance between centers   indicates the maximum length of a workpiece that can be mounted between head- stock and tailstock centers. For example, a  $350~\mathrm{mm}\times1.2~\mathrm{m}$ ( $14~\mathrm{in}\times48$  in) lathe  designates that the swing is  $350~\mathrm{mm}$  (14 in) and the maximum distance between  centers is $1.2\:\mathrm{m}$  (48 in).  
+
+Methods of Holding the Work in a Lathe   There are four common methods  used to hold work parts in turning. These workholding methods consist of various  mechanisms to grasp the work, center and support it in position along the spindle  axis, and rotate it. The methods, illustrated in Figure 21.8, are (a) mounting the work  between centers, (b) chuck, (c) collet, and (d) face plate.  
+
+Holding the work  between centers  refers to the use of two centers, one in the head- stock and the other in the tailstock, as in Figure 21.8(a). This method is appropriate  for parts with large length-to-diameter ratios. At the headstock center, a device called  a  dog  is attached to the outside of the work and is used to drive the rotation from the  spindle. The tailstock center has a cone-shaped point which is inserted into a tapered  hole in the end of the work. The tailstock center is either a “live” center or a “dead”  center. A  live center  rotates in a bearing in the tailstock, so that there is no relative  rotation between the work and the live center, hence, no friction between the center  and the workpiece. In contrast, a  dead center  is ﬁ  xed to the tailstock, so that it does  not rotate; instead, the workpiece rotates about it. Because of friction and the heat  buildup that results, this setup is normally used at lower rotational speeds.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec21.txt,0.8490043872598037,09553ff90c902c2f78c516bb728fb8c02eda2ae896b1edbc8c397c877f133f3b.jpg
+"""Q1"": ""Which figure shows the components of a machine, such as the spindle, headstock, or feed controls?"",","""A1"": ""Figure 29.13(a) shows the steps in a resistance spot-welding (RSW) cycle, including components like the upper horn, lower horn, electrodes, and the pneumatic cylinder to actuate the rocker arm. This figure is essential for understanding the setup and operation of the RSW machine."",","{""Explanation"": ""Figure 21.7 shows a sketch of an engine lathe with principal components such as the spindle, headstock, and feed controls."", ""YourChoice"": ""Figure 21.7""}","Engine Lathe Technology   Figure 21.7 is a sketch of an engine lathe showing its  principal components. The  headstock  contains the drive unit to rotate the spindle,  which rotates the work. Opposite the headstock is the  tailstock , in which a center is  mounted to support the other end of the workpiece.  
+
+![](images/ed595687bb3fd9a1f8cdb7606bcbb50d129aceac0f6d6ffb748563290d217d5e.jpg)  
+FIGURE 21.7  Diagram  of an engine lathe,  indicating its principal  components.  
+
+The cutting tool is held in a  tool post  fastened to the  cross-slide , which is assembled  to the  carriage . The carriage is designed to slide along the  ways  of the lathe in order  to feed the tool parallel to the axis of rotation. The ways are like tracks along which  the carriage rides, and they are made with great precision to achieve a high degree  of parallelism relative to the spindle axis. The ways are built into the  bed  of the lathe,  providing a rigid frame for the machine tool.  
+
+The carriage is driven by a leadscrew that rotates at the proper speed to obtain the  desired feed rate. The cross-slide is designed to feed in a direction perpendicular to  the carriage movement. Thus, by moving the carriage, the tool can be fed parallel to  the work axis to perform straight turning; or by moving the cross-slide, the tool can  be fed radially into the work to perform facing, form turning, or cutoff operations.  
+
+The conventional engine lathe and most other machines described in this section are  horizontal turning machines ; that is, the spindle axis is horizontal. This is appropriate  for the majority of turning jobs, in which the length is greater than the diameter. For  jobs in which the diameter is large relative to length and the work is heavy, it is more  convenient to orient the work so that it rotates about a vertical axis; these are  vertical  turning machines .  
+
+The size of a lathe is designated by swing and maximum distance between centers.  The  swing  is the maximum work part diameter that can be rotated in the spindle,  determined as twice the distance between the centerline of the spindle and the  ways of the machine. The actual maximum size of a cylindrical workpiece that  can be accommodated on the lathe is smaller than the swing because the carriage  and cross-slide assembly are in the way. The  maximum distance between centers   indicates the maximum length of a workpiece that can be mounted between head- stock and tailstock centers. For example, a  $350~\mathrm{mm}\times1.2~\mathrm{m}$ ( $14~\mathrm{in}\times48$  in) lathe  designates that the swing is  $350~\mathrm{mm}$  (14 in) and the maximum distance between  centers is $1.2\:\mathrm{m}$  (48 in).  
+
+Methods of Holding the Work in a Lathe   There are four common methods  used to hold work parts in turning. These workholding methods consist of various  mechanisms to grasp the work, center and support it in position along the spindle  axis, and rotate it. The methods, illustrated in Figure 21.8, are (a) mounting the work  between centers, (b) chuck, (c) collet, and (d) face plate.  
+
+Holding the work  between centers  refers to the use of two centers, one in the head- stock and the other in the tailstock, as in Figure 21.8(a). This method is appropriate  for parts with large length-to-diameter ratios. At the headstock center, a device called  a  dog  is attached to the outside of the work and is used to drive the rotation from the  spindle. The tailstock center has a cone-shaped point which is inserted into a tapered  hole in the end of the work. The tailstock center is either a “live” center or a “dead”  center. A  live center  rotates in a bearing in the tailstock, so that there is no relative  rotation between the work and the live center, hence, no friction between the center  and the workpiece. In contrast, a  dead center  is ﬁ  xed to the tailstock, so that it does  not rotate; instead, the workpiece rotates about it. Because of friction and the heat  buildup that results, this setup is normally used at lower rotational speeds.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec21.txt,0.8490043872598037,099497798d3d7405cbea4c9b6d703010ce5e7f2316e753b9f06a7ac9075c4537.jpg
+"""Q1"": ""Which figure shows the components of a machine, such as the spindle, headstock, or feed controls?"",","""A1"": ""Figure 14.10 shows the filament winding machine. This figure illustrates the components involved in the filament winding process, including the mandrel, which is the special tooling that determines the geometry of the filament-wound part."",","{""Explanation"": ""The figure illustrating the components of a machine such as the spindle, headstock, or feed controls is described as Figure 21.7 in the context."", ""YourChoice"": ""Figure 21.7""}","Engine Lathe Technology   Figure 21.7 is a sketch of an engine lathe showing its  principal components. The  headstock  contains the drive unit to rotate the spindle,  which rotates the work. Opposite the headstock is the  tailstock , in which a center is  mounted to support the other end of the workpiece.  
+
+![](images/ed595687bb3fd9a1f8cdb7606bcbb50d129aceac0f6d6ffb748563290d217d5e.jpg)  
+FIGURE 21.7  Diagram  of an engine lathe,  indicating its principal  components.  
+
+The cutting tool is held in a  tool post  fastened to the  cross-slide , which is assembled  to the  carriage . The carriage is designed to slide along the  ways  of the lathe in order  to feed the tool parallel to the axis of rotation. The ways are like tracks along which  the carriage rides, and they are made with great precision to achieve a high degree  of parallelism relative to the spindle axis. The ways are built into the  bed  of the lathe,  providing a rigid frame for the machine tool.  
+
+The carriage is driven by a leadscrew that rotates at the proper speed to obtain the  desired feed rate. The cross-slide is designed to feed in a direction perpendicular to  the carriage movement. Thus, by moving the carriage, the tool can be fed parallel to  the work axis to perform straight turning; or by moving the cross-slide, the tool can  be fed radially into the work to perform facing, form turning, or cutoff operations.  
+
+The conventional engine lathe and most other machines described in this section are  horizontal turning machines ; that is, the spindle axis is horizontal. This is appropriate  for the majority of turning jobs, in which the length is greater than the diameter. For  jobs in which the diameter is large relative to length and the work is heavy, it is more  convenient to orient the work so that it rotates about a vertical axis; these are  vertical  turning machines .  
+
+The size of a lathe is designated by swing and maximum distance between centers.  The  swing  is the maximum work part diameter that can be rotated in the spindle,  determined as twice the distance between the centerline of the spindle and the  ways of the machine. The actual maximum size of a cylindrical workpiece that  can be accommodated on the lathe is smaller than the swing because the carriage  and cross-slide assembly are in the way. The  maximum distance between centers   indicates the maximum length of a workpiece that can be mounted between head- stock and tailstock centers. For example, a  $350~\mathrm{mm}\times1.2~\mathrm{m}$ ( $14~\mathrm{in}\times48$  in) lathe  designates that the swing is  $350~\mathrm{mm}$  (14 in) and the maximum distance between  centers is $1.2\:\mathrm{m}$  (48 in).  
+
+Methods of Holding the Work in a Lathe   There are four common methods  used to hold work parts in turning. These workholding methods consist of various  mechanisms to grasp the work, center and support it in position along the spindle  axis, and rotate it. The methods, illustrated in Figure 21.8, are (a) mounting the work  between centers, (b) chuck, (c) collet, and (d) face plate.  
+
+Holding the work  between centers  refers to the use of two centers, one in the head- stock and the other in the tailstock, as in Figure 21.8(a). This method is appropriate  for parts with large length-to-diameter ratios. At the headstock center, a device called  a  dog  is attached to the outside of the work and is used to drive the rotation from the  spindle. The tailstock center has a cone-shaped point which is inserted into a tapered  hole in the end of the work. The tailstock center is either a “live” center or a “dead”  center. A  live center  rotates in a bearing in the tailstock, so that there is no relative  rotation between the work and the live center, hence, no friction between the center  and the workpiece. In contrast, a  dead center  is ﬁ  xed to the tailstock, so that it does  not rotate; instead, the workpiece rotates about it. Because of friction and the heat  buildup that results, this setup is normally used at lower rotational speeds.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec21.txt,0.8490043872598037,0a283bd3f497bf880e7d8d4f3318f7d4125ccf47105406f90be8ffba7551f81b.jpg
+"""Q1"": ""Which figure shows the arrangement of a motor and lead screw in an NC positioning system?"",","""A1"": ""Figure 37.9 shows the motor and lead screw arrangement in an NC positioning system. The figure illustrates how the motor drives the lead screw, which in turn moves the worktable along the axis of motion. This setup is crucial for precise positioning in numerical control (NC) systems.""","""Explanation"": ""The figure that shows the arrangement of a motor and lead screw in an NC positioning system is Figure 37.9."", ""YourChoice"": ""Figure 37.9""","Consider how a simple positioning system, shown in Figure 37.9, might  operate. The system consists of a worktable on which a work part is ﬁ  xtured. The  purpose of the table is to move the part relative to a tool or work head. To accom- plish this purpose, the worktable is moved linearly by means of a rotating leadscrew  that is driven by a motor. For simplicity, only one axis is shown in the sketch. To pro- vide $x$ - y  capability, the system shown would be piggybacked on top of a second axis  perpendicular to the ﬁ  rst. The leadscrew has a certain pitch $p$ , $\mathrm{mm}/\AA$ thread (in/thread)  or mm/rev (in/rev). Thus, the table is moved a distance equal to the leadscrew pitch  for each revolution. The velocity at which the worktable moves is determined by the  rotational speed of the leadscrew.  
+
+Two basic types of motion control are used in NC: (a) open loop and (b) closed  loop, as shown in Figure 37.10. The difference is that an open-loop system operates  without verifying that the desired position of the worktable has been achieved. A  closed-loop control system uses feedback measurement to verify that the position of  the worktable is indeed the location speciﬁ  ed in the program. Open-loop systems are  less expensive than closed-loop systems and are appropriate when the force resisting  the actuating motion is minimal, as in point-to-point drilling, for example. Closed- loop systems are normally speciﬁ  ed for machine tools that perform continuous path  operations such as milling or turning, in which the resisting forces can be signiﬁ  cant.  
+
+![](images/0a347d2991f8bb0cd63704f6624f3161c7be91b8085666ae06749f38ea04de9e.jpg)  
+FIGURE 37.9  Motor  and leadscrew  arrangement in an NC  positioning system.  
+
+![](images/b45d9cd535ef2534ea73c7b1dfb9b6f8a339a9b1f78008c58d43d53c5a2cfd13.jpg)  
+FIGURE 37.10  Two  types of motion control  in NC: (a) open loop and  (b) closed loop.  
+
+Open-Loop Positioning Systems  To turn the leadscrew, an open-loop  positioning system typically uses a stepping motor (a.k.a. stepper motor). In  NC, the stepping motor is driven by a series of electrical pulses generated by the  machine control unit. Each pulse causes the motor to rotate a fraction of one  revolution, called the step angle. The allowable step angles must conform to the  relationship  
+
+$$
+\alpha=\frac{360}{n_{s}}
+$$  
+
+where  $\alpha\,=$ step angle, degrees; and  $n_{s}=$  the number of step angles for the motor,  which must be an integer. The angle through which the motor shaft rotates is given  by  
+
+$$
+A_{m}=\alpha n_{p}
+$$  
+
+where $A_{m}=$  angle of motor shaft rotation, degrees; $n_{p}=$ number of pulses received  by the motor; and  $\alpha\,=$  step angle, here deﬁ  ned as degrees/pulse. Finally, the rota- tional speed of the motor shaft is determined by the frequency of pulses sent to the  motor:  
+
+$$
+N_{m}=\frac{60\,\alpha\,f_{p}}{360}
+$$  
+
+where $N_{m}=$  speed of motor shaft rotation, $\scriptstyle{\mathrm{rev/min}};f_{p}\;=$ frequency of pulses driving  the stepper motor, $\mathrm{Hz}$  (pulses/sec), the constant 60 converts pulses/sec to pulses/min;  the constant 360 converts degrees of rotation to full revolutions; and  $\alpha=$  step angle  of the motor, as before.  
+
+The motor shaft drives the leadscrew that determines the position and veloc- ity of the worktable. The connection is often designed using a gear reduction to  increase the precision of table movement. However, the angle of rotation and  rotational speed of the leadscrew are reduced by this gear ratio.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec37.txt,0.8744513588888352,0a347d2991f8bb0cd63704f6624f3161c7be91b8085666ae06749f38ea04de9e.jpg
+"""Q1"": ""Which figure shows the difference between the true stress-strain curve and its engineering counterpart, particularly in the plastic region?"",","""A1"": ""Figure 3.4 shows the true stress-strain curve for the previous engineering stress-strain plot in Figure 3.3. It highlights the differences in the plastic region, including the start of necking and the projected curve if necking had not occurred."",","""Explanation"": ""The figure you provided describes the true stress-strain curve and its characteristics, including the elastic and plastic regions, and illustrates the difference between true and engineering stress-strain relationships."", ""YourChoice"": ""Figure 3.4""","In the elastic  region, the plot is virtually the same as before. Strain values are small, and true strain  is nearly equal to engineering strain for most metals of interest. The respective stress  values are also very close to each other. The reason for these near equalities is that  the cross-sectional area of the test specimen is not signiﬁ  cantly reduced in the elastic  region. Thus, Hooke’s law can be used to relate true stress to true strain:  $\sigma=E\epsilon$ .  
+
+The difference between the true stress–strain curve and its engineering counter- part occurs in the plastic region. The stress values are higher in the plastic region  because the instantaneous cross-sectional area of the specimen, which has been  continuously reduced during elongation, is now used in the computation. As in the  
+
+![](images/0a8fb54562737e2302cb7c4d05e5814ce98b29d1e6e02a775301a97e8eee694e.jpg)  
+FIGURE 3.4  True  stress–strain curve for  the previous  engineering stress– strain plot in Figure 3.3.  
+
+previous curve, a downturn ﬁ  nally occurs as a result of necking. A dashed line is used  in the ﬁ  gure to indicate the projected continuation of the true stress–strain plot if  necking had not occurred.  
+
+As strain becomes signiﬁ  cant in the plastic region, the values of true strain and  engineering strain diverge. True strain can be related to the corresponding engineer- ing strain by  
+
+$$
+\epsilon=\ln(1+e)
+$$  
+
+Similarly, true stress and engineering stress can be related by the expression  
+
+$$
+\sigma=s\,(1\,+\,e)
+$$  
+
+In Figure 3.4, note that stress increases continuously in the plastic region until  necking begins. When this happened in the engineering stress–strain curve, its sig- niﬁ  cance was lost because an admittedly erroneous area value was used to calculate  stress. Now when the true stress also increases, it cannot be dismissed so lightly.  What it means is that the metal is becoming stronger as strain increases. This is the  property called  strain hardening  that was mentioned in the previous chapter in the  discussion of metallic crystal structures, and it is a property that most metals exhibit  to a greater or lesser degree.  
+
+# Example 3.2  True stress and  strain  
+
+For the data given in Example 3.1, determine (a) true stress and (b) true strain  at the maximum load of  $65{,}000\:\mathrm{N}.$ .  
+
+Solution:  (a) True stress is deﬁ  ned as the load divided by the instantaneous  area. To ﬁ  nd the instantaneous area, we assume uniform elongation prior to  necking. Thus, $A L=A_{o}L_{o}$ , and $A=A_{o}L_{o}/L=200(50)/57.7=173.3\,\mathrm{mm}^{2}/$  
+
+$$
+{\sigma=F/A=65,\!000/173.3=375\;\mathrm{MPa}}
+$$  
+
+(b) By Equation (3.7), true strain $\epsilon=\ln(L/L_{o})=\ln(57.7/50)=$ $\ln(1.154)={\bf0.143}$ .  
+
+Check:  Use Equations (3.8) and (3.9) to check these values:  
+
+Using Equation (3.8) and the value of  $e$  obtained in Example 3.1,  $\epsilon=\ln(1+0.154)=0.143$ .  
+
+Using Equation (3.9) and the value of  $T S$  obtained in Example 3.1,  $\sigma=325(1+0.154)=375\,\mathrm{MPa}$ .  
+
+Comment:  Note that true stress is always greater than engineering stress, and  true strain is always less than engineering strain.  
+
+Strain hardening, or  work hardening  as it is often called, is an important factor in  certain manufacturing processes, particularly metal forming. Accordingly, it is worth- while to examine the behavior of a metal as it is affected by this property. If the  portion of the true stress–strain curve representing the plastic region were plotted  on a log–log scale, the result would be a linear relationship, as shown in Figure 3.5.  
+
+!",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec3.txt,0.8936919119254945,0a8fb54562737e2302cb7c4d05e5814ce98b29d1e6e02a775301a97e8eee694e.jpg

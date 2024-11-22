@@ -1,0 +1,893 @@
+Question,Answer,OutputAnswers,Context,Context_path,Confident_Score
+We have classified glass as a ceramic material; yet glass is different from the traditional and new ceramics. What is the difference?,"Answer. Glass is vitreous - it is in the glassy state, whereas traditional and new ceramics are, by and large, polycrystalline materials.","Glass is classified as a ceramic material, but it differs significantly from traditional and new ceramics in several key aspects:
+
+1. **Structure**: The primary difference between glass and traditional ceramics lies in their atomic structure. Glass is an amorphous solid, meaning it lacks a long-range ordered crystalline structure. Instead, its atoms are arranged in a random, disordered fashion. In contrast, traditional ceramics are crystalline, with atoms arranged in a highly ordered, repeating pattern. This crystalline structure is responsible for many of the mechanical and thermal properties of ceramics.
+
+2. **Processing**: The manufacturing processes for glass and ceramics also differ. Glass is typically formed by melting raw materials and then cooling them rapidly to prevent crystallization, resulting in its amorphous structure. This process allows for efficient shaping and forming of glass products. Traditional ceramics, on the other hand, are usually made by shaping powders into the desired form and then sintering them at high temperatures to achieve densification and crystallization.
+
+3. **Properties**: Due to its amorphous structure, glass generally has different mechanical and thermal properties compared to crystalline ceramics. Glass is typically more brittle and has a lower thermal shock resistance than ceramics. However, glass can be made to have high optical clarity and is often used in applications where transparency is required. Traditional ceramics, with their crystalline structure, tend to have higher strength, better thermal stability, and resistance to wear and corrosion.
+
+4. **Applications**: The differences in structure and properties lead to different applications for glass and ceramics. Glass is widely used in applications requiring transparency, such as windows, lenses, and fiber optics. Traditional ceramics are used in applications where high strength, thermal resistance, and durability are needed, such as in construction materials, insulators, and cutting tools.
+
+In summary, while both glass and ceramics are inorganic, non-metallic materials, their differences in atomic structure, processing methods, and resulting properties distinguish them from each other, leading to varied applications in industry.","Another glass fiber material is S- glass, which has higher strength but is not as economical as E-glass. Compositions are  indicated in the table.  
+
+Insulating fiberglass wool can be manufactured from regular soda-lime-silica  glasses. The glass product for fiber optics consists of a long, continuous core of glass  with high refractive index surrounded by a sheath of lower refractive glass. The in-  side glass must have a very high transmittance for light in order to accomplish long  distance communication.  
+
+Optical Glasses  Applications for these glasses include lenses for eyeglasses and  optical instruments such as cameras, microscopes, and telescopes. To achieve their  function, the glasses must have different refractive indices, but each lens must be  homogenous in composition. Optical glasses are generally divided into: crowns and  flints.  Crown glass  has a low index of refraction, while  flint glass  contains lead oxide  (PbO) that gives it a high index of refraction.  
+
+# 7.4.3  GLASS- CERAMICS  
+
+Glass-ceramics are a class of ceramic material produced by conversion of glass into   a  polycrystalline structure through heat treatment. The proportion of crystalline phase  in the final product typically ranges between $90\%$  and $98\%$ , with the remain- der being  unconverted vitreous material. Grain size is usually between 0.1 and  $1.0\ m\mathrm{m}$  (4 and 40  $m$ -in), significantly smaller than the grain size of conventional ceramics. This fine  crystal microstructure makes glass-ceramics much stronger than the glasses from  which they are derived. Also, due to their crystal structure, glass-ceramics are opaque  (usually gray or white) rather than clear.  
+
+The processing sequence for glass-ceramics is as follows: (1) The first step in-  volves heating and forming operations used in glassworking (Section 12.2) to create  the desired product geometry. Glass shaping methods are generally more economi- cal  than pressing and sintering to shape traditional and new ceramics made from powders.  (2) The product is cooled. (3) The glass is reheated to a temperature suf- ficient to cause  a dense network of crystal nuclei to form throughout the material. It is the high density  of nucleation sites that inhibits grain growth of individual crystals, thus leading  ultimately to the fine grain size in the glass-ceramic material. The key to the propensity  for nucleation is the presence of small amounts of nucleating agents in the glass  composition. Common nucleating agents are  $\mathrm{SiO}_{2}$ ,  $\mathrm{P}_{2}\mathrm{O}_{5}$ , and  $\mathrm{ZrO}_{2}$ . (4) Once  nucleation is initiated, the heat treatment is continued at a higher temperature to cause  growth of the crystalline phases.  
+
+Several examples of glass-ceramic systems and typical compositions are listed  in Table 7.5. The  $\mathrm{Li}_{2}\mathrm{O}_{-}\mathrm{Al}_{2}\mathrm{O}_{3}\mathrm{-}\mathrm{SiO}$ 2  system is the most important commercially; it  includes Corning Ware (Pyroceram), the familiar product of the Corning Glass Works.  
+
+TABLE  •  7.5   Several glass-ceramic systems. 
+![](images/945434a36ad9c350a5a62af11461f7c7975c7bba953af2203e096571a59f8b5a.jpg)  
+Compiled from [5], [6], and [10].  
+
+The significant advantages of glass-ceramics include (1) efficiency of processing  in the glassy state, (2) close dimensional control over the final product shape, and (3)  good  mechanical and physical properties. Properties include high strength (stronger than  glass), absence of porosity, low coefficient of thermal expansion, and high re-  sistance to thermal shock. These properties have resulted in applications in cooking  ware, heat exchangers, and missile radomes. Certain systems (e.g.,  $\mathrm{MgO-Al_{2}O_{3}-S i O}$ 2 system) are also characterized by high electrical resistance, suitable for electrical  and electronics applications.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/Sec7.txt,[ 0 . 8 5 3 0 9 3 2 8 7 5 2 8 7 4 6 8 ]
+What is the predominant chemical compound in almost all glass products?,Answer. Silica - SiO2.,"The predominant chemical compound in almost all glass products is silica (\(\mathrm{SiO}_{2}\)). Silica is the principal ingredient in virtually all glasses and is most commonly found as the mineral quartz in sandstone and silica sand. It is the best glass former because it naturally transforms into a glassy state upon cooling from the liquid, whereas most ceramics crystallize upon solidification. In most commercial glasses, silica comprises 50% to 75% of the total chemistry, making it the main component in these glass products.","Other simple tools  rigidity had been attained in the product, a cup-shaped were utilized to add the stem and/or base to the object.  vessel. This pouring technique was used until around   The ancient Romans showed great skill in their  200  B . C . E ., when a simple tool was developed that rev- use of various metallic oxides to color glass. Their  olutionized glassworking—the blowpipe.    technology is evident in the stained glass windows of  Glassblowing  was probably first accomplished in  cathedrals and churches of the Middle Ages in Italy  Babylon and later by the Romans. It was performed  and the rest of Europe. The art of glassblowing is  using an iron tube several feet long, with a mouthpiece still practiced today for certain consumer glassware;  on one end and a fixture for holding the molten glass and automated versions of glassblowing are used for  on the other. A blob of hot glass in the required initial mass-produced glass products such as bottles and   shape and viscosity was attached to the end of the iron  light bulbs (Chapter 12).  
+
+# 7.4.1 CHEMISTRY AND PROPERTIES OF GLASS  
+
+The principal ingredient in virtually all glasses is  silica  $(\mathrm{SiO}_{2})$ ), most commonly found  as the mineral quartz in sandstone and silica sand. Quartz occurs naturally as a crys-  talline substance; but when melted and then cooled, it forms vitreous silica. Silica glass  has a very low thermal expansion coefficient and is therefore quite resistant to  thermal shock. These properties are ideal for elevated temperature applications;  accordingly, Pyrex and chemical glassware designed for heating are made with high  proportions of silica glass.  
+
+In order to reduce the melting point of glass for easier processing, and to con-  trol properties, the composition of most commercial glasses includes other oxides  as well as silica. Silica remains as the main component in these glass products, usu-  ally comprising  $50\%$  to  $75\%$  of total chemistry. The reason  $\mathrm{SiO}_{2}$  is used so widely  in these compositions is because it is the best  glass former . It naturally transforms into  a glassy state upon cooling from the liquid, whereas most ceramics crystallize upon  solidification. Table 7.4 lists typical chemistries for some common glasses. The  additional ingredients are contained in a solid solution with  $\mathrm{SiO}_{2}$ , and each has a  function: (1) acting as flux (promoting fusion) during heating; (2) increasing fluidity  in the molten glass for processing; (3) retarding  devitrification —the tendency to  crystallize from the glassy state; (4) reducing thermal expansion in the final product;   (5) improving the chemical resistance against attack by acids, basic substances, or  water; (6) adding color to the glass; and (7) altering the index of refraction for opti-  cal applications (e.g., lenses).  
+
+# 7.4.2  GLASS  PRODUCTS  
+
+Following is a list of the major categories of glass products. The roles played by the  different ingredients are examined in Table 7.4 as these products are discussed.  
+
+Window Glass  This glass is represented by two chemistries in Table 7.4: (1) soda-  lime glass and (2) window glass. The soda-lime formula dates back to the glass-blow-  ing industry of the 1800s and earlier. It was (and is) made by mixing soda  $\mathrm{(Na_{2}O)}$  and  lime (CaO) with silica $\left(\mathrm{SiO}_{2}\right)$  as the major ingredient. The blending of ingredients has  evolved empirically to achieve a balance between avoiding crystallization during  
+
+TABLE  •  7.4   Typical compositions of selected glass products. 
+![](images/ddb363f62dea8e17cdc3753bef88ff6d2145d328858dcb682b23c3a5a6ee7190.jpg)  
+Compiled from [4], [5] and [10], and other sources. a May include $\mathrm{Fe}_{2}\mathrm{O}_{3}$  with ${\mathrm{Al}}_{2}{\mathrm{O}}_{3}$  
+
+cooling and achieving chemical durability of the final product.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/Sec7.txt,[ 0 . 8 5 3 7 0 6 4 7 8 4 1 5 0 1 4 8 ]
+What are the three basic steps in the glassworking sequence?,"Answer. (1) raw materials preparation and melting, (2) shaping, and (3) heat treatment. Finishing operations (e.g., grinding, polishing, etching) are performed on some glass products, if needed.","The three basic steps in the glassworking sequence are:
+
+1. **Preparation of Raw Materials and Melting**: This step involves preparing the raw materials, primarily silica from natural quartz sand, which is washed and classified to remove impurities and achieve the desired particle size. Other components like soda ash, limestone, aluminum oxide, and potash are added to achieve the desired glass composition. Recycled glass is often included to facilitate melting and preserve the environment. The prepared batch, known as the charge, is then loaded into a melting furnace, which can be of various types such as pot furnaces, day tanks, continuous tank furnaces, or electric furnaces.
+
+2. **Shaping**: Once the raw materials are melted into a viscous liquid, the glass is shaped into the desired geometry. This can be done through various processes such as casting, pressing-and-blowing (for bottles and containers), and rolling (for plate glass). The shaping process takes advantage of the glass's highly plastic or fluid condition when heated.
+
+3. **Heat Treatment and Finishing**: After shaping, the glass undergoes heat treatment to relieve internal stresses and improve its properties. Finishing processes may also be applied to achieve the desired surface quality and dimensions. This step ensures that the final glass product meets the required specifications and performance standards.","# Glassworking  
+
+# Chapter Contents  
+
+12.1 Raw Materials Preparation and  Melting  
+
+12.2 Shaping Processes in Glassworking 12.2.1 Shaping of Piece Ware 12.2.2 Shaping of Flat and Tubular  Glass 12.2.3 Forming of Glass Fibers  
+
+12.3 Heat Treatment and Finishing 12.3.1 Heat Treatment 12.3.2 Finishing  
+
+12.4 Product Design Considerations  
+
+Glass products are commercially manufactured in an  almost unlimited variety of shapes. Many are produced  in very large quantities, such as light bulbs, beverage  bottles, and window glass. Others, such as giant tele- scope lenses, are made individually.  
+
+Glass is one of three basic types of ceramics (Chap- ter 7). It is distinguished by its noncrystalline (vitreous)  structure, whereas the other ceramic materials have  a crystalline structure. The methods by which glass is  shaped into useful products are quite different from  those used for the other types. In glassworking, the  principal starting material is silica  $(\mathrm{SiO}_{2})$ ; this is usually  combined with other oxide ceramics that form glasses.  The starting material is heated to transform it from a  hard solid into a viscous liquid; it is then shaped into  the desired geometry while in this highly plastic or ﬂ  uid  condition. When cooled and hard, the material remains  in the glassy state rather than crystallizing.  
+
+The typical manufacturing sequence in glassworking  consists of the steps pictured in Figure 12.1. Shaping is  accomplished by various processes, including casting,  pressing-and-blowing (to produce bottles and other  containers), and rolling (to make plate glass). A ﬁ  nish- ing step is required for certain products.  
+
+#  
+
+# Raw Materials  Preparation and  Melting  
+
+The main component in nearly all glasses is silica, the  primary source of which is natural quartz in sand. The  sand must be washed and classiﬁ  ed. Washing removes  impurities such as clay and certain minerals that would  cause undesirable coloring of the glass.  Classifying  the  sand means grouping the grains according to size. The  most desirable particle size for glassmaking is in the  range of 0.1 to $0.6\;\mathrm{mm}$  (0.004–0.025 in) [3]. The various  other components, such as soda ash (source of  $\mathrm{Na}_{2}\mathrm{O}_{l}$ ),  limestone (source of  $\mathrm{CaO}$ ), aluminum oxide, potash  
+
+![](images/94b470c5e1cc9766de732682ba40735ff54b8c2ba2a6f1f69ee504f2da5b58f7.jpg)  
+FIGURE 12.1  The  typical   process  sequence in  glassworking:  (1) preparation of  raw materials and  melting, (2)   shaping,  and (3) heat   treatment.  
+
+(source of  $\mathrm{K}_{2}\mathrm{O}$ ), and other minerals are added in the proper proportions to achieve  the desired composition. The mixing is usually done in batches, in amounts that are  compatible with the capacities of available melting furnaces.  
+
+Recycled glass is usually added to the mixture in modern practice. In addition  to preserving the environment, recycled glass facilitates melting. Depending on the  amount of waste glass available and the speciﬁ  cations of the ﬁ  nal composition, the  proportion of recycled glass may be up to $100\%$ .  
+
+The batch of starting materials to be melted is referred to as a  charge , and the pro- cedure of loading it into the melting furnace is called  charging  the furnace. Glass- melting furnaces can be divided into the following types [3]: (1)  pot furnaces —  ceramic pots of limited capacity in which melting occurs by heating the walls of the  pot; (2)  day tanks —larger capacity vessels for batch production in which heating is  done by burning fuels above the charge; (3)  continuous tank furnaces —long tank  furnaces in which raw materials are fed in one end, and melted as they move to the  other end where molten glass is drawn out for high production; and (4)  electric fur- naces  of various designs for a wide range of production rates.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec12.txt,[ 0 . 8 5 9 1 3 4 7 3 7 7 2 7 6 2 7 ]
+Melting furnace for glassworking can be divided into four types. Name three of the four types.,"Answer. The four types are: (1) pot furnaces, (2) day tanks, (3) continuous tank furnaces, and (4) electric furnaces.","The three types of melting furnaces for glassworking are:
+
+1. Pot furnaces
+2. Day tanks
+3. Continuous tank furnaces","The batch of starting materials to be melted is referred to as a  charge , and the pro- cedure of loading it into the melting furnace is called  charging  the furnace. Glass- melting furnaces can be divided into the following types [3]: (1)  pot furnaces —  ceramic pots of limited capacity in which melting occurs by heating the walls of the  pot; (2)  day tanks —larger capacity vessels for batch production in which heating is  done by burning fuels above the charge; (3)  continuous tank furnaces —long tank  furnaces in which raw materials are fed in one end, and melted as they move to the  other end where molten glass is drawn out for high production; and (4)  electric fur- naces  of various designs for a wide range of production rates.  
+
+Glass melting is generally carried out at temperatures around  $1500^{\circ}\mathrm{C}$  to  $1600^{\circ}\mathrm{C}$ $(2700^{\circ}\mathrm{F}{-}2900^{\circ}\mathrm{F})$ ). The melting cycle for a typical charge takes 24 to 48 hours. This  is the time required for all of the sand grains to become a clear liquid and for the  molten glass to be reﬁ  ned and cooled to the appropriate temperature for working.  Molten glass is a viscous liquid, the viscosity being inversely related to temperature.  Because the shaping operation immediately follows the melting cycle, the tempera- ture at which the glass is tapped from the furnace depends on the viscosity required  for the subsequent process.  
+
+#  Shaping Processes in Glassworking  
+
+The major categories of glass products were identiﬁ  ed in Section 7.4.2 as window  glass, containers, light bulbs, laboratory glassware, glass ﬁ  bers, and optical glass. De- spite the variety represented by this list, the shaping processes to fabricate these  products can be grouped into only three categories: (1) discrete processes for piece  ware, which includes bottles, light bulbs, and other individual items; (2) continuous  processes for making ﬂ  at glass (sheet and plate glass for windows) and tubing (for  laboratory ware and ﬂ  uorescent lights); and (3) ﬁ  ber-making processes to produce  ﬁ  bers for insulation, ﬁ  berglass composite materials, and ﬁ  ber optics.  
+
+# 12.2.1  SHAPING OF PIECE WARE  
+
+The ancient methods of hand-working glass, such as glass blowing, were brieﬂ  y  described in Historical Note 7.3. Handicraft methods are still employed today for  making glassware items of high value in small quantities. Most of the processes  
+
+![](images/0eb8f45750263e5cfbaec3d650ad98d0efe9a9934e3e4ccea038624be4958234.jpg)  
+FIGURE 12.2  Spinning of  funnel-shaped glass parts:  (1) gob of glass dropped into  mold; and (2) rotation of mold  to cause spreading of molten  glass on mold surface.  
+
+discussed in this section are highly mechanized technologies for producing discrete  pieces such as jars, bottles, and light bulbs in high quantities.  
+
+Spinning  Glass spinning is similar to  centrifugal casting  of metals, and is also  known by that name in glassworking. It is used to produce funnel-shaped compo- nents such as the back sections of cathode ray tubes for televisions and computer  monitors. The setup is pictured in Figure 12.2. A gob of molten glass is dropped into  a conical mold made of steel. The mold is rotated so that centrifugal force causes  the glass to ﬂ  ow upward and spread itself on the mold surface. The faceplate (i.e.,  the front viewing screen) is later assembled to the funnel using a sealing glass of low  melting point.  
+
+Pressing  This is a widely used process for mass producing glass pieces such as dishes,  bake ware, headlight lenses, TV tube faceplates, and similar items that are relatively  ﬂ  at. The process is illustrated and described in Figure 12.3. The large quantities of most  pressed products justify a high level of automation in this production sequence.  
+
+Blowing  Several shaping sequences include blowing as one or more of the steps.  Instead of a manual operation, blowing is performed on highly automated equip- ment.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec12.txt,[ 0 . 8 6 7 1 9 3 2 4 0 3 2 2 6 3 6 6 ]
+Describe the spinning process in glassworking.,"Answer. Spinning in glassworking is similar to centrifugal casting in metalworking. A gob of molten glass is dropped in to a conical mold which spins, causing centrifugal force to spread the glass upward onto the mold surface.","The spinning process in glassworking, particularly for producing glass fibers, involves the use of centrifugal force to transform molten glass into fibrous material. This process is commonly used to create glass wool, which is utilized for thermal and acoustical insulation. Here's a detailed explanation of the process:
+
+1. **Molten Glass Introduction**: The process begins with molten glass being introduced into a rotating bowl. This bowl is equipped with numerous small orifices around its periphery.
+
+2. **Centrifugal Force Application**: As the bowl rotates at high speeds, centrifugal force acts on the molten glass. This force pushes the glass outward through the small orifices.
+
+3. **Fiber Formation**: As the glass is forced through these orifices, it is stretched and elongated into thin fibers. The rapid movement and the small size of the orifices help in forming a fibrous mass.
+
+4. **Cooling and Collection**: Once the fibers are formed, they cool down and are collected as a wool-like mass. This mass is suitable for use in insulation applications due to its fibrous and airy structure, which traps air and provides thermal and acoustic insulation.
+
+This spinning process is efficient for producing large quantities of fibrous glass material and is a key method in the manufacturing of insulation products. The use of centrifugal force is crucial as it allows for the continuous and uniform formation of fibers from the molten glass.","The rolled glass sheet must later be ground and polished  for parallelism and smoothness.  
+
+![](images/cc1a5e10e9e7dbca830c11fcca7f4b9e668f50a92629d28a66ace3dbf67dc511.jpg)  
+FIGURE 12.6  Rolling  of ﬂ  at glass.  
+
+![](images/172df44a91c285bf0e2441356b9b373a54b5a7a723e52b5b9fdc348b51e147b6.jpg)  
+FIGURE 12.7  The ﬂ  oat  process for producing  sheet glass.  
+
+Float Process  This process was developed in the late 1950s. Its advantage over  other methods such as rolling is that it obtains smooth surfaces that need no sub- sequent ﬁ  nishing. In the  ﬂ  oat process , illustrated in Figure 12.7, the glass ﬂ  ows di- rectly from its melting furnace onto the surface of a molten tin bath. The highly ﬂ  uid  glass spreads evenly across the molten tin surface, achieving a uniform thickness and  smoothness. After moving into a cooler region of the bath, the glass hardens and  travels through an annealing furnace, after which it is cut to size.  
+
+Drawing of Glass Tubes  Glass tubing is manufactured by a drawing process  known as the  Danner process , illustrated in Figure 12.8. Molten glass ﬂ  ows around a  rotating hollow mandrel through which air is blown while the glass is being drawn.  The air temperature and its volumetric ﬂ  ow rate, as well as the drawing velocity,  
+
+![](images/27dd9b60693f900d3621f18f74150997ad6f8bf789d74785c15672e4d2aa5633.jpg)  
+FIGURE 12.8  Drawing  of glass tubes by  the Danner   process.  Symbols $v$ and $F$ indicate motion  $\vert v=$   velocity) and applied  force, respectively.  
+
+determine the diameter and wall thickness of the tubular cross section. During hard- ening, the glass tube is supported by a series of rollers extending about  $30\:\mathrm{m}$  (100 ft)  beyond the mandrel. The continuous tubing is then cut into standard lengths.  Tubular glass products include laboratory glassware, ﬂ  uorescent light tubes, and  thermometers.  
+
+# 12.2.3  FORMING OF GLASS FIBERS  
+
+Glass ﬁ  bers are used in applications ranging from insulation wool to ﬁ  ber optics  communications lines (Section 7.4.2). Glass ﬁ  ber products can be divided into two  categories [6]: (1) ﬁ  brous glass for thermal insulation, acoustical insulation, and air  ﬁ  ltration, in which the ﬁ  bers are in a random, wool-like condition; and (2) long, con- tinuous ﬁ  laments suitable for ﬁ  ber-reinforced plastics, yarns and fabrics, and ﬁ  ber  optics. Different production methods are used for the two categories. Two methods  are described in the following paragraphs, representing each of the product catego- ries, respectively.  
+
+Centrifugal Spraying  In a typical process for making glass wool, molten glass  ﬂ  ows into a rotating bowl with many small oriﬁ  ces around its periphery. Centrifugal  force causes the glass to ﬂ  ow through the holes to become a ﬁ  brous mass suitable for  thermal and acoustical insulation.  
+
+Drawing of Continuous Filaments  In this process, illustrated in Figure 12.9,  continuous glass ﬁ  bers of small diameter (lower size limit is around  $0.0025~\mathrm{mm}$  or  0.0001 in) are produced by drawing strands of molten glass through small oriﬁ  ces in  
+
+![](images/e1e4c821dae73b6f342df55b4ed2db4a27612da7df8041b383997d82deaa4389.jpg)  
+
+a heated plate made of a platinum alloy. The plate may have several hundred holes,  each making one ﬁ  ber. The individual ﬁ  bers are collected into a strand by reeling  them onto a spool.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec12.txt,[ 0 . 8 6 7 0 8 9 0 2 6 8 0 5 5 6 5 7 ]
+What is the main difference between the press-and-blow and the blow-and-blow shaping processes in glassworking?,"Answer. In the press-and-blow process, the initial forming step is pressing of the part, while the first step in the blow-and-blow process is blowing.","The main difference between the press-and-blow and the blow-and-blow shaping processes in glassworking lies in the initial forming step and the type of products they are best suited for.
+
+1. **Press-and-Blow Process**: This method begins with a pressing operation. A gob of molten glass is first pressed into a preliminary shape known as a parison using a plunger. This parison is then transferred to a blow mold where it is blown into its final shape. The press-and-blow process is particularly suited for producing wide-mouth containers, such as jars, because the initial pressing step helps form a uniform and controlled neck finish.
+
+2. **Blow-and-Blow Process**: In contrast, the blow-and-blow method involves two or more blowing operations without an initial pressing step. The process starts with a gob of glass being fed into an inverted mold cavity, where it undergoes the first blowing step to form a preliminary shape. This partially formed piece is then reoriented and transferred to a second blow mold for the final blowing step. The blow-and-blow method is typically used for producing smaller-mouthed bottles, such as beverage bottles, where the focus is on achieving a consistent wall thickness and shape through successive blowing operations.
+
+In summary, the press-and-blow process uses an initial pressing step to form a parison, making it suitable for wide-mouth containers, while the blow-and-blow process relies solely on blowing operations, making it ideal for smaller-mouthed bottles.","A gob of molten glass is dropped into  a conical mold made of steel. The mold is rotated so that centrifugal force causes  the glass to ﬂ  ow upward and spread itself on the mold surface. The faceplate (i.e.,  the front viewing screen) is later assembled to the funnel using a sealing glass of low  melting point.  
+
+Pressing  This is a widely used process for mass producing glass pieces such as dishes,  bake ware, headlight lenses, TV tube faceplates, and similar items that are relatively  ﬂ  at. The process is illustrated and described in Figure 12.3. The large quantities of most  pressed products justify a high level of automation in this production sequence.  
+
+Blowing  Several shaping sequences include blowing as one or more of the steps.  Instead of a manual operation, blowing is performed on highly automated equip- ment. The two sequences described here are the press-and-blow and blow-and-blow  methods.  
+
+As the name indicates, the  press-and-blow  method is a pressing operation fol- lowed by a blowing operation, as portrayed in Figure 12.4. The process is suited to  
+
+![](images/080848414730b1ef5028cddc440ae059475667441a4f9115e591a3df4aed042b.jpg)  
+FIGURE 12.3  Pressing  of a ﬂ  at glass piece:  (1) a gob of glass fed  into mold from the  furnace; (2) pressing  into shape by plunger;  and (3) plunger is  retracted and the  ﬁ  nished product is  removed. Symbols  v  and  $F$ indicate motion  $\left\vert v=\right\vert$   velocity) and applied  force, respectively.  
+
+![](images/493b0e6537f2cc7cf884b018b1ac1c464c968b5802dcf4b1e4c026909bd2d186.jpg)  
+FIGURE 12.4  Press-and-blow forming sequence: (1) molten gob is fed into mold cavity; (2) pressing to form a  parison ; (3) the partially formed parison, held in a neck ring, is transferred to the blow mold; and (4) blown into  ﬁ  nal shape. Symbols $v$  and $F$  indicate motion ( $v=$  velocity) and applied force, respectively.  
+
+the production of wide-mouth containers. A split mold is used in the blowing opera- tion for part removal. The  blow-and-blow  method is used to produce smaller-mouthed bottles. The se- quence is similar to the preceding, except that two (or more) blowing operations are  used rather than pressing and blowing. There are variations to the process, depend- ing on the geometry of the product, with one possible sequence shown in Figure 12.5.  
+
+![](images/a9b43b50f0a1c35dc907f1de97edae1d3a9a438da4c54f87079b0f3e02888bf3.jpg)  
+FIGURE 12.5  Blow-and-blow forming sequence: (1) gob is fed into inverted mold cavity; (2) mold is covered;  (3) ﬁ  rst blowing step; (4) partially formed piece is reoriented and transferred to second blow mold; and (5) blown  to ﬁ  nal shape.  
+
+Reheating is sometimes required between blowing steps. Duplicate and triplicate  molds are sometimes used along with matching gob feeders to increase production  rates. Press-and-blow and blow-and-blow methods are used to make jars, beverage  bottles, incandescent light bulb enclosures, and similar geometries.  
+
+Casting  If the molten glass is sufﬁ  ciently ﬂ  uid, it can be poured into a mold. Rela- tively massive objects, such as astronomical lenses and mirrors, are made by this  method. These pieces must be cooled very slowly to avoid internal stresses and pos- sible cracking owing to temperature gradients that would otherwise be set up in  the glass. After cooling and solidifying, the piece must be ﬁ  nished by lapping and  polishing. Casting is not much used in glassworking except for these kinds of special  jobs.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec12.txt,[ 0 . 8 7 0 7 1 3 7 1 4 5 1 9 0 3 8 2 ]
+There are several ways of shaping plate or sheet glass. Name and briefly describe one of them.,"Answer. The methods described in this test are: (1) rolling, in which the hot glass is squeezed between opposing cylindrical rolls; and (2) the float process, in which the melted glass flows onto a molten tin surface to achieve uniform thickness and smoothness.","One method of shaping plate or sheet glass is the ""Float Process."" Developed in the late 1950s, the float process involves floating molten glass on a bed of molten tin. This method allows the glass to spread out and form a uniform thickness due to gravity and surface tension. As the glass cools while floating on the tin, it forms a smooth, flat surface on both sides, eliminating the need for additional finishing processes like grinding or polishing. The float process is highly efficient and produces high-quality glass with excellent optical clarity, making it the predominant method for manufacturing flat glass today.","Reheating is sometimes required between blowing steps. Duplicate and triplicate  molds are sometimes used along with matching gob feeders to increase production  rates. Press-and-blow and blow-and-blow methods are used to make jars, beverage  bottles, incandescent light bulb enclosures, and similar geometries.  
+
+Casting  If the molten glass is sufﬁ  ciently ﬂ  uid, it can be poured into a mold. Rela- tively massive objects, such as astronomical lenses and mirrors, are made by this  method. These pieces must be cooled very slowly to avoid internal stresses and pos- sible cracking owing to temperature gradients that would otherwise be set up in  the glass. After cooling and solidifying, the piece must be ﬁ  nished by lapping and  polishing. Casting is not much used in glassworking except for these kinds of special  jobs. Not only is cooling and cracking a problem, but also molten glass is relatively  viscous at normal working temperatures, and does not ﬂ  ow through small oriﬁ  ces or  into small sections as well as molten metals or heated thermoplastics. Smaller lenses  are usually made by pressing, discussed above.  
+
+# 12.2.2  SHAPING OF FLAT AND TUBULAR GLASS  
+
+Two methods for making plate glass and one method for producing tube stock are  described here. They are continuous processes, in which long sections of ﬂ  at window  glass or glass tubing are made and later cut into appropriate sizes and lengths. They  are modern technologies in contrast to the ancient method described in Historical  Note 12.1.  
+
+# Historical Note 12.1  Ancient methods of making ﬂ  at glass  [7]  
+
+Glass windows have been used in buildings for many  centuries. The oldest process for making ﬂ  at window  glass was by manual glass blowing. The procedure  consisted of the following: (1) a glass globe was blown  on a blowpipe; (2) a portion of the globe was made  to stick to the end of a “punty, ” a metal rod used by  glassblowers, and then detached from the blowpipe;  and (3) after reheating the glass, the punty was rotated  with sufﬁ  cient speed for centrifugal force to shape the  open globe into a ﬂ  at disk. The disk, whose maximum  possible size was only about  $1\,\mathrm{~m~}$  (3 ft), was later cut  into small panes for windows.  
+
+At the center of the disk, where the glass was  attached to the punty during the third step in the  process, a lump would tend to form that had the ap- pearance of a crown. The name “crown glass” was  derived from this resemblance. Lenses for spectacles  were ground from glass made by this method. Today,  the name crown glass is still used for certain types  of optical and ophthalmic glass, even though the an- cient method has been replaced by modern produc- tion technology.  
+
+Rolling of Flat Plate  Flat plate glass can be produced by rolling, as illustrated in  Figure 12.6. The starting glass, in a suitably plastic condition from the furnace, is  squeezed through opposing rolls whose separation determines the thickness of the  sheet. The rolling operation is usually set up so that the ﬂ  at glass is moved directly  into an annealing furnace. The rolled glass sheet must later be ground and polished  for parallelism and smoothness.  
+
+![](images/cc1a5e10e9e7dbca830c11fcca7f4b9e668f50a92629d28a66ace3dbf67dc511.jpg)  
+FIGURE 12.6  Rolling  of ﬂ  at glass.  
+
+![](images/172df44a91c285bf0e2441356b9b373a54b5a7a723e52b5b9fdc348b51e147b6.jpg)  
+FIGURE 12.7  The ﬂ  oat  process for producing  sheet glass.  
+
+Float Process  This process was developed in the late 1950s. Its advantage over  other methods such as rolling is that it obtains smooth surfaces that need no sub- sequent ﬁ  nishing.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec12.txt,[ 0 . 8 6 8 4 6 4 4 7 2 5 1 7 9 8 8 2 ]
+Describe the Danner process?,"Answer. In the Danner process, molten glass flows around a rotating hollow mandrel through which air is blown while the glass is being drawn. The temperature of the air and its volumetric flow rate as well as the drawing velocity determine the diameter and wall thickness of the tubular cross-section. During hardening, the glass tube is supported by a series of rollers extending beyond the mandrel.","The Danner process is a method used in the manufacturing of glass tubing. It involves the continuous drawing of glass from a furnace to form long, hollow tubes. Here's a detailed explanation of the process:
+
+1. **Glass Melting**: The process begins with raw materials, primarily silica sand, being melted in a furnace to form molten glass. Other materials like soda ash and limestone may be added to adjust the properties of the glass.
+
+2. **Forming the Tube**: The molten glass is then fed onto a rotating mandrel or hollow shaft. As the mandrel rotates, the glass forms a cylindrical shape around it. The rotation helps in maintaining the uniformity and thickness of the tube.
+
+3. **Drawing the Tube**: The glass tube is continuously drawn away from the mandrel. The speed of drawing and the rotation of the mandrel are carefully controlled to achieve the desired diameter and wall thickness of the tube.
+
+4. **Cooling and Cutting**: As the glass tube is drawn, it is gradually cooled to prevent thermal shock and ensure structural integrity. Once the tube reaches the desired length, it is cut into sections.
+
+5. **Annealing**: The cut sections of glass tubing are then passed through an annealing lehr, where they are slowly cooled to relieve internal stresses and improve durability.
+
+The Danner process is advantageous for producing long, continuous lengths of glass tubing with consistent dimensions. It is widely used in the production of laboratory glassware, fluorescent light tubes, and other applications requiring precise glass tubes.","The advantage of the Guerin process is the relatively low cost of the tooling.  The form block can be made of wood, plastic, or other materials that are easy to  shape, and the rubber pad can be used with different form blocks. These factors  
+
+![](images/216e91f53be6748bda896afb13fbb2bd8c7d48b0446a1a00b8907cabf2a8fe99.jpg)  
+FIGURE 19.28  Guerin  process: (1) before  and (2) after. Symbols  v  and  F  indicate   motion  and applied force  respectively.  
+
+![](images/9917283c51aa1577b34cc8a9faeb5d6df8e88ce23daf35ff6ab05e48284415e8.jpg)  
+FIGURE 19.29  Hydroform process: (1) start-up, no ﬂ  uid in cavity; (2) press closed, cavity  pressurized with hydraulic ﬂ  uid; (3) punch pressed into work to form part. Symbols: $V=$  velocity,  $F\!=$   applied force, $p=$  hydraulic pressure.  
+
+make rubber forming attractive in small-quantity production, such as the aircraft  industry, where the process was developed.  
+
+Hydroforming  Hydroforming is similar to the Guerin process; the difference  is that it substitutes a rubber diaphragm ﬁ  lled with hydraulic ﬂ  uid in place of the  thick rubber pad, as illustrated in Figure 19.29. This allows the pressure that forms  the work part to be increased—to around  $100\;\mathrm{MPa}$  ( $\cdot15{,}000\ \mathrm{lb/in}^{2}\$ ) —thus prevent- ing wrinkling in deep formed parts. In fact, deeper draws can be achieved with the  hydroform process than with conventional deep drawing. This is because the uni- form pressure in hydroforming forces the work to contact the punch throughout its  length, thus increasing friction and reducing the tensile stresses that cause tearing at  the base of the drawn cup.  
+
+#  Dies and Presses for Sheet-Metal Processes  
+
+This section examines the punch-and-die tooling and production equipment used in  conventional sheet-metal processing.  
+
+# 19.5.1  DIES  
+
+Nearly all of the preceding pressworking operations are performed with conventional  punch-and-die tooling. The tooling is referred to as a  die . It is custom-  designed for  the particular part to be produced. The term  stamping die  is sometimes used for high- production dies. Typical materials for stamping dies are tool steel types D, A, O, and  S (Table 6.5).  
+
+Components of a Stamping Die  The components of a stamping die to perform  a simple blanking operation are illustrated in Figure 19.30. The working components  are the  punch  and  die , which perform the cutting operation. They are attached to  
+
+![](images/ad5b406287c0422b07a6d716257e3ef4107701464a4c80568af0eb44e00268ea.jpg)  
+FIGURE 19.30  Components of a punch  and die for a blanking  operation.  
+
+the upper and lower portions of the  die set , respectively called the  punch holder  (or  upper shoe ) and  die holder  ( lower shoe ). The die set also includes guide pins and  bushings to ensure proper alignment between the punch and die during the stamping  operation. The die holder is attached to the base of the press, and the punch holder is  attached to the ram. Actuation of the ram accomplishes the pressworking operation.  
+
+In addition to these components, a die used for blanking or hole-punching must  include a means of preventing the sheet metal from sticking to the punch when it is  retracted upward after the operation. The newly created hole in the stock is the same  size as the punch, and it tends to cling to the punch on its withdrawal. The device  in the die that strips the sheet metal from the punch is called a  stripper . It is often  a simple plate attached to the die as in Figure 19.30, with a hole slightly larger than  the punch diameter.  
+
+For dies that process strips or coils of sheet metal, a device is required to stop the  sheet metal as it advances through the die between press cycles.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec19.txt,[ 0 . 7 8 9 7 4 9 0 3 2 9 5 0 7 8 0 4 ]
+Two processes for forming glass fibers are discussed in the text. Name and briefly describe one of them.,"Answer. The two processes in the text are: (1) drawing, in which fine glass fibers are pulled through small orifices in a heated plate; and (2) centrifugal spraying, in which molten glass is forced to flow through small orifices in a rapidly rotating bowl to form glass fibers.","The text does not explicitly mention specific processes for forming glass fibers. However, based on common glassworking practices, one well-known process for forming glass fibers is the ""drawing"" process. 
+
+In the drawing process, molten glass is first extruded through small orifices in a bushing, which is a device made of precious metals like platinum-rhodium alloys due to their high melting points and resistance to corrosion. As the glass exits the orifices, it forms thin streams that are rapidly cooled and solidified into fibers. These fibers are then gathered and wound onto spools. The drawing process allows for the continuous production of glass fibers with controlled diameters, which are essential for applications such as fiberglass insulation and composite materials.","# Glassworking  
+
+# Chapter Contents  
+
+12.1 Raw Materials Preparation and  Melting  
+
+12.2 Shaping Processes in Glassworking 12.2.1 Shaping of Piece Ware 12.2.2 Shaping of Flat and Tubular  Glass 12.2.3 Forming of Glass Fibers  
+
+12.3 Heat Treatment and Finishing 12.3.1 Heat Treatment 12.3.2 Finishing  
+
+12.4 Product Design Considerations  
+
+Glass products are commercially manufactured in an  almost unlimited variety of shapes. Many are produced  in very large quantities, such as light bulbs, beverage  bottles, and window glass. Others, such as giant tele- scope lenses, are made individually.  
+
+Glass is one of three basic types of ceramics (Chap- ter 7). It is distinguished by its noncrystalline (vitreous)  structure, whereas the other ceramic materials have  a crystalline structure. The methods by which glass is  shaped into useful products are quite different from  those used for the other types. In glassworking, the  principal starting material is silica  $(\mathrm{SiO}_{2})$ ; this is usually  combined with other oxide ceramics that form glasses.  The starting material is heated to transform it from a  hard solid into a viscous liquid; it is then shaped into  the desired geometry while in this highly plastic or ﬂ  uid  condition. When cooled and hard, the material remains  in the glassy state rather than crystallizing.  
+
+The typical manufacturing sequence in glassworking  consists of the steps pictured in Figure 12.1. Shaping is  accomplished by various processes, including casting,  pressing-and-blowing (to produce bottles and other  containers), and rolling (to make plate glass). A ﬁ  nish- ing step is required for certain products.  
+
+#  
+
+# Raw Materials  Preparation and  Melting  
+
+The main component in nearly all glasses is silica, the  primary source of which is natural quartz in sand. The  sand must be washed and classiﬁ  ed. Washing removes  impurities such as clay and certain minerals that would  cause undesirable coloring of the glass.  Classifying  the  sand means grouping the grains according to size. The  most desirable particle size for glassmaking is in the  range of 0.1 to $0.6\;\mathrm{mm}$  (0.004–0.025 in) [3]. The various  other components, such as soda ash (source of  $\mathrm{Na}_{2}\mathrm{O}_{l}$ ),  limestone (source of  $\mathrm{CaO}$ ), aluminum oxide, potash  
+
+![](images/94b470c5e1cc9766de732682ba40735ff54b8c2ba2a6f1f69ee504f2da5b58f7.jpg)  
+FIGURE 12.1  The  typical   process  sequence in  glassworking:  (1) preparation of  raw materials and  melting, (2)   shaping,  and (3) heat   treatment.  
+
+(source of  $\mathrm{K}_{2}\mathrm{O}$ ), and other minerals are added in the proper proportions to achieve  the desired composition. The mixing is usually done in batches, in amounts that are  compatible with the capacities of available melting furnaces.  
+
+Recycled glass is usually added to the mixture in modern practice. In addition  to preserving the environment, recycled glass facilitates melting. Depending on the  amount of waste glass available and the speciﬁ  cations of the ﬁ  nal composition, the  proportion of recycled glass may be up to $100\%$ .  
+
+The batch of starting materials to be melted is referred to as a  charge , and the pro- cedure of loading it into the melting furnace is called  charging  the furnace. Glass- melting furnaces can be divided into the following types [3]: (1)  pot furnaces —  ceramic pots of limited capacity in which melting occurs by heating the walls of the  pot; (2)  day tanks —larger capacity vessels for batch production in which heating is  done by burning fuels above the charge; (3)  continuous tank furnaces —long tank  furnaces in which raw materials are fed in one end, and melted as they move to the  other end where molten glass is drawn out for high production; and (4)  electric fur- naces  of various designs for a wide range of production rates.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec12.txt,[ 0 . 8 5 7 3 7 3 5 7 5 9 4 0 8 9 3 9 ]
+What is the purpose of annealing in glassworking?,Answer. Annealing is performed on glass to remove internal stresses that result from shaping and solidification.,"The purpose of annealing in glassworking is to relieve undesirable internal stresses that are introduced during the forming process. These stresses can significantly reduce the strength and durability of the glass product. Annealing involves heating the glass to an elevated temperature, holding it at that temperature for a specific period to allow stress relaxation, and then slowly cooling it to suppress the formation of new stresses. This process ensures that the glass is more stable and less prone to cracking or breaking under mechanical or thermal loads. By eliminating internal stresses, annealing enhances the overall structural integrity and performance of the glass product.","Drawing of Continuous Filaments  In this process, illustrated in Figure 12.9,  continuous glass ﬁ  bers of small diameter (lower size limit is around  $0.0025~\mathrm{mm}$  or  0.0001 in) are produced by drawing strands of molten glass through small oriﬁ  ces in  
+
+![](images/e1e4c821dae73b6f342df55b4ed2db4a27612da7df8041b383997d82deaa4389.jpg)  
+
+a heated plate made of a platinum alloy. The plate may have several hundred holes,  each making one ﬁ  ber. The individual ﬁ  bers are collected into a strand by reeling  them onto a spool. Before spooling, the ﬁ  bers are coated with various chemicals  to lubricate and protect them. Drawing speeds of around  $50\;\mathrm{m/s}$   $(10{,}000\;\mathrm{ft/min})$ ) or  more are not unusual.  
+
+#  Heat Treatment and Finishing  
+
+Heat treatment of the glass product is the third step in the glassworking sequence.  For some products, additional ﬁ  nishing operations are performed.  
+
+# 12.3.1  HEAT TREATMENT  
+
+Glass-ceramics were discussed in Section 7.4.3. This unique material is made by a  special heat treatment that transforms most of the vitreous state into a polycrys- talline ceramic. Other heat treatments performed on glass cause changes that are  less dramatic technologically but perhaps more important commercially; examples  include annealing and tempering.  
+
+Annealing  Glass products usually have undesirable internal stresses after form- ing, which reduce their strength. Annealing is done to relieve these stresses; the  treatment therefore has the same function in glassworking as it does in metalwork- ing.  Annealing  involves heating the glass to an elevated temperature and holding  it for a certain period to eliminate stresses and temperature gradients, then slowly  cooling the glass to suppress stress formation, followed by more rapid cooling to  room temperature. Common annealing temperatures are around $500^{\circ}\mathrm{C}\left(900^{\circ}\mathrm{F}\right)$ . The  length of time the product is held at the temperature, as well as the heating and cool- ing rates during the cycle, depend on thickness of the glass, the usual rule being that  the required annealing time varies with the square of thickness.  
+
+Annealing in modern glass factories is performed in tunnel-like furnaces, called  lehrs , in which the products ﬂ  ow slowly through the hot chamber on conveyors.  Burners are located only at the front end of the chamber, so that the glass experi- ences the required heating and cooling cycle.  
+
+Tempered Glass and Related Products  A beneﬁ  cial internal stress pattern can be  developed in glass products by a heat treatment known as  tempering , and the result- ing material is called  tempered glass . As in the treatment of hardened steel, tempering  increases the toughness of glass. The process involves heating the glass to a tempera- ture somewhat above its annealing temperature and into the plastic range, followed by  quenching of the surfaces, usually with air jets. When the surfaces cool, they contract  and harden while the interior is still plastic and compliant. As the internal glass slowly  cools, it contracts, thus putting the hard surfaces in compression. Like other ceramics,  glass is much stronger when subjected to compressive stresses than tensile stresses. Ac- cordingly, tempered glass is much more resistant to scratching and breaking because  of the compressive stresses on its surfaces. Applications include windows for tall build- ings, all-glass doors, safety glasses, and other products requiring toughened glass.  
+
+When tempered glass fails, it does so by shattering into numerous small frag- ments that are less likely to cut someone than conventional (annealed) window  glass.   Interestingly, automobile windshields are not made of tempered glass, because  
+
+of the danger posed to the driver by this fragmentation. Instead, conventional glass  is used; however, it is fabricated by sandwiching two pieces of glass on either side of  a tough polymer sheet. Should this  laminated glass  fracture, the glass splinters are  retained by the polymer sheet and the windshield remains relatively transparent.  
+
+# 12.3.2  FINISHING  
+
+Finishing operations are sometimes required for glassware products. These sec- ondary operations include grinding, polishing, and cutting.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec12.txt,[ 0 . 8 4 9 8 4 6 2 9 2 2 9 9 6 0 3 7 ]
+Describe how a piece of glass is heat treated to produce tempered glass.,"Answer. The glass is heated to a temperature above the annealing temperature and the surfaces are then quenched by air jets to cool and harden them while the interior of the piece remains plastic; as the interior cools and contracts, it puts the previously hardened surfaces in compression, which strengthens it.","To produce tempered glass, a specific heat treatment process is employed that involves several key steps:
+
+1. **Heating**: The glass is first heated to a temperature above its annealing point and into the plastic range. This temperature is typically higher than the annealing temperature, which is around 500°C (900°F). The exact temperature depends on the specific type of glass being treated but is generally sufficient to make the glass pliable without melting it.
+
+2. **Quenching**: Once the glass reaches the desired temperature, it is rapidly cooled or quenched. This is usually done using air jets that cool the surfaces of the glass quickly. The rapid cooling causes the outer surfaces of the glass to harden and contract while the interior remains warmer and more pliable.
+
+3. **Development of Internal Stresses**: As the interior of the glass cools and contracts, it creates a beneficial internal stress pattern. The surfaces are put into compression, while the interior is in tension. This stress distribution is crucial because glass, like other ceramics, is much stronger under compressive stress than tensile stress.
+
+4. **Resulting Properties**: The compressive stresses on the surfaces make tempered glass much more resistant to scratching and breaking compared to regular annealed glass. This increased toughness makes it suitable for applications where safety and durability are important, such as in windows for tall buildings, all-glass doors, and safety glasses.
+
+The process of tempering not only enhances the mechanical strength of the glass but also alters its failure mode. When tempered glass breaks, it shatters into small, blunt fragments rather than sharp shards, reducing the risk of injury. This characteristic makes tempered glass a preferred choice for many safety applications.","Drawing of Continuous Filaments  In this process, illustrated in Figure 12.9,  continuous glass ﬁ  bers of small diameter (lower size limit is around  $0.0025~\mathrm{mm}$  or  0.0001 in) are produced by drawing strands of molten glass through small oriﬁ  ces in  
+
+![](images/e1e4c821dae73b6f342df55b4ed2db4a27612da7df8041b383997d82deaa4389.jpg)  
+
+a heated plate made of a platinum alloy. The plate may have several hundred holes,  each making one ﬁ  ber. The individual ﬁ  bers are collected into a strand by reeling  them onto a spool. Before spooling, the ﬁ  bers are coated with various chemicals  to lubricate and protect them. Drawing speeds of around  $50\;\mathrm{m/s}$   $(10{,}000\;\mathrm{ft/min})$ ) or  more are not unusual.  
+
+#  Heat Treatment and Finishing  
+
+Heat treatment of the glass product is the third step in the glassworking sequence.  For some products, additional ﬁ  nishing operations are performed.  
+
+# 12.3.1  HEAT TREATMENT  
+
+Glass-ceramics were discussed in Section 7.4.3. This unique material is made by a  special heat treatment that transforms most of the vitreous state into a polycrys- talline ceramic. Other heat treatments performed on glass cause changes that are  less dramatic technologically but perhaps more important commercially; examples  include annealing and tempering.  
+
+Annealing  Glass products usually have undesirable internal stresses after form- ing, which reduce their strength. Annealing is done to relieve these stresses; the  treatment therefore has the same function in glassworking as it does in metalwork- ing.  Annealing  involves heating the glass to an elevated temperature and holding  it for a certain period to eliminate stresses and temperature gradients, then slowly  cooling the glass to suppress stress formation, followed by more rapid cooling to  room temperature. Common annealing temperatures are around $500^{\circ}\mathrm{C}\left(900^{\circ}\mathrm{F}\right)$ . The  length of time the product is held at the temperature, as well as the heating and cool- ing rates during the cycle, depend on thickness of the glass, the usual rule being that  the required annealing time varies with the square of thickness.  
+
+Annealing in modern glass factories is performed in tunnel-like furnaces, called  lehrs , in which the products ﬂ  ow slowly through the hot chamber on conveyors.  Burners are located only at the front end of the chamber, so that the glass experi- ences the required heating and cooling cycle.  
+
+Tempered Glass and Related Products  A beneﬁ  cial internal stress pattern can be  developed in glass products by a heat treatment known as  tempering , and the result- ing material is called  tempered glass . As in the treatment of hardened steel, tempering  increases the toughness of glass. The process involves heating the glass to a tempera- ture somewhat above its annealing temperature and into the plastic range, followed by  quenching of the surfaces, usually with air jets. When the surfaces cool, they contract  and harden while the interior is still plastic and compliant. As the internal glass slowly  cools, it contracts, thus putting the hard surfaces in compression. Like other ceramics,  glass is much stronger when subjected to compressive stresses than tensile stresses. Ac- cordingly, tempered glass is much more resistant to scratching and breaking because  of the compressive stresses on its surfaces. Applications include windows for tall build- ings, all-glass doors, safety glasses, and other products requiring toughened glass.  
+
+When tempered glass fails, it does so by shattering into numerous small frag- ments that are less likely to cut someone than conventional (annealed) window  glass.   Interestingly, automobile windshields are not made of tempered glass, because  
+
+of the danger posed to the driver by this fragmentation. Instead, conventional glass  is used; however, it is fabricated by sandwiching two pieces of glass on either side of  a tough polymer sheet. Should this  laminated glass  fracture, the glass splinters are  retained by the polymer sheet and the windshield remains relatively transparent.  
+
+# 12.3.2  FINISHING  
+
+Finishing operations are sometimes required for glassware products. These sec- ondary operations include grinding, polishing, and cutting.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec12.txt,[ 0 . 8 7 7 3 2 7 0 2 5 7 5 4 0 9 0 8 ]
+Describe the type of material that is commonly used to make windshields for automobiles.,"Answer. Laminated glass, in which two sheets of glass are laminated on either side of a polymer sheet. This has good impact resistance and does not splinter when broken.","The material commonly used to make windshields for automobiles is laminated glass. Laminated glass is constructed by sandwiching two pieces of conventional glass around a tough polymer sheet, typically made of polyvinyl butyral (PVB) or ethylene-vinyl acetate (EVA). This design ensures that if the glass fractures, the glass splinters are retained by the polymer sheet, maintaining the structural integrity of the windshield and allowing it to remain relatively transparent. This characteristic is crucial for safety, as it prevents the glass from shattering into numerous small fragments that could pose a danger to the driver and passengers, unlike tempered glass, which shatters into small, less harmful pieces. The laminated structure also provides additional benefits such as sound insulation and UV protection.","Applications include windows for tall build- ings, all-glass doors, safety glasses, and other products requiring toughened glass.  
+
+When tempered glass fails, it does so by shattering into numerous small frag- ments that are less likely to cut someone than conventional (annealed) window  glass.   Interestingly, automobile windshields are not made of tempered glass, because  
+
+of the danger posed to the driver by this fragmentation. Instead, conventional glass  is used; however, it is fabricated by sandwiching two pieces of glass on either side of  a tough polymer sheet. Should this  laminated glass  fracture, the glass splinters are  retained by the polymer sheet and the windshield remains relatively transparent.  
+
+# 12.3.2  FINISHING  
+
+Finishing operations are sometimes required for glassware products. These sec- ondary operations include grinding, polishing, and cutting. When glass sheets are  produced by drawing and rolling, the opposite sides are not necessarily parallel, and  the surfaces contain defects and scratch marks caused by the use of hard tooling on  soft glass. The glass sheets must be ground and polished for most commercial ap- plications. In pressing and blowing operations when split dies are used, polishing is  often required to remove the seam marks from the container product.  
+
+In continuous glassworking processes, such as plate and tube production, the con- tinuous sections must be cut into smaller pieces. This is accomplished by ﬁ  rst scoring  the glass with a glass-cutting wheel or cutting diamond and then breaking the section  along the score line. Cutting is generally done as the glass exits the annealing lehr.  
+
+Decorative and surface processes are performed on certain glassware products.  These processes include mechanical cutting and polishing operations; sandblasting;  chemical etching (with hydroﬂ  uoric acid, often in combination with other chemi- cals); and coating (for example, coating of plate glass with aluminum or silver to  produce mirrors).  
+
+# 12.4 12.4  Product Design Considerations  
+
+Glass possesses special properties that make it desirable in certain applications. The  following design recommendations are compiled from Bralla [1] and other sources.  
+
+$\gg$ Glass is transparent and has certain optical properties that are unusual if not  unique among engineering materials. For applications requiring transparency,  light transmittance, magniﬁ  cation, and similar optical properties, glass is likely  to be the material of choice. Certain polymers are transparent and may be com- petitive, depending on design requirements.
+
+ $\gg$   Glass is several times stronger in compression than in tension; components  should be designed so that they are subjected to compressive stresses, not ten- sile stresses.
+
+ $\gg$ Ceramics, including glass, are brittle. Glass parts should not be used in applica- tions that involve impact loading or high stresses which might cause fracture.
+
+ $\gg$ Certain glass compositions have very low thermal expansion coefﬁ  cients and  are therefore tolerant of thermal shock. These glasses can be selected for appli- cations in which this characteristic is important (e.g., cookware).
+
+ $\gg$ Outside edges and corners on glass parts should have large radii or chamfers;  likewise, inside corners should have large radii. Both outside and inside corners  are potential points of stress concentration.
+
+ $\gg$ Unlike parts made of traditional and new ceramics, threads may be included in  the design of glass parts; they are technically feasible with the press-and-blow  shaping processes. However, the threads should be coarse.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec12.txt,[ 0 . 8 2 9 0 0 0 9 0 1 6 5 1 3 8 9 2 ]
+What are some of the design recommendations for glass parts?,"Answer. The guidelines are: (1) subject ceramic parts to compressive, not tensile loads; (2) ceramics are brittle, so avoid impact loading; (3) use large radii on inside and outside corners; (4) screw threads should be course.","Design recommendations for glass parts include the following considerations:
+
+1. **Transparency and Optical Properties**: Glass is uniquely transparent and possesses specific optical properties, making it ideal for applications requiring light transmittance, magnification, and similar optical characteristics. While certain polymers may also be transparent, glass is often preferred depending on the design requirements.
+
+2. **Strength in Compression**: Glass is significantly stronger in compression than in tension. Therefore, components should be designed to be subjected to compressive stresses rather than tensile stresses to maximize their strength and durability.
+
+3. **Brittleness**: As a brittle material, glass should not be used in applications involving impact loading or high stresses that could lead to fracture. This characteristic necessitates careful consideration of the operating environment and stress conditions in the design phase.
+
+4. **Thermal Expansion**: Some glass compositions have very low thermal expansion coefficients, making them suitable for applications where thermal shock resistance is important, such as in cookware. Selecting the appropriate glass composition is crucial for thermal stability.
+
+5. **Stress Concentration**: To minimize stress concentration, outside edges and corners on glass parts should have large radii or chamfers. Similarly, inside corners should also have large radii. This design approach helps reduce the likelihood of fracture at these potential stress points.
+
+6. **Inclusion of Threads**: Unlike traditional ceramics, threads can be incorporated into glass parts using press-and-blow shaping processes. However, these threads should be coarse to ensure technical feasibility and structural integrity.
+
+These recommendations aim to optimize the performance and reliability of glass parts by leveraging their unique properties while mitigating inherent weaknesses.","Applications include windows for tall build- ings, all-glass doors, safety glasses, and other products requiring toughened glass.  
+
+When tempered glass fails, it does so by shattering into numerous small frag- ments that are less likely to cut someone than conventional (annealed) window  glass.   Interestingly, automobile windshields are not made of tempered glass, because  
+
+of the danger posed to the driver by this fragmentation. Instead, conventional glass  is used; however, it is fabricated by sandwiching two pieces of glass on either side of  a tough polymer sheet. Should this  laminated glass  fracture, the glass splinters are  retained by the polymer sheet and the windshield remains relatively transparent.  
+
+# 12.3.2  FINISHING  
+
+Finishing operations are sometimes required for glassware products. These sec- ondary operations include grinding, polishing, and cutting. When glass sheets are  produced by drawing and rolling, the opposite sides are not necessarily parallel, and  the surfaces contain defects and scratch marks caused by the use of hard tooling on  soft glass. The glass sheets must be ground and polished for most commercial ap- plications. In pressing and blowing operations when split dies are used, polishing is  often required to remove the seam marks from the container product.  
+
+In continuous glassworking processes, such as plate and tube production, the con- tinuous sections must be cut into smaller pieces. This is accomplished by ﬁ  rst scoring  the glass with a glass-cutting wheel or cutting diamond and then breaking the section  along the score line. Cutting is generally done as the glass exits the annealing lehr.  
+
+Decorative and surface processes are performed on certain glassware products.  These processes include mechanical cutting and polishing operations; sandblasting;  chemical etching (with hydroﬂ  uoric acid, often in combination with other chemi- cals); and coating (for example, coating of plate glass with aluminum or silver to  produce mirrors).  
+
+# 12.4 12.4  Product Design Considerations  
+
+Glass possesses special properties that make it desirable in certain applications. The  following design recommendations are compiled from Bralla [1] and other sources.  
+
+$\gg$ Glass is transparent and has certain optical properties that are unusual if not  unique among engineering materials. For applications requiring transparency,  light transmittance, magniﬁ  cation, and similar optical properties, glass is likely  to be the material of choice. Certain polymers are transparent and may be com- petitive, depending on design requirements.
+
+ $\gg$   Glass is several times stronger in compression than in tension; components  should be designed so that they are subjected to compressive stresses, not ten- sile stresses.
+
+ $\gg$ Ceramics, including glass, are brittle. Glass parts should not be used in applica- tions that involve impact loading or high stresses which might cause fracture.
+
+ $\gg$ Certain glass compositions have very low thermal expansion coefﬁ  cients and  are therefore tolerant of thermal shock. These glasses can be selected for appli- cations in which this characteristic is important (e.g., cookware).
+
+ $\gg$ Outside edges and corners on glass parts should have large radii or chamfers;  likewise, inside corners should have large radii. Both outside and inside corners  are potential points of stress concentration.
+
+ $\gg$ Unlike parts made of traditional and new ceramics, threads may be included in  the design of glass parts; they are technically feasible with the press-and-blow  shaping processes. However, the threads should be coarse.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec12.txt,[ 0 . 8 3 6 8 1 1 4 8 3 8 0 2 8 3 6 4 ]
+What are the functions of a well-designed electronics package?,"Answer. The principal functions are: (1) power distribution and signal interconnection, (2) structural support, (3) environmental protection, (4) heat dissipation, (5) minimize delays in signal transmission.","A well-designed electronics package serves several critical functions that ensure the effective operation and longevity of electronic systems. These functions include:
+
+1. **Power Distribution and Signal Interconnection**: The electronics package provides the necessary pathways for electrical power to be distributed to various components and facilitates the interconnection of signals between these components. This ensures that the system operates efficiently and that data can be transmitted accurately and reliably.
+
+2. **Structural Support**: The package offers mechanical support to the components, maintaining their physical integrity and alignment. This structural support is crucial for preventing damage due to mechanical stresses or vibrations that the system might encounter during operation or handling.
+
+3. **Circuit Protection**: It protects the circuitry from physical and chemical hazards present in the environment. This includes shielding the components from dust, moisture, corrosive substances, and other potential contaminants that could impair functionality or cause failures.
+
+4. **Heat Dissipation**: Electronic components generate heat during operation, and excessive heat can lead to performance degradation or failure. A well-designed package incorporates mechanisms for effective heat dissipation, such as heat sinks or thermal management materials, to maintain optimal operating temperatures.
+
+5. **Minimizing Signal Transmission Delays**: The package is designed to minimize delays in signal transmission within the system. This is achieved by optimizing the layout and materials used in the interconnections, ensuring that signals are transmitted quickly and without significant loss or distortion.
+
+These functions collectively contribute to the reliability, efficiency, and performance of electronic systems, making the design of the electronics package a critical aspect of electronic product development.","# Electronics  Assembly and  Packaging  
+
+# Chapter Contents  
+
+34.1 Electronics Packaging  
+
+# 34.2 Printed Circuit Boards  
+
+34.2.1 Structures, Types, and Materials  for PCBs 34.2.2 Production of the Starting  Boards 34.2.3 Processes Used in PCB  Fabrication 34.2.4 PCB Fabrication Sequence  
+
+# 34.3 Printed Circuit Board Assembly  
+
+34.3.1 Surface-Mount Technology 34.3.2 Through-Hole Technology 34.3.3 Combined SMT-PIH Assembly 34.3.4 Cleaning, Inspection, Testing,  and Rework  
+
+34.4 Electrical Connector Technology 34.4.1 Permanent Connections 34.4.2 Separable Connectors  
+
+Integrated circuits constitute the brains of an electronic  system, but the complete system consists of much more  than packaged ICs. The ICs and other components are  mounted and interconnected on printed circuit boards,  which in turn are interconnected and contained in a  chassis or cabinet. Chip packaging (Section 33.6) is  only part of the total electronic package. This chapter  considers the remaining levels of packaging and how  the packages are manufactured and assembled.  
+
+# Electronics  Packaging  
+
+The electronics package is the physical means by which  the components in a system are electrically inter- connected and interfaced to external devices; it includes  the mechanical structure that holds and protects the  circuitry. A well-designed electronics package serves  the following functions: (1) power distribution and sig- nal interconnection, (2) structural support, (3) circuit  protection from physical and chemical hazards in the  environment, (4) dissipation of heat generated by the  circuits, and (5) minimum delays in signal transmission  within the system.  
+
+For complex systems containing many components  and interconnections, the electronics package is organ- ized into levels that comprise a  packaging hierarchy ,  illus  trated in Figure 34.1 and summarized in Table 34.1.  The lowest level is the  zero level , which refers to the  intra connections on the semiconductor chip. The pack- aged chip (chip carrier), consisting of the IC in a plas- tic or ceramic enclosure and connected to the package  leads, constitutes the  ﬁ  rst level of packaging .  
+
+Packaged chips and other components are assembled  to a printed circuit board (PCB) using two technologies  (Section 33.6.1): (1)  surface-mount technology  (SMT)  
+
+![](images/1e20e72922781b4cf2ccd18b84212143ea7a904759ad35c3b86dcb235827b20d.jpg)  
+
+and (2)  through-hole technology , also known as  pin-in-hole  (PIH) technology. Today,  SMT is much more widely used in industry, especially for mass-produced products.  The chip package styles and assembly techniques are different for SMT and PIH. In  many cases, both assembly technologies are employed in the same board. Printed cir- cuit board assembly represents the  second level of packaging . Figure 34.2 shows two  PCB assemblies, illustrating both PIH and SMT types. Note the smaller component  sizes of the SMT board.  
+
+TABLE  •  34.1  Packaging hierarchy. 
+![](images/79361fbfe197778d198ddc2e07de5b864f0ccf40c60544338af09c3b838c68a5.jpg)  
+
+![](images/b294f49c1ab5dd98eebb4b5cbc94843b1e09db0b28339235c37a78a9596140f6.jpg)  
+FIGURE 34.2  Two  printed circuit board  assemblies. Upper PCB  assembly is through- hole technology  (pin-in-hole) whereas  lower assembly is  mostly surface-mount  technology. (Courtesy  of George E. Kane  Manufacturing  Technology Laboratory,  Lehigh University.)  
+
+The assembled PCBs are, in turn, connected to a chassis or other framework; this  is the  third level of packaging . This third level may consist of a  rack  that holds the  boards, using wire cables to make the interconnections. In major electronic systems,  such as large computers, the PCBs are typically mounted onto a larger printed cir- cuit board called a  back plane , which has conduction paths to permit interconnec- tion between the smaller boards attached to it.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec34.txt,[ 0 . 8 3 4 0 5 5 5 7 0 2 7 7 9 5 8 6 ]
+Identify the levels of packaging hierarchy in electronics.,"Answer. The levels are: (0) chip intraconnections, (1) chip to package, (2) component to PCB, (3) PCB to rack or chassis, and (4) wiring and cabling inside a cabinet.","The packaging hierarchy in electronics is organized into several levels, each serving a specific function in the overall system. Here are the levels of packaging hierarchy:
+
+1. **Zero Level**: This is the intra-connections on the semiconductor chip itself. It involves the connections within the integrated circuit (IC) on the chip.
+
+2. **First Level**: This level involves the packaged chip, also known as the chip carrier. It consists of the IC enclosed in a plastic or ceramic package, which is then connected to the package leads. This level provides the initial protection and connectivity for the chip.
+
+3. **Second Level**: This level is the printed circuit board (PCB) assembly. Packaged chips and other components are mounted onto a PCB using technologies such as surface-mount technology (SMT) and through-hole technology (PIH). This level provides the structural support and electrical interconnections for the components.
+
+4. **Third Level**: At this level, the assembled PCBs are connected to a chassis or framework. This may involve mounting the PCBs onto a rack or a larger PCB called a backplane, which facilitates interconnections between multiple boards. This level provides the overall structural support and system-level interconnections.
+
+These levels collectively ensure that electronic components are effectively interconnected, protected, and supported within an electronic system.","# Electronics  Assembly and  Packaging  
+
+# Chapter Contents  
+
+34.1 Electronics Packaging  
+
+# 34.2 Printed Circuit Boards  
+
+34.2.1 Structures, Types, and Materials  for PCBs 34.2.2 Production of the Starting  Boards 34.2.3 Processes Used in PCB  Fabrication 34.2.4 PCB Fabrication Sequence  
+
+# 34.3 Printed Circuit Board Assembly  
+
+34.3.1 Surface-Mount Technology 34.3.2 Through-Hole Technology 34.3.3 Combined SMT-PIH Assembly 34.3.4 Cleaning, Inspection, Testing,  and Rework  
+
+34.4 Electrical Connector Technology 34.4.1 Permanent Connections 34.4.2 Separable Connectors  
+
+Integrated circuits constitute the brains of an electronic  system, but the complete system consists of much more  than packaged ICs. The ICs and other components are  mounted and interconnected on printed circuit boards,  which in turn are interconnected and contained in a  chassis or cabinet. Chip packaging (Section 33.6) is  only part of the total electronic package. This chapter  considers the remaining levels of packaging and how  the packages are manufactured and assembled.  
+
+# Electronics  Packaging  
+
+The electronics package is the physical means by which  the components in a system are electrically inter- connected and interfaced to external devices; it includes  the mechanical structure that holds and protects the  circuitry. A well-designed electronics package serves  the following functions: (1) power distribution and sig- nal interconnection, (2) structural support, (3) circuit  protection from physical and chemical hazards in the  environment, (4) dissipation of heat generated by the  circuits, and (5) minimum delays in signal transmission  within the system.  
+
+For complex systems containing many components  and interconnections, the electronics package is organ- ized into levels that comprise a  packaging hierarchy ,  illus  trated in Figure 34.1 and summarized in Table 34.1.  The lowest level is the  zero level , which refers to the  intra connections on the semiconductor chip. The pack- aged chip (chip carrier), consisting of the IC in a plas- tic or ceramic enclosure and connected to the package  leads, constitutes the  ﬁ  rst level of packaging .  
+
+Packaged chips and other components are assembled  to a printed circuit board (PCB) using two technologies  (Section 33.6.1): (1)  surface-mount technology  (SMT)  
+
+![](images/1e20e72922781b4cf2ccd18b84212143ea7a904759ad35c3b86dcb235827b20d.jpg)  
+
+and (2)  through-hole technology , also known as  pin-in-hole  (PIH) technology. Today,  SMT is much more widely used in industry, especially for mass-produced products.  The chip package styles and assembly techniques are different for SMT and PIH. In  many cases, both assembly technologies are employed in the same board. Printed cir- cuit board assembly represents the  second level of packaging . Figure 34.2 shows two  PCB assemblies, illustrating both PIH and SMT types. Note the smaller component  sizes of the SMT board.  
+
+TABLE  •  34.1  Packaging hierarchy. 
+![](images/79361fbfe197778d198ddc2e07de5b864f0ccf40c60544338af09c3b838c68a5.jpg)  
+
+![](images/b294f49c1ab5dd98eebb4b5cbc94843b1e09db0b28339235c37a78a9596140f6.jpg)  
+FIGURE 34.2  Two  printed circuit board  assemblies. Upper PCB  assembly is through- hole technology  (pin-in-hole) whereas  lower assembly is  mostly surface-mount  technology. (Courtesy  of George E. Kane  Manufacturing  Technology Laboratory,  Lehigh University.)  
+
+The assembled PCBs are, in turn, connected to a chassis or other framework; this  is the  third level of packaging . This third level may consist of a  rack  that holds the  boards, using wire cables to make the interconnections. In major electronic systems,  such as large computers, the PCBs are typically mounted onto a larger printed cir- cuit board called a  back plane , which has conduction paths to permit interconnec- tion between the smaller boards attached to it.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec34.txt,[ 0 . 8 6 0 8 1 5 2 2 1 4 6 6 5 2 5 2 ]
+What is the difference between a track and a land on a printed circuit board?,"Answer. A track is a copper conducting path on a PCB, while a land is a small copper area for electrically attaching components.","In the context of a printed circuit board (PCB), a ""track"" and a ""land"" serve distinct purposes in the electrical interconnection of components:
+
+1. **Track**: A track on a PCB is a thin conducting path made of copper that is used to electrically connect different components on the board. These tracks are essentially the ""wires"" of the PCB, routing electrical signals between various points. They are designed to provide the necessary connections while avoiding short circuits and are typically found on the surface of the board or in alternating layers in multilayer boards.
+
+2. **Land**: A land, also made of copper, is a designated area on the surface of the PCB where components are attached and electrically connected. Lands serve as the connection points for component leads or terminals. They are often larger than tracks to provide a stable and reliable soldering area for components, ensuring a secure mechanical and electrical connection.
+
+In summary, while both tracks and lands are made of copper and are integral to the PCB's function, tracks are the pathways for electrical signals, and lands are the connection points for components.","As track  widths became ﬁ  ner and ﬁ  ner, photolithography was  substituted for screen printing.  
+
+Initial techniques to design the circuit masks involved  a manual inking procedure, in which the designer at- tempted to route the conducting tracks to provide the  required connections and avoid short circuits on a large  sheet of paper or vellum. This became more difﬁ  cult as  the number of components on the board increased and  the conducting lines interconnecting the components  became ﬁ  ner. Computer programs were developed to  aid the designer in solving the routing problem. How- ever, in many cases, it was impossible to ﬁ  nd a solu- tion with no intersecting tracks (short circuits). To solve  the problem, jumper wires were hand-soldered to the  board to make these connections. As the number of  jumper wires increased, the problem of human error  again appeared. Multilayer printed circuit boards were  introduced to deal with this routing issue.  
+
+operation, (4) an assembled PCB gives reliable performance; and (5) in complex  electronic systems, each assembled PCB can be detached from the system for service,  repair, or replacement.  
+
+# 34.2.1  STRUCTURES, TYPES, AND MATERIALS FOR PCBs  
+
+A  printed circuit board  (PCB), also called a  printed wiring board  (PWB), is a  laminated ﬂ  at panel of insulating material designed to provide electrical intercon- nections between electronic components attached to it. Interconnections are made  by thin conducting paths on the surface of the board or in alternating layers sand- wiched between layers of insulating material. The conducting paths are made of  copper and are called  tracks . Other copper areas, called  lands , are also available  on the board surface for attaching and electrically connecting components.  
+
+Insulation materials in PCBs are usually polymer composites reinforced with  glass fabrics or paper. Polymers include epoxy (most widely used), phenolic, and  polyimide. E-glass is the usual ﬁ  ber in glass-reinforcing fabrics, especially in epoxy  PCBs; cotton paper is a common reinforcing layer for phenolic boards. The usual  thickness of the substrate layer is 0.8 to  $3.2~\mathrm{mm}$  (0.031–0.125 in), and copper foil  thickness is around  $0.04~\mathrm{mm}$  (0.0015 in). The materials forming the PCB structure  must be electrically insulating, strong and rigid, resistant to warpage, dimensionally  
+
+![](images/9cdc756eaa2c0c527b37083cbdd08061361fdcdbd9fcca49239c4be8d2de0abb.jpg)  
+FIGURE 34.3  Three types of printed circuit board structure: (a) single-sided, (b) double-sided, and (c) multilayer.  
+
+stable, heat resistant, and ﬂ  ame retardant. Chemicals are often added to the polymer  composite to obtain the last two characteristics.  
+
+There are three principal types of printed circuit board, shown in Figure 34.3:  (a)  single-sided  board, in which copper foil is only on one side of the insulation  substrate; (b)  double-sided  board, in which the copper foil is on both sides of the  substrate; and (c)  multilayer  board, consisting of alternating layers of conducting  foil and insulation. In all three structures, the insulation layers are constructed of  multiple laminates of epoxy-glass sheets (or other composite) bonded together to  form a strong and rigid structure. Multilayer boards are used for complex circuit  assemblies in which a large number of components must be interconnected with  many track routings, thus requiring more conducting paths than can be accommo- dated in one or two copper layers. Four layers is the most common multilayer con- ﬁ  guration, but boards with up to 24 conducting layers are produced.  
+
+# 34.2.2  PRODUCTION OF THE STARTING BOARDS  
+
+Single- and double-sided boards can be purchased from suppliers that specialize  in mass producing them in standard sizes. The boards are then custom-processed  by a circuit fabricator to create the speciﬁ  ed circuit pattern and board size for  a given application. Multilayer boards are fabricated from standard single- and  double-sided boards.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec34.txt,[ 0 . 8 4 5 5 1 2 1 4 7 3 8 1 0 0 3 2 ]
+Define what a printed circuit board (PCB) is.,Answer. A PCB is a laminated flat panel of insulating material to which electronic components are attached and electrically interconnected.,"A printed circuit board (PCB), also known as a printed wiring board (PWB), is a laminated flat panel composed of insulating material designed to provide electrical interconnections between electronic components attached to it. These interconnections are achieved through thin conducting paths, known as tracks, which are made of copper and are located on the surface of the board or in alternating layers sandwiched between layers of insulating material. Additionally, copper areas called lands are available on the board surface for attaching and electrically connecting components. The insulation materials used in PCBs are typically polymer composites reinforced with glass fabrics or paper, with common polymers including epoxy, phenolic, and polyimide. The PCB structure must be electrically insulating, strong, rigid, resistant to warpage, dimensionally stable, heat resistant, and flame retardant. There are three principal types of PCB structures: single-sided, double-sided, and multilayer, each varying in the number of conducting layers and complexity of circuit assemblies they can accommodate.","As track  widths became ﬁ  ner and ﬁ  ner, photolithography was  substituted for screen printing.  
+
+Initial techniques to design the circuit masks involved  a manual inking procedure, in which the designer at- tempted to route the conducting tracks to provide the  required connections and avoid short circuits on a large  sheet of paper or vellum. This became more difﬁ  cult as  the number of components on the board increased and  the conducting lines interconnecting the components  became ﬁ  ner. Computer programs were developed to  aid the designer in solving the routing problem. How- ever, in many cases, it was impossible to ﬁ  nd a solu- tion with no intersecting tracks (short circuits). To solve  the problem, jumper wires were hand-soldered to the  board to make these connections. As the number of  jumper wires increased, the problem of human error  again appeared. Multilayer printed circuit boards were  introduced to deal with this routing issue.  
+
+operation, (4) an assembled PCB gives reliable performance; and (5) in complex  electronic systems, each assembled PCB can be detached from the system for service,  repair, or replacement.  
+
+# 34.2.1  STRUCTURES, TYPES, AND MATERIALS FOR PCBs  
+
+A  printed circuit board  (PCB), also called a  printed wiring board  (PWB), is a  laminated ﬂ  at panel of insulating material designed to provide electrical intercon- nections between electronic components attached to it. Interconnections are made  by thin conducting paths on the surface of the board or in alternating layers sand- wiched between layers of insulating material. The conducting paths are made of  copper and are called  tracks . Other copper areas, called  lands , are also available  on the board surface for attaching and electrically connecting components.  
+
+Insulation materials in PCBs are usually polymer composites reinforced with  glass fabrics or paper. Polymers include epoxy (most widely used), phenolic, and  polyimide. E-glass is the usual ﬁ  ber in glass-reinforcing fabrics, especially in epoxy  PCBs; cotton paper is a common reinforcing layer for phenolic boards. The usual  thickness of the substrate layer is 0.8 to  $3.2~\mathrm{mm}$  (0.031–0.125 in), and copper foil  thickness is around  $0.04~\mathrm{mm}$  (0.0015 in). The materials forming the PCB structure  must be electrically insulating, strong and rigid, resistant to warpage, dimensionally  
+
+![](images/9cdc756eaa2c0c527b37083cbdd08061361fdcdbd9fcca49239c4be8d2de0abb.jpg)  
+FIGURE 34.3  Three types of printed circuit board structure: (a) single-sided, (b) double-sided, and (c) multilayer.  
+
+stable, heat resistant, and ﬂ  ame retardant. Chemicals are often added to the polymer  composite to obtain the last two characteristics.  
+
+There are three principal types of printed circuit board, shown in Figure 34.3:  (a)  single-sided  board, in which copper foil is only on one side of the insulation  substrate; (b)  double-sided  board, in which the copper foil is on both sides of the  substrate; and (c)  multilayer  board, consisting of alternating layers of conducting  foil and insulation. In all three structures, the insulation layers are constructed of  multiple laminates of epoxy-glass sheets (or other composite) bonded together to  form a strong and rigid structure. Multilayer boards are used for complex circuit  assemblies in which a large number of components must be interconnected with  many track routings, thus requiring more conducting paths than can be accommo- dated in one or two copper layers. Four layers is the most common multilayer con- ﬁ  guration, but boards with up to 24 conducting layers are produced.  
+
+# 34.2.2  PRODUCTION OF THE STARTING BOARDS  
+
+Single- and double-sided boards can be purchased from suppliers that specialize  in mass producing them in standard sizes. The boards are then custom-processed  by a circuit fabricator to create the speciﬁ  ed circuit pattern and board size for  a given application. Multilayer boards are fabricated from standard single- and  double-sided boards.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec34.txt,[ 0 . 8 5 4 3 2 4 8 6 9 4 9 4 2 8 3 5 ]
+Name the three principal types of printed circuit board?,"Answer. The three types are: (1) single -sided board, (2) double -sided board, and (3) multilayer board.","The three principal types of printed circuit boards (PCBs) are:
+
+1. **Single-sided board**: This type of PCB has copper foil on only one side of the insulation substrate.
+
+2. **Double-sided board**: In this type, the copper foil is present on both sides of the substrate.
+
+3. **Multilayer board**: This type consists of alternating layers of conducting foil and insulation, allowing for more complex circuit assemblies with multiple track routings.","As track  widths became ﬁ  ner and ﬁ  ner, photolithography was  substituted for screen printing.  
+
+Initial techniques to design the circuit masks involved  a manual inking procedure, in which the designer at- tempted to route the conducting tracks to provide the  required connections and avoid short circuits on a large  sheet of paper or vellum. This became more difﬁ  cult as  the number of components on the board increased and  the conducting lines interconnecting the components  became ﬁ  ner. Computer programs were developed to  aid the designer in solving the routing problem. How- ever, in many cases, it was impossible to ﬁ  nd a solu- tion with no intersecting tracks (short circuits). To solve  the problem, jumper wires were hand-soldered to the  board to make these connections. As the number of  jumper wires increased, the problem of human error  again appeared. Multilayer printed circuit boards were  introduced to deal with this routing issue.  
+
+operation, (4) an assembled PCB gives reliable performance; and (5) in complex  electronic systems, each assembled PCB can be detached from the system for service,  repair, or replacement.  
+
+# 34.2.1  STRUCTURES, TYPES, AND MATERIALS FOR PCBs  
+
+A  printed circuit board  (PCB), also called a  printed wiring board  (PWB), is a  laminated ﬂ  at panel of insulating material designed to provide electrical intercon- nections between electronic components attached to it. Interconnections are made  by thin conducting paths on the surface of the board or in alternating layers sand- wiched between layers of insulating material. The conducting paths are made of  copper and are called  tracks . Other copper areas, called  lands , are also available  on the board surface for attaching and electrically connecting components.  
+
+Insulation materials in PCBs are usually polymer composites reinforced with  glass fabrics or paper. Polymers include epoxy (most widely used), phenolic, and  polyimide. E-glass is the usual ﬁ  ber in glass-reinforcing fabrics, especially in epoxy  PCBs; cotton paper is a common reinforcing layer for phenolic boards. The usual  thickness of the substrate layer is 0.8 to  $3.2~\mathrm{mm}$  (0.031–0.125 in), and copper foil  thickness is around  $0.04~\mathrm{mm}$  (0.0015 in). The materials forming the PCB structure  must be electrically insulating, strong and rigid, resistant to warpage, dimensionally  
+
+![](images/9cdc756eaa2c0c527b37083cbdd08061361fdcdbd9fcca49239c4be8d2de0abb.jpg)  
+FIGURE 34.3  Three types of printed circuit board structure: (a) single-sided, (b) double-sided, and (c) multilayer.  
+
+stable, heat resistant, and ﬂ  ame retardant. Chemicals are often added to the polymer  composite to obtain the last two characteristics.  
+
+There are three principal types of printed circuit board, shown in Figure 34.3:  (a)  single-sided  board, in which copper foil is only on one side of the insulation  substrate; (b)  double-sided  board, in which the copper foil is on both sides of the  substrate; and (c)  multilayer  board, consisting of alternating layers of conducting  foil and insulation. In all three structures, the insulation layers are constructed of  multiple laminates of epoxy-glass sheets (or other composite) bonded together to  form a strong and rigid structure. Multilayer boards are used for complex circuit  assemblies in which a large number of components must be interconnected with  many track routings, thus requiring more conducting paths than can be accommo- dated in one or two copper layers. Four layers is the most common multilayer con- ﬁ  guration, but boards with up to 24 conducting layers are produced.  
+
+# 34.2.2  PRODUCTION OF THE STARTING BOARDS  
+
+Single- and double-sided boards can be purchased from suppliers that specialize  in mass producing them in standard sizes. The boards are then custom-processed  by a circuit fabricator to create the speciﬁ  ed circuit pattern and board size for  a given application. Multilayer boards are fabricated from standard single- and  double-sided boards.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec34.txt,[ 0 . 8 4 8 3 6 7 2 1 0 0 9 0 5 1 7 3 ]
+What is a via hole in a printed circuit board?,Answer. A via hole is a hole in the printed circuit board whose sides are plated with copper to serve as a conducting path from one side of a PCB to the other or between intermediate layers in a multilayer board.,"A via hole in a printed circuit board (PCB) is a small opening that allows electrical connections between different layers of the board. In multilayer PCBs, which consist of multiple layers of insulating material interleaved with copper conducting paths, vias are essential for establishing electrical continuity between these layers. 
+
+There are three main types of vias:
+
+1. **Through-Hole Vias**: These are drilled completely through the PCB, connecting all layers. They are the most common type of via and are used when connections are needed across the entire board.
+
+2. **Blind Vias**: These connect an outer layer to one or more inner layers but do not go through the entire board. They are used to save space and reduce the complexity of the board.
+
+3. **Buried Vias**: These are located entirely within the inner layers of the PCB and do not extend to the outer layers. They are used to connect internal layers without affecting the surface layers, allowing for more complex routing and higher component density.
+
+Vias are filled or plated with conductive material, typically copper, to ensure reliable electrical connections. They are crucial in modern PCB design, especially in high-density and complex electronic systems, as they allow for efficient use of space and facilitate the intricate interconnections required by advanced circuits.","Upper PCB  assembly is through- hole technology  (pin-in-hole) whereas  lower assembly is  mostly surface-mount  technology. (Courtesy  of George E. Kane  Manufacturing  Technology Laboratory,  Lehigh University.)  
+
+The assembled PCBs are, in turn, connected to a chassis or other framework; this  is the  third level of packaging . This third level may consist of a  rack  that holds the  boards, using wire cables to make the interconnections. In major electronic systems,  such as large computers, the PCBs are typically mounted onto a larger printed cir- cuit board called a  back plane , which has conduction paths to permit interconnec- tion between the smaller boards attached to it. This latter conﬁ  guration is known as  card-on-board  (COB) packaging, in which the smaller PCBs are called cards and  the back plane is the board.  
+
+The  fourth level of packaging  consists of wiring and cabling inside the cabinet  that contains the electronic system. For systems of relatively low complexity, the  packaging may not include all of the possible levels in the hierarchy.  
+
+A printed circuit board consists of one or more thin sheets of insulating material,  with thin copper lines on one or both surfaces that interconnect the components  attached to the board. In boards consisting of more than one layer, copper conduct- ing paths are interleaved between the layers. PCBs are used in packaged electronic  systems to hold components, provide electrical interconnections among them, and  make connections to external circuits. They have become standard building blocks  in virtually all electronic systems that contain packaged ICs and other components  (Historical Note 34.1). PCBs are so important and widely used because (1) they  provide a convenient structural platform for the components; (2) a board with cor- rectly routed interconnections can be mass produced consistently, without the varia- bility usually associated with hand wiring; (3) nearly all of the soldering connections  between components and the PCB can be accomplished in a one-step mechanized  
+
+# Historical Note 34.1  Printed circuit boards  
+
+Before printed circuit boards, electrical and electronic  components were manually fastened to a sheet-metal  chassis (usually aluminum) and then hand wired and  soldered to form the desired circuit. This was called  point-to-point construction. In the late 1950s, various  plastic boards became commercially available. These  boards, which provided electrical insulation, gradually  replaced the aluminum chassis.  The ﬁ  rst plastics were  phenolics, followed by glass-ﬁ  ber-reinforced epoxies.  The boards came with predrilled holes spaced at  standard intervals in both directions. This motivated  the use of electronic components that matched these  hole spacings.  The dual-in-line package evolved during  this period.  
+
+The components in these circuit boards were hand- wired, which proved increasingly difﬁ  cult and prone to  human error as component densities increased and cir- cuits became more complex. The printed circuit board,  with etched copper foil on its surface to form the wiring  interconnections, was developed in the 1950s to solve  these problems with manual wiring. The printed circuit  boards during that period used through-hole technology,  and PCBs had to be drilled to accommodate the com- ponent leads. The original technique for “printing” the  circuit pattern onto the copper-clad board was screen  printing. In the late 1980s, surface mount technology  began to replace through-hole construction. SMT did  not require lead holes, and the components were signi- ﬁ  cantly smaller, allowing much higher circuit densities  to be achieved on the printed circuit boards. As track  widths became ﬁ  ner and ﬁ  ner, photolithography was  substituted for screen printing.  
+
+Initial techniques to design the circuit masks involved  a manual inking procedure, in which the designer at- tempted to route the conducting tracks to provide the  required connections and avoid short circuits on a large  sheet of paper or vellum. This became more difﬁ  cult as  the number of components on the board increased and  the conducting lines interconnecting the components  became ﬁ  ner. Computer programs were developed to  aid the designer in solving the routing problem. How- ever, in many cases, it was impossible to ﬁ  nd a solu- tion with no intersecting tracks (short circuits). To solve  the problem, jumper wires were hand-soldered to the  board to make these connections.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec34.txt,[ 0 . 8 5 0 9 8 6 4 6 0 4 8 1 6 7 5 1 ]
+What are the two basic resist coating methods for printed circuit boards?,"Answer. The two methods are: (1) screening, such as silk screening, and (2) photolithography.","The two basic resist coating methods for printed circuit boards (PCBs) are:
+
+1. **Screen Printing**: This method involves using a mesh screen to apply the photoresist onto the PCB. The screen has a stencil of the desired pattern, and the photoresist is spread across the screen using a squeegee, allowing the resist to pass through the open areas of the stencil and onto the board. Screen printing is a cost-effective method suitable for larger feature sizes and is commonly used in the production of PCBs with less stringent resolution requirements.
+
+2. **Curtain Coating**: In this method, the PCB passes through a ""curtain"" of liquid photoresist that is continuously flowing. This technique provides a uniform coating across the entire surface of the board and is suitable for high-volume production. Curtain coating is advantageous for achieving consistent thickness and is often used when a uniform layer of resist is required across large areas.
+
+Both methods are chosen based on the specific requirements of the PCB manufacturing process, such as the desired resolution, production volume, and cost considerations.","Two types of photoresists are available: positive and negative. A  positive resist   becomes more soluble in developing solutions after exposure to light. A  negative  resist  becomes less soluble (the polymer cross-links and hardens) when exposed  to light. Figure 33.9 illustrates the operation of both resist types. Negative resists  have better adhesion to  $\mathrm{SiO}_{2}$  and metal surfaces and good etch resistance. However,  positive resists achieve better resolution, which has made it the more widely used  technique as IC feature sizes have become smaller and smaller.  
+
+Exposure Techniques   The resists are exposed through the mask by one of three  exposure techniques: (a) contact printing, (b) proximity printing, and (c) projection  printing, illustrated in Figure 33.10. In  contact printing , the mask is pressed against  the resist coating during exposure. This results in high resolution of the pattern onto  the wafer surface; an important disadvantage is that physical contact with the wafers  gradually wears out the mask. In  proximity printing , the mask is separated from the  resist coating by a distance of 10 to $25\ \mu\mathrm{m}$  (0.0004–0.001 in). This eliminates mask  wear, but resolution of the image is slightly reduced.  Projection printing  involves  the use of a high-quality lens (or mirror) system to project the image through the  
+
+![](images/c7702fcc7c4d207d2af9e5c2f974c975c59e84a7dd8ebba29d5a62517cff7c22.jpg)  
+FIGURE 33.10  Optical  lithography exposure  techniques: (a) contact  printing, (b) proximity  printing, and  (c) projection printing.  
+
+mask onto the wafer. This has become the preferred technique because it is non- contact (thus, no mask wear), and the mask pattern can be reduced through optical  projection to obtain high resolution.  
+
+Processing Sequence in Optical lithography  A typical processing sequence  begins with surface of the silicon having just been oxidized to form a thin ﬁ  lm of $\mathrm{SiO}_{2}$   on the wafer. It is desired to remove the  $\mathrm{SiO}_{2}$  ﬁ  lm in certain regions as deﬁ  ned by  the mask pattern. The sequence for a positive resist proceeds as follows, illustrated  in Figure 33.11. (1)  Prepare surface . The wafer is properly cleaned to promote wett- ing and adhesion of the resist. (2)  Apply photoresist . In semiconductor processing,  photoresists are applied by feeding a metered amount of liquid resist onto the center  of the wafer and then spinning the wafer to spread the liquid and achieve a uni- form coating thickness. Desired thickness is around  $1\ \mu\mathrm{m}$  (0.00004 in), which gives  good resolution yet minimizes pinhole defects. (3)  Soft-bake . The purpose of this  
+
+![](images/f69f89972de26676ed43c5d9012a2da83f77c330e2d3aef80fe7c9f3a8a8b613.jpg)  
+FIGURE 33.11  Optical  lithography process  applied to a silicon  wafer: (1) prepare  surface; (2) apply pho- toresist; (3) soft-bake;  (4) align mask and  expose; (5) develop  resist; (6) hard-bake;  (7) etch; (8) strip resist.  
+
+pre-exposure bake is to remove solvents, promote adhesion, and harden the resist.  Typical soft-bake temperatures are around $90^{\circ}\mathrm{C}$   $(190^{\mathrm{o}}\mathrm{F})$  for 10 to $20\,\mathrm{{min}}$ . (4)  Align  mask and expose . The pattern mask is aligned relative to the wafer and the resist  is exposed through the mask by one of the methods described above. Alignment  must be accomplished with very high precision, using optical-mechanical equipment  designed speciﬁ  cally for the purpose. If the wafer has been previously processed by  lithography so that a pattern has already been formed in the wafer, then sub  sequent  masks must be accurately registered relative to the existing pattern.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec33.txt,[ 0 . 8 4 1 2 2 8 9 4 1 5 6 7 0 4 4 5 ]
+What is etching used for in PCB fabrication?,Answer. Etching is used to remove copper cladding on the PCB surface to define the tracks and lands of the circuit.,"Etching in PCB (Printed Circuit Board) fabrication is used to remove the copper cladding from the unprotected regions of the board surface. This process is crucial as it transforms the solid copper film into the interconnections necessary for an electrical circuit. During etching, a chemical etchant is sprayed onto the board, which is partially coated with a resist material. The resist protects certain areas of the copper, allowing the etchant to remove only the exposed copper areas. This selective removal process creates the desired circuit patterns, such as tracks and lands, on the PCB. Proper control of process parameters like temperature, etchant concentration, and duration is essential to avoid over-etching or under-etching, ensuring the precision and functionality of the circuit design.","Etching  removes the copper cladding in the unprotected regions from the board  surface, usually by means of a chemical etchant. Etching is the step that transforms  the solid copper ﬁ  lm into the interconnections for an electrical circuit.  
+
+Etching is done in an etching chamber in which the etchant is sprayed onto the  surface of the board that is now partially coated with resist. Various etchants are  used to remove copper, including ammonium persulfate  $\mathrm{((NH_{4})_{2}S_{2}O_{4})}$ , ammonium  hydroxide  $\mathrm{(NH_{4}O H)}$ , cupric chloride  $\left(\operatorname{CuCl}_{2}\right)$ , and ferric chloride  $\left(\mathrm{{FeCl}}_{3}\right)$ . Each has  its relative advantages and disadvantages. Process parameters (e.g., temperature,  etchant concentration, and duration) must be closely controlled to avoid over- or  under-etching, as in IC fabrication. After etching, the board must be rinsed and the  remaining resist chemically stripped from the surface.  
+
+Plating   In printed circuit boards, plating is needed on the hole surfaces to provide  conductive paths from one side to the other in double-sided boards, or between layers  in multilayer boards. Two types of plating process are used in PCB fabrication: electro- plating and electroless plating (Section 27.3). Electroplating has a higher deposition  rate than electroless plating but requires that the coated surface be metallic (conduc- tive). Electroless plating is slower but does not require a conductive surface.  
+
+After drilling of the via holes and insertion holes, the walls of the holes consist  of epoxy-glass insulation material, which is nonconductive. Accordingly, electroless  plating must be used initially to provide a thin coating of copper on the hole walls.  Once the thin ﬁ  lm of copper has been applied, electrolytic plating is then used to  increase coating thickness on the hole surfaces to between 0.025 and $0.05\,\mathrm{mm}$  (0.001  and 0.002 in).  
+
+Gold is another metal sometimes plated onto printed circuit boards. It is used as  a very thin coating on PCB edge connectors to provide superior electrical contact.  Coating thickness is only about $2.5\;\mu\mathrm{m}$  (0.0001 in).  
+
+![](images/d80cc90dae0299c08ee5c810984257d2e50b9e4a8e0fca7e1dd62c36e6c9dcc1.jpg)  
+FIGURE 34.4  A section  of a double-sided PCB,  showing various features  accomplished during  fabrication: tracks and  lands, and copper-plated  insertion and via holes.  
+
+# 34.2.4  PCB FABRICATION SEQUENCE  
+
+This section describes the processing sequence for various board types. The sequence  is concerned with transforming a copper-clad board of reinforced polymer into a  printed circuit board, a procedure called  circuitization . The desired result is illus- trated in Figure 34.4 for a double-sided board.  
+
+Circuitization   Three methods of circuitization can be used to determine which  regions of the board will be coated with copper [13]: (1) subtractive, (2) additive, and  (3) semiadditive.  
+
+In the  subtractive method , open portions of the copper cladding on the starting  board are etched away from the surface, so that the tracks and lands of the desired  circuit remain. The process is called “subtractive” because copper is removed from  the board surface. The steps in the subtractive method are described in Figure 34.5.  
+
+The  additive method  starts with a board surface that is not copper clad, such  as the uncoated surface of a single-sided board. However, the uncoated surface is  treated with a chemical, called a  buttercoat , which acts as the catalyst for electroless  plating. The steps in the method are outlined in Figure 34.6.  
+
+!",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec34.txt,[ 0 . 8 7 0 4 0 7 6 1 6 0 7 5 7 2 3 5 ]
+"What is continuity testing, and when is it performed in the PCB fabrication sequence?","Answer. Continuity testing is an electrical test in which contact probes are brought into contact with track and land areas to insure the existence of electrical conduction paths. Continuity tests are generally used: (1) after the bare board has been fabricated, and (2) after the board has been populated with components.","Continuity testing is a procedure used in the PCB (Printed Circuit Board) fabrication process to ensure that electrical connections between specified points on the board are intact and function as intended. This testing involves using an array of contact probes that are brought into simultaneous contact with track and land areas on the board's surface. The probes apply light pressure to make contact with these points, allowing for a quick check of electrical connections between them. This ensures that there are no open circuits (breaks in the connections) or short circuits (unintended connections) on the board.
+
+Continuity testing is typically performed after the circuit has been fabricated on the board surface. It is part of the inspection and testing phase, which occurs after the multilayer board has been assembled and processed. This phase includes both visual inspection and continuity testing to verify that the board meets design specifications and is free from quality defects. Continuity testing is crucial because it confirms the integrity of the electrical pathways, ensuring that the board will function correctly when assembled with other components.","The interconnection is accomplished by means of copper-plated via holes that run  from lands on one surface of the board to lands on the opposite surface, as shown  in Figure 34.4. A typical fabrication sequence for a double-sided board (copper- clad on both sides) uses the semiadditive method. After hole drilling, electroless  plating is used to initially plate the holes, followed by electroplating to increase  plating thickness.  
+
+A  multilayer board  is structurally the most complex of the three types, and this  complexity is reﬂ  ected in its manufacturing sequence. The laminated construction can  be seen in Figure 34.8, which highlights some of the features of a multilayer PCB.  The fabrication steps for the individual layers are basically the same as those used  for single- and double-sided boards. What makes multilayer board fabrication more  complicated is that (1) all of the layers, each with its own circuit design, must ﬁ  rst be  processed; then (2) the layers must be joined together to form one integral board; and  ﬁ  nally (3) the assembled board must itself be put through its own processing sequence.  
+
+A multilayer board consists of  logic layers , which carry electrical signals between  components on the board, and  voltage layers , which are used to distribute power.  Logic layers are generally fabricated from double-sided boards, whereas voltage  layers are usually made from single-sided boards. Thinner insulating substrates  are used for multi  layer boards than for their standalone single- and double-sided  counter  parts, so that a suitable thickness of the ﬁ  nal board can be achieved.  
+
+In the second stage, the individual layers are assembled together. The procedure  starts with copper foil on the bottom outside, and then adds the individual layers,  separating one from the next by one or more sheets of glass fabric impregnated with  partially cured epoxy. After all layers have been sandwiched together, a ﬁ  nal copper  foil is placed on the stack to form the top outer layer. Layers are then bonded into a  single board by heating the assembly under pressure to cure the epoxy. After curing,  any excess resin squeezed out of the sandwich around the edges is trimmed away.  
+
+At the start of the third stage of fabrication, the board consists of multiple layers  bonded together, with copper foil cladded on its outer surfaces. Its construction can  therefore be likened to that of a double-sided board; and its processing is likewise  similar. The sequence consists of drilling additional through-holes, plating the holes  to establish conduction paths between the two exterior copper ﬁ  lms as well as cer- tain internal copper layers, and the use of photolithography and etching to form the  circuit pattern on the outer copper surfaces.  
+
+Testing and Finishing Operations  After a circuit has been fabricated on the  board surface, it must be inspected and tested to ensure that it functions according  to design speciﬁ  cations and contains no quality defects. Two procedures are com- mon: (1) visual inspection and (2) continuity testing. In  visual inspection , the board  is examined visually to detect open and short circuits, errors in drilled hole loca- tions, and other faults that can be observed without applying electrical power to the  board. Visual inspections, performed not only after fabrication but also at various  critical stages during production, are accomplished by human eye or machine vision  (Section 40.6.3).  
+
+Continuity testing  involves the use of contact probes brought simultaneously into  contact with track and land areas on the board surface. The setup consists of an array  of probes that are forced under light pressure to make contact with speciﬁ  ed points  on the board surface. Electrical connections between contact points can be quickly  checked in this procedure.  
+
+Several additional processing steps must be performed on the bare board to pre- pare it for assembly. The ﬁ  rst of these ﬁ  nishing operations is the application of a thin  solder layer on the track and land surfaces. This layer serves to protect the copper  from oxidation and contamination. It is carried out either by electroplating or by  bringing the copper side into contact with rotating rollers that are partially sub- mersed in molten solder.  
+
+A second operation involves application of a coating of solder resist to all areas of  the board surface except the lands that are to be subsequently soldered in assembly.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec34.txt,[ 0 . 8 2 5 9 8 7 1 0 7 2 7 2 2 9 2 9 ]
+"What are the two main categories of printed circuit board assemblies, as distinguished by the method of attaching components to the board?","Answer. The two categories are: (1) pin-in-hole technology, also known as through-hole technology; and (2) surface mount technology.","The two main categories of printed circuit board (PCB) assemblies, distinguished by the method of attaching components to the board, are:
+
+1. **Through-Hole Technology (THT):** This method involves inserting the leads of components through pre-drilled holes on the PCB. The components are then soldered to pads on the opposite side of the board. Through-hole technology provides strong mechanical bonds, making it suitable for components that may experience mechanical stress. It was the predominant method used in the early development of PCBs and is still used today for components that require a robust connection.
+
+2. **Surface-Mount Technology (SMT):** In this method, components are mounted directly onto the surface of the PCB without the need for drilling holes. SMT components are typically smaller and allow for higher circuit densities, which is advantageous for modern electronic devices that require compact and complex circuitry. This technology became more prevalent in the late 1980s and has largely replaced through-hole technology for many applications due to its efficiency and the ability to automate the assembly process.
+
+These two methods are fundamental in PCB assembly, each with its own advantages and applications depending on the requirements of the electronic system being developed.","Upper PCB  assembly is through- hole technology  (pin-in-hole) whereas  lower assembly is  mostly surface-mount  technology. (Courtesy  of George E. Kane  Manufacturing  Technology Laboratory,  Lehigh University.)  
+
+The assembled PCBs are, in turn, connected to a chassis or other framework; this  is the  third level of packaging . This third level may consist of a  rack  that holds the  boards, using wire cables to make the interconnections. In major electronic systems,  such as large computers, the PCBs are typically mounted onto a larger printed cir- cuit board called a  back plane , which has conduction paths to permit interconnec- tion between the smaller boards attached to it. This latter conﬁ  guration is known as  card-on-board  (COB) packaging, in which the smaller PCBs are called cards and  the back plane is the board.  
+
+The  fourth level of packaging  consists of wiring and cabling inside the cabinet  that contains the electronic system. For systems of relatively low complexity, the  packaging may not include all of the possible levels in the hierarchy.  
+
+A printed circuit board consists of one or more thin sheets of insulating material,  with thin copper lines on one or both surfaces that interconnect the components  attached to the board. In boards consisting of more than one layer, copper conduct- ing paths are interleaved between the layers. PCBs are used in packaged electronic  systems to hold components, provide electrical interconnections among them, and  make connections to external circuits. They have become standard building blocks  in virtually all electronic systems that contain packaged ICs and other components  (Historical Note 34.1). PCBs are so important and widely used because (1) they  provide a convenient structural platform for the components; (2) a board with cor- rectly routed interconnections can be mass produced consistently, without the varia- bility usually associated with hand wiring; (3) nearly all of the soldering connections  between components and the PCB can be accomplished in a one-step mechanized  
+
+# Historical Note 34.1  Printed circuit boards  
+
+Before printed circuit boards, electrical and electronic  components were manually fastened to a sheet-metal  chassis (usually aluminum) and then hand wired and  soldered to form the desired circuit. This was called  point-to-point construction. In the late 1950s, various  plastic boards became commercially available. These  boards, which provided electrical insulation, gradually  replaced the aluminum chassis.  The ﬁ  rst plastics were  phenolics, followed by glass-ﬁ  ber-reinforced epoxies.  The boards came with predrilled holes spaced at  standard intervals in both directions. This motivated  the use of electronic components that matched these  hole spacings.  The dual-in-line package evolved during  this period.  
+
+The components in these circuit boards were hand- wired, which proved increasingly difﬁ  cult and prone to  human error as component densities increased and cir- cuits became more complex. The printed circuit board,  with etched copper foil on its surface to form the wiring  interconnections, was developed in the 1950s to solve  these problems with manual wiring. The printed circuit  boards during that period used through-hole technology,  and PCBs had to be drilled to accommodate the com- ponent leads. The original technique for “printing” the  circuit pattern onto the copper-clad board was screen  printing. In the late 1980s, surface mount technology  began to replace through-hole construction. SMT did  not require lead holes, and the components were signi- ﬁ  cantly smaller, allowing much higher circuit densities  to be achieved on the printed circuit boards. As track  widths became ﬁ  ner and ﬁ  ner, photolithography was  substituted for screen printing.  
+
+Initial techniques to design the circuit masks involved  a manual inking procedure, in which the designer at- tempted to route the conducting tracks to provide the  required connections and avoid short circuits on a large  sheet of paper or vellum. This became more difﬁ  cult as  the number of components on the board increased and  the conducting lines interconnecting the components  became ﬁ  ner. Computer programs were developed to  aid the designer in solving the routing problem. How- ever, in many cases, it was impossible to ﬁ  nd a solu- tion with no intersecting tracks (short circuits). To solve  the problem, jumper wires were hand-soldered to the  board to make these connections.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec34.txt,[ 0 . 8 6 5 1 4 4 8 2 3 7 4 6 2 4 3 4 ]
+What are some of the reasons and defects that make rework an integral step in the PCB fabrication sequence?,"Answer. Rework is required to correct the following types of defects: (1) replace defective components, (2) insert missing components, (3) repair faulty solder joints, and (4) repair of copper film that has lifted from the substrate surface.","Rework is an integral step in the PCB fabrication sequence due to several reasons and potential defects that can arise during the manufacturing process. Here are some key reasons and defects that necessitate rework:
+
+1. **Defective Solder Joints**: Soldering is a critical process in PCB assembly, and defects such as cold solder joints, insufficient solder, or solder bridges can occur. These defects can lead to poor electrical connections or short circuits, necessitating rework to ensure the functionality and reliability of the PCB.
+
+2. **Component Misalignment or Shifting**: In surface-mount technology (SMT), components are held in place by solder paste or adhesive, which may not be as secure as the mechanical fastening used in through-hole technology. During soldering, components can shift, leading to misalignment. Rework is required to realign or reposition these components correctly.
+
+3. **Missing or Damaged Components**: During the assembly process, components can be inadvertently omitted or damaged. Visual inspection can identify these issues, and rework is necessary to replace missing or damaged components to ensure the PCB functions as intended.
+
+4. **Board Substrate Damage**: Handling and processing can sometimes cause physical damage to the PCB substrate, such as scratches or lifted copper traces. Rework involves repairing these damages to maintain the integrity and performance of the board.
+
+5. **Copper Film Lifting**: The copper film on the PCB can lift from the substrate due to thermal or mechanical stress during soldering. Rework is needed to repair these lifted films to prevent open circuits or unreliable connections.
+
+6. **Testing Failures**: Functional testing may reveal defects that were not apparent during visual inspection. These could include issues with circuit functionality or performance. Rework allows for the correction of these defects, ensuring that the PCB meets the required specifications.
+
+7. **High Cost of Discarding Assemblies**: Given the complexity and cost of PCB assemblies, it is often more economical to repair defective boards rather than discard them. Rework allows manufacturers to salvage and correct boards, reducing waste and cost.
+
+Overall, rework is essential in the PCB fabrication process to address these defects and ensure that the final product meets quality and performance standards. Skilled workers and specialized tools are required to perform rework, especially for the smaller and more densely packed components in SMT assemblies.","Inspection  After cleaning, the PCB assembly is inspected for defective solder  joints. Inspection of soldering quality is somewhat more difﬁ  cult for surface-mount  circuits (SMCs) because these assemblies are generally more densely packed, the  solder joints are smaller, and joint geometries are different from those in through- hole assemblies. One of the problems is the way surface mount components are held  in place during soldering. In through-hole assembly, the components are mechani- cally fastened in place by clinched leads. In SMT assembly, components are held by  solder paste or adhesive. At soldering temperatures this method of attachment is not  as secure, and components sometimes shift. Another problem with the smaller sizes  in SMT is a greater likelihood of solder bridges forming between adjacent leads,  resulting in short circuits.  
+
+Visual inspection is used to detect for board substrate damage, missing or damaged  components, soldering faults, and similar quality defects that can be observed by eye.  Machine vision systems are being used to perform these inspections automatically in  a growing number of installations.  
+
+Testing  Test procedures must be performed on the completed assembly to verify  its functionality. The board design must allow for this testing by including test points  in the circuit layout. These test points are convenient locations in the circuit where  probes can make contact for testing. Individual components in the circuit are tested  by contacting the component leads, applying input test signals, and measuring the  output signals. More sophisticated procedures include digital function tests, in which  the entire circuit or major subcircuits are tested using a programmed sequence of  input signals and measuring the corresponding output signals to simulate operating  conditions.  
+
+Another test used for printed circuit board assemblies is the substitution test,  in which a production unit is plugged into a mock-up of the working system and  energized to perform its functions. If the assembly performs in a satisfactory way, it  is deemed as passing the test. It is then unplugged, and the next production unit is  substituted in the mock-up.  
+
+Finally, a burn-in test is performed on certain types of PCB assemblies that may  be subject to “infant mortality.” Some boards contain defects that are not revealed in  normal functional tests but which are likely to cause failure of the circuit during early  service. Burn-in tests operate the assemblies under power for a certain period of time,  such as 24 or 72 hours, sometimes at elevated temperatures, such as $40^{\circ}\mathrm{C}$   $(100^{\circ}\mathrm{F})$ , to  force these defects to manifest their failures during the testing period. Boards not  subject to infant mortality will survive this test and provide long service life.  
+
+The smaller scale of SMT poses problems in circuit testing because less space is  available around each component. Contact probes must be physically smaller and  more probes are required because SMT assemblies are more densely populated.  One way of dealing with this issue is to design the circuit layout with extra lands  whose only purpose is to provide a test probe contact site. Unfortunately, including  these test lands runs counter to the goal of achieving higher packing densities on the  SMT board.  
+
+Rework  When inspection and testing indicate that one or more components on  the board are defective, or certain solder joints are faulty, it usually makes sense  to try to repair the assembly rather than discard it together with all of the other  components that are not defective. This repair step is an integral part of electronic  assembly plant operations. Common rework tasks include touchup (repair of solder  faults), replacement of defective or missing components, and repair of copper ﬁ  lm  that has lifted from the substrate surface. These tasks are manual operations, requir- ing skilled workers using soldering irons. Rework of surface-mount assemblies is  more difﬁ  cult than in conventional PIH assemblies, again because of the smaller  component sizes. Special tools are required, such as small-bit soldering irons, magni- fying devices, and instruments for grasping and manipulating the small parts.  
+
+#  Electrical Connector Technology  
+
+PCB assemblies must be connected to back planes, and into racks and cabinets, and  these cabinets must be connected to other cabinets and systems by means of cables.  The growing use of electronics in so many types of products has made electrical  connections an important technology. The performance of any electronic system  depends on the reliability of the individual connections linking the components of  the system together. This section is concerned with connector technology that is  usually applied at the third and higher levels of electronics packaging.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec34.txt,[ 0 . 8 4 3 3 5 9 6 0 1 2 9 2 1 3 4 ]
+Identify some of the advantages of surface mount technology over conventional through-hole technology.,"Answer. Advantages of SMT include: (1) smaller components, (2) higher packing densities, (3) components can be mounted on both sides of the board, (4) smaller PCBs are possible for the same function, (5) reduced number of holes drilled in the board, and (6) certain undesirable electrical effects are reduced, such as spurious surface capacitances and inductances.","Surface-mount technology (SMT) offers several advantages over conventional through-hole technology, which have contributed to its widespread adoption in various industries:
+
+1. **Increased Component Density**: SMT allows components to be mounted on both sides of a printed circuit board (PCB), effectively doubling the component density compared to through-hole technology. This capability is crucial for modern electronics, where space is often at a premium.
+
+2. **Smaller Component Size**: SMT components are generally smaller than their through-hole counterparts. This reduction in size not only increases the component density but also allows for the design of more compact and lightweight electronic devices, which is particularly beneficial in industries like consumer electronics, aerospace, and automotive.
+
+3. **Improved Electrical Performance**: The shorter leads and smaller size of SMT components can lead to better electrical performance, including reduced parasitic inductance and capacitance. This can enhance the overall performance of high-frequency circuits.
+
+4. **Automated Assembly**: SMT is well-suited for automated assembly processes, which can lead to higher production speeds and lower labor costs. Automated placement machines can handle the small and precise nature of SMT components more efficiently than manual assembly.
+
+5. **Cost Efficiency**: While the initial setup for SMT can be costly due to the need for specialized equipment, the overall production costs can be lower in high-volume manufacturing due to the reduced material usage (less lead material) and faster assembly times.
+
+6. **Versatility in Design**: The flexibility of SMT allows for more innovative and complex circuit designs. Designers can take advantage of the ability to place components on both sides of the PCB and the smaller component sizes to create more intricate and functional electronic products.
+
+These advantages make SMT a preferred choice in many modern electronic applications, despite some challenges related to handling, inspection, and the availability of certain components.","# Historical Note 34.2  Surface-mount technology  
+
+Printed circuit board assemblies based on through- hole technology were the predominant electronics  packaging method from the 1950s through most of the  1980s, when surface-mount technology (SMT) started  to be widely used.  
+
+SMT traces its origins to the electronic systems  in the aerospace and military industries of the 1960s,  with the IBM Corporation responsible for much of  the original development work. The ﬁ  rst components  were small, ﬂ  at ceramic packages with gull-wing  leads. The initial reason why these packages were  attrac  tive, compared with through-hole technology,  was the fact that they could be placed on both sides  of a printed circuit board—in effect, doubling the com- ponent density. In addition, the SMT package could be  made smaller than a comparable through-hole pack- age, further increasing component densities on the  printed circuit board.  
+
+In the early 1970s, further advances in SMT were  made in the form of leadless components—components  with ceramic packages that had no discrete leads. This  permitted even greater circuit densities in military and  aerospace electronics. In the late 1970s, plastic SMT  packages became available, motivating the widespread  use of surface-mount technology. The computer and  automotive industries have become important users of  SMT , and their demand for SMT components has con- tributed to the signiﬁ  cant growth in this technology.  
+
+Despite its advantages, SMT has not been fully adopted by the electronics industry to  the exclusion of through-hole technology. There are several reasons for this: (1) Owing  to their smaller size, surface mount components are more difﬁ  cult to handle and assem- ble by humans; (2) inspection, testing, and rework of the circuit assemblies are gener- ally more difﬁ  cult in SMT because of the smaller scale involved; and (3) certain types  of components are not available in surface-mount form. This ﬁ  nal limitation results in  some electronic assemblies that contain both surface-mount and leaded components.  
+
+The sequence of steps to produce assembled PCBs is basically the same in SMT and  through-hole technology: (1) place the components on the PCB, (2) solder the compo- nents to the PCB lands, (3) clean the assembly, (4) inspect, (5) test, and (6) rework. The  details of the ﬁ  rst two steps differ for SMT and through-hole technology. The ﬁ  nal four  steps are the same, except that the smaller scale of SMT makes inspection, testing, and  rework more challenging.  
+
+Component placement in SMT means correctly locating the component on the  PCB and afﬁ  xing it sufﬁ  ciently to the surface until soldering provides permanent  mechanical and electrical connections. Two alternative placement and soldering  
+
+![](images/5197909883fcd172541e96b042bef45c782ab92115dcb6f8e45278f222bc5919.jpg)  
+FIGURE 34.9  Solder paste and reﬂ  ow method: (1) apply solder paste to desired land areas, (2) place components  onto board, (3) bake paste, and (4) solder reﬂ  ow.  
+
+methods are available: (1) solder paste and reﬂ  ow soldering, and (2) adhesive bond- ing of components and wave soldering. It turns out that certain types of SMT compo- nents are more suited to one method whereas other types are more suited to the  other method.  
+
+Solder Paste and Reﬂ  ow Soldering   The steps in this method are described in  Figure 34.9. A solder paste is used to afﬁ  x components to the surface of the circuit  board. A  solder paste  is a suspension of solder powders in a ﬂ  ux binder. It has three  functions: (1) it is the solder—typically $80\%$  to $90\%$  of total paste volume, (2) it is  the ﬂ  ux, and (3) it is the adhesive that temporarily secures the components to the  surface of the board. Methods of applying the solder paste to the board surface  include screen printing and syringe dispensing.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec34.txt,[ 0 . 8 6 4 5 6 4 9 7 1 0 3 2 2 3 0 7 ]
+Identify some of the limitations and disadvantages of surface mount technology?,"Answer. Limitations and disadvantages of SMT include: (1) components are more difficult for humans to handle, (2) SMT components are generally more expensive than THT components, (3) inspection, testing, and rework are more difficult, and (4) certain types of components are not available in SMT.","Surface-mount technology (SMT) has several limitations and disadvantages despite its widespread adoption and advantages in increasing component density on printed circuit boards (PCBs). Here are some of the key limitations and disadvantages:
+
+1. **Handling and Assembly Challenges**: Due to their smaller size, surface mount components are more difficult to handle and assemble manually. This necessitates the use of automated equipment for placement, which can increase the initial setup costs and complexity of the manufacturing process.
+
+2. **Inspection and Testing Difficulties**: The smaller scale of SMT components makes inspection, testing, and rework more challenging compared to through-hole technology. Detecting defects or ensuring proper soldering can be more difficult, requiring advanced inspection techniques such as automated optical inspection (AOI) or X-ray inspection.
+
+3. **Rework Complexity**: Reworking SMT assemblies can be more complex and time-consuming due to the compact nature of the components and their proximity to each other. This can lead to increased labor costs and potential damage to the board or components during rework.
+
+4. **Component Availability**: Not all electronic components are available in surface-mount form. Some components, particularly those that require high power or mechanical strength, may still need to be used in their through-hole versions. This limitation often results in mixed-technology assemblies that incorporate both SMT and through-hole components, complicating the assembly process.
+
+5. **Thermal Management**: SMT components are often smaller and packed more densely, which can lead to challenges in thermal management. Efficient heat dissipation becomes critical to prevent overheating and ensure the reliability of the electronic assembly.
+
+6. **Initial Setup Costs**: The transition to SMT requires significant investment in new equipment and training for personnel. This includes pick-and-place machines, reflow ovens, and inspection systems, which can be a barrier for smaller manufacturers.
+
+Overall, while SMT offers significant advantages in terms of miniaturization and increased component density, these limitations must be carefully managed to ensure successful implementation in electronic manufacturing.","# Historical Note 34.2  Surface-mount technology  
+
+Printed circuit board assemblies based on through- hole technology were the predominant electronics  packaging method from the 1950s through most of the  1980s, when surface-mount technology (SMT) started  to be widely used.  
+
+SMT traces its origins to the electronic systems  in the aerospace and military industries of the 1960s,  with the IBM Corporation responsible for much of  the original development work. The ﬁ  rst components  were small, ﬂ  at ceramic packages with gull-wing  leads. The initial reason why these packages were  attrac  tive, compared with through-hole technology,  was the fact that they could be placed on both sides  of a printed circuit board—in effect, doubling the com- ponent density. In addition, the SMT package could be  made smaller than a comparable through-hole pack- age, further increasing component densities on the  printed circuit board.  
+
+In the early 1970s, further advances in SMT were  made in the form of leadless components—components  with ceramic packages that had no discrete leads. This  permitted even greater circuit densities in military and  aerospace electronics. In the late 1970s, plastic SMT  packages became available, motivating the widespread  use of surface-mount technology. The computer and  automotive industries have become important users of  SMT , and their demand for SMT components has con- tributed to the signiﬁ  cant growth in this technology.  
+
+Despite its advantages, SMT has not been fully adopted by the electronics industry to  the exclusion of through-hole technology. There are several reasons for this: (1) Owing  to their smaller size, surface mount components are more difﬁ  cult to handle and assem- ble by humans; (2) inspection, testing, and rework of the circuit assemblies are gener- ally more difﬁ  cult in SMT because of the smaller scale involved; and (3) certain types  of components are not available in surface-mount form. This ﬁ  nal limitation results in  some electronic assemblies that contain both surface-mount and leaded components.  
+
+The sequence of steps to produce assembled PCBs is basically the same in SMT and  through-hole technology: (1) place the components on the PCB, (2) solder the compo- nents to the PCB lands, (3) clean the assembly, (4) inspect, (5) test, and (6) rework. The  details of the ﬁ  rst two steps differ for SMT and through-hole technology. The ﬁ  nal four  steps are the same, except that the smaller scale of SMT makes inspection, testing, and  rework more challenging.  
+
+Component placement in SMT means correctly locating the component on the  PCB and afﬁ  xing it sufﬁ  ciently to the surface until soldering provides permanent  mechanical and electrical connections. Two alternative placement and soldering  
+
+![](images/5197909883fcd172541e96b042bef45c782ab92115dcb6f8e45278f222bc5919.jpg)  
+FIGURE 34.9  Solder paste and reﬂ  ow method: (1) apply solder paste to desired land areas, (2) place components  onto board, (3) bake paste, and (4) solder reﬂ  ow.  
+
+methods are available: (1) solder paste and reﬂ  ow soldering, and (2) adhesive bond- ing of components and wave soldering. It turns out that certain types of SMT compo- nents are more suited to one method whereas other types are more suited to the  other method.  
+
+Solder Paste and Reﬂ  ow Soldering   The steps in this method are described in  Figure 34.9. A solder paste is used to afﬁ  x components to the surface of the circuit  board. A  solder paste  is a suspension of solder powders in a ﬂ  ux binder. It has three  functions: (1) it is the solder—typically $80\%$  to $90\%$  of total paste volume, (2) it is  the ﬂ  ux, and (3) it is the adhesive that temporarily secures the components to the  surface of the board. Methods of applying the solder paste to the board surface  include screen printing and syringe dispensing.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec34.txt,[ 0 . 8 4 2 1 9 9 0 3 3 5 7 9 0 0 1 4 ]
+What are the two methods of component placement and soldering in surface mount technology?,"Answer. The two methods are: (1) adhesive bonding and wave soldering, and (2) solder paste and reflow soldering.","The two methods of component placement and soldering in surface mount technology (SMT) are:
+
+1. **Solder Paste and Reflow Soldering**: In this method, solder paste, which is a suspension of solder powders in a flux binder, is applied to the desired land areas on the printed circuit board (PCB). The solder paste serves three functions: it acts as the solder, the flux, and the adhesive to temporarily secure the components to the board. Components are then placed onto the board, and the assembly is baked to allow the paste to hold the components in place. Finally, the solder is melted in a reflow oven to create permanent mechanical and electrical connections.
+
+2. **Adhesive Bonding and Wave Soldering**: This method involves using an adhesive to bond components to the PCB temporarily. Once the components are secured, the assembly is passed through a wave soldering machine, where a wave of molten solder is applied to the underside of the board. This process solders the components to the board, creating the necessary electrical connections.
+
+Each method has its advantages and is suited to different types of SMT components, depending on factors such as component size and board design.","# Historical Note 34.2  Surface-mount technology  
+
+Printed circuit board assemblies based on through- hole technology were the predominant electronics  packaging method from the 1950s through most of the  1980s, when surface-mount technology (SMT) started  to be widely used.  
+
+SMT traces its origins to the electronic systems  in the aerospace and military industries of the 1960s,  with the IBM Corporation responsible for much of  the original development work. The ﬁ  rst components  were small, ﬂ  at ceramic packages with gull-wing  leads. The initial reason why these packages were  attrac  tive, compared with through-hole technology,  was the fact that they could be placed on both sides  of a printed circuit board—in effect, doubling the com- ponent density. In addition, the SMT package could be  made smaller than a comparable through-hole pack- age, further increasing component densities on the  printed circuit board.  
+
+In the early 1970s, further advances in SMT were  made in the form of leadless components—components  with ceramic packages that had no discrete leads. This  permitted even greater circuit densities in military and  aerospace electronics. In the late 1970s, plastic SMT  packages became available, motivating the widespread  use of surface-mount technology. The computer and  automotive industries have become important users of  SMT , and their demand for SMT components has con- tributed to the signiﬁ  cant growth in this technology.  
+
+Despite its advantages, SMT has not been fully adopted by the electronics industry to  the exclusion of through-hole technology. There are several reasons for this: (1) Owing  to their smaller size, surface mount components are more difﬁ  cult to handle and assem- ble by humans; (2) inspection, testing, and rework of the circuit assemblies are gener- ally more difﬁ  cult in SMT because of the smaller scale involved; and (3) certain types  of components are not available in surface-mount form. This ﬁ  nal limitation results in  some electronic assemblies that contain both surface-mount and leaded components.  
+
+The sequence of steps to produce assembled PCBs is basically the same in SMT and  through-hole technology: (1) place the components on the PCB, (2) solder the compo- nents to the PCB lands, (3) clean the assembly, (4) inspect, (5) test, and (6) rework. The  details of the ﬁ  rst two steps differ for SMT and through-hole technology. The ﬁ  nal four  steps are the same, except that the smaller scale of SMT makes inspection, testing, and  rework more challenging.  
+
+Component placement in SMT means correctly locating the component on the  PCB and afﬁ  xing it sufﬁ  ciently to the surface until soldering provides permanent  mechanical and electrical connections. Two alternative placement and soldering  
+
+![](images/5197909883fcd172541e96b042bef45c782ab92115dcb6f8e45278f222bc5919.jpg)  
+FIGURE 34.9  Solder paste and reﬂ  ow method: (1) apply solder paste to desired land areas, (2) place components  onto board, (3) bake paste, and (4) solder reﬂ  ow.  
+
+methods are available: (1) solder paste and reﬂ  ow soldering, and (2) adhesive bond- ing of components and wave soldering. It turns out that certain types of SMT compo- nents are more suited to one method whereas other types are more suited to the  other method.  
+
+Solder Paste and Reﬂ  ow Soldering   The steps in this method are described in  Figure 34.9. A solder paste is used to afﬁ  x components to the surface of the circuit  board. A  solder paste  is a suspension of solder powders in a ﬂ  ux binder. It has three  functions: (1) it is the solder—typically $80\%$  to $90\%$  of total paste volume, (2) it is  the ﬂ  ux, and (3) it is the adhesive that temporarily secures the components to the  surface of the board. Methods of applying the solder paste to the board surface  include screen printing and syringe dispensing.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec34.txt,[ 0 . 8 7 9 8 4 9 7 6 3 5 3 4 9 6 9 1 ]
+What is a solder paste?,Answer. A solder paste is a suspension of solder powders in a flux binder. The flux binder includes an adhesive that attaches the SMT components to the board surface. The solder constitutes about 85% of the total volume of the paste.,"A solder paste is a material used in surface mount technology (SMT) to affix components to the surface of a circuit board. It is a suspension of solder powders in a flux binder, serving three primary functions:
+
+1. **Solder**: The solder paste typically comprises 80% to 90% of the total paste volume, providing the necessary solder material to form electrical and mechanical connections between the component leads and the circuit board.
+
+2. **Flux**: The flux component of the solder paste helps clean the surfaces to be soldered by removing oxides and impurities, ensuring a good bond during the soldering process.
+
+3. **Adhesive**: The paste acts as a temporary adhesive to hold the components in place on the board surface until the soldering process is completed.
+
+The application of solder paste is typically done using methods such as screen printing or syringe dispensing. The paste must have properties that allow it to flow adequately for application but not be so liquid that it spreads beyond the intended area. After application and component placement, the solder paste undergoes a reflow soldering process, where it is heated to melt the solder particles, forming a high-quality joint between the components and the circuit board.","It turns out that certain types of SMT compo- nents are more suited to one method whereas other types are more suited to the  other method.  
+
+Solder Paste and Reﬂ  ow Soldering   The steps in this method are described in  Figure 34.9. A solder paste is used to afﬁ  x components to the surface of the circuit  board. A  solder paste  is a suspension of solder powders in a ﬂ  ux binder. It has three  functions: (1) it is the solder—typically $80\%$  to $90\%$  of total paste volume, (2) it is  the ﬂ  ux, and (3) it is the adhesive that temporarily secures the components to the  surface of the board. Methods of applying the solder paste to the board surface  include screen printing and syringe dispensing. Properties of the paste must be com- patible with these application methods; the paste must ﬂ  ow yet not be so liquid that  it spreads beyond the localized area where it is applied.  
+
+After solder paste application, the components are placed onto the board surface  by automated placement machines or semiautomatic placement machines. The auto- matic machines operate under computer numerical control (Section 37.3). Compo- nents (e.g., chip carriers, capacitors, resistors) to be placed are usually supplied in  magazines or attached to tape in reels that can be loaded into feeders on the auto- mated machines. The starting blank PCB is moved and positioned under the pick- and-place work head that places the components at speciﬁ  ed locations on the board  using a high-speed  $x$ - y  positioning system. The work head uses suction nozzles to  retrieve and handle components. Automated machines operate at cycle rates of up  to 30,000 components per hour [20]. For mass production, they are frequently inte- grated into production lines, so that most or all of the processes performed on the  board during assembly are completed in one automated sequence.  
+
+The semiautomatic machines assist a worker in the placement operation using a  high-resolution vision system. Components to be placed are presented to the opera- tor in the correct placement sequence by a turret mechanism, and then the operator  picks the component and is guided by the vision monitor to place it at the target  
+
+![](images/ed1b2c5b14d8525ab2f58a40ce83b20f0ef2c99980ccf030a9503d69f52d4939.jpg)  
+FIGURE 34.10  Adhesive bonding and wave soldering, shown here for a discrete capacitor or resistor component:  (1) adhesive is applied to areas on the board where components are to be placed; (2) components are placed onto  adhesive-coated areas; (3) adhesive is cured; and (4) solder joints are made by wave soldering.  
+
+location on the board. Cycle rates of 1,000 components per hour are claimed for  some semiautomatic machines [15].  
+
+After all components are placed on the board, a low-temperature baking opera- tion is performed to dry the ﬂ  ux binder; this reduces gas escape during soldering.  Finally, the solder reﬂ  ow process (Section 30.2.3) heats the solder paste sufﬁ  ciently  that the solder particles melt to form a high-quality mechanical and electrical joint  between the component leads and the circuit lands on the board.  
+
+Adhesive Bonding and Wave Soldering  The sequence of steps is depicted in  Figure 34.10. Various adhesives (Section 30.3) are used for afﬁ  xing components to  the board surface. Most common are epoxies and acrylics. The adhesive is applied by  one of three methods: (1) brushing liquid adhesive through a screen stencil; (2) using  an automatic dispensing machine with a programmable  $x$ - y  positioning system; or  (3) using a pin transfer method, in which a ﬁ  xture consisting of pins arranged accord- ing to where adhesive must be applied is dipped into the liquid adhesive and then  positioned onto the board surface to deposit adhesive in the required spots.  
+
+Components are placed on the board by the same type of placement machines used  with the solder paste assembly method. After component placement, the adhesive  is cured.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec34.txt,[ 0 . 8 7 0 3 0 8 3 6 7 0 0 8 6 3 7 2 ]
+Identify the two basic methods of making electrical connections.,"Answer. The two methods are: (1) soldering, and (2) pressure connections.","The two basic methods of making electrical connections are: (1) soldering and (2) pressure connections. Soldering involves using a filler metal to join components, creating a permanent bond, and is the most widely used technology in electronics. Pressure connections, on the other hand, use mechanical forces to establish electrical continuity between components and can be further divided into permanent and separable types.","These tasks are manual operations, requir- ing skilled workers using soldering irons. Rework of surface-mount assemblies is  more difﬁ  cult than in conventional PIH assemblies, again because of the smaller  component sizes. Special tools are required, such as small-bit soldering irons, magni- fying devices, and instruments for grasping and manipulating the small parts.  
+
+#  Electrical Connector Technology  
+
+PCB assemblies must be connected to back planes, and into racks and cabinets, and  these cabinets must be connected to other cabinets and systems by means of cables.  The growing use of electronics in so many types of products has made electrical  connections an important technology. The performance of any electronic system  depends on the reliability of the individual connections linking the components of  the system together. This section is concerned with connector technology that is  usually applied at the third and higher levels of electronics packaging.  
+
+To begin, there are two basic methods of making electrical connections: (1) solder- ing and (2) pressure connections. Soldering was discussed in Section 30.2 and through- out the current chapter. It is the most widely used technology in electronics.  Pressure  connections  are electrical connections in which mechanical forces are used to estab- lish electrical continuity between components. They can be divided into two types:  permanent and separable.  
+
+# 34.4.1  PERMANENT CONNECTIONS  
+
+A permanent connection involves high-pressure contact between two metal sur- faces, in which one or both parts are mechanically deformed during the assembly  process. Permanent connection methods include crimping, press ﬁ  t technology, and  insulation displacement.  
+
+Crimping of Connector Terminals  This connection method is used to assemble  wire to electrical terminals. Although assembly of the wire to the terminal forms a  permanent joint, the terminal itself is designed to be connected and disconnected  to its mating component. There are a variety of terminal styles, some of which are  shown in Figure 34.14, and they are available in various sizes. They all must be con- nected to conductor wire, and crimping is the operation for doing this.  Crimping involves the mechanical deformation of the terminal barrel to form a permanent  connection with the stripped end of a wire inserted into it. The crimping operation  squeezes and closes the barrel around the bare wire. Crimping is performed by hand  tools or crimping machines. The terminals are supplied either as individual pieces or  on long strips that can be fed into a crimping machine. Properly accomplished, the  crimped joint will have low electrical resistance and high mechanical strength.  
+
+![](images/a0162ab9790b9b011bd7f4e1b39b1bb39eeba4f0fe240ddb0446bc0b1c43dca1.jpg)  
+FIGURE 34.14  Some  of the terminal styles  available for making  separable electrical  connections: (a) slotted  tongue, (b) ring tongue,  and (c) ﬂ  anged spade.  
+
+![](images/af7354259293f73133e112608c2b9d10b29b1a3a6312f2bb81975229179e9344.jpg)  
+FIGURE 34.15  Two types of  terminal pins in electronics  press ﬁ  t technology: (a) solid  and (b) compliant.  
+
+Press Fit Technology  Press ﬁ  t in electrical connections is similar to that in mechani- cal assembly, but the part conﬁ  gurations are different. Press ﬁ  t technology is widely  used in the electronics industry to assemble terminal pins into metal-plated through- holes in large PCBs. In that context, a  press ﬁ  t  involves an interference ﬁ  t between  the terminal pin and the plated hole into which it has been inserted. There are two  categories of terminal pins: (a) solid and (b) compliant, as in Figure 34.15. Within these  categories, pin designs vary among suppliers. The solid pin is rectangular in cross sec- tion and is designed so that its corners press and even cut into the metal of the plated  hole to form a good electrical connection. The compliant pin is designed as a spring- loaded device that conforms to the hole contour but presses against the walls of the  hole to achieve electrical contact.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec34.txt,[ 0 . 8 4 3 9 4 8 3 6 0 1 2 3 9 8 1 ]
+Define crimping in the context of electrical connections?,Answer. Crimping involves the mechanical forming of a terminal barrel to form a permanent connection with the stripped end of a conductor wire.,"Crimping in the context of electrical connections is a method used to create a permanent joint between a wire and an electrical terminal. This process involves the mechanical deformation of the terminal's barrel to securely enclose the stripped end of a wire inserted into it. The crimping operation is performed using hand tools or crimping machines, which squeeze and close the barrel around the bare wire. This results in a connection that has low electrical resistance and high mechanical strength. The terminals used in crimping can be supplied as individual pieces or on long strips that are fed into a crimping machine. Properly executed, crimping ensures a reliable and durable electrical connection, making it a widely used technique in assembling wire to electrical terminals.","These tasks are manual operations, requir- ing skilled workers using soldering irons. Rework of surface-mount assemblies is  more difﬁ  cult than in conventional PIH assemblies, again because of the smaller  component sizes. Special tools are required, such as small-bit soldering irons, magni- fying devices, and instruments for grasping and manipulating the small parts.  
+
+#  Electrical Connector Technology  
+
+PCB assemblies must be connected to back planes, and into racks and cabinets, and  these cabinets must be connected to other cabinets and systems by means of cables.  The growing use of electronics in so many types of products has made electrical  connections an important technology. The performance of any electronic system  depends on the reliability of the individual connections linking the components of  the system together. This section is concerned with connector technology that is  usually applied at the third and higher levels of electronics packaging.  
+
+To begin, there are two basic methods of making electrical connections: (1) solder- ing and (2) pressure connections. Soldering was discussed in Section 30.2 and through- out the current chapter. It is the most widely used technology in electronics.  Pressure  connections  are electrical connections in which mechanical forces are used to estab- lish electrical continuity between components. They can be divided into two types:  permanent and separable.  
+
+# 34.4.1  PERMANENT CONNECTIONS  
+
+A permanent connection involves high-pressure contact between two metal sur- faces, in which one or both parts are mechanically deformed during the assembly  process. Permanent connection methods include crimping, press ﬁ  t technology, and  insulation displacement.  
+
+Crimping of Connector Terminals  This connection method is used to assemble  wire to electrical terminals. Although assembly of the wire to the terminal forms a  permanent joint, the terminal itself is designed to be connected and disconnected  to its mating component. There are a variety of terminal styles, some of which are  shown in Figure 34.14, and they are available in various sizes. They all must be con- nected to conductor wire, and crimping is the operation for doing this.  Crimping involves the mechanical deformation of the terminal barrel to form a permanent  connection with the stripped end of a wire inserted into it. The crimping operation  squeezes and closes the barrel around the bare wire. Crimping is performed by hand  tools or crimping machines. The terminals are supplied either as individual pieces or  on long strips that can be fed into a crimping machine. Properly accomplished, the  crimped joint will have low electrical resistance and high mechanical strength.  
+
+![](images/a0162ab9790b9b011bd7f4e1b39b1bb39eeba4f0fe240ddb0446bc0b1c43dca1.jpg)  
+FIGURE 34.14  Some  of the terminal styles  available for making  separable electrical  connections: (a) slotted  tongue, (b) ring tongue,  and (c) ﬂ  anged spade.  
+
+![](images/af7354259293f73133e112608c2b9d10b29b1a3a6312f2bb81975229179e9344.jpg)  
+FIGURE 34.15  Two types of  terminal pins in electronics  press ﬁ  t technology: (a) solid  and (b) compliant.  
+
+Press Fit Technology  Press ﬁ  t in electrical connections is similar to that in mechani- cal assembly, but the part conﬁ  gurations are different. Press ﬁ  t technology is widely  used in the electronics industry to assemble terminal pins into metal-plated through- holes in large PCBs. In that context, a  press ﬁ  t  involves an interference ﬁ  t between  the terminal pin and the plated hole into which it has been inserted. There are two  categories of terminal pins: (a) solid and (b) compliant, as in Figure 34.15. Within these  categories, pin designs vary among suppliers. The solid pin is rectangular in cross sec- tion and is designed so that its corners press and even cut into the metal of the plated  hole to form a good electrical connection. The compliant pin is designed as a spring- loaded device that conforms to the hole contour but presses against the walls of the  hole to achieve electrical contact.",/Users/zihan/Desktop/Manufacturing_QA/1Book/3Book_txt_images/sec34.txt,[ 0 . 8 6 1 1 9 5 6 4 5 3 7 5 7 5 5 2 ]
